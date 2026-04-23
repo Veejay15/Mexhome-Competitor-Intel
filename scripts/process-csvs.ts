@@ -104,6 +104,10 @@ async function processFromManifest(
       console.log(`  Downloading ${entry.filename} from Blob...`);
       const content = await fetchBlob(entry.blobUrl);
       const s = summarizeCsvContent(content, entry.filename, competitors);
+      // Prefer the explicit competitor and type from the manifest (set by the
+      // user at upload time) over any inference based on filename
+      if (entry.competitorId) s.competitorId = entry.competitorId;
+      if (entry.type) s.type = entry.type;
       console.log(
         `  ${entry.filename}: ${s.rowCount} rows (type=${s.type}, competitor=${s.competitorId})`
       );

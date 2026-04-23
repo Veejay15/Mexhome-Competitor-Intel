@@ -13,6 +13,21 @@ export const maxDuration = 60;
 
 const MAX_BYTES = 50 * 1024 * 1024;
 
+interface UploadClientPayload {
+  competitorId?: string;
+  type?: string;
+  size?: number;
+}
+
+function parseClientPayload(payload: string | null | undefined): UploadClientPayload {
+  if (!payload) return {};
+  try {
+    return JSON.parse(payload) as UploadClientPayload;
+  } catch {
+    return {};
+  }
+}
+
 export async function POST(req: NextRequest) {
   if (!process.env.BLOB_READ_WRITE_TOKEN) {
     return NextResponse.json(
@@ -25,10 +40,7 @@ export async function POST(req: NextRequest) {
   }
 
   if (!(await isAuthenticated())) {
-    return NextResponse.json(
-      { error: 'Not authenticated' },
-      { status: 401 }
-    );
+    return NextResponse.json({ error: 'Not authenticated' }, { status: 401 });
   }
 
   let body: HandleUploadBody;
@@ -45,7 +57,7 @@ export async function POST(req: NextRequest) {
     const jsonResponse = await handleUpload({
       body,
       request: req,
-      onBeforeGenerateToken: async (pathname) => {
+      onBeforeGenerateToken: async (pathname, clientPayload) => {
         const parts = pathname.split('/');
         if (
           parts.length !== 3 ||
@@ -66,45 +78,57 @@ export async function POST(req: NextRequest) {
           ],
           maximumSizeInBytes: MAX_BYTES,
           addRandomSuffix: true,
+          // Pass the client payload through so it's available in onUploadCompleted
+          tokenPayload: clientPayload || '',
         };
       },
-      onUploadCompleted: async ({ blob }) => {
-        // Rather than pulling the file into GitHub (slow, timeout-prone for
-        // large files), just record its Blob URL in a manifest.json. The
-        // workflow reads the manifest and downloads each file directly from
-        // Blob storage at run time.
-        if (!isGithubConfigured()) return;
+      onUploadCompleted: async ({ blob, tokenPayload }) => {
+        if (!isGithubConfigured()) {
+          console.error('[upload] GitHub not configured, skipping manifest commit');
+          return;
+        }
 
-        const parts = blob.pathname.split('/');
-        if (parts.length < 3) return;
-        const date = parts[1];
-        // Strip Vercel's random suffix for the display filename
-        const filename = parts[2].replace(/-[a-zA-Z0-9]+(\.csv)$/i, '$1');
+        try {
+          const parts = blob.pathname.split('/');
+          if (parts.length < 3) {
+            console.error('[upload] Unexpected blob.pathname format:', blob.pathname);
+            return;
+          }
+          const date = parts[1];
+          const filename = parts[2].replace(/-[a-zA-Z0-9]+(\.csv)$/i, '$1');
 
-        const entry: CsvManifestEntry = {
-          filename,
-          blobUrl: blob.url,
-          uploadedAt: new Date().toISOString(),
-          size: 0,
-        };
+          const payload = parseClientPayload(tokenPayload);
+          const entry: CsvManifestEntry = {
+            filename,
+            blobUrl: blob.url,
+            uploadedAt: new Date().toISOString(),
+            size: payload.size || 0,
+            competitorId: payload.competitorId,
+            type: payload.type,
+          };
 
-        // Read existing manifest (if any) and merge
-        const existing = await readCsvManifestFromRepo(date);
-        const manifest: CsvManifest = existing || { date, files: [] };
+          console.log(
+            `[upload] Adding to manifest for ${date}: ${filename} (competitor=${payload.competitorId}, type=${payload.type})`
+          );
 
-        // Replace any previous entry with the same filename
-        manifest.files = manifest.files.filter((f) => f.filename !== filename);
-        manifest.files.push(entry);
+          const existing = await readCsvManifestFromRepo(date);
+          const manifest: CsvManifest = existing || { date, files: [] };
+          manifest.files = manifest.files.filter((f) => f.filename !== filename);
+          manifest.files.push(entry);
 
-        await commitCsvManifest(date, manifest, `Upload CSV: ${filename}`);
+          await commitCsvManifest(date, manifest, `Upload CSV: ${filename}`);
+          console.log(`[upload] Manifest committed for ${filename}`);
+        } catch (err) {
+          // Critical: log so we can see in Vercel logs why uploads silently fail
+          console.error(`[upload] onUploadCompleted error:`, err);
+          throw err;
+        }
       },
     });
 
     return NextResponse.json(jsonResponse);
   } catch (err) {
-    return NextResponse.json(
-      { error: (err as Error).message },
-      { status: 400 }
-    );
+    console.error('[upload] handleUpload failed:', err);
+    return NextResponse.json({ error: (err as Error).message }, { status: 400 });
   }
 }

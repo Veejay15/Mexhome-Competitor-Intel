@@ -49,6 +49,8 @@ export interface CsvManifestEntry {
   blobUrl: string;
   uploadedAt: string;
   size: number;
+  competitorId?: string; // explicitly set by user at upload time
+  type?: string; // backlinks / positions / keywords / pages / unknown
 }
 
 export interface CsvManifest {
