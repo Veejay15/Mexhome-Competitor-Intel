@@ -1,10 +1,10 @@
 {
   "competitors": [
     {
-      "id": "puntamitarealestate",
-      "name": "Punta Mita Real Estate",
-      "domain": "puntamitarealestate.com",
-      "sitemapUrl": "https://www.puntamitarealestate.com/sitemap.xml",
+      "id": "topmexicorealestate",
+      "name": "Top Mexico Real Estate",
+      "domain": "topmexicorealestate.com",
+      "sitemapUrl": "https://www.topmexicorealestate.com/sitemap.xml",
       "addedAt": "2026-04-23",
       "active": true
     },
