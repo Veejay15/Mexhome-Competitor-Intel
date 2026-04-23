@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
+import { HelpCircle } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 const links = [
@@ -31,7 +32,7 @@ export function Nav() {
             Competitor Intel
           </span>
         </Link>
-        <div className="flex gap-1">
+        <div className="flex items-center gap-1">
           {links.map((l) => {
             const active =
               l.href === '/' ? pathname === '/' : pathname.startsWith(l.href);
@@ -50,6 +51,16 @@ export function Nav() {
               </Link>
             );
           })}
+          <a
+            href="/help"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="How to use this tool (opens in new tab)"
+            className="ml-2 p-1.5 text-slate-500 hover:text-slate-900 hover:bg-slate-100 rounded-md transition-colors"
+            aria-label="Help"
+          >
+            <HelpCircle size={18} />
+          </a>
         </div>
       </div>
     </nav>

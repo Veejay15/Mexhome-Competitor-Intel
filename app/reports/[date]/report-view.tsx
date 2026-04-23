@@ -23,18 +23,49 @@ export function ReportView({ date, markdown }: Props) {
     if (!reportRef.current) return;
     setDownloading(true);
     try {
-      const html2pdf = (await import('html2pdf.js')).default;
+      const [{ default: html2canvas }, { default: jsPDF }] = await Promise.all([
+        import('html2canvas-pro'),
+        import('jspdf'),
+      ]);
+
       const filename = `mexhome-competitor-report-${date}.pdf`;
-      const options = {
-        margin: [0.6, 0.6, 0.7, 0.6],
-        filename,
-        image: { type: 'jpeg', quality: 0.98 },
-        html2canvas: { scale: 2, useCORS: true, letterRendering: true },
-        jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' },
-        pagebreak: { mode: ['css', 'legacy'] },
-      };
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      await html2pdf().set(options as any).from(reportRef.current).save();
+      const element = reportRef.current;
+
+      const canvas = await html2canvas(element, {
+        scale: 2,
+        useCORS: true,
+        backgroundColor: '#ffffff',
+        logging: false,
+      });
+
+      const imgData = canvas.toDataURL('image/png');
+      const pdf = new jsPDF({
+        unit: 'pt',
+        format: 'letter',
+        orientation: 'portrait',
+      });
+
+      const pageWidth = pdf.internal.pageSize.getWidth();
+      const pageHeight = pdf.internal.pageSize.getHeight();
+      const margin = 36; // 0.5 inch
+      const usableWidth = pageWidth - margin * 2;
+      const imgWidth = usableWidth;
+      const imgHeight = (canvas.height * imgWidth) / canvas.width;
+
+      let heightLeft = imgHeight;
+      let position = margin;
+
+      pdf.addImage(imgData, 'PNG', margin, position, imgWidth, imgHeight, undefined, 'FAST');
+      heightLeft -= pageHeight - margin * 2;
+
+      while (heightLeft > 0) {
+        position = heightLeft - imgHeight + margin;
+        pdf.addPage();
+        pdf.addImage(imgData, 'PNG', margin, position, imgWidth, imgHeight, undefined, 'FAST');
+        heightLeft -= pageHeight - margin * 2;
+      }
+
+      pdf.save(filename);
     } catch (err) {
       alert(`Failed to generate PDF: ${(err as Error).message}`);
     } finally {
