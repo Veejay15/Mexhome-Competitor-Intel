@@ -34,31 +34,38 @@ export function UploadClient({ competitors }: Props) {
 
     for (let i = 0; i < arr.length; i++) {
       const f = arr[i];
-      const reader = new FileReader();
-      const dataUrl = await new Promise<string>((resolve) => {
-        reader.onload = () => resolve(reader.result as string);
-        reader.readAsDataURL(f);
-      });
-      const base64 = dataUrl.split(',')[1];
-
       try {
+        const formData = new FormData();
+        formData.append('file', f);
+        formData.append('date', today);
+
         const res = await fetch('/api/upload', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            filename: f.name,
-            contentBase64: base64,
-            date: today,
-          }),
+          body: formData,
         });
-        const json = await res.json();
+
+        let message: string | undefined;
+        let ok = res.ok;
+        try {
+          const json = await res.json();
+          message = ok ? json.path : json.error;
+        } catch {
+          // Response wasn't JSON (e.g., Vercel returned a plain-text 413)
+          ok = false;
+          if (res.status === 413) {
+            message = `File too large for upload (${(f.size / 1024 / 1024).toFixed(2)}MB). Try filtering the SEMrush export to last 7 days only.`;
+          } else {
+            message = `Upload failed (status ${res.status}). Try a smaller file.`;
+          }
+        }
+
         setFiles((prev) =>
           prev.map((p, idx) =>
             idx === i
               ? {
                   filename: f.name,
-                  status: res.ok ? 'success' : 'error',
-                  message: res.ok ? json.path : json.error,
+                  status: ok ? 'success' : 'error',
+                  message,
                 }
               : p
           )

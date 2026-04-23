@@ -4,38 +4,64 @@ import path from 'path';
 import { requireAuth } from '@/lib/auth';
 import { isGithubConfigured, uploadDataFile } from '@/lib/github';
 
+// Cap at ~4MB raw to stay under Vercel's 4.5MB body limit with multipart overhead.
+const MAX_FILE_BYTES = 4 * 1024 * 1024;
+
 export async function POST(req: NextRequest) {
   const authError = await requireAuth();
   if (authError) return authError;
 
-  const body = await req.json();
-  const { filename, contentBase64, date } = body;
+  let file: File | null = null;
+  let date: string | null = null;
 
-  if (!filename || !contentBase64 || !date) {
+  try {
+    const formData = await req.formData();
+    const fileEntry = formData.get('file');
+    file = fileEntry instanceof File ? fileEntry : null;
+    date = (formData.get('date') as string) || null;
+  } catch (err) {
     return NextResponse.json(
-      { error: 'filename, contentBase64, and date are required' },
+      { error: `Could not read upload: ${(err as Error).message}` },
       { status: 400 }
     );
   }
 
-  if (!filename.toLowerCase().endsWith('.csv')) {
+  if (!file || !date) {
+    return NextResponse.json(
+      { error: 'file and date are required' },
+      { status: 400 }
+    );
+  }
+
+  if (!file.name.toLowerCase().endsWith('.csv')) {
     return NextResponse.json(
       { error: 'Only .csv files are allowed' },
       { status: 400 }
     );
   }
 
-  const safeFilename = filename.replace(/[^a-zA-Z0-9._-]/g, '_');
+  if (file.size > MAX_FILE_BYTES) {
+    const sizeMb = (file.size / 1024 / 1024).toFixed(2);
+    return NextResponse.json(
+      {
+        error: `File is ${sizeMb}MB, which exceeds the 4MB upload limit. Try filtering the SEMrush export (e.g., last 7 days only) or splitting it into smaller files.`,
+      },
+      { status: 413 }
+    );
+  }
+
+  const safeFilename = file.name.replace(/[^a-zA-Z0-9._-]/g, '_');
   const repoPath = `data/csv/${date}/${safeFilename}`;
 
   try {
+    const arrayBuffer = await file.arrayBuffer();
     if (isGithubConfigured()) {
+      const contentBase64 = Buffer.from(arrayBuffer).toString('base64');
       await uploadDataFile(repoPath, contentBase64, `Upload CSV: ${safeFilename}`);
     } else {
       const dir = path.join(process.cwd(), 'data', 'csv', date);
       fs.mkdirSync(dir, { recursive: true });
-      const buf = Buffer.from(contentBase64, 'base64');
-      fs.writeFileSync(path.join(dir, safeFilename), buf);
+      fs.writeFileSync(path.join(dir, safeFilename), Buffer.from(arrayBuffer));
     }
   } catch (err) {
     return NextResponse.json(
@@ -46,3 +72,6 @@ export async function POST(req: NextRequest) {
 
   return NextResponse.json({ ok: true, path: repoPath });
 }
+
+// Tell Next.js this route handles binary uploads
+export const runtime = 'nodejs';
