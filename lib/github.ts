@@ -124,6 +124,27 @@ export async function getWorkflowRun(runId: number): Promise<WorkflowRunInfo> {
   };
 }
 
+export async function deleteRepoFile(filePath: string, message: string): Promise<void> {
+  const octokit = client();
+  const existing = await octokit.repos.getContent({
+    owner,
+    repo,
+    path: filePath,
+    ref: branch,
+  });
+  if (!('sha' in existing.data)) {
+    throw new Error('File not found');
+  }
+  await octokit.repos.deleteFile({
+    owner,
+    repo,
+    path: filePath,
+    message,
+    sha: existing.data.sha,
+    branch,
+  });
+}
+
 export async function uploadDataFile(
   filePath: string,
   contentBase64: string,

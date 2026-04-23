@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { listReports } from '@/lib/reports';
-import { formatDate } from '@/lib/utils';
+import { ReportsList } from './reports-list';
 
 export const dynamic = 'force-dynamic';
 
@@ -27,28 +27,7 @@ export default function ReportsPage() {
           </p>
         </div>
       ) : (
-        <ul className="space-y-3">
-          {reports.map((r) => (
-            <li key={r.date}>
-              <Link
-                href={`/reports/${r.date}`}
-                className="block bg-white rounded-lg border border-slate-200 p-5 hover:border-slate-400 transition-colors"
-              >
-                <div className="flex justify-between items-start gap-4">
-                  <div className="flex-1">
-                    <h2 className="font-semibold text-slate-900">{r.title}</h2>
-                    {r.excerpt ? (
-                      <p className="text-sm text-slate-600 mt-1.5">{r.excerpt}</p>
-                    ) : null}
-                  </div>
-                  <span className="text-xs text-slate-500 whitespace-nowrap">
-                    {formatDate(r.date)}
-                  </span>
-                </div>
-              </Link>
-            </li>
-          ))}
-        </ul>
+        <ReportsList initial={reports} />
       )}
     </div>
   );

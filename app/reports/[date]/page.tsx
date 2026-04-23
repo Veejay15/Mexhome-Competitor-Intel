@@ -1,10 +1,9 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm';
 import { readReport } from '@/lib/reports';
 import { formatDate } from '@/lib/utils';
 import { ArrowLeft } from 'lucide-react';
+import { ReportView } from './report-view';
 
 export const dynamic = 'force-dynamic';
 
@@ -30,9 +29,7 @@ export default async function ReportDetailPage({ params }: Props) {
       <p className="text-xs text-slate-500">
         Report dated {formatDate(date)}
       </p>
-      <article className="prose-report bg-white rounded-lg border border-slate-200 p-8">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>{markdown}</ReactMarkdown>
-      </article>
+      <ReportView date={date} markdown={markdown} />
     </div>
   );
 }
