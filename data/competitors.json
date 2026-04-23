@@ -1,14 +1,6 @@
 {
   "competitors": [
     {
-      "id": "puntamitarealestate",
-      "name": "Punta Mita Real Estate",
-      "domain": "puntamitarealestate.com",
-      "sitemapUrl": "https://www.puntamitarealestate.com/sitemap.xml",
-      "addedAt": "2026-04-23",
-      "active": true
-    },
-    {
       "id": "vallartarealestateguide",
       "name": "Vallarta Real Estate Guide",
       "domain": "vallartarealestateguide.com",
