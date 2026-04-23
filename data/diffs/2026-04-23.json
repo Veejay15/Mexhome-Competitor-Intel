@@ -1,5 +1,12 @@
 {
   "date": "2026-04-23",
   "previousDate": null,
-  "diffs": []
+  "diffs": [
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    }
+  ]
 }
