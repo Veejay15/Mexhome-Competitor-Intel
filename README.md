@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MexHome Competitor Intelligence
 
-## Getting Started
+A weekly competitor intelligence tool for MexHome, built on Next.js + GitHub Actions + Claude API.
 
-First, run the development server:
+## What It Does
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- Tracks 5+ Mexico real estate competitor websites
+- Each week, fetches their sitemaps and detects new pages built
+- Ingests SEMrush CSV exports for backlinks and keyword changes
+- Uses Claude to generate a written weekly intelligence report
+- Reports are committed to the repo and viewable in a Next.js dashboard
+- Hosted free on Vercel Hobby + GitHub Actions
+
+## Architecture
+
+```
+GitHub Repo (this) ──► GitHub Actions (weekly cron, generates report)
+       │                            │
+       │                            ▼
+       │                   reports/2026-04-30.md (committed back)
+       │
+       └──► Vercel (auto-deploys, serves dashboard at mexhome-intel.vercel.app)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Local Development
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
+cp .env.example .env.local
+# Fill in ANTHROPIC_API_KEY and GITHUB_TOKEN at minimum
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open http://localhost:3000
 
-## Learn More
+## Weekly Workflow
 
-To learn more about Next.js, take a look at the following resources:
+1. **Export SEMrush CSVs** for each competitor (backlinks, position changes). Drop them in `data/csv/YYYY-MM-DD/`
+2. **Wait for the Monday cron** (or trigger manually from `/run-report`)
+3. **GitHub Actions runs:**
+   - Fetches each competitor's sitemap
+   - Diffs against last week's sitemap
+   - Reads the uploaded CSVs
+   - Calls Claude to write the report
+   - Commits the report to `reports/YYYY-MM-DD.md`
+4. **View the report** at `/reports/latest` on the deployed dashboard
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Push this repo to GitHub
+2. Connect the repo at vercel.com (free Hobby tier)
+3. Add environment variables in Vercel: `ANTHROPIC_API_KEY`, `GITHUB_TOKEN`, `GITHUB_OWNER`, `GITHUB_REPO`, `ADMIN_PASSWORD`
+4. Add the same secrets to GitHub: Settings → Secrets and variables → Actions
 
-## Deploy on Vercel
+## Project Structure
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+mexhome-competitor-intel/
+├── app/                          Next.js App Router pages
+│   ├── page.tsx                  Dashboard
+│   ├── competitors/              Manage competitors
+│   ├── reports/                  View reports
+│   ├── upload/                   Upload SEMrush CSVs
+│   └── api/                      API routes
+├── data/
+│   ├── competitors.json          List of tracked competitors
+│   ├── sitemaps/                 Weekly sitemap snapshots (auto)
+│   └── csv/                      Weekly SEMrush exports (manual)
+├── reports/                      Generated weekly reports (auto)
+├── scripts/                      Node scripts run by GitHub Actions
+│   ├── fetch-sitemaps.ts
+│   ├── process-csvs.ts
+│   └── generate-report.ts
+├── lib/                          Shared utilities
+└── .github/workflows/            GitHub Actions cron
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Costs
+
+- Vercel Hobby: Free
+- GitHub: Free
+- GitHub Actions: Free (2,000 min/month, we use ~40)
+- Anthropic API: Roughly $5–15/month based on report frequency
+- Total: ~$5–15/month

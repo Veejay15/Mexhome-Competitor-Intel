@@ -1,0 +1,44 @@
+{
+  "competitors": [
+    {
+      "id": "topmexicorealestate",
+      "name": "Top Mexico Real Estate",
+      "domain": "topmexicorealestate.com",
+      "sitemapUrl": "https://www.topmexicorealestate.com/sitemap.xml",
+      "addedAt": "2026-04-23",
+      "active": true
+    },
+    {
+      "id": "mexicosothebysrealty",
+      "name": "Mexico Sotheby's International Realty",
+      "domain": "mexicosothebysrealty.com",
+      "sitemapUrl": "https://www.mexicosothebysrealty.com/sitemap.xml",
+      "addedAt": "2026-04-23",
+      "active": true
+    },
+    {
+      "id": "puntamitarealestate",
+      "name": "Punta Mita Real Estate",
+      "domain": "puntamitarealestate.com",
+      "sitemapUrl": "https://www.puntamitarealestate.com/sitemap.xml",
+      "addedAt": "2026-04-23",
+      "active": true
+    },
+    {
+      "id": "vallartarealestateguide",
+      "name": "Vallarta Real Estate Guide",
+      "domain": "vallartarealestateguide.com",
+      "sitemapUrl": "https://vallartarealestateguide.com/sitemap.xml",
+      "addedAt": "2026-04-23",
+      "active": true
+    },
+    {
+      "id": "tropicasa",
+      "name": "Tropicasa Realty",
+      "domain": "tropicasa.com",
+      "sitemapUrl": "https://www.tropicasa.com/sitemap.xml",
+      "addedAt": "2026-04-23",
+      "active": true
+    }
+  ]
+}
