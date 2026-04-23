@@ -21,6 +21,19 @@ export default function HelpPage() {
         </p>
       </header>
 
+      <div className="bg-slate-50 border border-slate-200 rounded-lg p-4 text-sm text-slate-700">
+        <p>
+          <span className="font-semibold text-slate-900">Sign-in:</span> You sign
+          in once with your password on the{' '}
+          <Link href="/login" className="text-blue-600 hover:underline">
+            Sign In
+          </Link>{' '}
+          page and stay signed in for 7 days. After that, you can do everything
+          below without entering the password again. Use the sign-out button
+          (top right of the navigation bar) when you&apos;re done.
+        </p>
+      </div>
+
       <div className="space-y-6">
         <Step
           number={1}
@@ -49,8 +62,8 @@ export default function HelpPage() {
                 desc: 'Click the red trash icon. This removes them permanently from future reports.',
               },
               {
-                term: 'Admin Password',
-                desc: 'You must enter the admin password before adding, removing, or toggling competitors.',
+                term: 'How Many to Track',
+                desc: 'Around 5 competitors is a good starting point. You can add or remove anytime.',
               },
             ]}
           />
@@ -119,10 +132,6 @@ export default function HelpPage() {
           <DefList
             items={[
               {
-                term: 'Enter Admin Password',
-                desc: 'Required before any uploads.',
-              },
-              {
                 term: 'Drag and Drop',
                 desc: 'Drop all your CSV files into the upload area at once. Multiple files are supported.',
               },
@@ -145,7 +154,7 @@ export default function HelpPage() {
         <Step
           number={4}
           title="Run the Weekly Report"
-          description="Generate the AI intelligence report on demand, or wait for the automatic Monday morning run."
+          description="Generate the AI intelligence report on demand, or let it run automatically on schedule."
         >
           <p>
             Go to the{' '}
@@ -158,19 +167,19 @@ export default function HelpPage() {
             items={[
               {
                 term: 'Manual Trigger',
-                desc: 'Enter admin password and click "Run weekly report now". A live progress tracker shows each phase.',
+                desc: 'Click "Run weekly report now". A live progress tracker shows each phase as the report is generated.',
               },
               {
                 term: 'Automatic Schedule',
-                desc: 'A new report runs automatically every Monday at 9 AM UTC. No action needed from you.',
+                desc: 'When enabled in Settings (see Step 6), reports run every Monday at 9:00 AM UTC. No action needed from you.',
               },
               {
                 term: 'Phases You\'ll See',
-                desc: 'Starting analysis → Scanning competitor websites → Comparing against last week → Reading SEMrush data → Generating intelligence report.',
+                desc: 'Starting analysis → Scanning competitor websites → Comparing against last week → Reading SEMrush data → Generating intelligence report → Publishing report.',
               },
               {
                 term: 'Total Time',
-                desc: 'Typically 1 to 3 minutes from start to finish.',
+                desc: 'Typically 1 to 3 minutes from start to finish. The "Report ready" message only appears once the report is fully published and visible in the Reports tab.',
               },
             ]}
           />
@@ -196,11 +205,41 @@ export default function HelpPage() {
               },
               {
                 term: 'Download as PDF',
-                desc: 'On any report detail page, click "Download PDF" to save a polished, ready-to-share PDF file.',
+                desc: 'On any report detail page, click "Download PDF" to save a polished, ready-to-share PDF file. The download starts immediately.',
               },
               {
                 term: 'Delete Report',
-                desc: 'Click the trash icon (admin password required). This permanently removes the report and cannot be undone.',
+                desc: 'Click the trash icon and confirm. This permanently removes the report and cannot be undone.',
+              },
+            ]}
+          />
+        </Step>
+
+        <Step
+          number={6}
+          title="Settings: Choose How Reports Run"
+          description="Decide whether reports run automatically or only when you trigger them manually."
+        >
+          <p>
+            Visit the{' '}
+            <Link href="/settings" className="text-blue-600 hover:underline">
+              Settings
+            </Link>{' '}
+            page to change how the weekly report is scheduled.
+          </p>
+          <DefList
+            items={[
+              {
+                term: 'Run Automatically',
+                desc: 'Reports run on schedule every Monday at 9:00 AM UTC. You can also still trigger reports manually any time.',
+              },
+              {
+                term: 'Manual Only',
+                desc: "The Monday auto-run is disabled. Reports only run when you click 'Run weekly report' on the Run Report page.",
+              },
+              {
+                term: 'How to Switch',
+                desc: 'Just click the option you want. The setting saves instantly.',
               },
             ]}
           />
