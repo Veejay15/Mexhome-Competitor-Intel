@@ -20,7 +20,7 @@ async function getLiveCompetitors(): Promise<Competitor[]> {
 
 export default async function Home() {
   const competitors = await getLiveCompetitors();
-  const reports = listReports();
+  const reports = await listReports();
   const latest = reports[0];
 
   return (

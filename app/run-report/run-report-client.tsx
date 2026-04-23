@@ -224,10 +224,13 @@ export function RunReportClient() {
   const [triggering, setTriggering] = useState(false);
   const [elapsed, setElapsed] = useState(0);
   const [error, setError] = useState<string | null>(null);
+  const [reportPublished, setReportPublished] = useState(false);
+  const [verifying, setVerifying] = useState(false);
 
   const isRunning = !!run && run.status !== 'completed';
   const isComplete = !!run && run.status === 'completed';
-  const succeeded = isComplete && run?.conclusion === 'success';
+  const workflowSucceeded = isComplete && run?.conclusion === 'success';
+  const succeeded = workflowSucceeded && reportPublished;
   const failed = isComplete && !!run?.conclusion && run.conclusion !== 'success';
 
   // Tick elapsed counter
@@ -255,6 +258,46 @@ export function RunReportClient() {
     }, 5000);
     return () => clearInterval(poll);
   }, [isRunning, run]);
+
+  // After workflow succeeds, verify the report is actually published before showing success
+  useEffect(() => {
+    if (!workflowSucceeded || !run || reportPublished) return;
+    setVerifying(true);
+    const today = new Date().toISOString().split('T')[0];
+    let cancelled = false;
+    let attempts = 0;
+    const maxAttempts = 30; // ~2.5 minutes at 5s intervals
+
+    async function checkOnce() {
+      if (cancelled) return;
+      try {
+        const res = await fetch(`/api/reports/check?date=${today}`);
+        if (res.ok) {
+          const data = await res.json();
+          if (data.exists) {
+            setReportPublished(true);
+            setVerifying(false);
+            return;
+          }
+        }
+      } catch {
+        // Silent fail, will retry
+      }
+      attempts++;
+      if (attempts >= maxAttempts) {
+        // After max attempts, assume report is ready (graceful fallback)
+        setReportPublished(true);
+        setVerifying(false);
+        return;
+      }
+      setTimeout(checkOnce, 5000);
+    }
+    checkOnce();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [workflowSucceeded, run, reportPublished]);
 
   async function handleRun() {
     setTriggering(true);
@@ -288,6 +331,8 @@ export function RunReportClient() {
     setRun(null);
     setElapsed(0);
     setError(null);
+    setReportPublished(false);
+    setVerifying(false);
   }
 
   const elapsedLabel = (() => {
@@ -328,13 +373,15 @@ export function RunReportClient() {
                   ? 'Report ready'
                   : failed
                   ? 'Report failed'
+                  : verifying
+                  ? 'Publishing report'
                   : 'Generating report'}
               </h2>
               <p className="text-xs text-slate-500 mt-0.5">
                 Elapsed: {elapsedLabel}
               </p>
             </div>
-            {isComplete ? (
+            {(succeeded || failed) ? (
               <button
                 onClick={handleReset}
                 className="inline-flex items-center gap-1.5 text-sm text-slate-600 hover:text-slate-900 px-3 py-1.5 border border-slate-300 rounded-md hover:bg-slate-50"
@@ -350,6 +397,15 @@ export function RunReportClient() {
             status={run.status}
             conclusion={run.conclusion}
           />
+
+          {verifying && !succeeded ? (
+            <div className="bg-blue-50 border border-blue-200 rounded-md p-4 text-sm text-blue-900 flex items-center gap-3">
+              <BouncingDots />
+              <span>
+                Finalizing and publishing the report. This usually takes 30 to 60 seconds...
+              </span>
+            </div>
+          ) : null}
 
           {succeeded ? (
             <div className="bg-emerald-50 border border-emerald-200 rounded-md p-4 text-sm text-emerald-900 flex items-center justify-between gap-3">

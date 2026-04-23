@@ -4,8 +4,8 @@ import { ReportsList } from './reports-list';
 
 export const dynamic = 'force-dynamic';
 
-export default function ReportsPage() {
-  const reports = listReports();
+export default async function ReportsPage() {
+  const reports = await listReports();
 
   return (
     <div className="space-y-6">

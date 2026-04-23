@@ -13,7 +13,7 @@ interface Props {
 
 export default async function ReportDetailPage({ params }: Props) {
   const { date } = await params;
-  const markdown = readReport(date);
+  const markdown = await readReport(date);
   if (!markdown) {
     notFound();
   }

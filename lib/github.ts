@@ -59,6 +59,42 @@ export async function readSettingsFromRepo(): Promise<AppSettings | null> {
   return readJsonFromRepo<AppSettings>('data/settings.json');
 }
 
+export async function listReportsFromRepo(): Promise<string[]> {
+  const octokit = client();
+  try {
+    const res = await octokit.repos.getContent({
+      owner,
+      repo,
+      path: 'reports',
+      ref: branch,
+    });
+    if (!Array.isArray(res.data)) return [];
+    return res.data
+      .filter((f) => f.type === 'file' && f.name.endsWith('.md'))
+      .map((f) => f.name);
+  } catch (err: unknown) {
+    if ((err as { status?: number }).status === 404) return [];
+    throw err;
+  }
+}
+
+export async function readReportFromRepo(date: string): Promise<string | null> {
+  const octokit = client();
+  try {
+    const res = await octokit.repos.getContent({
+      owner,
+      repo,
+      path: `reports/${date}.md`,
+      ref: branch,
+    });
+    if (!('content' in res.data)) return null;
+    return Buffer.from(res.data.content, 'base64').toString('utf-8');
+  } catch (err: unknown) {
+    if ((err as { status?: number }).status === 404) return null;
+    throw err;
+  }
+}
+
 async function commitJsonFile(
   filePath: string,
   data: unknown,
