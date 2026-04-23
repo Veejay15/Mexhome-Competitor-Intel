@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useRef } from 'react';
+import { upload } from '@vercel/blob/client';
 import { Competitor } from '@/lib/types';
 import { Upload, FileText, Check } from 'lucide-react';
 import { todayISO } from '@/lib/utils';
@@ -14,6 +15,8 @@ interface FileResult {
   status: 'pending' | 'success' | 'error';
   message?: string;
 }
+
+const MAX_BYTES = 50 * 1024 * 1024; // 50MB
 
 export function UploadClient({ competitors }: Props) {
   const [files, setFiles] = useState<FileResult[]>([]);
@@ -34,38 +37,41 @@ export function UploadClient({ competitors }: Props) {
 
     for (let i = 0; i < arr.length; i++) {
       const f = arr[i];
+
+      // Pre-check size
+      if (f.size > MAX_BYTES) {
+        const sizeMb = (f.size / 1024 / 1024).toFixed(2);
+        setFiles((prev) =>
+          prev.map((p, idx) =>
+            idx === i
+              ? {
+                  filename: f.name,
+                  status: 'error',
+                  message: `File is ${sizeMb}MB. Maximum is 50MB.`,
+                }
+              : p
+          )
+        );
+        continue;
+      }
+
       try {
-        const formData = new FormData();
-        formData.append('file', f);
-        formData.append('date', today);
+        const safeFilename = f.name.replace(/[^a-zA-Z0-9._-]/g, '_');
+        const pathname = `csv/${today}/${safeFilename}`;
 
-        const res = await fetch('/api/upload', {
-          method: 'POST',
-          body: formData,
+        await upload(pathname, f, {
+          access: 'public',
+          handleUploadUrl: '/api/upload/blob',
+          contentType: 'text/csv',
         });
-
-        let message: string | undefined;
-        let ok = res.ok;
-        try {
-          const json = await res.json();
-          message = ok ? json.path : json.error;
-        } catch {
-          // Response wasn't JSON (e.g., Vercel returned a plain-text 413)
-          ok = false;
-          if (res.status === 413) {
-            message = `File too large for upload (${(f.size / 1024 / 1024).toFixed(2)}MB). Try filtering the SEMrush export to last 7 days only.`;
-          } else {
-            message = `Upload failed (status ${res.status}). Try a smaller file.`;
-          }
-        }
 
         setFiles((prev) =>
           prev.map((p, idx) =>
             idx === i
               ? {
                   filename: f.name,
-                  status: ok ? 'success' : 'error',
-                  message,
+                  status: 'success',
+                  message: `Saved to data/csv/${today}/`,
                 }
               : p
           )
@@ -74,7 +80,11 @@ export function UploadClient({ competitors }: Props) {
         setFiles((prev) =>
           prev.map((p, idx) =>
             idx === i
-              ? { filename: f.name, status: 'error', message: (err as Error).message }
+              ? {
+                  filename: f.name,
+                  status: 'error',
+                  message: (err as Error).message,
+                }
               : p
           )
         );
@@ -111,6 +121,9 @@ export function UploadClient({ competitors }: Props) {
         <p className="text-sm text-slate-500 mt-1">
           Multiple files OK. Name them like <code>diamonte-backlinks.csv</code> so
           we can match them to competitors.
+        </p>
+        <p className="text-xs text-slate-400 mt-2">
+          Files up to 50MB are supported.
         </p>
       </div>
 
@@ -160,7 +173,7 @@ export function UploadClient({ competitors }: Props) {
       </div>
 
       <p className="text-xs text-slate-500">
-        {uploading ? 'Uploading...' : 'Files are saved to this week\'s data folder.'}
+        {uploading ? 'Uploading...' : "Files are saved to this week's data folder."}
       </p>
     </div>
   );
