@@ -20,30 +20,54 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Check schedule setting
+        id: check
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            enabled=$(jq -r '.scheduledReports // true' data/settings.json 2>/dev/null || echo "true")
+            if [ "$enabled" != "true" ]; then
+              echo "Scheduled reports are disabled. Skipping this run."
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "Scheduled reports are enabled. Proceeding."
+              echo "skip=false" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "Manual trigger. Proceeding regardless of schedule setting."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Setup Node
+        if: steps.check.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '22'
           cache: 'npm'
 
       - name: Install dependencies
+        if: steps.check.outputs.skip != 'true'
         run: npm ci
 
       - name: Fetch competitor sitemaps
+        if: steps.check.outputs.skip != 'true'
         run: npm run fetch:sitemaps
 
       - name: Diff sitemaps vs previous week
+        if: steps.check.outputs.skip != 'true'
         run: npm run diff:sitemaps
 
       - name: Process uploaded SEMrush CSVs
+        if: steps.check.outputs.skip != 'true'
         run: npm run process:csvs
 
       - name: Generate report with Claude
+        if: steps.check.outputs.skip != 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run report:generate
 
       - name: Commit report and snapshots back to repo
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

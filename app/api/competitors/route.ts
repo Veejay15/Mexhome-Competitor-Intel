@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { readCompetitors, writeCompetitorsLocal } from '@/lib/competitors';
 import { commitCompetitorsFile, isGithubConfigured } from '@/lib/github';
-import { checkAdminAuth } from '@/lib/auth';
+import { requireAuth } from '@/lib/auth';
 import { Competitor } from '@/lib/types';
 import { slugify, todayISO } from '@/lib/utils';
 
@@ -11,7 +11,7 @@ export async function GET() {
 }
 
 export async function POST(req: NextRequest) {
-  const authError = checkAdminAuth(req);
+  const authError = await requireAuth();
   if (authError) return authError;
 
   const body = await req.json();

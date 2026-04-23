@@ -1,14 +1,14 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { readCompetitors, writeCompetitorsLocal } from '@/lib/competitors';
 import { commitCompetitorsFile, isGithubConfigured } from '@/lib/github';
-import { checkAdminAuth } from '@/lib/auth';
+import { requireAuth } from '@/lib/auth';
 
 interface Params {
   params: Promise<{ id: string }>;
 }
 
 export async function DELETE(req: NextRequest, { params }: Params) {
-  const authError = checkAdminAuth(req);
+  const authError = await requireAuth();
   if (authError) return authError;
 
   const { id } = await params;
@@ -36,7 +36,7 @@ export async function DELETE(req: NextRequest, { params }: Params) {
 }
 
 export async function PATCH(req: NextRequest, { params }: Params) {
-  const authError = checkAdminAuth(req);
+  const authError = await requireAuth();
   if (authError) return authError;
 
   const { id } = await params;

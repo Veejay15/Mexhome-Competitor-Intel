@@ -16,7 +16,6 @@ export function ReportView({ date, markdown }: Props) {
   const reportRef = useRef<HTMLDivElement>(null);
   const [downloading, setDownloading] = useState(false);
   const [deleting, setDeleting] = useState(false);
-  const [adminPassword, setAdminPassword] = useState('');
   const [showDeleteConfirm, setShowDeleteConfirm] = useState(false);
 
   async function handleDownloadPDF() {
@@ -74,15 +73,10 @@ export function ReportView({ date, markdown }: Props) {
   }
 
   async function handleDelete() {
-    if (!adminPassword) {
-      alert('Enter your admin password to delete this report.');
-      return;
-    }
     setDeleting(true);
     try {
       const res = await fetch(`/api/reports/${date}`, {
         method: 'DELETE',
-        headers: { 'x-admin-password': adminPassword },
       });
       const json = await res.json();
       if (!res.ok) {
@@ -127,25 +121,15 @@ export function ReportView({ date, markdown }: Props) {
             </p>
           </div>
           <div className="flex items-center gap-2">
-            <input
-              type="password"
-              placeholder="Admin password"
-              value={adminPassword}
-              onChange={(e) => setAdminPassword(e.target.value)}
-              className="text-sm border border-slate-300 rounded-md px-3 py-1.5 w-48"
-            />
             <button
               onClick={handleDelete}
-              disabled={deleting || !adminPassword}
+              disabled={deleting}
               className="text-sm bg-red-600 text-white px-3 py-1.5 rounded-md hover:bg-red-700 disabled:opacity-50"
             >
               {deleting ? 'Deleting...' : 'Confirm delete'}
             </button>
             <button
-              onClick={() => {
-                setShowDeleteConfirm(false);
-                setAdminPassword('');
-              }}
+              onClick={() => setShowDeleteConfirm(false)}
               className="text-sm bg-white border border-slate-300 text-slate-700 px-3 py-1.5 rounded-md hover:bg-slate-50"
             >
               Cancel

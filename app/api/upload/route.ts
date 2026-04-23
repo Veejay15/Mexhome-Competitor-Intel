@@ -1,11 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
-import { checkAdminAuth } from '@/lib/auth';
+import { requireAuth } from '@/lib/auth';
 import { isGithubConfigured, uploadDataFile } from '@/lib/github';
 
 export async function POST(req: NextRequest) {
-  const authError = checkAdminAuth(req);
+  const authError = await requireAuth();
   if (authError) return authError;
 
   const body = await req.json();

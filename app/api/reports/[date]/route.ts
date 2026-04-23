@@ -1,15 +1,15 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
-import { checkAdminAuth } from '@/lib/auth';
+import { requireAuth } from '@/lib/auth';
 import { deleteRepoFile, isGithubConfigured } from '@/lib/github';
 
 interface Params {
   params: Promise<{ date: string }>;
 }
 
-export async function DELETE(req: NextRequest, { params }: Params) {
-  const authError = checkAdminAuth(req);
+export async function DELETE(_req: NextRequest, { params }: Params) {
+  const authError = await requireAuth();
   if (authError) return authError;
 
   const { date } = await params;

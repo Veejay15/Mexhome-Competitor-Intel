@@ -2,8 +2,8 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { usePathname } from 'next/navigation';
-import { HelpCircle } from 'lucide-react';
+import { useRouter, usePathname } from 'next/navigation';
+import { HelpCircle, LogOut } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 const links = [
@@ -12,10 +12,22 @@ const links = [
   { href: '/competitors', label: 'Competitors' },
   { href: '/upload', label: 'Upload CSVs' },
   { href: '/run-report', label: 'Run Report' },
+  { href: '/settings', label: 'Settings' },
 ];
 
 export function Nav() {
   const pathname = usePathname();
+  const router = useRouter();
+
+  // Hide nav on login page
+  if (pathname === '/login') return null;
+
+  async function handleLogout() {
+    await fetch('/api/logout', { method: 'POST' });
+    router.push('/login');
+    router.refresh();
+  }
+
   return (
     <nav className="border-b border-slate-200 bg-white">
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
@@ -61,6 +73,14 @@ export function Nav() {
           >
             <HelpCircle size={18} />
           </a>
+          <button
+            onClick={handleLogout}
+            title="Sign out"
+            className="p-1.5 text-slate-500 hover:text-red-600 hover:bg-red-50 rounded-md transition-colors"
+            aria-label="Sign out"
+          >
+            <LogOut size={18} />
+          </button>
         </div>
       </div>
     </nav>

@@ -1,5 +1,5 @@
 import { Octokit } from '@octokit/rest';
-import { Competitor, CompetitorsData } from './types';
+import { AppSettings, Competitor, CompetitorsData } from './types';
 
 const owner = process.env.GITHUB_OWNER || '';
 const repo = process.env.GITHUB_REPO || 'mexhome-competitor-intel';
@@ -21,10 +21,23 @@ export async function commitCompetitorsFile(
   competitors: Competitor[],
   message: string
 ): Promise<void> {
-  const octokit = client();
-  const filePath = 'data/competitors.json';
-
   const data: CompetitorsData = { competitors };
+  await commitJsonFile('data/competitors.json', data, message);
+}
+
+export async function commitSettingsFile(
+  settings: AppSettings,
+  message: string
+): Promise<void> {
+  await commitJsonFile('data/settings.json', settings, message);
+}
+
+async function commitJsonFile(
+  filePath: string,
+  data: unknown,
+  message: string
+): Promise<void> {
+  const octokit = client();
   const newContent = JSON.stringify(data, null, 2) + '\n';
   const newContentBase64 = Buffer.from(newContent).toString('base64');
 

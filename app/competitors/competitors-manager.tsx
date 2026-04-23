@@ -14,7 +14,6 @@ export function CompetitorsManager({ initial }: Props) {
   const [name, setName] = useState('');
   const [domain, setDomain] = useState('');
   const [sitemapUrl, setSitemapUrl] = useState('');
-  const [adminPassword, setAdminPassword] = useState('');
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -31,7 +30,7 @@ export function CompetitorsManager({ initial }: Props) {
     const finalSitemap = sitemapUrl || suggestSitemapUrl(domain);
     const res = await fetch('/api/competitors', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'x-admin-password': adminPassword },
+      headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ name, domain, sitemapUrl: finalSitemap }),
     });
     const json = await res.json();
@@ -50,10 +49,9 @@ export function CompetitorsManager({ initial }: Props) {
   }
 
   async function handleRemove(id: string) {
-    if (!confirm('Remove this competitor? This will also delete their sitemap history on the next run.')) return;
+    if (!confirm('Remove this competitor? This will exclude them from future reports.')) return;
     const res = await fetch(`/api/competitors/${id}`, {
       method: 'DELETE',
-      headers: { 'x-admin-password': adminPassword },
     });
     const json = await res.json();
     if (!res.ok) {
@@ -66,7 +64,7 @@ export function CompetitorsManager({ initial }: Props) {
   async function handleToggle(id: string, active: boolean) {
     const res = await fetch(`/api/competitors/${id}`, {
       method: 'PATCH',
-      headers: { 'Content-Type': 'application/json', 'x-admin-password': adminPassword },
+      headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ active }),
     });
     const json = await res.json();
@@ -79,14 +77,7 @@ export function CompetitorsManager({ initial }: Props) {
 
   return (
     <div className="space-y-4">
-      <div className="flex justify-between items-center gap-3">
-        <input
-          type="password"
-          placeholder="Admin password"
-          value={adminPassword}
-          onChange={(e) => setAdminPassword(e.target.value)}
-          className="text-sm border border-slate-300 rounded-md px-3 py-1.5 w-56"
-        />
+      <div className="flex justify-end">
         <button
           onClick={() => setShowAdd(!showAdd)}
           className="flex items-center gap-1.5 text-sm bg-slate-900 text-white px-3 py-1.5 rounded-md hover:bg-slate-700"

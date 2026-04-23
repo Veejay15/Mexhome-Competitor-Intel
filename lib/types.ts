@@ -35,3 +35,8 @@ export interface Report {
   title?: string;
   excerpt?: string;
 }
+
+export interface AppSettings {
+  scheduledReports: boolean;
+  scheduleDescription: string;
+}

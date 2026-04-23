@@ -18,16 +18,11 @@ interface FileResult {
 export function UploadClient({ competitors }: Props) {
   const [files, setFiles] = useState<FileResult[]>([]);
   const [uploading, setUploading] = useState(false);
-  const [adminPassword, setAdminPassword] = useState('');
   const fileInputRef = useRef<HTMLInputElement>(null);
   const today = todayISO();
 
   async function handleFiles(filesList: FileList | null) {
     if (!filesList || filesList.length === 0) return;
-    if (!adminPassword) {
-      alert('Enter your admin password first.');
-      return;
-    }
 
     setUploading(true);
     const arr = Array.from(filesList);
@@ -49,7 +44,7 @@ export function UploadClient({ competitors }: Props) {
       try {
         const res = await fetch('/api/upload', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'x-admin-password': adminPassword },
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             filename: f.name,
             contentBase64: base64,
@@ -83,24 +78,6 @@ export function UploadClient({ competitors }: Props) {
 
   return (
     <div className="space-y-6">
-      <div className="bg-white rounded-lg border border-slate-200 p-5 space-y-3">
-        <div>
-          <label className="block text-xs font-medium text-slate-700 mb-1">
-            Admin password
-          </label>
-          <input
-            type="password"
-            value={adminPassword}
-            onChange={(e) => setAdminPassword(e.target.value)}
-            placeholder="Required to upload"
-            className="text-sm border border-slate-300 rounded-md px-3 py-1.5 w-64"
-          />
-        </div>
-        <p className="text-xs text-slate-500">
-          Files will be saved to this week's data folder ({today}).
-        </p>
-      </div>
-
       <div
         onClick={() => fileInputRef.current?.click()}
         onDragOver={(e) => {
@@ -176,7 +153,7 @@ export function UploadClient({ competitors }: Props) {
       </div>
 
       <p className="text-xs text-slate-500">
-        {uploading ? 'Uploading...' : 'Ready'}
+        {uploading ? 'Uploading...' : 'Files are saved to this week\'s data folder.'}
       </p>
     </div>
   );

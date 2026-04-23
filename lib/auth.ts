@@ -1,22 +1,17 @@
-import { NextRequest, NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
+import { isAuthenticated } from './session';
 
-export function checkAdminAuth(req: NextRequest): NextResponse | null {
-  const expected = process.env.ADMIN_PASSWORD;
-  const provided = req.headers.get('x-admin-password');
-
-  if (!expected) {
+/**
+ * Returns null if the request is authenticated, or an error response if not.
+ * Use at the top of any API route that requires admin access.
+ */
+export async function requireAuth(): Promise<NextResponse | null> {
+  const authed = await isAuthenticated();
+  if (!authed) {
     return NextResponse.json(
-      { error: 'ADMIN_PASSWORD is not configured on the server.' },
-      { status: 500 }
-    );
-  }
-
-  if (!provided || provided !== expected) {
-    return NextResponse.json(
-      { error: 'Invalid or missing admin password.' },
+      { error: 'Not authenticated' },
       { status: 401 }
     );
   }
-
   return null;
 }
