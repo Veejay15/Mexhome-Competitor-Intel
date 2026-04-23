@@ -43,3 +43,15 @@ export interface AppSettings {
   scheduledReports: boolean;
   scheduleDescription: string;
 }
+
+export interface CsvManifestEntry {
+  filename: string;
+  blobUrl: string;
+  uploadedAt: string;
+  size: number;
+}
+
+export interface CsvManifest {
+  date: string;
+  files: CsvManifestEntry[];
+}

@@ -1,5 +1,5 @@
 import { Octokit } from '@octokit/rest';
-import { AppSettings, Competitor, CompetitorsData } from './types';
+import { AppSettings, Competitor, CompetitorsData, CsvManifest } from './types';
 
 const owner = process.env.GITHUB_OWNER || '';
 const repo = process.env.GITHUB_REPO || 'mexhome-competitor-intel';
@@ -30,6 +30,18 @@ export async function commitSettingsFile(
   message: string
 ): Promise<void> {
   await commitJsonFile('data/settings.json', settings, message);
+}
+
+export async function commitCsvManifest(
+  date: string,
+  manifest: CsvManifest,
+  message: string
+): Promise<void> {
+  await commitJsonFile(`data/csv/${date}/manifest.json`, manifest, message);
+}
+
+export async function readCsvManifestFromRepo(date: string): Promise<CsvManifest | null> {
+  return readJsonFromRepo<CsvManifest>(`data/csv/${date}/manifest.json`);
 }
 
 export async function readJsonFromRepo<T>(filePath: string): Promise<T | null> {

@@ -1,15 +1,17 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { handleUpload, type HandleUploadBody } from '@vercel/blob/client';
-import { del } from '@vercel/blob';
 import { isAuthenticated } from '@/lib/session';
-import { isGithubConfigured, uploadDataFile } from '@/lib/github';
+import {
+  commitCsvManifest,
+  isGithubConfigured,
+  readCsvManifestFromRepo,
+} from '@/lib/github';
+import { CsvManifest, CsvManifestEntry } from '@/lib/types';
 
 export const runtime = 'nodejs';
-// Hobby tier supports up to 60s. Needed because the onUploadCompleted callback
-// has to fetch the file from Blob and POST it to the GitHub API (slow for ~10MB+).
 export const maxDuration = 60;
 
-const MAX_BYTES = 50 * 1024 * 1024; // 50MB cap, well under Vercel Blob's 4.5GB limit
+const MAX_BYTES = 50 * 1024 * 1024;
 
 export async function POST(req: NextRequest) {
   if (!process.env.BLOB_READ_WRITE_TOKEN) {
@@ -22,7 +24,6 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  // Auth gate: only signed-in users can upload
   if (!(await isAuthenticated())) {
     return NextResponse.json(
       { error: 'Not authenticated' },
@@ -45,7 +46,6 @@ export async function POST(req: NextRequest) {
       body,
       request: req,
       onBeforeGenerateToken: async (pathname) => {
-        // pathname format expected: csv/YYYY-MM-DD/filename.csv
         const parts = pathname.split('/');
         if (
           parts.length !== 3 ||
@@ -69,30 +69,34 @@ export async function POST(req: NextRequest) {
         };
       },
       onUploadCompleted: async ({ blob }) => {
-        // pathname is from upload (with random suffix). Decode our intended layout from it.
+        // Rather than pulling the file into GitHub (slow, timeout-prone for
+        // large files), just record its Blob URL in a manifest.json. The
+        // workflow reads the manifest and downloads each file directly from
+        // Blob storage at run time.
+        if (!isGithubConfigured()) return;
+
         const parts = blob.pathname.split('/');
         if (parts.length < 3) return;
         const date = parts[1];
-        // Strip the random suffix Vercel adds (e.g., filename-abc123.csv → filename.csv)
+        // Strip Vercel's random suffix for the display filename
         const filename = parts[2].replace(/-[a-zA-Z0-9]+(\.csv)$/i, '$1');
-        const safeFilename = filename.replace(/[^a-zA-Z0-9._-]/g, '_');
-        const repoPath = `data/csv/${date}/${safeFilename}`;
 
-        try {
-          if (isGithubConfigured()) {
-            const response = await fetch(blob.url);
-            const buffer = await response.arrayBuffer();
-            const base64 = Buffer.from(buffer).toString('base64');
-            await uploadDataFile(repoPath, base64, `Upload CSV: ${safeFilename}`);
-          }
-        } finally {
-          // Clean up the Blob since we've stored it in the repo
-          try {
-            await del(blob.url);
-          } catch {
-            // best-effort cleanup
-          }
-        }
+        const entry: CsvManifestEntry = {
+          filename,
+          blobUrl: blob.url,
+          uploadedAt: new Date().toISOString(),
+          size: 0,
+        };
+
+        // Read existing manifest (if any) and merge
+        const existing = await readCsvManifestFromRepo(date);
+        const manifest: CsvManifest = existing || { date, files: [] };
+
+        // Replace any previous entry with the same filename
+        manifest.files = manifest.files.filter((f) => f.filename !== filename);
+        manifest.files.push(entry);
+
+        await commitCsvManifest(date, manifest, `Upload CSV: ${filename}`);
       },
     });
 
