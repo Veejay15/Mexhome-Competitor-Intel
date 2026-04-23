@@ -1,6 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { checkAdminAuth } from '@/lib/auth';
-import { dispatchWorkflow, isGithubConfigured } from '@/lib/github';
+import {
+  dispatchWorkflow,
+  findLatestWorkflowRun,
+  isGithubConfigured,
+} from '@/lib/github';
 
 export async function POST(req: NextRequest) {
   const authError = checkAdminAuth(req);
@@ -16,6 +20,8 @@ export async function POST(req: NextRequest) {
     );
   }
 
+  const dispatchTime = new Date().toISOString();
+
   try {
     await dispatchWorkflow('weekly-report.yml');
   } catch (err) {
@@ -25,9 +31,17 @@ export async function POST(req: NextRequest) {
     );
   }
 
+  let run = null;
+  try {
+    run = await findLatestWorkflowRun('weekly-report.yml', dispatchTime);
+  } catch {
+    // Non-fatal: the workflow was dispatched, we just couldn't find the run yet
+  }
+
   return NextResponse.json({
     ok: true,
     message:
       'Report started. It typically takes 1 to 3 minutes. The new report will appear in the Reports tab when ready.',
+    run,
   });
 }

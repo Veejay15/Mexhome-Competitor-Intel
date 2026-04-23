@@ -56,6 +56,14 @@ export async function commitCompetitorsFile(
   });
 }
 
+export interface WorkflowRunInfo {
+  id: number;
+  status: string;
+  conclusion: string | null;
+  htmlUrl: string;
+  createdAt: string;
+}
+
 export async function dispatchWorkflow(
   workflowFileName: string = 'weekly-report.yml'
 ): Promise<void> {
@@ -66,6 +74,54 @@ export async function dispatchWorkflow(
     workflow_id: workflowFileName,
     ref: branch,
   });
+}
+
+export async function findLatestWorkflowRun(
+  workflowFileName: string,
+  sinceISO: string,
+  attempts: number = 10
+): Promise<WorkflowRunInfo | null> {
+  const octokit = client();
+  for (let i = 0; i < attempts; i++) {
+    const res = await octokit.actions.listWorkflowRuns({
+      owner,
+      repo,
+      workflow_id: workflowFileName,
+      branch,
+      per_page: 5,
+    });
+    const sinceTime = new Date(sinceISO).getTime();
+    const recent = res.data.workflow_runs.find(
+      (r) => new Date(r.created_at).getTime() >= sinceTime - 5000
+    );
+    if (recent) {
+      return {
+        id: recent.id,
+        status: recent.status || 'queued',
+        conclusion: recent.conclusion,
+        htmlUrl: recent.html_url,
+        createdAt: recent.created_at,
+      };
+    }
+    await new Promise((r) => setTimeout(r, 1500));
+  }
+  return null;
+}
+
+export async function getWorkflowRun(runId: number): Promise<WorkflowRunInfo> {
+  const octokit = client();
+  const res = await octokit.actions.getWorkflowRun({
+    owner,
+    repo,
+    run_id: runId,
+  });
+  return {
+    id: res.data.id,
+    status: res.data.status || 'queued',
+    conclusion: res.data.conclusion,
+    htmlUrl: res.data.html_url,
+    createdAt: res.data.created_at,
+  };
 }
 
 export async function uploadDataFile(
