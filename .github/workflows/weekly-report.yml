@@ -71,10 +71,33 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Mitigations for intermittent GitHub HTTPS push 500s
+          git config http.postBuffer 524288000
+          git config http.lowSpeedLimit 1000
+          git config http.lowSpeedTime 60
+
           git add data/ reports/
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "Weekly competitor report: $(date -u +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+
+          git commit -m "Weekly competitor report: $(date -u +%Y-%m-%d)"
+
+          # Retry push with backoff (handles transient GitHub 500s on send-pack)
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt $attempt..."
+            if git push; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push failed on attempt $attempt"
+            if [ $attempt -lt 5 ]; then
+              # Pull any new commits before retrying (rebase to keep our commit on top)
+              git pull --rebase || true
+              sleep $((attempt * 10))
+            fi
+          done
+
+          echo "All push attempts failed"
+          exit 1
