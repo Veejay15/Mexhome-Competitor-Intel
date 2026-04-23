@@ -3,7 +3,7 @@
   "summaries": [
     {
       "filename": "diamanterealtors.com-organic.PositionChangesV2-us-20260419-2026-04-23T16_02_42Z.csv",
-      "competitorId": "diamanterealtors.com",
+      "competitorId": "diamanterealtors-com",
       "type": "positions",
       "rowCount": 208,
       "topRows": [
@@ -511,7 +511,7 @@
     },
     {
       "filename": "mexicolife.com-backlinks.csv",
-      "competitorId": "mexicolife.com",
+      "competitorId": "unknown",
       "type": "backlinks",
       "rowCount": 5982,
       "topRows": [
@@ -1044,7 +1044,7 @@
     },
     {
       "filename": "mexicolife.com-organic.PositionChangesV2-us-20260419-2026-04-23T09_44_17Z.csv",
-      "competitorId": "mexicolife.com",
+      "competitorId": "unknown",
       "type": "positions",
       "rowCount": 431,
       "topRows": [
