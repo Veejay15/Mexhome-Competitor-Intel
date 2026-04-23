@@ -1,10 +1,25 @@
 import Link from 'next/link';
 import { readCompetitors } from '@/lib/competitors';
+import { isGithubConfigured, readCompetitorsFromRepo } from '@/lib/github';
 import { listReports } from '@/lib/reports';
 import { formatDate } from '@/lib/utils';
+import { Competitor } from '@/lib/types';
 
-export default function Home() {
-  const competitors = readCompetitors();
+export const dynamic = 'force-dynamic';
+
+async function getLiveCompetitors(): Promise<Competitor[]> {
+  if (isGithubConfigured()) {
+    try {
+      return await readCompetitorsFromRepo();
+    } catch {
+      return readCompetitors();
+    }
+  }
+  return readCompetitors();
+}
+
+export default async function Home() {
+  const competitors = await getLiveCompetitors();
   const reports = listReports();
   const latest = reports[0];
 

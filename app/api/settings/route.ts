@@ -1,11 +1,28 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { readSettings, writeSettingsLocal } from '@/lib/settings';
-import { commitSettingsFile, isGithubConfigured } from '@/lib/github';
+import {
+  commitSettingsFile,
+  isGithubConfigured,
+  readSettingsFromRepo,
+} from '@/lib/github';
 import { requireAuth } from '@/lib/auth';
 import { AppSettings } from '@/lib/types';
 
+const DEFAULTS: AppSettings = {
+  scheduledReports: true,
+  scheduleDescription: 'Reports run automatically every Monday at 9:00 AM UTC.',
+};
+
+async function getCurrentSettings(): Promise<AppSettings> {
+  if (isGithubConfigured()) {
+    const fromRepo = await readSettingsFromRepo();
+    if (fromRepo) return { ...DEFAULTS, ...fromRepo };
+  }
+  return readSettings();
+}
+
 export async function GET() {
-  const settings = readSettings();
+  const settings = await getCurrentSettings();
   return NextResponse.json({ settings });
 }
 
@@ -14,7 +31,7 @@ export async function POST(req: NextRequest) {
   if (authError) return authError;
 
   const body = await req.json();
-  const current = readSettings();
+  const current = await getCurrentSettings();
 
   const updated: AppSettings = {
     scheduledReports:

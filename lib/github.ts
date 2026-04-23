@@ -32,6 +32,33 @@ export async function commitSettingsFile(
   await commitJsonFile('data/settings.json', settings, message);
 }
 
+export async function readJsonFromRepo<T>(filePath: string): Promise<T | null> {
+  const octokit = client();
+  try {
+    const res = await octokit.repos.getContent({
+      owner,
+      repo,
+      path: filePath,
+      ref: branch,
+    });
+    if (!('content' in res.data)) return null;
+    const content = Buffer.from(res.data.content, 'base64').toString('utf-8');
+    return JSON.parse(content) as T;
+  } catch (err: unknown) {
+    if ((err as { status?: number }).status === 404) return null;
+    throw err;
+  }
+}
+
+export async function readCompetitorsFromRepo(): Promise<Competitor[]> {
+  const data = await readJsonFromRepo<CompetitorsData>('data/competitors.json');
+  return data?.competitors || [];
+}
+
+export async function readSettingsFromRepo(): Promise<AppSettings | null> {
+  return readJsonFromRepo<AppSettings>('data/settings.json');
+}
+
 async function commitJsonFile(
   filePath: string,
   data: unknown,

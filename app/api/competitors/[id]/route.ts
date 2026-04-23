@@ -1,21 +1,34 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { readCompetitors, writeCompetitorsLocal } from '@/lib/competitors';
-import { commitCompetitorsFile, isGithubConfigured } from '@/lib/github';
+import {
+  commitCompetitorsFile,
+  isGithubConfigured,
+  readCompetitorsFromRepo,
+} from '@/lib/github';
 import { requireAuth } from '@/lib/auth';
+import { Competitor } from '@/lib/types';
+
+async function getCurrentCompetitors(): Promise<Competitor[]> {
+  if (isGithubConfigured()) {
+    return readCompetitorsFromRepo();
+  }
+  return readCompetitors();
+}
 
 interface Params {
   params: Promise<{ id: string }>;
 }
 
-export async function DELETE(req: NextRequest, { params }: Params) {
+export async function DELETE(_req: NextRequest, { params }: Params) {
   const authError = await requireAuth();
   if (authError) return authError;
 
   const { id } = await params;
-  const competitors = readCompetitors();
+  const competitors = await getCurrentCompetitors();
   const target = competitors.find((c) => c.id === id);
   if (!target) {
-    return NextResponse.json({ error: 'Competitor not found' }, { status: 404 });
+    // Already deleted: return current list as success (idempotent)
+    return NextResponse.json({ competitors });
   }
   const updated = competitors.filter((c) => c.id !== id);
 
@@ -41,7 +54,7 @@ export async function PATCH(req: NextRequest, { params }: Params) {
 
   const { id } = await params;
   const body = await req.json();
-  const competitors = readCompetitors();
+  const competitors = await getCurrentCompetitors();
   const idx = competitors.findIndex((c) => c.id === id);
   if (idx === -1) {
     return NextResponse.json({ error: 'Competitor not found' }, { status: 404 });

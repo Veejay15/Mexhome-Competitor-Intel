@@ -1,12 +1,23 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { readCompetitors, writeCompetitorsLocal } from '@/lib/competitors';
-import { commitCompetitorsFile, isGithubConfigured } from '@/lib/github';
+import {
+  commitCompetitorsFile,
+  isGithubConfigured,
+  readCompetitorsFromRepo,
+} from '@/lib/github';
 import { requireAuth } from '@/lib/auth';
 import { Competitor } from '@/lib/types';
 import { slugify, todayISO } from '@/lib/utils';
 
+async function getCurrentCompetitors(): Promise<Competitor[]> {
+  if (isGithubConfigured()) {
+    return readCompetitorsFromRepo();
+  }
+  return readCompetitors();
+}
+
 export async function GET() {
-  const competitors = readCompetitors();
+  const competitors = await getCurrentCompetitors();
   return NextResponse.json({ competitors });
 }
 
@@ -24,7 +35,7 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  const competitors = readCompetitors();
+  const competitors = await getCurrentCompetitors();
   const id = slugify(domain.replace(/^https?:\/\//, '').split('/')[0]);
 
   if (competitors.some((c) => c.id === id)) {

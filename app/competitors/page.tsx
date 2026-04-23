@@ -1,10 +1,23 @@
 import { readCompetitors } from '@/lib/competitors';
+import { isGithubConfigured, readCompetitorsFromRepo } from '@/lib/github';
 import { CompetitorsManager } from './competitors-manager';
+import { Competitor } from '@/lib/types';
 
 export const dynamic = 'force-dynamic';
 
-export default function CompetitorsPage() {
-  const competitors = readCompetitors();
+async function getLive(): Promise<Competitor[]> {
+  if (isGithubConfigured()) {
+    try {
+      return await readCompetitorsFromRepo();
+    } catch {
+      return readCompetitors();
+    }
+  }
+  return readCompetitors();
+}
+
+export default async function CompetitorsPage() {
+  const competitors = await getLive();
   return (
     <div className="space-y-6">
       <header>

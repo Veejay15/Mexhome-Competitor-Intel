@@ -1,10 +1,29 @@
 import { readSettings } from '@/lib/settings';
+import { isGithubConfigured, readSettingsFromRepo } from '@/lib/github';
 import { SettingsForm } from './settings-form';
+import { AppSettings } from '@/lib/types';
 
 export const dynamic = 'force-dynamic';
 
-export default function SettingsPage() {
-  const settings = readSettings();
+const DEFAULTS: AppSettings = {
+  scheduledReports: true,
+  scheduleDescription: 'Reports run automatically every Monday at 9:00 AM UTC.',
+};
+
+async function getLive(): Promise<AppSettings> {
+  if (isGithubConfigured()) {
+    try {
+      const fromRepo = await readSettingsFromRepo();
+      if (fromRepo) return { ...DEFAULTS, ...fromRepo };
+    } catch {
+      return readSettings();
+    }
+  }
+  return readSettings();
+}
+
+export default async function SettingsPage() {
+  const settings = await getLive();
   return (
     <div className="space-y-6">
       <header>
