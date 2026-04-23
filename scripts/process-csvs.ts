@@ -40,12 +40,18 @@ function inferCompetitorFromFilename(filename: string, competitors: Competitor[]
       .toLowerCase();
     candidates.push(cleanDomain);
 
-    // Also include a dashed version of the domain for filenames like
-    // "diamanterealtors-com-backlinks.csv"
+    // Also include a dashed version of the domain
     candidates.push(cleanDomain.replace(/[^a-z0-9]+/g, '-'));
 
-    // And the domain without TLD as a fallback ("diamanterealtors")
-    const domainNoTld = cleanDomain.replace(/\.[a-z]{2,}$/i, '');
+    // Strip www. prefix and try those forms too (filenames often omit www)
+    const noWww = cleanDomain.replace(/^www\./i, '');
+    if (noWww !== cleanDomain) {
+      candidates.push(noWww);
+      candidates.push(noWww.replace(/[^a-z0-9]+/g, '-'));
+    }
+
+    // And the domain without TLD as a fallback ("mexicolife", "diamanterealtors")
+    const domainNoTld = noWww.replace(/\.[a-z]{2,}$/i, '');
     if (domainNoTld.length >= 5) candidates.push(domainNoTld);
 
     for (const candidate of candidates) {
