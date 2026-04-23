@@ -7,6 +7,14 @@
       "sitemapUrl": "https://www.mexicolife.com/sitemap.xml",
       "addedAt": "2026-04-23",
       "active": true
+    },
+    {
+      "id": "diamanterealtors-com",
+      "name": "Diamante Realtors",
+      "domain": "diamanterealtors.com",
+      "sitemapUrl": "https://diamanterealtors.com/",
+      "addedAt": "2026-04-23",
+      "active": true
     }
   ]
 }
