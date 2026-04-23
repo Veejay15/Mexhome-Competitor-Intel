@@ -5,6 +5,9 @@ import { isAuthenticated } from '@/lib/session';
 import { isGithubConfigured, uploadDataFile } from '@/lib/github';
 
 export const runtime = 'nodejs';
+// Hobby tier supports up to 60s. Needed because the onUploadCompleted callback
+// has to fetch the file from Blob and POST it to the GitHub API (slow for ~10MB+).
+export const maxDuration = 60;
 
 const MAX_BYTES = 50 * 1024 * 1024; // 50MB cap, well under Vercel Blob's 4.5GB limit
 
