@@ -46,7 +46,7 @@ export default async function Home() {
         <StatCard
           label="Latest Report"
           value={latest ? formatDate(latest.date) : 'None yet'}
-          href={latest ? `/reports/${latest.date}` : '/run-report'}
+          href={latest ? `/reports/${latest.slug}` : '/run-report'}
         />
       </section>
 
@@ -55,14 +55,14 @@ export default async function Home() {
           <div className="flex justify-between items-start mb-3">
             <div>
               <h2 className="text-xl font-semibold text-slate-900">
-                {latest.title}
+                {latest.competitorName || latest.title || 'Latest Report'}
               </h2>
               <p className="text-sm text-slate-500 mt-1">
-                {formatDate(latest.date)}
+                Week of {formatDate(latest.date)}
               </p>
             </div>
             <Link
-              href={`/reports/${latest.date}`}
+              href={`/reports/${latest.slug}`}
               className="text-sm bg-slate-900 text-white px-3 py-1.5 rounded-md hover:bg-slate-700"
             >
               View full report

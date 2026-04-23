@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { readReport } from '@/lib/reports';
+import { readReport, readReportMeta } from '@/lib/reports';
 import { formatDate } from '@/lib/utils';
 import { ArrowLeft } from 'lucide-react';
 import { ReportView } from './report-view';
@@ -8,15 +8,16 @@ import { ReportView } from './report-view';
 export const dynamic = 'force-dynamic';
 
 interface Props {
-  params: Promise<{ date: string }>;
+  params: Promise<{ slug: string }>;
 }
 
 export default async function ReportDetailPage({ params }: Props) {
-  const { date } = await params;
-  const markdown = await readReport(date);
+  const { slug } = await params;
+  const markdown = await readReport(slug);
   if (!markdown) {
     notFound();
   }
+  const meta = await readReportMeta(slug);
   return (
     <div className="space-y-4">
       <Link
@@ -27,9 +28,10 @@ export default async function ReportDetailPage({ params }: Props) {
         All reports
       </Link>
       <p className="text-xs text-slate-500">
-        Report dated {formatDate(date)}
+        {meta?.competitorName ? `${meta.competitorName} · ` : ''}
+        Week of {formatDate(meta?.date || slug)}
       </p>
-      <ReportView date={date} markdown={markdown} />
+      <ReportView slug={slug} competitorName={meta?.competitorName || null} markdown={markdown} />
     </div>
   );
 }

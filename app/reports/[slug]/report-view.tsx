@@ -5,13 +5,15 @@ import { useRouter } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Download, Trash2 } from 'lucide-react';
+import { slugify } from '@/lib/utils';
 
 interface Props {
-  date: string;
+  slug: string;
+  competitorName: string | null;
   markdown: string;
 }
 
-export function ReportView({ date, markdown }: Props) {
+export function ReportView({ slug, competitorName, markdown }: Props) {
   const router = useRouter();
   const reportRef = useRef<HTMLDivElement>(null);
   const [downloading, setDownloading] = useState(false);
@@ -27,7 +29,8 @@ export function ReportView({ date, markdown }: Props) {
         import('jspdf'),
       ]);
 
-      const filename = `mexhome-competitor-report-${date}.pdf`;
+      const competitorPart = competitorName ? `-${slugify(competitorName)}` : '';
+      const filename = `mexhome-competitor-report-${slug}${competitorPart}.pdf`;
       const element = reportRef.current;
 
       const canvas = await html2canvas(element, {
@@ -46,7 +49,7 @@ export function ReportView({ date, markdown }: Props) {
 
       const pageWidth = pdf.internal.pageSize.getWidth();
       const pageHeight = pdf.internal.pageSize.getHeight();
-      const margin = 36; // 0.5 inch
+      const margin = 36;
       const usableWidth = pageWidth - margin * 2;
       const imgWidth = usableWidth;
       const imgHeight = (canvas.height * imgWidth) / canvas.width;
@@ -75,7 +78,7 @@ export function ReportView({ date, markdown }: Props) {
   async function handleDelete() {
     setDeleting(true);
     try {
-      const res = await fetch(`/api/reports/${date}`, {
+      const res = await fetch(`/api/reports/${slug}`, {
         method: 'DELETE',
       });
       const json = await res.json();

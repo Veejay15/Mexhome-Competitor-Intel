@@ -5,27 +5,29 @@ import { requireAuth } from '@/lib/auth';
 import { deleteRepoFile, isGithubConfigured } from '@/lib/github';
 
 interface Params {
-  params: Promise<{ date: string }>;
+  params: Promise<{ slug: string }>;
 }
+
+const SLUG_RE = /^\d{4}-\d{2}-\d{2}(?:-[a-z0-9-]+)?$/i;
 
 export async function DELETE(_req: NextRequest, { params }: Params) {
   const authError = await requireAuth();
   if (authError) return authError;
 
-  const { date } = await params;
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
-    return NextResponse.json({ error: 'Invalid date' }, { status: 400 });
+  const { slug } = await params;
+  if (!SLUG_RE.test(slug)) {
+    return NextResponse.json({ error: 'Invalid report slug' }, { status: 400 });
   }
 
-  const repoPath = `reports/${date}.md`;
+  const repoPath = `reports/${slug}.md`;
 
   try {
     if (isGithubConfigured()) {
-      await deleteRepoFile(repoPath, `Delete report: ${date}`);
+      await deleteRepoFile(repoPath, `Delete report: ${slug}`);
     } else {
-      const localPath = path.join(process.cwd(), 'reports', `${date}.md`);
+      const localPath = path.join(process.cwd(), 'reports', `${slug}.md`);
       if (!fs.existsSync(localPath)) {
-        return NextResponse.json({ error: 'Report not found' }, { status: 404 });
+        return NextResponse.json({ ok: true });
       }
       fs.unlinkSync(localPath);
     }

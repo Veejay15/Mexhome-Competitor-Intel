@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { isGithubConfigured, readReportFromRepo } from '@/lib/github';
+import { isGithubConfigured, listReportsFromRepo } from '@/lib/github';
 import fs from 'fs';
 import path from 'path';
 
@@ -10,18 +10,25 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ error: 'Invalid date' }, { status: 400 });
   }
 
-  let exists = false;
+  let count = 0;
   try {
     if (isGithubConfigured()) {
-      const content = await readReportFromRepo(date);
-      exists = !!content;
+      const filenames = await listReportsFromRepo();
+      count = filenames.filter(
+        (f) => f === `${date}.md` || f.startsWith(`${date}-`)
+      ).length;
     } else {
-      const localPath = path.join(process.cwd(), 'reports', `${date}.md`);
-      exists = fs.existsSync(localPath);
+      const reportsDir = path.join(process.cwd(), 'reports');
+      if (fs.existsSync(reportsDir)) {
+        count = fs
+          .readdirSync(reportsDir)
+          .filter((f) => f === `${date}.md` || f.startsWith(`${date}-`))
+          .length;
+      }
     }
   } catch {
-    exists = false;
+    count = 0;
   }
 
-  return NextResponse.json({ date, exists });
+  return NextResponse.json({ date, exists: count > 0, count });
 }

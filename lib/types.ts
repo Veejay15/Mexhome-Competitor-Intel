@@ -32,6 +32,9 @@ export interface SitemapDiff {
 export interface Report {
   date: string;
   filename: string;
+  slug: string;
+  competitorId: string | null;
+  competitorName: string | null;
   title?: string;
   excerpt?: string;
 }
