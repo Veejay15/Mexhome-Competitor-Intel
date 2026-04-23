@@ -126,23 +126,42 @@ export async function getWorkflowRun(runId: number): Promise<WorkflowRunInfo> {
 
 export async function deleteRepoFile(filePath: string, message: string): Promise<void> {
   const octokit = client();
-  const existing = await octokit.repos.getContent({
-    owner,
-    repo,
-    path: filePath,
-    ref: branch,
-  });
-  if (!('sha' in existing.data)) {
-    throw new Error('File not found');
+  let sha: string;
+  try {
+    const existing = await octokit.repos.getContent({
+      owner,
+      repo,
+      path: filePath,
+      ref: branch,
+    });
+    if (!('sha' in existing.data)) {
+      // Path exists but is a directory or otherwise unexpected. Treat as already gone.
+      return;
+    }
+    sha = existing.data.sha;
+  } catch (err: unknown) {
+    if ((err as { status?: number }).status === 404) {
+      // Already deleted by a previous request. Treat as success (idempotent).
+      return;
+    }
+    throw err;
   }
-  await octokit.repos.deleteFile({
-    owner,
-    repo,
-    path: filePath,
-    message,
-    sha: existing.data.sha,
-    branch,
-  });
+  try {
+    await octokit.repos.deleteFile({
+      owner,
+      repo,
+      path: filePath,
+      message,
+      sha,
+      branch,
+    });
+  } catch (err: unknown) {
+    // Race condition: file was deleted between getContent and deleteFile. Still success.
+    if ((err as { status?: number }).status === 404 || (err as { status?: number }).status === 409) {
+      return;
+    }
+    throw err;
+  }
 }
 
 export async function uploadDataFile(
