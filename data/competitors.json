@@ -1,12 +1,3 @@
 {
-  "competitors": [
-    {
-      "id": "vallartarealestateguide",
-      "name": "Vallarta Real Estate Guide",
-      "domain": "vallartarealestateguide.com",
-      "sitemapUrl": "https://vallartarealestateguide.com/sitemap.xml",
-      "addedAt": "2026-04-23",
-      "active": true
-    }
-  ]
+  "competitors": []
 }
