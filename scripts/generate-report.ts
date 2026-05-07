@@ -19,6 +19,8 @@ interface CompetitorDiff {
   removedUrls: DiffEntry[];
   updatedUrls: DiffEntry[];
   fetchError?: string;
+  isBaseline?: boolean;
+  totalCurrentUrls?: number;
 }
 interface DiffData {
   date: string;
@@ -89,6 +91,7 @@ async function generateForCompetitor(
   previousDate: string | null
 ): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
   const sitemapFetchError = diff?.fetchError;
+  const isBaseline = !!diff?.isBaseline;
   const dataPayload = {
     date: TODAY,
     previousDate,
@@ -102,7 +105,7 @@ async function generateForCompetitor(
     sitemapFetchStatus: sitemapFetchError
       ? { ok: false, error: sitemapFetchError }
       : diff
-      ? { ok: true }
+      ? { ok: true, isBaseline, totalCurrentUrls: diff.totalCurrentUrls }
       : { ok: false, error: 'No sitemap snapshot was produced this week.' },
     csvData: csvs,
   };
@@ -133,11 +136,18 @@ Skip sections where there is no data. Do not invent data. Never recommend a page
 CRITICAL RULE FOR SITEMAP FETCH FAILURES:
 The "sitemapFetchStatus" field tells you whether we were actually able to read ${competitor.name}'s sitemap this week.
 - If sitemapFetchStatus.ok is false, you MUST NOT write "no new pages were detected" or any phrasing that implies we looked and found nothing. Instead, in the "New Pages Built" section, state plainly that the sitemap could not be retrieved this week (include the error from sitemapFetchStatus.error in plain English) and that new-page detection is unavailable for this competitor until the fetch issue is resolved. Mention this in the Executive Summary too.
-- If sitemapFetchStatus.ok is true and the diff arrays are empty, then it is correct to say no new pages were detected.`;
+- If sitemapFetchStatus.ok is true and the diff arrays are empty, then it is correct to say no new pages were detected.
+
+CRITICAL RULE FOR BASELINE WEEKS:
+If sitemapFetchStatus.ok is true AND sitemapFetchStatus.isBaseline is true, this is the FIRST successful sitemap snapshot for this competitor. There is no prior week to compare against. The "newUrls" array will be empty by design.
+- You MUST NOT list, summarize, or describe any of the URLs from sitemapDiff.totalCurrentUrls as "new pages built this week" or "pages they shipped this week". Those are existing site URLs, not new construction.
+- In the "New Pages Built" section, state that this is the first successful sitemap capture for this competitor (mention the URL count from sitemapFetchStatus.totalCurrentUrls as their current site footprint), that real week-over-week new-page detection starts from the next cycle, and DO NOT enumerate URLs in this section.
+- The Executive Summary should reflect that this is a baseline week with no week-over-week page-build signal yet.
+- Recommended Actions can still leverage knowledge of MexHome's own page list and general competitive context, but must NOT be framed as a response to "what they built this week".`;
 
   const userPrompt = `Here is this week's data for ${competitor.name} for the report dated ${TODAY}.
 
-${sitemapFetchError ? `(Sitemap fetch FAILED for this competitor this week: ${sitemapFetchError}. Do not claim "no changes" — say the fetch failed.)` : diff ? '' : '(No sitemap diff available for this competitor this week.)'}
+${sitemapFetchError ? `(Sitemap fetch FAILED for this competitor this week: ${sitemapFetchError}. Do not claim "no changes" — say the fetch failed.)` : isBaseline ? `(BASELINE WEEK for this competitor: first successful sitemap capture. Their site has ${diff?.totalCurrentUrls} URLs total. Do NOT list these as "new pages built this week". Real diffs start next cycle.)` : diff ? '' : '(No sitemap diff available for this competitor this week.)'}
 ${csvs.length === 0 ? '(No SEMrush CSV data uploaded for this competitor this week.)' : ''}
 ${mexhomePages.length === 0 ? '(Warning: could not fetch MexHome existing pages this run. Be extra careful recommending new pages.)' : `(MexHome's existing ${mexhomePages.length} content pages are listed in "mexhomeExistingPages" for cross-reference.)`}
 
