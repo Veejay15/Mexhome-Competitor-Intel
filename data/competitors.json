@@ -23,6 +23,14 @@
       "sitemapUrl": "https://www.bajaproperties.com/sitemap.xml",
       "addedAt": "2026-05-07",
       "active": true
+    },
+    {
+      "id": "www-caborealestate-com",
+      "name": "Cabo Real Estate",
+      "domain": "https://www.caborealestate.com/",
+      "sitemapUrl": "https://www.caborealestate.com/sitemap.xml",
+      "addedAt": "2026-05-07",
+      "active": true
     }
   ]
 }
