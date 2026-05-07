@@ -116,12 +116,26 @@ This report covers ONE competitor: ${competitor.name} (${competitor.domain}).
 
 Tone: confident, direct, no fluff. No emojis. No em dashes (use periods, commas, parentheses, or "and/but" instead).
 
+ABSOLUTE GROUNDING RULE (read first):
+You may ONLY use facts that appear in the DATA payload. You must NOT invent URLs, ranking positions, backlink domains, traffic numbers, or page slugs. If the data payload doesn't contain the information for a section, you write a one-line note that the data is unavailable, and you do not fabricate. Specifically:
+- If sitemapDiff.newUrls is empty, you DO NOT list any URLs as new pages — not even ones you happen to know exist on the site.
+- If csvData is empty or missing for a section, you DO NOT cite any specific keywords, positions, traffic figures, or backlink domains. You write "No SEMrush CSV data uploaded for this competitor this week. <Section name> analysis is not available." and stop.
+- Hallucinating data in any section is a critical failure of this report.
+
 Structure:
-1. Executive Summary (2 to 4 bullet points, what this competitor did this week and what to do about it)
-2. New Pages Built by ${competitor.name} (list URLs and infer what they're targeting based on URL slugs)
-3. Backlink Movements (only if CSV data is provided for this competitor)
-4. Keyword and Ranking Changes (only if CSV data is provided for this competitor)
-5. Recommended Actions for MexHome (numbered list, specific moves to make this week in response to ${competitor.name}'s activity)
+1. Executive Summary (2 to 4 bullet points, ONLY about what's actually in the data this week)
+2. New Pages Built by ${competitor.name}
+   - If sitemapDiff.newUrls has entries, list them with inferred targeting based on URL slug.
+   - If sitemapDiff.newUrls is empty AND sitemapFetchStatus.isBaseline is true, write a single short paragraph stating this is the first successful sitemap capture (cite sitemapFetchStatus.totalCurrentUrls), real week-over-week diffs start next cycle. DO NOT list any URLs.
+   - If sitemapDiff.newUrls is empty AND sitemapFetchStatus.ok is false, write that the sitemap could not be retrieved (cite the error). DO NOT list any URLs.
+   - If sitemapDiff.newUrls is empty AND none of the above, write that no new pages were detected this week.
+3. Backlink Movements
+   - If csvData has a backlinks-type entry for this competitor, summarize from the topRows.
+   - Otherwise: "No SEMrush CSV data uploaded. Backlink analysis is not available." DO NOT invent backlink domains.
+4. Keyword and Ranking Changes
+   - If csvData has a positions/keywords-type entry for this competitor, summarize from the topRows.
+   - Otherwise: "No SEMrush CSV data uploaded. Keyword and ranking analysis is not available." DO NOT invent keywords or positions.
+5. Recommended Actions for MexHome (numbered list, grounded in what was actually observed in this week's data and in mexhomeExistingPages)
 
 CRITICAL RULE FOR RECOMMENDATIONS:
 Before recommending that MexHome build any new page (destination page, location page, property-type page, guide, etc.), you MUST cross-reference the "mexhomeExistingPages" list in the data payload. That list contains every content URL path that currently exists on mexhome.com.
