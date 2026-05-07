@@ -2,14 +2,6 @@
   "date": "2026-05-07",
   "files": [
     {
-      "filename": "mexicolife.com-organic.Positions-us-20260506-2026-05-07T07_08_15Z.csv",
-      "blobUrl": "https://9emrnlpepfzbj56m.public.blob.vercel-storage.com/csv/2026-05-07/mexicolife.com-organic.Positions-us-20260506-2026-05-07T07_08_15Z-jrtucMw9Q2YZvAKY6JmJcx9DptC8cm.csv",
-      "uploadedAt": "2026-05-07T08:51:30.655Z",
-      "size": 733956,
-      "competitorId": "www-mexicolife-com",
-      "type": "positions"
-    },
-    {
       "filename": "mexicolife.com-organic.PositionChangesV2-us-20260506-2026-05-07T07_10_11Z.csv",
       "blobUrl": "https://9emrnlpepfzbj56m.public.blob.vercel-storage.com/csv/2026-05-07/mexicolife.com-organic.PositionChangesV2-us-20260506-2026-05-07T07_10_11Z-U2cfaQlJlewftMnULlwORnkS56uRb0.csv",
       "uploadedAt": "2026-05-07T09:14:25.661Z",
@@ -24,6 +16,14 @@
       "size": 14920,
       "competitorId": "www-mexicolife-com",
       "type": "backlinks"
+    },
+    {
+      "filename": "mexicolife.com-organic.Positions-us-20260506-2026-05-07T07_08_15Z.csv",
+      "blobUrl": "https://9emrnlpepfzbj56m.public.blob.vercel-storage.com/csv/2026-05-07/mexicolife.com-organic.Positions-us-20260506-2026-05-07T07_08_15Z-QHzuPorrD8D6lufDS0UzXI1oMKDrQC.csv",
+      "uploadedAt": "2026-05-07T09:14:31.734Z",
+      "size": 733956,
+      "competitorId": "www-mexicolife-com",
+      "type": "positions"
     }
   ]
 }
