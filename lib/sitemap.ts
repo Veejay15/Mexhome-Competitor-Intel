@@ -20,12 +20,52 @@ const BROWSER_HEADERS = {
   'Cache-Control': 'no-cache',
 };
 
-export async function fetchText(url: string): Promise<string> {
-  const res = await fetch(url, { headers: BROWSER_HEADERS, redirect: 'follow' });
+// If a competitor blocks the GitHub Actions runner IP entirely (e.g.
+// mexicolife.com returns 403 to all Azure datacenter IPs regardless of UA),
+// re-issue the request through a Vercel-hosted proxy that lives on a
+// different IP range. Configure with:
+//   SITEMAP_PROXY_URL=https://<your-vercel-domain>/api/fetch-sitemap
+//   SITEMAP_PROXY_TOKEN=<shared secret matching the Vercel env var>
+async function fetchViaProxy(url: string): Promise<string | null> {
+  const proxyUrl = process.env.SITEMAP_PROXY_URL;
+  const proxyToken = process.env.SITEMAP_PROXY_TOKEN;
+  if (!proxyUrl || !proxyToken) return null;
+
+  const target = `${proxyUrl}?url=${encodeURIComponent(url)}`;
+  const res = await fetch(target, {
+    headers: {
+      Authorization: `Bearer ${proxyToken}`,
+      'User-Agent': USER_AGENT,
+    },
+    redirect: 'follow',
+  });
   if (!res.ok) {
-    throw new Error(`Failed to fetch ${url}: ${res.status}`);
+    throw new Error(`Proxy fetch of ${url} failed: ${res.status}`);
   }
   return res.text();
+}
+
+export async function fetchText(url: string): Promise<string> {
+  const res = await fetch(url, { headers: BROWSER_HEADERS, redirect: 'follow' });
+  if (res.ok) return res.text();
+
+  // 403 / 429 are the typical signals that the origin blocked our IP.
+  // Try the proxy fallback before giving up.
+  if ((res.status === 403 || res.status === 429) && process.env.SITEMAP_PROXY_URL) {
+    try {
+      const proxied = await fetchViaProxy(url);
+      if (proxied !== null) {
+        console.log(`  (used proxy fallback for ${url} after ${res.status})`);
+        return proxied;
+      }
+    } catch (err) {
+      throw new Error(
+        `Failed to fetch ${url}: ${res.status} (proxy fallback also failed: ${(err as Error).message})`
+      );
+    }
+  }
+
+  throw new Error(`Failed to fetch ${url}: ${res.status}`);
 }
 
 export async function parseSitemapXml(xml: string): Promise<SitemapEntry[]> {

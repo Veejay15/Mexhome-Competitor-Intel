@@ -50,6 +50,9 @@ jobs:
 
       - name: Fetch competitor sitemaps
         if: steps.check.outputs.skip != 'true'
+        env:
+          SITEMAP_PROXY_URL: ${{ secrets.SITEMAP_PROXY_URL }}
+          SITEMAP_PROXY_TOKEN: ${{ secrets.SITEMAP_PROXY_TOKEN }}
         run: npm run fetch:sitemaps
 
       - name: Diff sitemaps vs previous week
@@ -64,6 +67,8 @@ jobs:
         if: steps.check.outputs.skip != 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITEMAP_PROXY_URL: ${{ secrets.SITEMAP_PROXY_URL }}
+          SITEMAP_PROXY_TOKEN: ${{ secrets.SITEMAP_PROXY_TOKEN }}
         run: npm run report:generate
 
       - name: Commit report and snapshots back to repo
