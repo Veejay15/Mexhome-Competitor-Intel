@@ -5,6 +5,9 @@ const PUBLIC_PATHS = [
   '/help',
   '/api/login',
   '/api/logout',
+  // Sitemap fetch proxy is called by GitHub Actions runners (no session
+  // cookie). It enforces its own bearer-token auth via SITEMAP_PROXY_TOKEN.
+  '/api/fetch-sitemap',
 ];
 
 const COOKIE_NAME = 'mexhome_session';
