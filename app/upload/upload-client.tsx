@@ -86,7 +86,7 @@ export function UploadClient({ competitors }: Props) {
         const fileType =
           selectedType === 'auto' ? inferTypeFromFilename(f.name) : selectedType;
 
-        await upload(pathname, f, {
+        const blob = await upload(pathname, f, {
           access: 'public',
           handleUploadUrl: '/api/upload/blob',
           contentType: 'text/csv',
@@ -96,6 +96,28 @@ export function UploadClient({ competitors }: Props) {
             size: f.size,
           }),
         });
+
+        // Synchronously write the manifest so failures surface here instead of
+        // disappearing into the (unreliable) onUploadCompleted webhook.
+        const finalizeRes = await fetch('/api/upload/finalize', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            date: today,
+            filename: safeFilename,
+            blobUrl: blob.url,
+            competitorId: selectedCompetitorId,
+            type: fileType,
+            size: f.size,
+          }),
+        });
+        if (!finalizeRes.ok) {
+          const data = await finalizeRes.json().catch(() => ({}));
+          throw new Error(
+            data.error ||
+              `Manifest write failed (HTTP ${finalizeRes.status}). The CSV is in Blob but the report won't see it.`
+          );
+        }
 
         setFiles((prev) =>
           prev.map((p, idx) =>

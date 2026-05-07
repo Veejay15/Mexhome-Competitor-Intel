@@ -27,6 +27,10 @@ export interface SitemapDiff {
   newUrls: SitemapEntry[];
   removedUrls: SitemapEntry[];
   updatedUrls: SitemapEntry[];
+  // Set when this week's fetch failed. When present, the diff is meaningless
+  // (the urls arrays will be empty) and the report should say so explicitly
+  // rather than claiming "no changes detected".
+  fetchError?: string;
 }
 
 export interface Report {

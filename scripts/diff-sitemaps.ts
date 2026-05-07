@@ -14,11 +14,19 @@ function listSnapshotDates(): string[] {
     .sort();
 }
 
-function loadSnapshot(date: string, competitorId: string): SitemapEntry[] | null {
+interface LoadedSnapshot {
+  entries: SitemapEntry[];
+  fetchError?: string;
+}
+
+function loadSnapshot(date: string, competitorId: string): LoadedSnapshot | null {
   const p = path.join(ROOT, 'data', 'sitemaps', date, `${competitorId}.json`);
   if (!fs.existsSync(p)) return null;
   const raw = JSON.parse(fs.readFileSync(p, 'utf-8'));
-  return raw.entries || [];
+  return {
+    entries: raw.entries || [],
+    fetchError: typeof raw.fetchError === 'string' ? raw.fetchError : undefined,
+  };
 }
 
 const NOISE_PATTERNS = [
@@ -97,8 +105,27 @@ async function main() {
       console.log(`Skip ${c.name}: no snapshot for today`);
       continue;
     }
+
+    if (curr.fetchError) {
+      // Don't compute a diff against an empty snapshot: that would falsely
+      // report every previously-known URL as removed. Instead, surface the
+      // fetch error so the report can explain why no analysis is available.
+      diffs.push({
+        competitorId: c.id,
+        newUrls: [],
+        removedUrls: [],
+        updatedUrls: [],
+        fetchError: curr.fetchError,
+      });
+      console.log(`${c.name}: fetch failed (${curr.fetchError})`);
+      continue;
+    }
+
     const prev = previous ? loadSnapshot(previous, c.id) : null;
-    const d = diff(c.id, prev, curr);
+    // If the previous snapshot also failed, there's nothing meaningful to diff
+    // against. Treat as first-run: report all current URLs as new.
+    const prevEntries = prev && !prev.fetchError ? prev.entries : null;
+    const d = diff(c.id, prevEntries, curr.entries);
     diffs.push(d);
     console.log(
       `${c.name}: +${d.newUrls.length} new, -${d.removedUrls.length} removed, ~${d.updatedUrls.length} updated`
