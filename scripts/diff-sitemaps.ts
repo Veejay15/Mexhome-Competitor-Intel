@@ -129,9 +129,14 @@ async function main() {
     }
 
     const prev = previous ? loadSnapshot(previous, c.id) : null;
-    // If the previous snapshot also failed, there's nothing meaningful to diff
-    // against. Treat as first-run: report all current URLs as new.
-    const prevEntries = prev && !prev.fetchError ? prev.entries : null;
+    // Treat the previous snapshot as unusable when:
+    // - it doesn't exist, or
+    // - it recorded a fetch error, or
+    // - it has zero entries (likely a misconfigured sitemap URL that returned
+    //   nothing; comparing against [] would falsely flag every current URL
+    //   as "new"). In these cases we want a baseline diff, not a fake delta.
+    const prevEntries =
+      prev && !prev.fetchError && prev.entries.length > 0 ? prev.entries : null;
     const d = diff(c.id, prevEntries, curr.entries);
     diffs.push(d);
     if (d.isBaseline) {
