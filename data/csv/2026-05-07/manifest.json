@@ -8,6 +8,14 @@
       "size": 395356,
       "competitorId": "www-mexicolife-com",
       "type": "positions"
+    },
+    {
+      "filename": "mexicolife.com-backlinks.csv",
+      "blobUrl": "https://9emrnlpepfzbj56m.public.blob.vercel-storage.com/csv/2026-05-07/mexicolife.com-backlinks-f0ELhilgapEcLxUoosmjqaiCOJptyO.csv",
+      "uploadedAt": "2026-05-07T08:51:27.047Z",
+      "size": 14920,
+      "competitorId": "www-mexicolife-com",
+      "type": "backlinks"
     }
   ]
 }
