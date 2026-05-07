@@ -15,6 +15,14 @@
       "sitemapUrl": "https://diamanterealtors.com/sitemap_index.xml",
       "addedAt": "2026-04-23",
       "active": true
+    },
+    {
+      "id": "www-bajaproperties-com",
+      "name": "Baja properties",
+      "domain": "https://www.bajaproperties.com/",
+      "sitemapUrl": "https://www.bajaproperties.com/sitemap.xml",
+      "addedAt": "2026-05-07",
+      "active": true
     }
   ]
 }
