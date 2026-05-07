@@ -4,211 +4,103 @@
 
 ## 1. Executive Summary
 
-- Mexico Life Realty's sitemap was successfully retrieved this week and reveals a substantial site footprint of 300+ indexed pages, including deep development-level pages for Bucerias, Nuevo Vallarta, Puerto Vallarta, La Cruz, Punta de Mita, and Flamingos, along with a growing blog focused on MLS market reports by submarket and month.
-- Their most damaging keyword movements are on core Puerto Vallarta transactional terms: "puerto vallarta homes for sale" (dropped from position 3 to 18), "puerto vallarta condos for sale" (dropped from position 2 to 33), and "puerto vallarta real estate" (dropped out of rankings entirely from position 6). Their /old-town-vallarta.php page is the exception, moving up to position 4 for "puerto vallarta real estate" and representing a real competitive threat on that term.
-- Their backlink profile this week is dominated by spam (zero-authority link farm domains), with two meaningful exceptions: a followed link from Remitly's blog to their closing costs article and a mention on Mexico News Daily. No legitimate link-building campaign is apparent, but the Remitly citation is a real authority signal MexHome should note.
-- MexHome must act this week on two fronts: exploit Mexico Life Realty's ranking collapses on Puerto Vallarta core terms, and close content gaps on the Bucerias, Zona Dorada, and market report verticals where Mexico Life Realty is building depth.
+- This is the first successful sitemap capture for Mexico Life Realty. Their site currently contains 454 URLs. Week-over-week new-page detection begins next cycle. No page-build signal is available this week.
+- Mexico Life Realty suffered severe ranking losses on their highest-value Puerto Vallarta keywords, including dropping from position 3 to 18 for "puerto vallarta homes for sale" (2,900 monthly searches) and from position 2 to 33 for "puerto vallarta condos for sale" (1,300 monthly searches). Their primary real estate listing page also dropped entirely off the first page for "puerto vallarta real estate" (3,600 monthly searches).
+- Despite those losses, they are holding firm at positions 2 to 4 across multiple Puerto Vallarta condo variants, driven by their zona romantica and general condos pages. They also rank #1 for "nuevo vallarta mexico" (Things to Know feature) and hold strong positions for their under-$100K property pool page.
+- Their backlink profile this week is dominated by spam and link-farm activity at Page Authority Score 0. The only two links of any note are from Remitly (AS 18) and Mexico News Daily (AS 13), both pointing to blog content. MexHome should treat these as intelligence, not a threat, but should act to protect its own positions on the keywords Mexico Life Realty is losing.
 
 ---
 
 ## 2. New Pages Built by Mexico Life Realty
 
-The sitemap was successfully fetched. The diff returned a large set of URLs, the majority of which represent the full current site structure rather than a single week's new additions. The notable pages and clusters are documented below with their inferred targeting.
-
-**Core Location and Property-Type Pages**
-
-| URL | Inferred Target |
-|---|---|
-| /puerto-vallarta-real-estate.php | Puerto Vallarta real estate hub |
-| /puerto-vallarta-condos-for-sale.php | PV condos for sale (transactional) |
-| /puerto-vallarta-homes-for-sale.php | PV homes for sale (transactional) |
-| /puerto-vallarta-land-for-sale.php | PV land for sale |
-| /puerto-vallarta-condos-for-sale-zona-romantica.php | Zona Romantica condos (neighborhood-level transactional) |
-| /old-town-vallarta.php | Old Town / Romantic Zone content hub, currently ranking position 4 for "puerto vallarta real estate" |
-| /beachfront-condos-for-sale-in-puerto-vallarta.php | Beachfront condos transactional |
-| /nuevo-vallarta-real-estate.php | Nuevo Vallarta hub |
-| /nuevo-vallarta-condos-for-sale.php | Nuevo Vallarta condos |
-| /nuevo-vallarta-homes-for-sale.php | Nuevo Vallarta homes |
-| /punta-de-mita-real-estate.php | Punta de Mita hub |
-| /punta-de-mita-homes-for-sale.php | Punta de Mita homes |
-| /punta-de-mita-condos-for-sale.php | Punta de Mita condos |
-| /riviera-nayarit-real-estate.php | Riviera Nayarit hub |
-| /la-cruz-real-estate-for-sale.php | La Cruz hub |
-| /la-cruz-condos-for-sale.php | La Cruz condos |
-| /la-cruz-homes-for-sale.php | La Cruz homes |
-| /sayulita-mls.php | Sayulita MLS listings hub |
-| /sayulita-condos-for-sale.php | Sayulita condos |
-| /sayulita-homes-for-sale.php | Sayulita homes |
-| /flamingos-real-estate-for-sale.php | Flamingos neighborhood hub |
-| /flamingos-condos-for-sale.php | Flamingos condos |
-| /flamingos-homes-for-sale.php | Flamingos homes |
-| /san-pancho-mls.php | San Pancho MLS hub |
-| /san-pancho-condos-for-sale.php | San Pancho condos |
-| /san-pancho-homes-for-sale.php | San Pancho homes |
-| /punta-mita-real-estate.php | Punta Mita real estate hub |
-
-**Bucerias Cluster (Highly Developed)**
-
-Mexico Life Realty has built an unusually deep Bucerias content cluster, targeting both the location hub and every major sub-intent:
-
-| URL | Inferred Target |
-|---|---|
-| /bucerias-mls.php | Bucerias MLS listings |
-| /bucerias-condos-for-sale.php | Bucerias condos transactional |
-| /bucerias-homes-for-sale.php | Bucerias homes transactional |
-| /bucerias-real-estate-buying-guide.php | Bucerias buyer guide (informational) |
-| /bucerias-real-estate-developments.php | Bucerias pre-construction hub |
-| /living-in-bucerias-mexico.php | Lifestyle/relocation content |
-| /why-choose-bucerias.php | Persuasive content targeting "why Bucerias" intent |
-| /zona-dorada-real-estate.php | Zona Dorada neighborhood page |
-| /bucerias-vs-la-cruz.php | Comparison content targeting decision-stage buyers |
-| /puerto-vallarta-vs-bucerias.php | Comparison content (currently had position 1 for "bucerias" keyword) |
-| /lo-de-marcos-vs-bucerias.php | Comparison targeting Lo de Marcos buyers |
-| /punta-de-mita-vs-bucerias.php | Comparison targeting Punta de Mita buyers |
-| /nuevo-vallarta-vs-bucerias.php | Comparison targeting Nuevo Vallarta buyers |
-
-They have also built individual development pages for 30+ Bucerias-specific projects including Oqueano, Life, Quadrant, Sabbia, Maralma, Indigo, Mar Azul, Dellaterra, Vista Bucerias, and many others.
-
-**Comparison and Informational Content**
-
-| URL | Inferred Target |
-|---|---|
-| /towns-in-riviera-nayarit.php | Informational hub for Riviera Nayarit towns |
-| /puerto-vallarta-real-estate-a-buyers-guide.php | Buyer guide targeting "how to buy" intent in PV |
-| /how-foreigners-buy-real-estate-in-mexico.php | Foreigner buying guide (broad Mexico intent) |
-| /mexico-real-estate-glossary.php | Glossary page targeting long-tail definition queries |
-| /mexico-mortgage-calculator.php | Mortgage calculator tool (currently ranking position 1 for "mexico mortgage calculator") |
-| /mortgage/complete-guide-getting-mortgage-mexico-2025.php | Mortgage guide (competitive content targeting) |
-| /currency-exchange-for-mexico-real-estate.php | Currency exchange tool/guide |
-| /property-size-converter.php | Utility tool for property size conversion |
-| /profit-loss-calculator.php | Investment ROI calculator tool |
-
-**Filter and Feature Pages**
-
-| URL | Inferred Target |
-|---|---|
-| /pool/under-100000/ | "Houses for sale in Mexico under $100k" (currently ranking position 1 for multiple variants) |
-| /oceanfront-beachfront.php | Beachfront property filter |
-| /pet-friendly.php | Pet-friendly listings filter |
-| /gated-communities.php | Gated communities filter |
-| /golf-puerto-vallarta.php | Golf property filter |
-| /new-puerto-vallarta-real-estate-listings.php | New listings filter |
-| /price-changes-for-the-week.php | Weekly price reduction tracking |
-| /properties-with-virtual-tours.php | Virtual tour listings |
-| /puerto-vallarta-luxury-properties-for-sale.php | Luxury properties filter |
-| /puerto-vallarta-penthouse-condos-for-sale.php | Penthouse condos filter |
-
-**Blog: MLS Market Reports (Recurring Series)**
-
-Mexico Life Realty is publishing monthly MLS market reports broken out by submarket and property type. This is a deliberate content strategy targeting data-driven real estate search terms.
-
-| URL | Inferred Target |
-|---|---|
-| /blog/puerto-vallarta-condos-mls-market-report-july-2025.html | PV condos market data |
-| /blog/puerto-vallarta-houses-mls-market-report-july-2025.html | PV houses market data |
-| /blog/puerto-vallarta-land-mls-market-report-july-2025.html | PV land market data |
-| /blog/romantic-zone-condos-mls-market-report-july-2025.html | Romantic Zone condos data |
-| /blog/marina-vallarta-condos-mls-market-report-july-2025.html | Marina Vallarta condos data |
-| /blog/bucerias-condos-mls-market-report-july-2025.html | Bucerias condos data |
-| /blog/la-cruz-de-huanacaxtle-condos-mls-market-report-july-2025.html | La Cruz condos data |
-| /blog/nuevo-vallarta-west-condos-mls-market-report-july-2025.html | Nuevo Vallarta west condos data |
-| /blog/buying-property-in-mexicos-restricted-zone-complete-faq-for-foreign-buyers.html | Restricted zone FAQ (ranking for "mexico real estate" at position 3 before drop) |
-| /blog/mexico-real-estate-closing-costs.html | Closing costs guide (earned Remitly citation) |
+This is the first successful sitemap capture for Mexico Life Realty. Their site footprint currently stands at 454 URLs. Because no prior snapshot exists for comparison, week-over-week new-page detection is unavailable. Real diffs will begin next cycle.
 
 ---
 
 ## 3. Backlink Movements
 
-Mexico Life Realty received 51 new backlinks detected this week. The quality breakdown is stark.
+Mexico Life Realty received 51 new backlinks in this reporting period. The signal is almost entirely noise.
 
-**Meaningful Links (2 of 51)**
+**Links worth noting (Authority Score above zero):**
 
-1. **Remitly** (remitly.com, page authority score 18): A followed, in-content link from their "How Much Does a House Cost in Mexico in 2026" guide to Mexico Life Realty's closing costs article. Anchor text is "range from," meaning it reads as a natural editorial citation. This is a real DR-signal link from a globally known fintech brand and represents the kind of editorial mention that moves authority.
+- **Remitly.com (AS 18):** A do-follow contextual link from a Remitly blog post titled "How Much Does a House Cost in Mexico in 2026," pointing to Mexico Life Realty's closing costs blog post with the anchor "range from." This is a legitimate editorial citation on a high-traffic personal finance page. The Remitly article targets searchers researching Mexico property costs, a topic MexHome already covers at `/blog/buying-a-property-in-mexico-costs-and-taxes-explained/`. This citation adds real authority to their closing costs content.
+- **Mexico News Daily (AS 13):** A do-follow link from a paginated archive page (page 287), pointing to their Puerto Vallarta house market report from March 2025. The link appears incidental (embedded in a redirect-style URL), so its authority value is limited, but the target page (a market report) is a content format MexHome does not have a direct equivalent of.
 
-2. **Mexico News Daily** (mexiconewsdaily.com, page authority score 13): A followed link from page 287 of Mexico News Daily to Mexico Life Realty's March 2025 Puerto Vallarta house market report. The source URL structure suggests a paginated archive page rather than a dedicated editorial mention, so the impact is limited, but the domain is a legitimate Mexico-focused publication.
+**Links to disregard:**
 
-**Spam Links (49 of 51)**
+The remaining 49 links all carry Authority Score 0 and originate from known link-farm and spam networks (indexaward.com, domainanalysis.org, allwebsitesdirectory.com, rankvanceseo.info, and similar). Anchors include competitor brand names such as "buceriashomes.com," "homeinmexico.com," and "puertovallartarealestate.com," which is consistent with a bulk link injection service rather than an intentional outreach campaign. These links will not move their rankings and may eventually trigger a quality signal issue.
 
-The remaining 49 links originate from zero-authority domains (page score 0 across all) with titles like "Where to buy aged domains and backlinks" and "Boost Organic Traffic with Premium Backlinks." These are link farm or spam directory sources with 9,000 to 10,000 external links per page. Anchors include competitor domain names such as "buceriashomes.com," "puertovallartarealestate.com," and "homeinmexico.com," suggesting these may be automated link building tools or scrapers. These links carry no SEO value and likely no negative impact either, as they are patterns Google ignores at scale.
-
-**Net Assessment**: Mexico Life Realty's legitimate link acquisition this week is narrow but notable. The Remitly citation is the kind of authoritative editorial link that compounds over time, earned through their data-driven closing costs content.
+**Net assessment:** One legitimate link from a personal finance publisher. The rest is spam. MexHome is not at a backlink disadvantage based on this week's data, but the Remitly placement on Mexico property costs is worth monitoring.
 
 ---
 
 ## 4. Keyword and Ranking Changes
 
-**Significant Declines (Traffic Lost)**
+Mexico Life Realty's position change file covers 1,898 keyword movements. The table below covers all material changes from the top rows provided.
 
-| Keyword | Previous Position | Current Position | Search Volume | Traffic Change | Notes |
+### Major Losses (Traffic-Impacting Drops)
+
+| Keyword | Prev. Position | Current Position | Search Volume | Traffic Change | Notes |
 |---|---|---|---|---|---|
-| puerto vallarta homes for sale | 3 | 18 | 2,900 | -229 | Core transactional term, significant ranking collapse |
+| puerto vallarta homes for sale | 3 | 18 | 2,900 | -229 | Largest traffic loss this week |
 | puerto vallarta condos for sale | 2 | 33 | 1,300 | -171 | Dropped off page 1 entirely |
-| condos for sale in puerto vallarta mexico | 2 | 26 | 1,000 | -132 | Fell from near-top to page 3 |
-| puerto vallarta real estate | 6 | Not ranking (0) | 3,600 | -126 | Dropped out of index for this term |
-| houses for sale puerto vallarta | 3 | Not ranking (0) | 880 | -72 | Dropped out entirely |
-| homes for sale puerto vallarta | 4 | 14 | 880 | -61 | Slipped two pages |
-| mexico real estate | 3 | Not ranking (0) | 2,900 | -50 | Lost position for this broad term |
-| bucerias | 1 | Not ranking (0) | 2,900 | -63 | Lost top spot for the destination keyword |
-| vallarta condos | 1 | 38 | 260 | -64 | Near-complete loss |
+| condos for sale in puerto vallarta mexico | 2 | 26 | 1,000 | -132 | Page: beachfront condos PHP |
+| puerto vallarta real estate | 6 | 0 (not ranking) | 3,600 | -126 | Highest-volume keyword lost |
+| houses for sale puerto vallarta | 3 | 0 (not ranking) | 880 | -72 | Lost entirely |
+| bucerias (People Also Ask) | 1 | 0 (not ranking) | 2,900 | -63 | Lost PAA position |
+| vallarta condos | 1 | 38 | 260 | -64 | Page 4 |
+| homes for sale puerto vallarta | 4 | 14 | 880 | -61 | Dropped off page 1 |
+| mexico real estate (Things to Know) | 3 | 0 | 2,900 | -50 | Lost feature entirely |
+| san pancho mexico real estate | 2 | 6 | 390 | -42 | Still on page 1, but weakened |
 | puerto vallarta condo for sale | 2 | 32 | 210 | -42 | Off page 1 |
-| san pancho mexico real estate | 2 | 6 | 390 | -42 | Slipped from page 1 top to mid-page |
-| chacala mexico | 7 | Not ranking (0) | 1,900 | -24 | Lost informational term |
-| pier 57 puerto vallarta | 6 | 18 | 1,000 | -34 | Brand/development term dropped |
+| pier 57 puerto vallarta | 6 | 18 | 1,000 | -34 | Dropped significantly |
+| mexico realty | 5 | 12 | 720 | -25 | Still ranking |
+| chacala mexico | 7 | 0 | 1,900 | -24 | Lost entirely |
 
-**Significant Gains (Traffic Won)**
+### Material Gains
 
-| Keyword | Previous Position | Current Position | Search Volume | Traffic Change | Notes |
+| Keyword | Prev. Position | Current Position | Search Volume | Traffic Change | Notes |
 |---|---|---|---|---|---|
-| puerto vallarta real estate | 22 | 4 | 3,600 | +103 | /old-town-vallarta.php now ranking top 5 |
-| nuevo vallarta mexico | 0 | 1 | 1,000 | +124 | Jumped to position 1 via "Things to know" feature |
-| condos for sale in puerto vallarta mexico | 0 | 4 | 1,000 | +65 | /puerto-vallarta-condos-for-sale.php now ranking |
-| puerto vallarta real estate condos for sale | 0 | 2 | 480 | +63 | Strong position for this variant |
-| condo for sale puerto vallarta | 0 | 3 | 390 | +31 | Zona Romantica page earning rankings |
-| puerto vallarta condos for sale | 0 | 9 | 1,300 | +31 | Zona Romantica page entering top 10 |
-| cheap homes for sale in mexico | 0 | 3 | 320 | +26 | /pool/under-100000/ ranking for price-filtered search |
-| cheap houses for sale in mexico | 0 | 3 | 320 | +26 | Same page, different keyword variant |
+| nuevo vallarta mexico (Things to Know) | 0 | 1 | 1,000 | +124 | New feature capture |
+| puerto vallarta real estate (Old Town page) | 22 | 4 | 3,600 | +103 | Strong organic gain via alternate URL |
+| condos for sale in puerto vallarta mexico | 0 | 4 | 1,000 | +65 | Via condos-for-sale.php page |
+| puerto vallarta real estate condos for sale | 0 | 2 | 480 | +63 | Zona romantica and condos pages |
+| condo for sale puerto vallarta | 0 | 3 | 390 | +31 | Via zona romantica page |
+| puerto vallarta condos for sale | 0 | 9 | 1,300 | +31 | Via zona romantica page |
+| cheap homes for sale in mexico | 0 | 3 | 320 | +26 | Under-$100K pool page |
+| cheap houses for sale in mexico | 0 | 3 | 320 | +26 | Under-$100K pool page |
+| puerto vallarta mexico condos | 21 | 2 | 210 | +27 | Via condos-for-sale.php |
 
-**Stable Strong Positions Worth Monitoring**
+### Pattern Analysis
 
-Mexico Life Realty holds consistent top-5 positions on several terms MexHome competes on:
+Mexico Life Realty is experiencing a URL-level reshuffling rather than a clean site-wide decline. Their older PHP-based pages (beachfront-condos-for-sale-in-puerto-vallarta.php, puerto-vallarta-real-estate.php, idx/) are losing positions sharply while their zona romantica condos page and old-town-vallarta page are picking up traffic. This suggests Google may be re-evaluating which of their pages best satisfies individual queries. The net effect is significant traffic loss on their highest-volume terms.
 
-- "puerto vallarta real estate" at position 4 via /old-town-vallarta.php
-- "condos for sale in puerto vallarta mexico" at position 4
-- "homes for sale in puerto vallarta mexico" at position 7
-- "nuevo vallarta real estate" at position 2
-- "mexico mortgage calculator" at position 1 (tool-based)
-- "houses for sale in mexico under $100,000" at position 1 (filter page)
-
-**Key Pattern**: Mexico Life Realty's core domain pages are losing rankings while specific sub-pages (Zona Romantica condos page, Old Town page, price filter page) are picking up. This suggests Google may be preferring their more targeted, sub-location pages over their general hub pages, which is a structural shift MexHome should capitalize on.
+Their under-$100K pool page is a notable standout, holding or gaining on "cheap homes for sale in mexico," "cheap houses for sale in mexico," and related sub-$100K queries where they rank #1 to #3 with minimal competition (KD 1 to 16). MexHome does not appear to have a direct equivalent.
 
 ---
 
-## 5. Recommended Actions for MexHome This Week
+## 5. Recommended Actions for MexHome
 
-**1. Strengthen the existing Puerto Vallarta condos page to capture Mexico Life Realty's ranking collapses.**
+**1. Strengthen existing Puerto Vallarta homes and condos pages to capitalize on Mexico Life Realty's losses.**
 
-Mexico Life Realty has fallen from position 2 to position 33 for "puerto vallarta condos for sale" (1,300 monthly searches) and from position 2 to position 26 for "condos for sale in puerto vallarta mexico" (1,000 monthly searches). MexHome already has /area/puerto-vallarta-real-estate/condos-for-sale/ for this. Audit this page this week: ensure it has a strong H1 targeting the primary keyword, updated inventory count, a brief neighborhood breakdown (Romantic Zone, Marina, Hotel Zone, South Shore), and internal links to every PV neighborhood condo subpage. The window to move into the gap is open right now.
+Their biggest declines are on "puerto vallarta homes for sale" (-229 traffic), "puerto vallarta condos for sale" (-171), and "condos for sale in puerto vallarta mexico" (-132). MexHome already has equivalent pages at `/area/puerto-vallarta-real-estate/homes-for-sale/` and `/area/puerto-vallarta-real-estate/condos-for-sale/`. This week, prioritize a content audit of both pages. Add current inventory counts, a market context paragraph, neighborhood filter links, and internal links to high-converting neighborhood pages (e.g., Zona Romantica, Amapas, Marina Vallarta). The goal is to capture the buyers who are no longer finding Mexico Life Realty in positions 1 to 5.
 
-**2. Expand the existing Puerto Vallarta homes page to target the "puerto vallarta homes for sale" collapse.**
+**2. Publish a Mexico real estate closing costs content piece targeting the Remitly-cited topic.**
 
-Mexico Life Realty fell from position 3 to position 18 for "puerto vallarta homes for sale" (2,900 monthly searches). MexHome has /area/puerto-vallarta-real-estate/homes-for-sale/ for this. Update the page with fresh listing data, a clear H1, and a section addressing buyer intent (types of homes, neighborhoods, price ranges). This is a 2,900-search-volume term that Mexico Life Realty is now weak on.
+Mexico Life Realty earned a legitimate do-follow link from Remitly (AS 18) pointing to their closing costs blog post. MexHome has `/blog/buying-a-property-in-mexico-costs-and-taxes-explained/` and `/blog/unraveling-closing-costs-and-taxes-in-puerto-vallarta-and-riviera-nayarit-a-must-read-guide-for-property-buyers/`. Review both pages this week. Consolidate or strengthen whichever is thinner. Then pitch Remitly's editorial team as an alternative or additional source for their Mexico property costs article. Remitly explicitly cited a competitor, which confirms the editorial contact is open to linking to this topic category.
 
-**3. Build out a Zona Romantica condos page as a direct response to Mexico Life Realty's /puerto-vallarta-condos-for-sale-zona-romantica.php, which is now holding position 3 for multiple "condo for sale puerto vallarta" variants.**
+**3. Build a price-filtered property pool page targeting "cheap homes for sale in mexico" and sub-$100K queries.**
 
-MexHome does not have a dedicated Zona Romantica condos page. MexHome has /area/puerto-vallarta-real-estate/emiliano-zapata/ and related neighborhood pages but no page directly targeting "Zona Romantica condos for sale" as a search intent. Build this page this week, targeting "condos for sale in Zona Romantica," "Romantic Zone condos for sale Puerto Vallarta," and related variants. This is a genuine content gap and Mexico Life Realty is actively holding top-3 positions with it.
+Mexico Life Realty holds positions 1 to 3 for "houses for sale in mexico under $100,000," "cheap homes for sale in mexico," and "cheap houses for sale in mexico" via their `/pool/under-100000/` page. These keywords carry 320 to 210 monthly searches, KD of 0 to 16, and extremely low competition (0.05 to 0.08). MexHome does not have an equivalent filtered pool page in the existing content list. Build a `/properties/under-100000/` or `/area/affordable-homes-for-sale-in-mexico/` page this week, populated with filtered listings and a brief editorial intro. This is a genuine content gap where Mexico Life Realty has an uncontested foothold.
 
-**4. Expand the existing Bucerias hub pages to counter Mexico Life Realty's Bucerias content cluster.**
+**4. Investigate and target "nuevo vallarta mexico" with an informational page.**
 
-Mexico Life Realty has built a full Bucerias content cluster including comparison pages (Bucerias vs La Cruz, Puerto Vallarta vs Bucerias, etc.), a buying guide, a developments hub, and a lifestyle page. MexHome already has /area/riviera-nayarit-real-estate/bucerias-mexico/ with condos, homes, and land subpages. The gap is in informational and comparison content. Add a "Living in Bucerias" section to the existing hub page, and consider whether a Zona Dorada neighborhood subpage under Bucerias is warranted, since Mexico Life Realty now has /zona-dorada-real-estate.php targeting that sub-neighborhood directly. MexHome has /area/riviera-nayarit-real-estate/bucerias-mexico/zona-dorada/ already, so focus on expanding its content depth rather than building a new page.
+Mexico Life Realty ranks #1 in the "Things to Know" SERP feature for "nuevo vallarta mexico" (1,000 monthly searches) via their condos-for-sale PHP page, which is not primarily an informational destination. MexHome has `/area/riviera-nayarit-real-estate/nuevo-vallarta/` as its area hub. Review whether that page contains sufficient informational content (neighborhood overview, lifestyle, cost of living signals) to compete for the Things to Know feature. If the page is thin on editorial content, add a 300 to 400 word destination overview section this week.
 
-**5. Publish a monthly MLS market report series starting with Puerto Vallarta condos.**
+**5. Protect the "san pancho mexico real estate" position before Mexico Life Realty stabilizes.**
 
-Mexico Life Realty has built an entire recurring blog series of MLS market reports (Puerto Vallarta condos, houses, land; Marina Vallarta condos; Bucerias condos; La Cruz condos; Nuevo Vallarta condos; Romantic Zone condos). This is the content that earned them the Remitly citation and is positioning them as a data authority. MexHome has a blog at /blog/ but no equivalent recurring market data series. Publish the first report this week targeting "Puerto Vallarta condo market report [month] [year]" and commit to monthly cadence. This directly contests Mexico Life Realty's Remitly-cited closing costs and market data content.
+Mexico Life Realty slipped from position 2 to 6 on "san pancho mexico real estate" (390 monthly searches). MexHome has content at `/blog/real-estate-san-pancho-mexico/` and `/area/riviera-nayarit-real-estate/san-francisco-mexico/`. Cross-link these two pages with explicit anchor text referencing San Pancho real estate. Add a current market note or updated listing count to the area page. Small moves now can take advantage of the window while their page is weakened.
 
-**6. Target the "cheap homes for sale in mexico" keyword by building or strengthening a price-filtered listing experience.**
+**6. Monitor Mexico Life Realty's old-town-vallarta.php page closely.**
 
-Mexico Life Realty holds position 3 for "cheap homes for sale in mexico" and "cheap houses for sale in mexico" (320 monthly searches each) via their /pool/under-100000/ page. MexHome has /listing-type/for-sale/ but no equivalent price-filtered page targeting sub-$100k buyers. Create a filtered listing page or landing page targeting "affordable homes for sale in Mexico" and "homes for sale in Mexico under $100,000." This is a low-difficulty keyword (KD 9 to 16) with clear buyer intent that Mexico Life Realty is currently owning unopposed.
-
-**7. Pursue a citation from Remitly or similar fintech/expat publications with MexHome's existing closing costs content.**
-
-Mexico Life Realty earned a followed editorial link from Remitly this week via their closing costs article. MexHome has /blog/buying-a-property-in-mexico-costs-and-taxes-explained/ and /blog/unraveling-closing-costs-and-taxes-in-puerto-vallarta-and-riviera-nayarit-a-must-read-guide-for-property-buyers/ covering this topic. Identify 5 to 10 personal finance, expat, and relocation publications that have written about buying property in Mexico (Remitly, NerdWallet, Investopedia, Expatica, International Living) and pitch MexHome's closing costs and buyer guide content as a data source. The goal is to earn the same category of citation Mexico Life Realty just received.
+Their page at mexicolife.com/old-town-vallarta.php jumped from position 22 to 4 for "puerto vallarta real estate" (3,600 monthly searches), generating +103 in estimated traffic. This is now their strongest-ranking URL for the site's most important keyword. MexHome's primary competitor for that query is no longer their main real estate page but a neighborhood-specific page. Review MexHome's `/area/puerto-vallarta-real-estate/downtown-centro-puerto-vallarta/` and `/area/puerto-vallarta-real-estate/` hub pages. Ensure internal linking, title tags, and on-page signals are aligned to compete for this query at a hub level rather than ceding it to a single neighborhood page.
