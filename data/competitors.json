@@ -31,6 +31,14 @@
       "sitemapUrl": "https://www.caborealestate.com/sitemap.xml",
       "addedAt": "2026-05-07",
       "active": true
+    },
+    {
+      "id": "www-topmexicorealestate-com",
+      "name": "TopMexicoRealEstate",
+      "domain": "https://www.topmexicorealestate.com/",
+      "sitemapUrl": "https://www.topmexicorealestate.com/sitemap.xml",
+      "addedAt": "2026-05-07",
+      "active": true
     }
   ]
 }
