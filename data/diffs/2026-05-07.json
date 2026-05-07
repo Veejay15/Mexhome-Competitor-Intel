@@ -4,10 +4,1372 @@
   "diffs": [
     {
       "competitorId": "www-mexicolife-com",
-      "newUrls": [],
+      "newUrls": [
+        {
+          "url": "https://www.mexicolife.com/"
+        },
+        {
+          "url": "https://www.mexicolife.com/sitemap.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/search.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/privacy-policy.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/help.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/agents.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-real-estate-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/offices.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sayulita-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/testimonials.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/enhanced-listings.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/web-accessibility.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/communities.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-real-estate-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/chacala-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/destiladeras-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/guayabitos-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-penita-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/litibu-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/lo-de-marcos-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mismaloya-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/san-pancho-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/el-tuito-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/marina-vallarta-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/terralta-3-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/terralta-1-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-arboles-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/amapas-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/versalles-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/conchas-chinas-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/san-pancho-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/san-pancho-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sayulita-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-condos-for-sale-zona-romantica.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/guadalajara.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mexico-mortgage-calculator.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mortgage/complete-guide-getting-mortgage-mexico-2025.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/listings.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/about.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/about/osm.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/contact.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/buyers-form.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sellers-form.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/home-valuation.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/life-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/oqueano-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-zona-dorada-pavilion-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-vida-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/vista-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/quadrant-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sabbia-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-grand-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/promenade-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/barlovento-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-progresso-universidad-entorno.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-airport-torre-koba.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-ixtapa-departamento-carlos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-la-floresta-moncao-uno.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-aramara-bambu-residencial.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-fluvial-centrika.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/miramar-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-esmeralda-la-cruz-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-el-tizate-ph-torre-taib.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-pelicanos-cruz-de-mar.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-las-gaviotas-formentera.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/canuva-lux-la-cruz-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-la-cruz-centro-ocean-singer.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-las-gaviotas-torre-pacifica.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/alamar-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-marival-residences.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-ikaria.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/villa-magna-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-canal-los-peces.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-canal-quinta-san-miguel.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-delfines.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-los-crotos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/ocean-terrace-nuevo-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-bahia-del-sol.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-paradise-village-luma.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/playa-royale-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-peninsula.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-grand-marina-villas.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-314-living.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-canal-punto-novo.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-ki-green-district.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-el-tigre-taheima.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/isla-palmares-nuevo-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-el-tigre-green-bay.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-el-tigre-peninsula-golf.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-mayan-palace-vitania.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-mayan-palace-balancan.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-mayan-palace-seibal.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-el-tigre-green-18.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-vallarta-v-golf.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-villas-del-country.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-v-marina.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-bay-view-grand.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-playa-de-oro-duva.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-plaza-marina.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-nima-bay.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-marina-suites.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-marina-sol.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-marina-del-rey.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-royal-pacific.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-puesta-del-sol.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/portofino-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-los-caracoles.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-shangrila.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-las-palmas-ii.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-las-palmas-i.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-villas-pacifico.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-tres-mares.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-zoho-skies.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-aramara-manyara.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-icon.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-peninsula-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-condomar-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-tules-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-puerto-del-luna.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-venecia-palm.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-roma.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-portamar.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-terra.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-origen.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-grand-trianon.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-palm-springs.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-via-milan.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-harbor-171.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-viena.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-los-sauces.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-coapinole-mirador.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-barrio-sta-maria-las-palmas.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-colonial.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-brilla-sol.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-oporto.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/lifestyle.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/gated-communities.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/golf-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-kai-loft.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/oceanfront-beachfront.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/pet-friendly.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-los-altos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/pool.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-mangos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-luxury-properties-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-concept-180.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-vista-bahia.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/new-puerto-vallarta-real-estate-listings.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-sotavento.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-allende-tower.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-los-papelillos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/perla-del-mar-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/azul-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/pacifica-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/moona-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/casa-del-mar-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nayri-ocean-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/suites-atlas-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/suite-sandi-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/vento-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-arena-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nova-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-puesta-del-sol.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/molino-de-agua-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-rincon-de-almas.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-desire.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-avida.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-plaza-mar.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-pavilion.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-loft-268.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-zenith.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-nayri.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-v399.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/105-sail-view-puerto-vallarta-condos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-pier-57.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-nomada.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-el-dorado.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-pinnacle.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-sohopv.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-villas-jacarandas.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-agave-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-el-remance.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-scala.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-loma-del-sol.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-campanario.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-villas-de-las-colinas.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-avalon.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-perlas-de-las-lomas.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-indah.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-conchas-chinas-montemar.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-conchas-chinas-vallarta-med.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-conchas-chinas-marlinda.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-playa-los-venados-the-reef.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-punta-negra-quinta-esmeralda.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-punta-negra-mirablau.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/garza-blanca-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mismaloya-sierra-del-mar.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mismaloya-villas-altas.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-sport-residence-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/orquideas-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/acqua-flamingos-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/quinta-del-mar-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/del-canto-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/believe-flamingos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-el-faro-real.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-el-anclote.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/litibu-haixa.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-portosanto.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-conchas-chinas-carmelina.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-v-estrella.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-ocean-vista.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-jarretaderas-7-mares.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/zantamar-la-cruz-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/diagonal-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/boracay-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-palmares-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/velmar-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bahia-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/deimare-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/terralta-2-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-penthouse-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/balica-luxury-living.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/espana-316-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/albatros-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/paramount-bay-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bugambilias-nuevo-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/dtoscana-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/azulejos-grand.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/v-bucerias-condos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/oasis-riviera-cuale-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sierra-del-mar-los-arcos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/las-verandas-de-amapas-condos-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sayan-beach-condos-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-real-estate-developments.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/arrecife-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/arama-bay-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/featured-listings.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/pre-construction.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/faq.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/ready-to-live.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-pelicanos-la-cruz-de-huanacaxtle-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-area-real-estate-reports.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sayulita-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/arena-blanca-condominiums-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-las-gaviotas-la-joya.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-plata-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/maralma-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/colibri-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/style-guide.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/careers.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/velas-vallarta-marina-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/ibiza-nuevo-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/living-in-bucerias-mexico.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/refugio-del-mar-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/belle-vie-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/siete-uno-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-alebrijes-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nerea-living-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/avelar-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-amores-1-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-amores-2-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mar-de-plata-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-mangos-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/playa-seis-bucerias-condo-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/tau-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/torres-bom-sol-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/costa-dorada-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/arenka-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/makare-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/pisitos-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/ciye-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/cuatro-estaciones-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/dellaterra-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/indigo-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/las-flores-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/las-villas-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mar-azul-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-coradiso-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/risco-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/suites-malvinas-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/tayau-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mina-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/the-one-residences-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/musa-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/naarena-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/torre-agua-marina-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/torre-naomi-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/narval-norte-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/villas-del-sol-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/narval-sur-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/paraiso-del-mar-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/parota-condominiums-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/paseo-vallarta-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bungalows-arroyo-bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/real-del-mar-for-sale-la-cruz.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/villa-la-estancia-nuevo-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-vs-la-cruz.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-vs-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/lo-de-marcos-vs-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-vs-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-vs-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/towns-in-riviera-nayarit.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-mls.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-real-estate-buying-guide.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/why-choose-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/zona-dorada-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/amapas-353-puerto-vallarta-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-real-estate-a-buyers-guide.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-land-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/old-town-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/beachfront-condos-for-sale-in-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/price-changes-for-the-week.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/el-tigre-nuevo-vallarta-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/bengala-boutique-nuevo-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/profit-loss-calculator.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sold-listings.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/currency-exchange-for-mexico-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/flexmls-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/explore-the-best-houses-for-sale-near-you.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/grand-venetian-condos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/las-moras-homes-for-sale-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/ocean-view-condos-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/marbella-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-condo-report---april-2024.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/v177-condos-puerto-vallarta-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/v-conchas-chinas-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/top-10-puerto-vallarta-deals.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/barra-de-navidad.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/taskmagic-glossary-of-terms.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/properties-close-to-mexico-life-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/oceana-bucerias-condos.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/guanajuato-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/ixtapa-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/cabo-corrientes-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/costa-alegre-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/costa-banderas-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/monteon-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/tomatlan-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/rincon-del-cielo-nuevo-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-fronda-nuevo-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/udara-bucerias.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mdy-puerto-vallarta.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/stanza-bucerias-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/jarretaderas-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/sierra-madre-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mezcales-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/property-size-converter.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mexico-real-estate-glossary.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/properties-with-virtual-tours.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/cma.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/brand.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/services.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/terms-of-service.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/editorial-publishing-principles.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/ethics-disclosure-policy.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/data-methodology.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/how-foreigners-buy-real-estate-in-mexico.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-paradise-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/tridenta-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/unatu-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/v-boulevard-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/south-bay-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/3-vistas-high-living-condos-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-mangos-bucerias-homes-for-sale.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-mita-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/riviera-nayarit-real-estate.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/test.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/buying-property-in-mexicos-restricted-zone-complete-faq-for-foreign-buyers.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-vallarta-condos-mls-market-report-july-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condos-mls-market-report-july-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/la-cruz-de-huanacaxtle-condos-mls-market-report-july-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/nuevo-vallarta-west-condos-mls-market-report-july-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/romantic-zone-condos-mls-market-report-july-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-mls-market-report-july-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-houses-mls-market-report-july-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condos-mls-market-report-july-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-vallarta-condo-market-report-june-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-june-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-houses-market-report-june-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-market-report-june-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mismaloya-house-market-report-april-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condo-market-report-april-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-april-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-house-market-report-april-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-market-report-april-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/nuevo-vallarta-west-condo-market-report-march-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/zona-dorada-houses-march-2025-market-report-inventory-climb-sales-pause.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/la-cruz-condo-market-report-march-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condo-market-report-march-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/romantic-zone-condo-market-report-march-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-march-2025-analysis.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-house-market-report-march-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-land-market-report-feb-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-house-market-report-feb-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-condo-market-report-feb-2025.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mexico-real-estate-closing-costs.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/cfdi.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/beyond-the-numbers-puerto-vallartas-land-market-reveals-unprecedented-investment-landscape.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/2024-november-puerto-vallarta-real-estate-market-report-for-homes.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-report-november-2024.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/august-2024-homes-report-puerto-vallarta.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/august-2024-puerto-vallarta-condo-market-report.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/home-market-trends-july-2024.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/july-2024-condo-market-report.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-home-market-report-june-2024.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/june-2024-puerto-vallarta-condo-market-report.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/luxury-waves-condos-discover-the-hidden-gem-of-bucerias.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/point2-homes-mexico-closing.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-towers-puerto-vallarta.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/riviera-nayarit-golf-courses.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/best-real-estate-companies-in-puerto-vallarta.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/grand-venetian-puerto-vallarta.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/ultimate-guide-beachfront-living-puerto-vallarta.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-global-real-estate-boom.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/march-2024-real-estate-market-report-houses.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/march-2024-real-estate-market-report-condos.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/exploring-the-best-puerto-vallarta-real-estate-opportunities.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/exploring-the-puerto-vallarta-mls-on-mexicolifecom.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/2023-puerto-vallarta-real-estate-market-review.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/why-median-home-sales-price-is-confusing-right-now.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/people-want-less-expensive-homes-and-builders-are-responding.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/low-housing-inventory-is-a-sweet-spot-for-sellers.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/live-and-work-abroad.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/june-2023-puerto-vallarta-and-area-real-estate-market-report.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/retire-in-paradise-puerto-vallarta-real-estate-for-retirement.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/decluttering-your-home-for-sale.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/the-pros-and-cons-of-pre-construction-in-mexico.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/losing-that-lovin-feeling-for-your-humble-abode-time-to-pack-your-bags.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/10-benefits-of-living-by-the-ocean-in-the-bay-of-banderas.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/the-humpback-whales-of-the-bay-of-banderas.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/how-to-avoid-mexico-vacation-rental-scams.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/top-10-puerto-vallarta-real-estate-questions.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/top-10-things-to-do-in-puerto-vallarta.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/interested-in-moving-to-puerto-vallarta-mexico.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/risco-bucerias-ocean-view-condos-for-sale.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/idx/"
+        },
+        {
+          "url": "https://www.mexicolife.com/idx/map/"
+        }
+      ],
       "removedUrls": [],
-      "updatedUrls": [],
-      "fetchError": "Failed to fetch https://www.mexicolife.com/sitemap.xml: 403"
+      "updatedUrls": []
     },
     {
       "competitorId": "diamanterealtors-com",

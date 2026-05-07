@@ -4,52 +4,63 @@
 
 ## 1. Executive Summary
 
-- Diamante Realtors added three new pages between 2026-05-04 and 2026-05-07: two agent profile pages (English and Spanish versions for Emma Nicholson) and an updated agents directory page. The activity is light in volume but signals continued investment in their agent roster and bilingual agent discoverability.
-- Their sitemap was successfully retrieved this week. The broader sitemap diff reveals a competitor with an exceptionally large and systematically built location and neighborhood page architecture, covering dozens of micro-neighborhoods across Los Cabos, La Paz, Loreto, Todos Santos, East Cape, and Pescadero, with property-type sub-pages (homes, condos, land, commercials, multifamily) for most locations. This is their core SEO moat and it is deep.
-- No backlink or keyword ranking data was available this week for this competitor.
-- MexHome's recommended response is focused on the new agent content and on identifying the most strategically valuable location gaps in Diamante's territory where MexHome currently competes or could expand.
+- Diamante Realtors added three new pages this week, all detected with last-modified dates between May 4 and May 5, 2026: a new agent profile (Emma Nicholson, English and Spanish), and an updated agents directory page. The activity is modest but confirms they are actively growing their team and keeping their agent roster current in both languages.
+- Their sitemap was successfully retrieved this week. The full sitemap diff reveals a competitor that has built an extraordinarily deep location and neighborhood page architecture across all of Baja California Sur, with hundreds of granular sub-neighborhood and development pages. This is their core SEO strategy: maximum topical coverage of every micro-location in Los Cabos, La Paz, East Cape, Loreto, Todos Santos, and surrounding areas.
+- No pages were removed this week. No keyword or backlink data is available for this reporting period.
+- MexHome's most direct exposure to Diamante is in the Los Cabos and La Paz corridors, where Diamante has built category-level property-type pages (homes, condos, land, commercial, multifamily) for dozens of specific neighborhoods that MexHome either covers at a higher level or does not cover at all. That depth is the competitive gap to address.
 
 ---
 
 ## 2. New Pages Built by Diamante Realtors
 
-The following URLs appear as new entries in Diamante Realtors's sitemap this week (lastmod dates of 2026-05-04 through 2026-05-05, which fall within this reporting window):
+The following URLs carry last-modified dates falling within the reporting window (May 4 to May 5, 2026) and represent pages either newly published or materially updated this week.
 
 | URL | Inferred Target |
-|-----|----------------|
-| `https://diamanterealtors.com/realtor-emma-nicholson/` | Agent profile page for Emma Nicholson (English). Targeting searches for individual agent names and general "Baja real estate agent" queries. |
-| `https://diamanterealtors.com/es/agente-inmobiliario-emma-nicholson/` | Spanish-language version of the Emma Nicholson agent profile. Targets bilingual and Spanish-first buyers searching for agents. |
-| `https://diamanterealtors.com/agents/` | Main agents/team directory page (English). Targets queries like "Diamante Realtors agents," "Baja real estate agents," and general team trust signals. |
+|---|---|
+| `https://diamanterealtors.com/realtor-emma-nicholson/` | Agent profile page for Emma Nicholson, targeting branded and agent-name searches |
+| `https://diamanterealtors.com/agents/` | Main English-language agent directory, likely refreshed to include the new agent |
+| `https://diamanterealtors.com/es/agente-inmobiliario-emma-nicholson/` | Spanish-language counterpart of the Emma Nicholson profile |
 
-Note: The agents directory page (`/agents/`) shows a lastmod of 2026-05-05, indicating it was updated this week, likely to incorporate the new Emma Nicholson listing.
+**Assessment:** This week's new-page activity is limited to agent content. Diamante is maintaining bilingual parity on all agent pages, which is a consistent pattern across their full sitemap. There are no new destination pages, location pages, or editorial content added in this specific window.
 
 ---
 
 ## 3. Backlink Movements
 
-No SEMrush CSV data was provided for Diamante Realtors this week. Backlink movement analysis is unavailable.
+No SEMrush CSV data was provided for Diamante Realtors this week. Backlink movement analysis is unavailable for this reporting period.
 
 ---
 
 ## 4. Keyword and Ranking Changes
 
-No SEMrush CSV data was provided for Diamante Realtors this week. Keyword and ranking analysis is unavailable.
+No SEMrush CSV data was provided for Diamante Realtors this week. Keyword and ranking change analysis is unavailable for this reporting period.
 
 ---
 
 ## 5. Recommended Actions for MexHome
 
-**1. Audit and strengthen MexHome's agent profile pages for SEO discoverability.**
-Diamante Realtors is actively building bilingual agent profiles and maintaining a central agents directory (`/agents/`). MexHome already has `/agents/` and individual agent pages under `/agent/[name]/`. The immediate action is to ensure each MexHome agent profile has a proper meta title, descriptive bio copy targeting location-specific keywords (e.g., "Puerto Vallarta real estate agent," "Riviera Nayarit buyer's agent"), and internal links to relevant area pages. Run a content audit on the weakest agent pages this week.
+The three pages added this week by Diamante are agent-focused and require no immediate content response. However, the full sitemap review reveals meaningful structural gaps that MexHome should begin closing. The following actions are prioritized based on where Diamante has built significant depth that MexHome has not matched.
 
-**2. Verify that MexHome's `/agents/` directory page is optimized for category-level queries.**
-Since Diamante just updated their `/agents/` page, this is a signal to check how MexHome's equivalent (`/agents/`) performs on queries like "Mexico real estate agents" and location-specific agent searches. Add structured data (schema.org/Person) to agent pages if not already present, and confirm the directory page links out to all active agent profiles with anchor text that reinforces location and specialty.
+**1. Audit and expand the La Paz neighborhood architecture.**
+Diamante has built individual property-type pages for La Paz Downtown, La Paz Beaches, Fidepaz, El Centenario, El Comitan, Esterito, El Mogote, La Posada, Colina del Sol, Bellavista, and many more. MexHome has `/area/los-cabos/la-paz/` and the top-level property-type splits (`/area/los-cabos/la-paz/la-paz-condos-for-sale/`, homes, land) plus a small number of sub-area pages. MexHome does not have pages targeting La Paz's internal neighborhoods at the granularity Diamante has built. This is a genuine content gap. Begin by building pages for the highest-demand La Paz sub-areas: La Paz Downtown, La Paz Beaches, El Centenario, and Fidepaz. Use a URL structure consistent with MexHome's existing convention (for example, `/area/los-cabos/la-paz/la-paz-downtown/`).
 
-**3. Build out bilingual agent profiles for any MexHome agents who currently only have an English-language page.**
-Diamante consistently publishes Spanish counterparts for every agent page. MexHome has Spanish agent pages under `/es/agent/[name]/` for most agents but the list shows gaps (for example, several agents appear in the English list but not in the Spanish list, including `/agent/heather/`, `/agent/lesley-fay/`, `/agent/lorna-fitzsimons/`, `/agent/mady-hake/`, `/agent/mark-vavra/`, `/agent/nik-valcic/`, `/agent/noemi-patron/`, `/agent/oralia-martinez/`, `/agent/peter-stringfellow/`, `/agent/samuel-aguirre/`, `/agent/tessa-stobbe/`, and `/agent/zuri-tames/`). Prioritize creating Spanish-language versions for these agents to match Diamante's bilingual parity.
+**2. Build sub-neighborhood pages for Los Cabos Pedregal.**
+Diamante has a full Pedregal section including parent and property-type children (homes, condos, land, commercial, multifamily), plus sub-pages for Pedregal Heights, Pedregal One, Pedregal Towers, Pacific Side, Marina Side, and Punto Pedregal. MexHome has no Pedregal-specific pages in the existing list. Cabo Pedregal is one of the most searched luxury micro-markets in Cabo San Lucas. Build a parent page at `/area/los-cabos/cabo-san-lucas/pedregal/` with at minimum condos-for-sale and homes-for-sale children to start capturing this traffic.
 
-**4. Do not build new agent or location pages for Baja California Sur this week.**
-Diamante Realtors's structural advantage is in Baja (Los Cabos, La Paz, Loreto, East Cape, Todos Santos). MexHome already has solid Los Cabos and La Paz area pages. Any investment in Baja content this week should go toward improving existing MexHome pages rather than building new ones. Cross-reference: MexHome has `/area/los-cabos/`, `/area/los-cabos/la-paz/`, `/area/los-cabos/loreto/`, `/area/los-cabos/todos-santos/`, and associated property-type sub-pages. Focus this week on internal linking and content depth on those existing pages rather than replicating Diamante's neighborhood micro-pages, where they already have years of indexed content.
+**3. Build a Palmilla real estate page.**
+Diamante has a full Palmilla section with parent and property-type children, plus sub-pages for Palmilla Canyon, Palmilla Estates, Palmilla Norte, and Palmilla Dunes. MexHome has no Palmilla page. Palmilla is one of the premier corridor addresses in Los Cabos and generates consistent organic search volume. Build `/area/los-cabos/san-jose-del-cabo/palmilla/` as a starting point.
 
-**5. Monitor Diamante's agents page for continued team expansion as a competitive signal.**
-Diamante added three agent-related pages in a single week. If this pace continues, it suggests they are actively recruiting and scaling their team in Baja. MexHome should track this as a leading indicator of Diamante's geographic expansion ambitions and consider whether any new agents they hire have expertise in markets where MexHome also operates (Todos Santos, Loreto, East Cape). Flag for follow-up in next week's report.
+**4. Build Querencia and Cabo del Sol community pages.**
+Diamante dedicates significant page architecture to both Querencia (parent page plus sub-areas: La Loma, El Parque, El Campo, La Vista, Ocean Residences, La Reserva) and Cabo del Sol (parent plus full property-type splits). MexHome has development pages at `/dev/querencia-los-cabos/` and `/dev/cabo-del-sol/` but no location-level area pages. Consider building area pages distinct from development pages so MexHome can capture broader location-intent searches (for example, "Querencia real estate" rather than only pre-construction searches).
+
+**5. Build a Los Barriles area page.**
+Diamante has a dedicated Los Barriles page and sub-pages (Los Barriles Centro, Buena Vista at Los Barriles, Rancho Leonero, etc.) plus a listings aggregator page. MexHome has `/area/los-cabos/east-cape/los-barriles/` already, which is good. Cross-check whether that page has sufficient on-page depth (property-type splits, local content). If the page is thin, expand it rather than building new. Do not build a duplicate.
+
+**6. Build a Todos Santos neighborhood architecture.**
+Diamante has property-type pages for Todos Santos at the city level (homes, condos, land, commercial, multifamily) plus specific community pages (La Cachora, La Poza, Las Tunas, Agua Blanca, and others). MexHome has `/area/los-cabos/todos-santos/` and the three property-type pages (condos, homes, land) plus a number of neighborhood sub-pages. Review whether MexHome's existing Todos Santos sub-pages are indexed and performing. If individual neighborhood pages like La Cachora and Las Tunas are missing, they are genuine gaps given Diamante's coverage, and new pages are warranted.
+
+**7. Maintain bilingual parity on all new pages built.**
+Diamante publishes every significant page in both English and Spanish without exception. MexHome already has a Spanish-language site structure. Any new area or neighborhood page built in response to this analysis should have a corresponding Spanish-language page created at the same time. This is not optional if MexHome wants to compete on Spanish-language queries where Diamante is fully covered.
+
+**8. Do not build a new Los Cabos homes, condos, or land top-level page.**
+MexHome already has `/area/los-cabos/los-cabos-homes-for-sale/`, `/area/los-cabos/los-cabos-condos-for-sale/`, and `/area/los-cabos/los-cabos-land-for-sale/`. These exist. Focus effort on the sub-area and neighborhood gaps above rather than duplicating existing structure.
