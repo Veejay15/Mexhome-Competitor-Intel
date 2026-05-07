@@ -1,7 +1,5300 @@
 {
   "competitorId": "diamanterealtors-com",
-  "fetchedAt": "2026-05-07T09:09:15.969Z",
+  "fetchedAt": "2026-05-07T09:15:22.356Z",
   "sourceUrl": "https://diamanterealtors.com/sitemap_index.xml",
-  "entryCount": 0,
-  "entries": []
+  "entryCount": 1323,
+  "entries": [
+    {
+      "url": "https://diamanterealtors.com/",
+      "lastmod": "2026-04-28T18:26:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-steve-schulz/",
+      "lastmod": "2022-11-23T22:12:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/ahorrandote-tiempo-y-dinero/",
+      "lastmod": "2022-11-23T22:21:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/amaras-vivir-en-baja-sur/",
+      "lastmod": "2022-11-23T22:24:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/asistente-de-oficina-guadalupe-mendez/",
+      "lastmod": "2022-11-23T22:26:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buying-real-estate-in-mexico/",
+      "lastmod": "2022-11-24T18:04:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/compra-bienes-raices-en-mexico/",
+      "lastmod": "2022-11-24T18:43:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/comprendiendo-el-proceso-de-compra/",
+      "lastmod": "2022-11-24T18:47:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/comunidades/",
+      "lastmod": "2022-11-24T18:50:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cost-of-living-in-la-paz-mexico/",
+      "lastmod": "2022-11-24T19:03:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/costo-de-vivir-en-la-paz-mexico/",
+      "lastmod": "2022-11-24T19:35:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/descargas/",
+      "lastmod": "2022-11-24T19:37:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/director-de-tecnologias-del-internet-oscar-valverde/",
+      "lastmod": "2022-11-24T19:44:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/disenadora-web-marketing-nancy-camacho/",
+      "lastmod": "2022-11-24T19:45:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/downloads/",
+      "lastmod": "2022-11-24T19:46:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/el-fideicomiso/",
+      "lastmod": "2022-11-24T20:10:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/el-impuesto-predial-en-la-paz/",
+      "lastmod": "2022-11-24T20:17:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/el-impuesto-predial-en-los-cabos/",
+      "lastmod": "2022-11-24T20:19:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/el-paisajismo-y-el-valor-de-propiedad/",
+      "lastmod": "2022-11-24T20:22:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/el-recorrido-final/",
+      "lastmod": "2022-11-24T20:25:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/encontramos-lo-mejor-para-ti/",
+      "lastmod": "2022-11-24T20:28:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/favorite-listings/",
+      "lastmod": "2022-11-24T20:55:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/final-walk-through/",
+      "lastmod": "2022-11-24T21:10:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/financiamiento-de-bienes-raices-en-mexico/",
+      "lastmod": "2022-11-24T21:11:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/financing-real-estate-in-mexico/",
+      "lastmod": "2022-11-24T21:12:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/guia-para-invertir-en-airbnb/",
+      "lastmod": "2022-11-24T21:17:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/guide-to-airbnb-investing/",
+      "lastmod": "2022-11-24T22:26:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/impuestos-en-mexico/",
+      "lastmod": "2022-11-24T22:37:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/inmuebles/",
+      "lastmod": "2022-11-24T22:54:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/inmuebles-favoritos/",
+      "lastmod": "2022-11-24T22:57:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/internet-technologies-technical-director-oscar-valverde/",
+      "lastmod": "2022-11-24T22:59:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/invierno-es-buen-momento-para-comprar-casa/",
+      "lastmod": "2022-11-24T23:09:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/is-it-safe-to-travel-to-cabo/",
+      "lastmod": "2022-11-24T23:25:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/landscaping-and-property-values/",
+      "lastmod": "2022-11-24T23:30:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/inmueble/",
+      "lastmod": "2022-11-24T23:39:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listing/",
+      "lastmod": "2022-11-24T23:40:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings/",
+      "lastmod": "2022-11-24T23:46:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/locations/",
+      "lastmod": "2022-11-29T22:36:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/logout/",
+      "lastmod": "2022-11-29T22:41:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/love-living-in-baja-sur/",
+      "lastmod": "2022-11-29T22:44:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/office-assitant-guadalupe-mendez/",
+      "lastmod": "2022-11-29T23:10:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/preguntas-antes-de-contratar-a-un-agente-de-bienes-raices/",
+      "lastmod": "2022-11-29T23:27:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/property-tax-la-paz/",
+      "lastmod": "2022-11-29T23:30:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/property-tax-los-cabos/",
+      "lastmod": "2022-11-29T23:32:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/questions-you-should-ask-before-hiring-a-real-estate-agent/",
+      "lastmod": "2022-11-29T23:34:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-steve-schulz/",
+      "lastmod": "2022-11-30T21:48:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listing-pdf/",
+      "lastmod": "2022-12-01T02:00:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/refrescante-paz-y-tranquilidad-en-baja/",
+      "lastmod": "2022-12-01T22:26:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/refreshing-peace-and-quiet-in-baja/",
+      "lastmod": "2022-12-01T22:28:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/saving-time-and-money-for-you/",
+      "lastmod": "2022-12-01T22:52:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/selling-real-estate-in-mexico/",
+      "lastmod": "2022-12-01T22:57:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sign-up/",
+      "lastmod": "2022-12-01T23:02:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sobre-la-ventana-bienes-raices/",
+      "lastmod": "2022-12-01T23:05:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sobre-los-barriles-bienes-raices/",
+      "lastmod": "2022-12-01T23:07:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sobre-san-jose-del-cabo-bienes-raices/",
+      "lastmod": "2022-12-02T22:24:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sobre-loreto-bienes-raices/",
+      "lastmod": "2022-12-02T22:24:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sobre-todos-santos-bienes-raices/",
+      "lastmod": "2022-12-02T22:25:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/taxes-in-mexico/",
+      "lastmod": "2022-12-02T22:26:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-mexican-fideicomiso/",
+      "lastmod": "2022-12-02T22:26:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/understanding-the-buying-process/",
+      "lastmod": "2022-12-02T22:29:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/user-listings-panel/",
+      "lastmod": "2022-12-02T22:32:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/venta-de-bienes-raices-en-mexico/",
+      "lastmod": "2022-12-02T22:33:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/we-find-the-best-for-you/",
+      "lastmod": "2022-12-02T22:37:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/web-designer-and-marketing-nancy-camacho/",
+      "lastmod": "2022-12-02T22:39:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/what-is-a-spec-home/",
+      "lastmod": "2022-12-02T22:41:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/what-to-do-in-baja-sur-in-december/",
+      "lastmod": "2022-12-02T22:44:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/why-you-should-visit-baja-california-sur/",
+      "lastmod": "2022-12-02T22:46:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/winter-is-a-good-time-to-buy-a-home/",
+      "lastmod": "2022-12-02T22:48:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-east-cape-real-estate/",
+      "lastmod": "2022-12-08T23:19:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-la-ventana-real-estate/",
+      "lastmod": "2022-12-08T23:19:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-loreto-real-estate/",
+      "lastmod": "2022-12-08T23:19:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-san-jose-del-cabo-real-estate/",
+      "lastmod": "2022-12-08T23:19:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-todos-santos-real-estate/",
+      "lastmod": "2022-12-08T23:19:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-commercials/",
+      "lastmod": "2022-12-09T23:11:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-land/",
+      "lastmod": "2022-12-09T23:11:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-homes/",
+      "lastmod": "2022-12-09T23:11:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-condominiums/",
+      "lastmod": "2022-12-09T23:11:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jose-del-cabo-multifamily/",
+      "lastmod": "2022-12-12T20:04:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jose-del-cabo-commercials/",
+      "lastmod": "2022-12-12T20:04:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jose-del-cabo-land/",
+      "lastmod": "2022-12-12T20:04:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jose-del-cabo-homes/",
+      "lastmod": "2022-12-12T20:04:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jose-del-cabo-condominiums/",
+      "lastmod": "2022-12-12T20:04:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/todos-santos-multifamily/",
+      "lastmod": "2022-12-12T22:36:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/todos-santos-commercials/",
+      "lastmod": "2022-12-12T22:36:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/todos-santos-land/",
+      "lastmod": "2022-12-12T22:36:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/todos-santos-homes/",
+      "lastmod": "2022-12-12T22:36:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/todos-santos-condominiums/",
+      "lastmod": "2022-12-12T22:36:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/es-seguro-viajar-a-cabo/",
+      "lastmod": "2022-12-13T21:41:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/por-que-visitar-baja-california-sur/",
+      "lastmod": "2022-12-14T18:28:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/que-hacer-en-diciembre-en-baja-sur/",
+      "lastmod": "2022-12-14T18:40:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/que-es-una-spec-home/",
+      "lastmod": "2022-12-14T18:41:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-monteazul/",
+      "lastmod": "2023-01-16T22:24:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/casa-monteazul-es/",
+      "lastmod": "2023-01-16T22:25:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-multifamily/",
+      "lastmod": "2023-01-25T00:09:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-kathy-mccarthy/",
+      "lastmod": "2023-02-07T22:34:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-kathy-mccarthy/",
+      "lastmod": "2023-02-07T22:37:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quivira-real-estate/quivira-commercials/",
+      "lastmod": "2023-03-06T19:46:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quivira-real-estate/quivira-condominiums/",
+      "lastmod": "2023-03-06T19:46:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quivira-real-estate/quivira-land/",
+      "lastmod": "2023-03-06T19:46:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quivira-real-estate/quivira-multifamily/",
+      "lastmod": "2023-03-06T19:47:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sobre-cabo-san-lucas-bienes-raices/",
+      "lastmod": "2023-03-06T23:30:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sobre-la-paz-bienes-raices/",
+      "lastmod": "2023-03-06T23:30:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-cabo-san-lucas-real-estate/",
+      "lastmod": "2023-03-06T23:37:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-pedregal-real-estate/los-cabos-pedregal-homes/",
+      "lastmod": "2023-03-09T17:35:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-pedregal-real-estate/los-cabos-pedregal-condominiums/",
+      "lastmod": "2023-03-09T17:36:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-pedregal-real-estate/los-cabos-pedregal-land/",
+      "lastmod": "2023-03-09T17:37:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-pedregal-real-estate/los-cabos-pedregal-multifamily/",
+      "lastmod": "2023-03-09T17:53:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sellers-and-buyers-info/",
+      "lastmod": "2023-03-14T22:49:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/vendedores-compradores/",
+      "lastmod": "2023-03-14T23:12:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maravilla-real-estate/maravilla-homes/",
+      "lastmod": "2023-03-16T22:38:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maravilla-real-estate/maravilla-condominiums/",
+      "lastmod": "2023-03-16T22:40:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maravilla-real-estate/maravilla-land/",
+      "lastmod": "2023-03-16T22:41:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-pedregal-real-estate/los-cabos-pedregal-commercials/",
+      "lastmod": "2023-03-16T22:43:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maravilla-real-estate/maravilla-commercials/",
+      "lastmod": "2023-03-16T22:43:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maravilla-real-estate/maravilla-multifamily/",
+      "lastmod": "2023-03-16T22:45:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/search-listings-by-location/",
+      "lastmod": "2023-03-21T16:10:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerto-los-cabos-real-estate/puerto-los-cabos-homes/",
+      "lastmod": "2023-03-23T21:11:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerto-los-cabos-real-estate/puerto-los-cabos-condominiums/",
+      "lastmod": "2023-03-23T21:11:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerto-los-cabos-real-estate/puerto-los-cabos-land/",
+      "lastmod": "2023-03-23T21:11:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerto-los-cabos-real-estate/puerto-los-cabos-commercials/",
+      "lastmod": "2023-03-23T21:11:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerto-los-cabos-real-estate/puerto-los-cabos-multifamily/",
+      "lastmod": "2023-03-23T21:12:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-downtown-real-estate/",
+      "lastmod": "2023-04-04T18:35:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hacienda-real-estate/",
+      "lastmod": "2023-04-12T18:39:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pedregal-real-estate/",
+      "lastmod": "2023-04-24T18:28:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/st-regis-real-estate/st-regis-homes-for-sale/",
+      "lastmod": "2023-04-26T19:48:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/st-regis-real-estate/st-regis-condominiums-for-sale/",
+      "lastmod": "2023-04-26T19:53:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/st-regis-real-estate/st-regis-land-for-sale/",
+      "lastmod": "2023-04-26T19:59:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/st-regis-real-estate/st-regis-commercials-for-sale/",
+      "lastmod": "2023-04-26T20:12:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/st-regis-real-estate/st-regis-multifamily-for-sale/",
+      "lastmod": "2023-04-26T20:16:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/querencia-real-estate/querencia-homes/",
+      "lastmod": "2023-04-28T18:14:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/querencia-real-estate/querencia-land/",
+      "lastmod": "2023-04-28T18:14:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/querencia-real-estate/querencia-multifamily/",
+      "lastmod": "2023-04-28T18:14:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/querencia-real-estate/querencia-commercials/",
+      "lastmod": "2023-04-28T19:09:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/querencia-real-estate/querencia-condominiums/",
+      "lastmod": "2023-04-28T19:26:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-sol-real-estate/cabo-del-sol-commercials/",
+      "lastmod": "2023-05-09T22:28:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-sol-real-estate/cabo-del-sol-condos/",
+      "lastmod": "2023-05-09T22:33:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-sol-real-estate/cabo-del-sol-homes/",
+      "lastmod": "2023-05-09T22:39:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-sol-real-estate/cabo-del-sol-land/",
+      "lastmod": "2023-05-09T22:42:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-sol-real-estate/cabo-del-sol-multifamily/",
+      "lastmod": "2023-05-09T22:45:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-centenario-real-estate/el-centenario-commercials/",
+      "lastmod": "2023-05-10T21:18:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-centenario-real-estate/el-centenario-condominiums/",
+      "lastmod": "2023-05-10T22:02:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-centenario-real-estate/el-centenario-homes/",
+      "lastmod": "2023-05-10T22:08:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-centenario-real-estate/el-centenario-land/",
+      "lastmod": "2023-05-10T22:11:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-centenario-real-estate/el-centenario-multifamily/",
+      "lastmod": "2023-05-10T22:16:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fidepaz-real-estate/fidepaz-homes/",
+      "lastmod": "2023-05-10T23:03:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fidepaz-real-estate/fidepaz-land/",
+      "lastmod": "2023-05-10T23:04:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fidepaz-real-estate/fidepaz-multifamily/",
+      "lastmod": "2023-05-10T23:07:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fidepaz-real-estate/fidepaz-condominiums/",
+      "lastmod": "2023-05-10T23:13:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colina-del-sol-real-estate/colina-del-sol-commercials/",
+      "lastmod": "2023-05-11T23:03:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colina-del-sol-real-estate/colina-del-sol-homes/",
+      "lastmod": "2023-05-11T23:06:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colina-del-sol-real-estate/colina-del-sol-land/",
+      "lastmod": "2023-05-11T23:09:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellavista-real-estate/bellavista-commercials/",
+      "lastmod": "2023-05-11T23:48:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellavista-real-estate/bellavista-multifamily/",
+      "lastmod": "2023-05-11T23:49:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellavista-real-estate/bellavista-condominiums/",
+      "lastmod": "2023-05-11T23:50:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellavista-real-estate/bellavista-homes/",
+      "lastmod": "2023-05-11T23:51:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellavista-real-estate/bellavista-land/",
+      "lastmod": "2023-05-11T23:51:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fidepaz-real-estate/fidepaz-commercials/",
+      "lastmod": "2023-05-12T22:00:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chametla-real-estate/chametla-commercials/",
+      "lastmod": "2023-05-12T22:02:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chametla-real-estate/chametla-multifamily/",
+      "lastmod": "2023-05-12T22:16:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chametla-real-estate/chametla-homes/",
+      "lastmod": "2023-05-12T22:17:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chametla-real-estate/chametla-condominiums/",
+      "lastmod": "2023-05-12T22:18:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chametla-real-estate/chametla-land/",
+      "lastmod": "2023-05-12T22:20:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/esterito-real-estate/esterito-commercials/",
+      "lastmod": "2023-05-12T23:29:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/esterito-real-estate/esterito-condominiums/",
+      "lastmod": "2023-05-12T23:31:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/esterito-real-estate/esterito-multifamily/",
+      "lastmod": "2023-05-12T23:35:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/esterito-real-estate/esterito-land/",
+      "lastmod": "2023-05-12T23:42:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/esterito-real-estate/esterito-homes/",
+      "lastmod": "2023-05-12T23:45:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-mogote-real-estate/el-mogote-condominiums/",
+      "lastmod": "2023-05-15T16:46:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-mogote-real-estate/el-mogote-homes/",
+      "lastmod": "2023-05-15T16:47:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-mogote-real-estate/el-mogote-land/",
+      "lastmod": "2023-05-15T16:49:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-mogote-real-estate/el-mogote-multifamily/",
+      "lastmod": "2023-05-15T16:51:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-mogote-real-estate/el-mogote-commercials/",
+      "lastmod": "2023-05-15T16:52:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-pedro-real-estate/san-pedro-commercials/",
+      "lastmod": "2023-05-15T22:34:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-pedro-real-estate/san-pedro-condominiums/",
+      "lastmod": "2023-05-15T22:38:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-pedro-real-estate/san-pedro-multifamily/",
+      "lastmod": "2023-05-15T22:42:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-pedro-real-estate/san-pedro-homes/",
+      "lastmod": "2023-05-15T22:46:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-pedro-real-estate/san-pedro-land/",
+      "lastmod": "2023-05-15T22:53:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-posada-real-estate/la-posada-condominiums/",
+      "lastmod": "2023-05-16T17:38:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-posada-real-estate/la-posada-homes/",
+      "lastmod": "2023-05-16T17:39:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-posada-real-estate/la-posada-land/",
+      "lastmod": "2023-05-16T17:39:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-posada-real-estate/la-posada-multifamily/",
+      "lastmod": "2023-05-16T17:39:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-posada-real-estate/la-posada-commercials/",
+      "lastmod": "2023-05-16T17:48:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-planes-real-estate/los-planes-commercials/",
+      "lastmod": "2023-05-16T18:28:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-planes-real-estate/los-planes-condominiums/",
+      "lastmod": "2023-05-16T18:29:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-planes-real-estate/los-planes-homes/",
+      "lastmod": "2023-05-16T18:29:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-planes-real-estate/los-planes-land/",
+      "lastmod": "2023-05-16T18:30:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-planes-real-estate/los-planes-multifamily/",
+      "lastmod": "2023-05-16T18:31:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-perla-real-estate/la-perla-commercials/",
+      "lastmod": "2023-05-16T18:52:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-perla-real-estate/la-perla-condominiums/",
+      "lastmod": "2023-05-16T18:55:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-perla-real-estate/la-perla-multifamily/",
+      "lastmod": "2023-05-16T18:57:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-perla-real-estate/la-perla-homes/",
+      "lastmod": "2023-05-16T19:02:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-perla-real-estate/la-perla-land/",
+      "lastmod": "2023-05-16T19:06:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-beaches-real-estate/la-paz-beaches-commercials/",
+      "lastmod": "2023-05-16T19:50:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-beaches-real-estate/la-paz-beaches-condominiums/",
+      "lastmod": "2023-05-16T20:03:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-beaches-real-estate/la-paz-beaches-multifamily/",
+      "lastmod": "2023-05-16T20:08:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-beaches-real-estate/la-paz-beaches-homes/",
+      "lastmod": "2023-05-16T20:11:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-beaches-real-estate/la-paz-beaches-land/",
+      "lastmod": "2023-05-16T20:14:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-real-estate/palmilla-commercials/",
+      "lastmod": "2023-05-17T19:08:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-real-estate/palmilla-homes/",
+      "lastmod": "2023-05-17T19:08:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-real-estate/palmilla-land/",
+      "lastmod": "2023-05-17T19:08:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-real-estate/palmilla-multifamily/",
+      "lastmod": "2023-05-17T19:08:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-bay-real-estate/chileno-bay-commercials/",
+      "lastmod": "2023-05-17T19:58:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-bay-real-estate/chileno-bay-multifamily/",
+      "lastmod": "2023-05-17T20:39:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-bay-real-estate/chileno-bay-land/",
+      "lastmod": "2023-05-17T20:47:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-ballena-real-estate/punta-ballena-commercials/",
+      "lastmod": "2023-05-19T17:17:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-ballena-real-estate/punta-ballena-multifamily/",
+      "lastmod": "2023-05-19T17:26:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-ballena-real-estate/punta-ballena-land/",
+      "lastmod": "2023-05-19T17:28:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-ballena-real-estate/punta-ballena-homes/",
+      "lastmod": "2023-05-19T17:39:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-ballena-real-estate/punta-ballena-condominiums/",
+      "lastmod": "2023-05-19T17:39:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-ventanas-al-paraiso-real-estate/las-ventanas-al-paraiso-commercials/",
+      "lastmod": "2023-05-19T19:55:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-ventanas-al-paraiso-real-estate/las-ventanas-al-paraiso-condominiums/",
+      "lastmod": "2023-05-19T20:09:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-ventanas-al-paraiso-real-estate/las-ventanas-al-paraiso-multifamily/",
+      "lastmod": "2023-05-19T20:16:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-ventanas-al-paraiso-real-estate/las-ventanas-al-paraiso-homes/",
+      "lastmod": "2023-05-19T20:19:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-ventanas-al-paraiso-real-estate/las-ventanas-al-paraiso-land/",
+      "lastmod": "2023-05-19T20:22:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-real-estate/misiones-commercials/",
+      "lastmod": "2023-05-24T21:59:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-real-estate/misiones-land/",
+      "lastmod": "2023-05-24T22:01:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-real-estate/misiones-multifamily/",
+      "lastmod": "2023-05-24T22:05:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-real-estate/misiones-condominiums/",
+      "lastmod": "2023-05-24T22:17:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colina-del-sol-real-estate/colina-del-sol-condominiums/",
+      "lastmod": "2023-05-26T17:28:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colina-del-sol-real-estate/colina-del-sol-multifamily/",
+      "lastmod": "2023-05-26T17:31:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-downtown-real-estate/la-paz-downtown-homes/",
+      "lastmod": "2023-05-26T18:43:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-downtown-real-estate/la-paz-downtown-condominiums/",
+      "lastmod": "2023-05-26T18:45:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-downtown-real-estate/la-paz-downtown-land/",
+      "lastmod": "2023-05-26T18:47:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-downtown-real-estate/la-paz-downtown-commercials/",
+      "lastmod": "2023-05-26T18:50:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-downtown-real-estate/la-paz-downtown-multifamily/",
+      "lastmod": "2023-05-26T18:52:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-comitan-real-estate/el-comitan-homes/",
+      "lastmod": "2023-05-26T19:18:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-comitan-real-estate/el-comitan-condominiums/",
+      "lastmod": "2023-05-26T19:18:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-comitan-real-estate/el-comitan-land/",
+      "lastmod": "2023-05-26T19:19:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-comitan-real-estate/el-comitan-commercials/",
+      "lastmod": "2023-05-26T19:20:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-comitan-real-estate/el-comitan-multifamily/",
+      "lastmod": "2023-05-26T19:21:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-bay-real-estate/chileno-bay-homes/",
+      "lastmod": "2023-05-29T17:06:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balandra-beach-among-top-ten-in-the-world/",
+      "lastmod": "2023-05-30T22:25:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/balandra-incluida-en-lista-de-las-diez-mejores-playas-del-mundo/",
+      "lastmod": "2023-05-30T22:31:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/blog/",
+      "lastmod": "2023-05-30T22:45:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/blog-es/",
+      "lastmod": "2023-05-30T22:47:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-marina-real-estate/los-cabos-marina-condominiums/",
+      "lastmod": "2023-05-31T16:57:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-marina-real-estate/los-cabos-marina-homes/",
+      "lastmod": "2023-05-31T16:58:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-marina-real-estate/los-cabos-marina-land/",
+      "lastmod": "2023-05-31T16:59:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-marina-real-estate/los-cabos-marina-commercials/",
+      "lastmod": "2023-05-31T17:00:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-marina-real-estate/los-cabos-marina-multifamily/",
+      "lastmod": "2023-05-31T17:00:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-beaches-real-estate/los-cabos-beaches-homes/",
+      "lastmod": "2023-05-31T17:49:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-beaches-real-estate/los-cabos-beaches-condominiums/",
+      "lastmod": "2023-05-31T17:49:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-beaches-real-estate/los-cabos-beaches-land/",
+      "lastmod": "2023-05-31T17:50:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-beaches-real-estate/los-cabos-beaches-commercials/",
+      "lastmod": "2023-05-31T17:56:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-beaches-real-estate/los-cabos-beaches-multifamily/",
+      "lastmod": "2023-05-31T17:56:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/international-luxury-properties/",
+      "lastmod": "2023-05-31T17:58:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-san-lucas-real-estate/rancho-san-lucas-condos/",
+      "lastmod": "2023-05-31T19:22:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-san-lucas-real-estate/rancho-san-lucas-land/",
+      "lastmod": "2023-05-31T19:22:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-san-lucas-real-estate/rancho-san-lucas-commercials/",
+      "lastmod": "2023-05-31T19:23:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-san-lucas-real-estate/rancho-san-lucas-multifamily/",
+      "lastmod": "2023-05-31T19:23:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hacienda-beach-club-residences-real-estate/hacienda-beach-club-residences-homes/",
+      "lastmod": "2023-05-31T21:09:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hacienda-beach-club-residences-real-estate/hacienda-beach-club-residences-condominiums/",
+      "lastmod": "2023-05-31T21:09:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hacienda-beach-club-residences-real-estate/hacienda-beach-club-residences-land/",
+      "lastmod": "2023-05-31T21:10:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hacienda-beach-club-residences-real-estate/hacienda-beach-club-residences-commercials/",
+      "lastmod": "2023-05-31T21:11:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hacienda-beach-club-residences-real-estate/hacienda-beach-club-residences-multifamily/",
+      "lastmod": "2023-05-31T21:12:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-real-estate/palmilla-condominiums/",
+      "lastmod": "2023-06-01T21:33:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-real-estate/misiones-homes/",
+      "lastmod": "2023-06-06T18:40:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-sol-real-estate/lomas-del-sol-homes/",
+      "lastmod": "2023-06-06T18:41:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-sol-real-estate/lomas-del-sol-condominiums/",
+      "lastmod": "2023-06-06T18:52:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-sol-real-estate/lomas-del-sol-land/",
+      "lastmod": "2023-06-06T18:59:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-sol-real-estate/lomas-del-sol-commercials/",
+      "lastmod": "2023-06-06T19:11:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-sol-real-estate/lomas-del-sol-multifamily/",
+      "lastmod": "2023-06-06T19:26:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mesa-colorada-real-estate/mesa-colorada-homes/",
+      "lastmod": "2023-06-06T20:18:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mesa-colorada-real-estate/mesa-colorada-condominiums/",
+      "lastmod": "2023-06-06T20:31:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mesa-colorada-real-estate/mesa-colorada-land/",
+      "lastmod": "2023-06-06T20:40:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mesa-colorada-real-estate/mesa-colorada-commercials/",
+      "lastmod": "2023-06-06T20:50:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mesa-colorada-real-estate/mesa-colorada-multifamily/",
+      "lastmod": "2023-06-06T21:00:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terranova-real-estate/terranova-commercials/",
+      "lastmod": "2023-06-07T17:23:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terranova-real-estate/terranova-condominiums/",
+      "lastmod": "2023-06-07T17:29:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terranova-real-estate/terranova-homes/",
+      "lastmod": "2023-06-07T17:38:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terranova-real-estate/terranova-land/",
+      "lastmod": "2023-06-07T17:42:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terranova-real-estate/terranova-multifamily/",
+      "lastmod": "2023-06-07T17:48:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lagunitas-real-estate/lagunitas-commercials/",
+      "lastmod": "2023-06-07T18:09:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lagunitas-real-estate/lagunitas-condominiums/",
+      "lastmod": "2023-06-07T18:46:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lagunitas-real-estate/lagunitas-homes/",
+      "lastmod": "2023-06-07T18:50:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lagunitas-real-estate/lagunitas-land/",
+      "lastmod": "2023-06-07T18:56:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lagunitas-real-estate/lagunitas-multifamily/",
+      "lastmod": "2023-06-07T19:06:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellaterra-real-estate/bellaterra-commercials/",
+      "lastmod": "2023-06-07T19:53:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellaterra-real-estate/bellaterra-condominiums/",
+      "lastmod": "2023-06-07T20:09:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellaterra-real-estate/bellaterra-homes/",
+      "lastmod": "2023-06-07T20:14:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellaterra-real-estate/bellaterra-land/",
+      "lastmod": "2023-06-07T21:24:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellaterra-real-estate/bellaterra-multifamily/",
+      "lastmod": "2023-06-07T23:13:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hojazen-real-estate/hojazen-homes/",
+      "lastmod": "2023-06-08T19:08:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hojazen-real-estate/hojazen-condominiums/",
+      "lastmod": "2023-06-08T19:13:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hojazen-real-estate/hojazen-land/",
+      "lastmod": "2023-06-08T19:16:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hojazen-real-estate/hojazen-commercials/",
+      "lastmod": "2023-06-08T19:20:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hojazen-real-estate/hojazen-multifamily/",
+      "lastmod": "2023-06-08T19:24:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cangrejos-real-estate/cangrejos-commercials/",
+      "lastmod": "2023-06-14T22:48:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cangrejos-real-estate/cangrejos-condominiums/",
+      "lastmod": "2023-06-14T22:54:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cangrejos-real-estate/cangrejos-homes/",
+      "lastmod": "2023-06-14T22:58:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cangrejos-real-estate/cangrejos-land/",
+      "lastmod": "2023-06-14T23:04:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cangrejos-real-estate/cangrejos-multifamily/",
+      "lastmod": "2023-06-14T23:11:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-faro-real-estate/lomas-del-faro-commercials/",
+      "lastmod": "2023-06-15T20:43:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-faro-real-estate/lomas-del-faro-condominiums/",
+      "lastmod": "2023-06-15T20:48:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-faro-real-estate/lomas-del-faro-homes/",
+      "lastmod": "2023-06-15T20:55:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-faro-real-estate/lomas-del-faro-land/",
+      "lastmod": "2023-06-15T21:27:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-faro-real-estate/lomas-del-faro-multifamily/",
+      "lastmod": "2023-06-15T21:53:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcoiris-real-estate/arcoiris-condominiums/",
+      "lastmod": "2023-06-15T22:11:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcoiris-real-estate/arcoiris-homes/",
+      "lastmod": "2023-06-15T22:16:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcoiris-real-estate/arcoiris-land/",
+      "lastmod": "2023-06-15T22:20:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcoiris-real-estate/arcoiris-multifamily/",
+      "lastmod": "2023-06-15T22:28:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcoiris-real-estate/arcoiris-commercials/",
+      "lastmod": "2023-06-15T22:39:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portales-real-estate/portales-commercials/",
+      "lastmod": "2023-06-16T17:59:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portales-real-estate/portales-condominiums/",
+      "lastmod": "2023-06-16T18:04:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portales-real-estate/portales-homes/",
+      "lastmod": "2023-06-16T18:15:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portales-real-estate/portales-land/",
+      "lastmod": "2023-06-16T18:20:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portales-real-estate/portales-multifamily/",
+      "lastmod": "2023-06-16T18:24:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmas-at-sunset-beach-real-estate/palmas-at-sunset-beach-commercials/",
+      "lastmod": "2023-06-21T18:52:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmas-at-sunset-beach-real-estate/palmas-at-sunset-beach-condominiums/",
+      "lastmod": "2023-06-21T19:02:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmas-at-sunset-beach-real-estate/palmas-at-sunset-beach-homes/",
+      "lastmod": "2023-06-21T19:34:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmas-at-sunset-beach-real-estate/palmas-at-sunset-beach-land/",
+      "lastmod": "2023-06-21T19:41:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmas-at-sunset-beach-real-estate/palmas-at-sunset-beach-multifamily/",
+      "lastmod": "2023-06-21T19:44:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-progreso-real-estate/el-progreso-homes/",
+      "lastmod": "2023-06-21T20:06:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-progreso-real-estate/el-progreso-land/",
+      "lastmod": "2023-06-21T20:08:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-progreso-real-estate/el-progreso-multifamily/",
+      "lastmod": "2023-06-21T20:19:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-progreso-real-estate/el-progreso-condominiums/",
+      "lastmod": "2023-06-21T20:23:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-progreso-real-estate/el-progreso-commercials/",
+      "lastmod": "2023-06-21T20:27:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-de-santa-fe-real-estate/misiones-de-santa-fe-commercials/",
+      "lastmod": "2023-06-22T18:27:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-de-santa-fe-real-estate/misiones-de-santa-fe-condominiums/",
+      "lastmod": "2023-06-22T18:32:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-de-santa-fe-real-estate/misiones-de-santa-fe-homes/",
+      "lastmod": "2023-06-22T18:43:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-de-santa-fe-real-estate/misiones-de-santa-fe-land/",
+      "lastmod": "2023-06-22T18:48:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-de-santa-fe-real-estate/misiones-de-santa-fe-multifamily/",
+      "lastmod": "2023-06-22T18:58:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/4-de-marzo-real-estate/4-de-marzo-homes/",
+      "lastmod": "2023-06-22T19:08:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/4-de-marzo-real-estate/4-de-marzo-condominiums/",
+      "lastmod": "2023-06-22T19:14:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/4-de-marzo-real-estate/4-de-marzo-land/",
+      "lastmod": "2023-06-22T19:17:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/4-de-marzo-real-estate/4-de-marzo-commercials/",
+      "lastmod": "2023-06-22T19:20:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/4-de-marzo-real-estate/4-de-marzo-multifamily/",
+      "lastmod": "2023-06-22T19:22:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-de-brisas-real-estate/lomas-de-brisas-commercials/",
+      "lastmod": "2023-06-22T19:33:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-de-brisas-real-estate/lomas-de-brisas-condominiums/",
+      "lastmod": "2023-06-22T19:38:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-de-brisas-real-estate/lomas-de-brisas-homes/",
+      "lastmod": "2023-06-22T19:41:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-de-brisas-real-estate/lomas-de-brisas-land/",
+      "lastmod": "2023-06-22T19:52:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-de-brisas-real-estate/lomas-de-brisas-multifamily/",
+      "lastmod": "2023-06-22T19:56:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-cabo-plaza-real-estate/marina-cabo-plaza-commercials/",
+      "lastmod": "2023-06-23T18:05:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-cabo-plaza-real-estate/marina-cabo-plaza-condominiums/",
+      "lastmod": "2023-06-23T18:09:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-cabo-plaza-real-estate/marina-cabo-plaza-homes/",
+      "lastmod": "2023-06-23T18:13:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-cabo-plaza-real-estate/marina-cabo-plaza-land/",
+      "lastmod": "2023-06-23T18:17:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-cabo-plaza-real-estate/marina-cabo-plaza-multifamily/",
+      "lastmod": "2023-06-23T18:20:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-paraiso-residences-real-estate/the-paraiso-residences-commercials/",
+      "lastmod": "2023-06-23T18:26:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-paraiso-residences-real-estate/the-paraiso-residences-condominiums/",
+      "lastmod": "2023-06-23T18:30:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-paraiso-residences-real-estate/the-paraiso-residences-homes/",
+      "lastmod": "2023-06-23T18:32:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-paraiso-residences-real-estate/the-paraiso-residences-land/",
+      "lastmod": "2023-06-23T18:35:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-paraiso-residences-real-estate/the-paraiso-residences-multifamily/",
+      "lastmod": "2023-06-23T18:37:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/jacarandas-real-estate/jacarandas-commercials/",
+      "lastmod": "2023-06-28T23:12:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/jacarandas-real-estate/jacarandas-condominiums/",
+      "lastmod": "2023-06-28T23:13:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/jacarandas-real-estate/jacarandas-homes/",
+      "lastmod": "2023-06-28T23:13:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/jacarandas-real-estate/jacarandas-land/",
+      "lastmod": "2023-06-28T23:14:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/jacarandas-real-estate/jacarandas-multifamily/",
+      "lastmod": "2023-06-28T23:15:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colinas-del-cabo-real-estate/colinas-del-cabo-commercials/",
+      "lastmod": "2023-06-29T17:26:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colinas-del-cabo-real-estate/colinas-del-cabo-condominiums/",
+      "lastmod": "2023-06-29T17:30:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colinas-del-cabo-real-estate/colinas-del-cabo-homes/",
+      "lastmod": "2023-06-29T17:33:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colinas-del-cabo-real-estate/colinas-del-cabo-land/",
+      "lastmod": "2023-06-29T17:39:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colinas-del-cabo-real-estate/colinas-del-cabo-multifamily/",
+      "lastmod": "2023-06-29T17:46:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-pacifico-real-estate/lomas-del-pacifico-commercials/",
+      "lastmod": "2023-06-29T17:55:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-pacifico-real-estate/lomas-del-pacifico-condominiums/",
+      "lastmod": "2023-06-29T17:59:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-pacifico-real-estate/lomas-del-pacifico-homes/",
+      "lastmod": "2023-06-29T18:02:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-pacifico-real-estate/lomas-del-pacifico-land/",
+      "lastmod": "2023-06-29T18:04:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-pacifico-real-estate/lomas-del-pacifico-multifamily/",
+      "lastmod": "2023-06-29T18:07:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmitos-residencial-real-estate/palmitos-residencial-commercials/",
+      "lastmod": "2023-07-12T20:16:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmitos-residencial-real-estate/palmitos-residencial-homes/",
+      "lastmod": "2023-07-12T20:54:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmitos-residencial-real-estate/palmitos-residencial-land/",
+      "lastmod": "2023-07-12T20:57:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmitos-residencial-real-estate/palmitos-residencial-multifamily/",
+      "lastmod": "2023-07-12T21:05:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/residencial-las-brisas-real-estate/residencial-las-brisas-commercials/",
+      "lastmod": "2023-07-12T21:53:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/residencial-las-brisas-real-estate/residencial-las-brisas-condominiums/",
+      "lastmod": "2023-07-12T22:03:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/residencial-las-brisas-real-estate/residencial-las-brisas-land/",
+      "lastmod": "2023-07-12T22:21:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/residencial-las-brisas-real-estate/residencial-las-brisas-homes/",
+      "lastmod": "2023-07-12T22:24:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bugambilia-real-estate/bugambilia-commercials/",
+      "lastmod": "2023-07-12T23:05:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cerro-de-los-venados-real-estate/cerro-de-los-venados-commercials/",
+      "lastmod": "2023-07-12T23:26:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cerro-de-los-venados-real-estate/cerro-de-los-venados-condominiums/",
+      "lastmod": "2023-07-12T23:41:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cerro-de-los-venados-real-estate/cerro-de-los-venados-multifamily/",
+      "lastmod": "2023-07-12T23:54:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cerro-de-los-venados-real-estate/cerro-de-los-venados-homes/",
+      "lastmod": "2023-07-13T17:10:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cerro-de-los-venados-real-estate/cerro-de-los-venados-land/",
+      "lastmod": "2023-07-13T17:13:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmitos-residencial-real-estate/palmitos-residencial-condominiums/",
+      "lastmod": "2023-07-13T19:14:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/residencial-las-brisas-real-estate/residencial-las-brisas-multifamily/",
+      "lastmod": "2023-07-13T19:33:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balcones-real-estate/balcones-multifamily/",
+      "lastmod": "2023-07-13T20:39:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balcones-real-estate/balcones-commercials/",
+      "lastmod": "2023-07-13T20:39:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balcones-real-estate/balcones-land/",
+      "lastmod": "2023-07-13T20:39:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balcones-real-estate/balcones-condominiums/",
+      "lastmod": "2023-07-13T20:39:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balcones-real-estate/balcones-homes/",
+      "lastmod": "2023-07-13T20:39:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bugambilia-real-estate/bugambilia-homes/",
+      "lastmod": "2023-07-13T23:11:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bugambilia-real-estate/bugambilia-condominiums/",
+      "lastmod": "2023-07-13T23:13:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bugambilia-real-estate/bugambilia-land/",
+      "lastmod": "2023-07-13T23:13:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bugambilia-real-estate/bugambilia-multifamily/",
+      "lastmod": "2023-07-13T23:14:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villa-la-estancia-real-estate/villa-la-estancia-commercials/",
+      "lastmod": "2023-07-18T20:20:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villa-la-estancia-real-estate/villa-la-estancia-land/",
+      "lastmod": "2023-07-18T20:53:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villa-la-estancia-real-estate/villa-la-estancia-multifamily/",
+      "lastmod": "2023-07-18T20:56:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miramar-real-estate/miramar-homes/",
+      "lastmod": "2023-07-18T20:58:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miramar-real-estate/miramar-land/",
+      "lastmod": "2023-07-18T20:59:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miramar-real-estate/miramar-multifamily/",
+      "lastmod": "2023-07-18T21:00:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villa-la-estancia-real-estate/villa-la-estancia-condominiums/",
+      "lastmod": "2023-07-18T21:03:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villa-la-estancia-real-estate/villa-la-estancia-homes/",
+      "lastmod": "2023-07-18T21:03:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terrasol-real-estate/terrasol-commercials/",
+      "lastmod": "2023-07-18T23:06:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terrasol-real-estate/terrasol-condominiums/",
+      "lastmod": "2023-07-18T23:08:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terrasol-real-estate/terrasol-homes/",
+      "lastmod": "2023-07-18T23:10:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terrasol-real-estate/terrasol-multifamily/",
+      "lastmod": "2023-07-18T23:14:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/carena-real-estate/carena-commercials/",
+      "lastmod": "2023-07-19T17:26:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/carena-real-estate/carena-condominiums/",
+      "lastmod": "2023-07-19T17:30:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/carena-real-estate/carena-homes/",
+      "lastmod": "2023-07-19T17:34:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/carena-real-estate/carena-land/",
+      "lastmod": "2023-07-19T17:37:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/carena-real-estate/carena-multifamily/",
+      "lastmod": "2023-07-19T17:40:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marea-los-cabos-real-estate/marea-los-cabos-condominiums/",
+      "lastmod": "2023-07-19T18:02:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-nautica-real-estate/plaza-nautica-condominiums/",
+      "lastmod": "2023-07-19T18:09:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-cabos-village-real-estate/puerta-cabos-village-condominiums/",
+      "lastmod": "2023-07-19T18:34:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/andalaya-real-estate/andalaya-condominiums/",
+      "lastmod": "2023-07-19T18:43:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cascadas-del-pedregal-real-estate/cascadas-del-pedregal-condominiums/",
+      "lastmod": "2023-07-19T19:29:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/montemar-pedregal-real-estate/montemar-pedregal-condominiums/",
+      "lastmod": "2023-07-19T20:21:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-heights-real-estate/pedregal-heights-commercials/",
+      "lastmod": "2023-07-20T16:45:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-heights-real-estate/pedregal-heights-condominiums/",
+      "lastmod": "2023-07-20T16:51:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-heights-real-estate/pedregal-heights-homes/",
+      "lastmod": "2023-07-20T16:54:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-heights-real-estate/pedregal-heights-land/",
+      "lastmod": "2023-07-20T16:57:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-heights-real-estate/pedregal-heights-multifamily/",
+      "lastmod": "2023-07-20T17:01:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portofino-real-estate/portofino-condominiums/",
+      "lastmod": "2023-07-20T17:25:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-side-real-estate/pacific-side-commercials/",
+      "lastmod": "2023-07-20T17:57:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-side-real-estate/pacific-side-condominiums/",
+      "lastmod": "2023-07-20T18:02:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-side-real-estate/pacific-side-homes/",
+      "lastmod": "2023-07-20T18:04:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-side-real-estate/pacific-side-land/",
+      "lastmod": "2023-07-20T18:08:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-side-real-estate/pacific-side-multifamily/",
+      "lastmod": "2023-07-20T18:10:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-one-real-estate/pedregal-one-condominiums/",
+      "lastmod": "2023-07-20T18:46:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-side-real-estate/marina-side-commercials/",
+      "lastmod": "2023-07-20T19:17:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-side-real-estate/marina-side-condominiums/",
+      "lastmod": "2023-07-20T19:20:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-side-real-estate/marina-side-homes/",
+      "lastmod": "2023-07-20T19:26:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-side-real-estate/marina-side-land/",
+      "lastmod": "2023-07-20T19:31:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-side-real-estate/marina-side-multifamily/",
+      "lastmod": "2023-07-20T19:34:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-towers-real-estate/pedregal-towers-condominiums/",
+      "lastmod": "2023-07-20T20:24:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/csl-north-east-19-real-estate/csl-north-east-19-commercials/",
+      "lastmod": "2023-07-20T22:27:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/csl-north-east-19-real-estate/csl-north-east-19-condominiums/",
+      "lastmod": "2023-07-20T22:33:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/csl-north-east-19-real-estate/csl-north-east-19-homes/",
+      "lastmod": "2023-07-20T22:37:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/csl-north-east-19-real-estate/csl-north-east-19-multifamily/",
+      "lastmod": "2023-07-20T22:40:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/csl-north-east-19-real-estate/csl-north-east-19-land/",
+      "lastmod": "2023-07-20T22:43:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terrasol-real-estate/terrasol-land/",
+      "lastmod": "2023-07-20T23:52:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-sol-real-estate/marina-sol-condominiums/",
+      "lastmod": "2023-07-21T00:04:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-la-paz-real-estate/",
+      "lastmod": "2023-07-25T23:35:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portanova-real-estate/portanova-condominiums/",
+      "lastmod": "2023-07-27T18:30:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/auroras-real-estate/auroras-commercials/",
+      "lastmod": "2023-07-27T18:44:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/auroras-real-estate/auroras-condominiums/",
+      "lastmod": "2023-07-27T18:46:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/auroras-real-estate/auroras-homes/",
+      "lastmod": "2023-07-27T18:48:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/auroras-real-estate/auroras-land/",
+      "lastmod": "2023-07-27T18:51:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/auroras-real-estate/auroras-multifamily/",
+      "lastmod": "2023-07-27T18:54:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-west-real-estate/brisas-del-pacifico-west-commercials/",
+      "lastmod": "2023-07-27T19:10:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-west-real-estate/brisas-del-pacifico-west-condominiums/",
+      "lastmod": "2023-07-27T19:18:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-west-real-estate/brisas-del-pacifico-west-homes/",
+      "lastmod": "2023-07-27T19:21:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-west-real-estate/brisas-del-pacifico-west-land/",
+      "lastmod": "2023-07-27T19:25:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-west-real-estate/brisas-del-pacifico-west-multifamily/",
+      "lastmod": "2023-07-27T19:31:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-paraiso-del-sol-real-estate/fracc-paraiso-del-sol-commercials/",
+      "lastmod": "2023-08-02T18:18:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-paraiso-del-sol-real-estate/fracc-paraiso-del-sol-condominiums/",
+      "lastmod": "2023-08-02T18:22:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-paraiso-del-sol-real-estate/fracc-paraiso-del-sol-homes/",
+      "lastmod": "2023-08-02T18:35:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-paraiso-del-sol-real-estate/fracc-paraiso-del-sol-multifamily/",
+      "lastmod": "2023-08-02T18:45:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-cabanas-real-estate/las-cabanas-condominiums/",
+      "lastmod": "2023-08-03T17:55:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miro-los-cabos-real-estate/miro-los-cabos-condominiums/",
+      "lastmod": "2023-08-03T18:22:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-mare-real-estate/vista-mare-condominiums/",
+      "lastmod": "2023-08-03T18:33:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-san-lucas-real-estate/rancho-san-lucas-homes/",
+      "lastmod": "2023-08-11T19:35:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quivira-real-estate/quivira-homes-for-sale/",
+      "lastmod": "2023-08-11T21:31:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/luxotica-ii-real-estate/",
+      "lastmod": "2023-08-17T19:46:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lienzo-charro-real-estate/lienzo-charro-commercials/",
+      "lastmod": "2023-08-17T21:47:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lienzo-charro-real-estate/lienzo-charro-condominiums/",
+      "lastmod": "2023-08-17T21:50:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lienzo-charro-real-estate/lienzo-charro-land/",
+      "lastmod": "2023-08-17T21:56:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lienzo-charro-real-estate/lienzo-charro-homes/",
+      "lastmod": "2023-08-17T21:56:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lienzo-charro-real-estate/lienzo-charro-multifamily/",
+      "lastmod": "2023-08-17T21:59:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-lomas-del-cabo-real-estate/fracc-lomas-del-cabo-commercials/",
+      "lastmod": "2023-08-17T22:05:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-lomas-del-cabo-real-estate/fracc-lomas-del-cabo-condominiums/",
+      "lastmod": "2023-08-17T22:11:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-lomas-del-cabo-real-estate/fracc-lomas-del-cabo-homes/",
+      "lastmod": "2023-08-17T22:15:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-paraiso-del-sol-real-estate/fracc-paraiso-del-sol-land/",
+      "lastmod": "2023-08-17T22:20:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-lomas-del-cabo-real-estate/fracc-lomas-del-cabo-land/",
+      "lastmod": "2023-08-17T22:23:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-lomas-del-cabo-real-estate/fracc-lomas-del-cabo-multifamily/",
+      "lastmod": "2023-08-17T22:28:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sunset-real-estate/sunset-commercials/",
+      "lastmod": "2023-08-17T22:50:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sunset-real-estate/sunset-condominiums/",
+      "lastmod": "2023-08-17T22:54:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sunset-real-estate/sunset-homes/",
+      "lastmod": "2023-08-17T22:58:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sunset-real-estate/sunset-land/",
+      "lastmod": "2023-08-17T23:16:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sunset-real-estate/sunset-multifamily/",
+      "lastmod": "2023-08-18T16:35:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/luxotica-ii-real-estate/luxotica-ii-condominiums/",
+      "lastmod": "2023-08-18T16:46:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sea-breeze-real-estate/sea-breeze-condominiums/",
+      "lastmod": "2023-08-18T16:49:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/coromuel-real-estate/coromuel-condominiums/",
+      "lastmod": "2023-08-23T18:45:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bajaterra-real-estate/bajaterra-condominiums/",
+      "lastmod": "2023-08-23T18:58:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/roca-vista-real-estate/roca-vista-condominiums/",
+      "lastmod": "2023-08-23T19:04:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cobalto-real-estate/cobalto-condominiums/",
+      "lastmod": "2023-08-23T19:09:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-south-real-estate/miramar-commercials/",
+      "lastmod": "2023-08-23T19:44:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-south-real-estate/cabo-san-lucas-centro-south-condominiums/",
+      "lastmod": "2023-08-23T20:47:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-south-real-estate/cabo-san-lucas-centro-south-homes/",
+      "lastmod": "2023-08-23T20:56:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-south-real-estate/cabo-san-lucas-centro-south-land/",
+      "lastmod": "2023-08-23T21:00:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-south-real-estate/cabo-san-lucas-centro-south-multifamily/",
+      "lastmod": "2023-08-23T21:10:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-north-real-estate/cabo-san-lucas-centro-north-commercials/",
+      "lastmod": "2023-08-23T21:17:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-north-real-estate/cabo-san-lucas-centro-north-condominiums/",
+      "lastmod": "2023-08-23T21:21:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-north-real-estate/cabo-san-lucas-centro-north-homes/",
+      "lastmod": "2023-08-23T21:25:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-north-real-estate/cabo-san-lucas-centro-north-land/",
+      "lastmod": "2023-08-23T21:28:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-north-real-estate/cabo-san-lucas-centro-north-multifamily/",
+      "lastmod": "2023-08-23T21:32:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punto-pedregal-real-estate/punto-pedregal-condominiums/",
+      "lastmod": "2023-08-29T17:28:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-descanso-real-estate/el-descanso-condominiums/",
+      "lastmod": "2023-08-29T17:35:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lunaterra-real-estate/lunaterra-condominiums/",
+      "lastmod": "2023-08-29T17:48:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/three-point-tower-real-estate/three-point-tower-condominiums/",
+      "lastmod": "2023-08-29T17:56:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quintas-california-real-estate/quintas-california-commercials/",
+      "lastmod": "2023-08-29T18:34:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quintas-california-real-estate/quintas-california-condominiums/",
+      "lastmod": "2023-08-29T18:48:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quintas-california-real-estate/quintas-california-homes/",
+      "lastmod": "2023-08-29T18:51:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quintas-california-real-estate/quintas-california-land/",
+      "lastmod": "2023-08-29T18:54:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quintas-california-real-estate/quintas-california-multifamily/",
+      "lastmod": "2023-08-29T19:04:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arenal-real-estate/arenal-commercials/",
+      "lastmod": "2023-08-29T19:38:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arenal-real-estate/arenal-condominiums/",
+      "lastmod": "2023-08-29T19:52:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arenal-real-estate/arenal-homes/",
+      "lastmod": "2023-08-29T19:58:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arenal-real-estate/arenal-land/",
+      "lastmod": "2023-08-29T20:01:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arenal-real-estate/arenal-multifamily/",
+      "lastmod": "2023-08-29T20:04:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sierra-dorada-real-estate/sierra-dorada-commercials/",
+      "lastmod": "2023-09-06T19:03:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sierra-dorada-real-estate/sierra-dorada-condominiums/",
+      "lastmod": "2023-09-06T19:31:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sierra-dorada-real-estate/sierra-dorada-homes/",
+      "lastmod": "2023-09-06T19:35:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sierra-dorada-real-estate/sierra-dorada-land/",
+      "lastmod": "2023-09-06T19:41:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sierra-dorada-real-estate/sierra-dorada-multifamily/",
+      "lastmod": "2023-09-06T19:46:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-de-hierro-real-estate/puerta-de-hierro-condominiums/",
+      "lastmod": "2023-09-06T19:59:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-de-hierro-real-estate/puerta-de-hierro-homes/",
+      "lastmod": "2023-09-06T20:03:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cresta-del-mar-real-estate/cresta-del-mar-commercials/",
+      "lastmod": "2023-09-06T20:15:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cresta-del-mar-real-estate/cresta-del-mar-condominiums/",
+      "lastmod": "2023-09-06T20:19:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cresta-del-mar-real-estate/cresta-del-mar-homes/",
+      "lastmod": "2023-09-06T20:22:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cresta-del-mar-real-estate/cresta-del-mar-land/",
+      "lastmod": "2023-09-06T20:25:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cresta-del-mar-real-estate/cresta-del-mar-multifamily/",
+      "lastmod": "2023-09-06T20:30:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-mexicana-las-palmas-real-estate/casa-mexicana-las-palmas-condominiums/",
+      "lastmod": "2023-09-06T20:46:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-mexicana-las-palmas-real-estate/casa-mexicana-las-palmas-homes/",
+      "lastmod": "2023-09-06T20:48:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-mexicana-agaves-real-estate/casa-mexicana-agaves-homes/",
+      "lastmod": "2023-09-06T20:56:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-mexicana-agaves-real-estate/casa-mexicana-agaves-condominiums/",
+      "lastmod": "2023-09-06T20:58:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-country-club-real-estate/cabo-san-lucas-country-club-commercials/",
+      "lastmod": "2023-09-06T21:49:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-country-club-real-estate/cabo-san-lucas-country-club-condominiums/",
+      "lastmod": "2023-09-06T21:52:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-country-club-real-estate/cabo-san-lucas-country-club-homes/",
+      "lastmod": "2023-09-06T22:19:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-country-club-real-estate/cabo-san-lucas-country-club-land/",
+      "lastmod": "2023-09-06T22:22:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-country-club-real-estate/cabo-san-lucas-country-club-multifamily/",
+      "lastmod": "2023-09-06T22:26:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-la-ventana-any-price/",
+      "lastmod": "2023-09-14T17:14:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-el-sargento-any-price/",
+      "lastmod": "2023-09-14T17:16:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-east-cape-any-price/",
+      "lastmod": "2023-09-14T17:18:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-loreto-any-price/",
+      "lastmod": "2023-09-14T17:21:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-cerritos-any-price/",
+      "lastmod": "2023-09-14T17:26:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/paraiso-del-tezal-real-estate/paraiso-del-tezal-condominiums/",
+      "lastmod": "2023-09-21T19:45:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-arena-real-estate/punta-arena-condominiums/",
+      "lastmod": "2023-09-21T20:23:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-arena-real-estate/punta-arena-homes/",
+      "lastmod": "2023-09-21T20:25:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-bahia-real-estate/",
+      "lastmod": "2023-09-21T21:12:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-bahia-real-estate/vista-bahia-condominiums/",
+      "lastmod": "2023-09-21T21:29:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-bahia-real-estate/vista-bahia-homes/",
+      "lastmod": "2023-09-21T21:32:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-del-sol-real-estate/",
+      "lastmod": "2023-09-21T21:56:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-del-sol-real-estate/puerta-del-sol-condominiums/",
+      "lastmod": "2023-09-21T22:00:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-del-sol-real-estate/puerta-del-sol-homes/",
+      "lastmod": "2023-09-21T22:06:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maranata-real-estate/",
+      "lastmod": "2023-09-21T22:15:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maranata-real-estate/maranata-condominiums/",
+      "lastmod": "2023-09-21T22:18:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maranata-real-estate/maranata-homes/",
+      "lastmod": "2023-09-21T22:20:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quivira-real-estate/",
+      "lastmod": "2023-09-25T19:33:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-pedregal-real-estate/",
+      "lastmod": "2023-09-25T19:34:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/maravilla-real-estate/",
+      "lastmod": "2023-09-25T19:35:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerto-los-cabos-real-estate/",
+      "lastmod": "2023-09-25T19:39:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-centenario-real-estate/",
+      "lastmod": "2023-09-25T19:57:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fidepaz-real-estate/",
+      "lastmod": "2023-09-25T19:57:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colina-del-sol-real-estate/",
+      "lastmod": "2023-09-25T19:58:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellavista-real-estate/",
+      "lastmod": "2023-09-25T19:59:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-downtown-real-estate/",
+      "lastmod": "2023-09-25T20:00:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chametla-real-estate/",
+      "lastmod": "2023-09-25T20:01:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-comitan-real-estate/",
+      "lastmod": "2023-09-25T20:01:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/esterito-real-estate/",
+      "lastmod": "2023-09-25T20:02:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-mogote-real-estate/",
+      "lastmod": "2023-09-25T20:03:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-beaches-real-estate/",
+      "lastmod": "2023-09-25T20:55:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-pedro-real-estate/",
+      "lastmod": "2023-09-25T20:56:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-posada-real-estate/",
+      "lastmod": "2023-09-25T21:09:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-planes-real-estate/",
+      "lastmod": "2023-09-25T21:13:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-perla-real-estate/",
+      "lastmod": "2023-09-25T21:27:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-la-paz-any-price/la-paz-homes/",
+      "lastmod": "2023-09-26T16:22:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-la-paz-any-price/la-paz-condominiums/",
+      "lastmod": "2023-09-26T16:23:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-la-paz-any-price/la-paz-land/",
+      "lastmod": "2023-09-26T16:23:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-la-paz-any-price/la-paz-commercials/",
+      "lastmod": "2023-09-26T16:23:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-la-paz-any-price/la-paz-multifamily/",
+      "lastmod": "2023-09-26T16:24:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-bay-real-estate/",
+      "lastmod": "2023-09-26T19:26:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/toscana-residences-real-estate/",
+      "lastmod": "2023-09-28T19:24:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/toscana-residences-real-estate/toscana-residences-homes/",
+      "lastmod": "2023-09-28T19:30:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/duara-real-estate/",
+      "lastmod": "2023-09-28T19:33:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/duara-real-estate/duara-condominiums/",
+      "lastmod": "2023-09-28T19:37:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/duara-real-estate/duara-homes/",
+      "lastmod": "2023-09-28T19:46:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sabina-residencial-real-estate/",
+      "lastmod": "2023-09-28T19:49:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sabina-residencial-real-estate/sabina-residencial-condominiums/",
+      "lastmod": "2023-09-28T19:53:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sabina-residencial-real-estate/sabina-residencial-homes/",
+      "lastmod": "2023-09-28T19:57:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-cima-real-estate/la-cima-homes/",
+      "lastmod": "2023-09-28T20:13:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-cima-real-estate/la-cima-condominiums/",
+      "lastmod": "2023-09-28T21:11:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-vela-i-real-estate/vista-vela-i-homes/",
+      "lastmod": "2023-09-28T21:42:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-vela-i-real-estate/",
+      "lastmod": "2023-09-28T21:42:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-vela-i-real-estate/vista-vela-i-condominiums/",
+      "lastmod": "2023-09-28T21:42:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-ballena-real-estate/",
+      "lastmod": "2023-09-28T22:25:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-marina-real-estate/",
+      "lastmod": "2023-09-28T22:26:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-real-estate/",
+      "lastmod": "2023-09-28T22:27:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-cabos-beaches-real-estate/",
+      "lastmod": "2023-09-28T22:28:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/st-regis-real-estate/",
+      "lastmod": "2023-09-28T22:29:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hacienda-beach-club-residences-real-estate/",
+      "lastmod": "2023-09-28T22:49:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-sol-real-estate/",
+      "lastmod": "2023-09-28T22:51:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mesa-colorada-real-estate/",
+      "lastmod": "2023-09-28T22:52:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terranova-real-estate/",
+      "lastmod": "2023-09-28T22:53:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lagunitas-real-estate/",
+      "lastmod": "2023-09-28T22:56:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bellaterra-real-estate/",
+      "lastmod": "2023-09-28T23:02:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hojazen-real-estate/",
+      "lastmod": "2023-09-28T23:03:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cangrejos-real-estate/",
+      "lastmod": "2023-09-28T23:12:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-faro-real-estate/",
+      "lastmod": "2023-09-28T23:13:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcoiris-real-estate/",
+      "lastmod": "2023-09-28T23:13:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portales-real-estate/",
+      "lastmod": "2023-09-28T23:14:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/altamira-condominios-plus-real-estate/",
+      "lastmod": "2023-09-28T23:14:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmas-at-sunset-beach-real-estate/",
+      "lastmod": "2023-09-28T23:15:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-progreso-real-estate/",
+      "lastmod": "2023-09-28T23:16:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-de-santa-fe-real-estate/",
+      "lastmod": "2023-09-28T23:17:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/4-de-marzo-real-estate/",
+      "lastmod": "2023-09-28T23:18:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-de-brisas-real-estate/",
+      "lastmod": "2023-09-28T23:18:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-cabo-plaza-real-estate/",
+      "lastmod": "2023-09-28T23:19:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-paraiso-residences-real-estate/",
+      "lastmod": "2023-09-28T23:20:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/jacarandas-real-estate/",
+      "lastmod": "2023-09-28T23:20:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colinas-del-cabo-real-estate/",
+      "lastmod": "2023-09-28T23:21:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-pacifico-real-estate/",
+      "lastmod": "2023-09-28T23:21:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmitos-residencial-real-estate/",
+      "lastmod": "2023-09-28T23:22:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/residencial-las-brisas-real-estate/",
+      "lastmod": "2023-09-28T23:23:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balcones-real-estate/",
+      "lastmod": "2023-09-28T23:23:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bugambilia-real-estate/",
+      "lastmod": "2023-09-28T23:24:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cerro-de-los-venados-real-estate/",
+      "lastmod": "2023-09-28T23:26:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villa-la-estancia-real-estate/",
+      "lastmod": "2023-09-28T23:26:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/terrasol-real-estate/",
+      "lastmod": "2023-09-28T23:28:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-nautica-real-estate/",
+      "lastmod": "2023-10-02T23:10:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/carena-real-estate/",
+      "lastmod": "2023-10-02T23:11:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marea-los-cabos-real-estate/",
+      "lastmod": "2023-10-02T23:16:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-sol-real-estate/",
+      "lastmod": "2023-10-02T23:17:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-cabos-village-real-estate/",
+      "lastmod": "2023-10-02T23:25:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/andalaya-real-estate/",
+      "lastmod": "2023-10-02T23:26:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cascadas-del-pedregal-real-estate/",
+      "lastmod": "2023-10-02T23:28:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/montemar-pedregal-real-estate/",
+      "lastmod": "2023-10-02T23:29:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-heights-real-estate/",
+      "lastmod": "2023-10-02T23:31:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portofino-real-estate/",
+      "lastmod": "2023-10-02T23:33:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-side-real-estate/",
+      "lastmod": "2023-10-02T23:33:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-one-real-estate/",
+      "lastmod": "2023-10-02T23:35:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-side-real-estate/",
+      "lastmod": "2023-10-02T23:36:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-towers-real-estate/",
+      "lastmod": "2023-10-02T23:37:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/csl-north-east-19-real-estate/",
+      "lastmod": "2023-10-02T23:38:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portanova-real-estate/",
+      "lastmod": "2023-10-02T23:39:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/auroras-real-estate/",
+      "lastmod": "2023-10-02T23:40:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-west-real-estate/",
+      "lastmod": "2023-10-02T23:41:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-paraiso-del-sol-real-estate/",
+      "lastmod": "2023-10-02T23:42:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-cabanas-real-estate/",
+      "lastmod": "2023-10-02T23:43:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miro-los-cabos-real-estate/",
+      "lastmod": "2023-10-03T23:23:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-mare-real-estate/",
+      "lastmod": "2023-10-03T23:24:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lienzo-charro-real-estate/",
+      "lastmod": "2023-10-03T23:29:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sea-breeze-real-estate/",
+      "lastmod": "2023-10-03T23:33:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-lomas-del-cabo-real-estate/",
+      "lastmod": "2023-10-03T23:33:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sunset-real-estate/",
+      "lastmod": "2023-10-03T23:35:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/coromuel-real-estate/",
+      "lastmod": "2023-10-03T23:36:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bajaterra-real-estate/",
+      "lastmod": "2023-10-03T23:37:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/roca-vista-real-estate/",
+      "lastmod": "2023-10-03T23:38:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cobalto-real-estate/",
+      "lastmod": "2023-10-03T23:39:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-north-real-estate/",
+      "lastmod": "2023-10-04T23:48:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-centro-south-real-estate/",
+      "lastmod": "2023-10-04T23:49:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punto-pedregal-real-estate/",
+      "lastmod": "2023-10-04T23:50:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-descanso-real-estate/",
+      "lastmod": "2023-10-04T23:52:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lunaterra-real-estate/",
+      "lastmod": "2023-10-04T23:57:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quintas-california-real-estate/",
+      "lastmod": "2023-10-04T23:57:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/three-point-tower-real-estate/",
+      "lastmod": "2023-10-04T23:59:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arenal-real-estate/",
+      "lastmod": "2023-10-04T23:59:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-de-hierro-real-estate/",
+      "lastmod": "2023-10-05T00:00:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sierra-dorada-real-estate/",
+      "lastmod": "2023-10-05T00:04:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cresta-del-mar-real-estate/",
+      "lastmod": "2023-10-05T00:13:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-country-club-real-estate/",
+      "lastmod": "2023-10-05T00:13:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-mexicana-las-palmas-real-estate/",
+      "lastmod": "2023-10-05T00:14:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-mexicana-agaves-real-estate/",
+      "lastmod": "2023-10-05T00:15:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/paraiso-del-tezal-real-estate/",
+      "lastmod": "2023-10-05T00:18:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-arena-real-estate/",
+      "lastmod": "2023-10-05T00:18:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-del-tezal-real-estate/",
+      "lastmod": "2023-10-05T18:19:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-del-tezal-real-estate/villas-del-tezal-condominiums/",
+      "lastmod": "2023-10-05T18:23:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-del-tezal-real-estate/villas-del-tezal-homes/",
+      "lastmod": "2023-10-05T18:27:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vistana-real-estate/",
+      "lastmod": "2023-10-05T18:34:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vistana-real-estate/vistana-condominiums/",
+      "lastmod": "2023-10-05T18:38:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vistana-real-estate/vistana-homes/",
+      "lastmod": "2023-10-05T18:41:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/luna-del-tezal-real-estate/",
+      "lastmod": "2023-10-05T18:45:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/luna-del-tezal-real-estate/luna-del-tezal-condominiums/",
+      "lastmod": "2023-10-05T18:49:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marlin-azul-real-estate/",
+      "lastmod": "2023-10-05T18:52:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marlin-azul-real-estate/marlin-azul-condominiums/",
+      "lastmod": "2023-10-05T18:59:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marlin-azul-real-estate/marlin-azul-homes/",
+      "lastmod": "2023-10-05T19:01:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/privanzas-real-estate/",
+      "lastmod": "2023-10-05T19:05:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/privanzas-condominiums/",
+      "lastmod": "2023-10-05T19:10:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/privanzas-real-estate/privanzas-homes/",
+      "lastmod": "2023-10-05T19:14:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-san-lucas-real-estate/",
+      "lastmod": "2023-10-06T22:51:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-ventanas-al-paraiso-real-estate/",
+      "lastmod": "2023-10-06T22:52:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-bello-real-estate/",
+      "lastmod": "2023-10-11T21:21:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-bello-real-estate/cabo-bello-homes/",
+      "lastmod": "2023-10-11T21:25:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-bello-real-estate/cabo-bello-condominiums/",
+      "lastmod": "2023-10-11T21:27:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-bello-real-estate/cabo-bello-land/",
+      "lastmod": "2023-10-11T21:27:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-bello-real-estate/cabo-bello-commercials/",
+      "lastmod": "2023-10-11T21:29:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-bello-real-estate/cabo-bello-multifamily/",
+      "lastmod": "2023-10-11T21:29:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/authentication/",
+      "lastmod": "2023-10-12T21:30:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/authentication/log-in-google/",
+      "lastmod": "2023-10-12T21:30:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/authentication/log-out/",
+      "lastmod": "2023-10-12T23:58:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ventanas-real-estate/",
+      "lastmod": "2023-10-13T16:28:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ventanas-real-estate/ventanas-commercials/",
+      "lastmod": "2023-10-13T16:33:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ventanas-real-estate/ventanas-condominiums/",
+      "lastmod": "2023-10-13T16:37:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ventanas-real-estate/ventanas-homes/",
+      "lastmod": "2023-10-13T16:40:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ventanas-real-estate/ventanas-land/",
+      "lastmod": "2023-10-13T16:56:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ventanas-real-estate/ventanas-multifamily/",
+      "lastmod": "2023-10-13T17:01:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-calafia-real-estate/",
+      "lastmod": "2023-10-13T17:28:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-calafia-real-estate/plaza-calafia-condominiums/",
+      "lastmod": "2023-10-13T17:46:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-carmela-real-estate/",
+      "lastmod": "2023-10-13T17:52:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-carmela-real-estate/santa-carmela-commercials/",
+      "lastmod": "2023-10-13T18:04:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-carmela-real-estate/santa-carmela-condominiums/",
+      "lastmod": "2023-10-13T18:08:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-carmela-real-estate/santa-carmela-homes/",
+      "lastmod": "2023-10-13T18:11:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-carmela-real-estate/santa-carmela-land/",
+      "lastmod": "2023-10-13T18:18:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-carmela-real-estate/santa-carmela-multifamily/",
+      "lastmod": "2023-10-13T18:26:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/amaterra-real-estate/",
+      "lastmod": "2023-10-13T18:29:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/amaterra-real-estate/amaterra-condominiums/",
+      "lastmod": "2023-10-13T18:36:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/authentication/log-in-facebook/",
+      "lastmod": "2023-10-15T08:30:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-tezal-ocean-side-real-estate/",
+      "lastmod": "2023-10-18T21:45:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-tezal-ocean-side-real-estate/el-tezal-ocean-side-homes/",
+      "lastmod": "2023-10-18T22:07:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-tezal-ocean-side-real-estate/el-tezal-ocean-side-commercials/",
+      "lastmod": "2023-10-18T22:38:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-tezal-ocean-side-real-estate/el-tezal-ocean-side-condominiums/",
+      "lastmod": "2023-10-18T22:41:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-tezal-ocean-side-real-estate/el-tezal-ocean-side-land/",
+      "lastmod": "2023-10-18T22:46:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-tezal-ocean-side-real-estate/el-tezal-ocean-side-multifamily/",
+      "lastmod": "2023-10-18T22:50:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bahia-del-tezal-real-estate/",
+      "lastmod": "2023-10-19T18:24:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bahia-del-tezal-real-estate/bahia-del-tezal-condominiums/",
+      "lastmod": "2023-10-19T18:30:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/auberge-residences-real-estate/",
+      "lastmod": "2023-10-19T18:34:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/auberge-residences-real-estate/auberge-residences-condominiums/",
+      "lastmod": "2023-10-19T18:37:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-residencias-real-estate/",
+      "lastmod": "2023-10-19T19:13:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-residencias-real-estate/las-residencias-commercials/",
+      "lastmod": "2023-10-19T19:19:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-residencias-real-estate/las-residencias-condominiums/",
+      "lastmod": "2023-10-19T19:23:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-residencias-real-estate/las-residencias-homes/",
+      "lastmod": "2023-10-19T19:25:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-residencias-real-estate/las-residencias-land/",
+      "lastmod": "2023-10-19T19:29:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-residencias-real-estate/las-residencias-multifamily/",
+      "lastmod": "2023-10-19T19:36:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-colinas-real-estate/",
+      "lastmod": "2023-10-19T19:44:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-colinas-real-estate/las-colinas-commercials/",
+      "lastmod": "2023-10-19T19:53:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-colinas-real-estate/las-colinas-condominiums/",
+      "lastmod": "2023-10-19T19:58:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-colinas-real-estate/las-colinas-homes/",
+      "lastmod": "2023-10-19T20:03:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-colinas-real-estate/las-colinas-land/",
+      "lastmod": "2023-10-19T20:08:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-colinas-real-estate/las-colinas-multifamily/",
+      "lastmod": "2023-10-19T20:12:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buena-vista-real-estate/buena-vista-commercials/",
+      "lastmod": "2023-10-27T17:43:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buena-vista-real-estate/buena-vista-land/",
+      "lastmod": "2023-10-27T17:52:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buena-vista-real-estate/buena-vista-condominiums/",
+      "lastmod": "2023-10-27T18:03:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buena-vista-real-estate/buena-vista-homes/",
+      "lastmod": "2023-10-27T18:07:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buena-vista-real-estate/buena-vista-multifamily/",
+      "lastmod": "2023-10-27T18:10:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-azul-real-estate/",
+      "lastmod": "2023-10-27T18:17:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-azul-real-estate/vista-azul-condominiums/",
+      "lastmod": "2023-10-27T18:28:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-azul-real-estate/vista-azul-homes/",
+      "lastmod": "2023-10-27T18:32:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-azul-real-estate/vista-azul-commercials/",
+      "lastmod": "2023-10-27T18:35:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-azul-real-estate/vista-azul-land/",
+      "lastmod": "2023-10-27T18:39:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-azul-real-estate/vista-azul-multifamily/",
+      "lastmod": "2023-10-27T18:44:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-del-cabo-real-estate/",
+      "lastmod": "2023-10-27T18:56:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miramar-real-estate/",
+      "lastmod": "2023-10-27T18:57:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-del-cabo-real-estate/misiones-del-cabo-condominiums/",
+      "lastmod": "2023-10-27T21:41:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/misiones-del-cabo-real-estate/misiones-del-cabo-homes/",
+      "lastmod": "2023-10-27T21:45:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-cape-residences-real-estate/",
+      "lastmod": "2023-10-27T21:55:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-cape-residences-real-estate/the-cape-residences-condominiums/",
+      "lastmod": "2023-10-27T22:10:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-cape-residences-real-estate/the-cape-residences-homes/",
+      "lastmod": "2023-10-27T22:13:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-bay-real-estate/chileno-bay-condominiums/",
+      "lastmod": "2023-10-27T23:38:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-los-barriles-any-price/",
+      "lastmod": "2023-11-01T16:51:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mistiq-los-cabos-real-estate/",
+      "lastmod": "2023-11-03T17:28:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mistiq-los-cabos-real-estate/mistiq-los-cabos-condominiums/",
+      "lastmod": "2023-11-03T17:34:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/solaria-real-estate/",
+      "lastmod": "2023-11-03T17:57:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/solaria-real-estate/solaria-condominiums/",
+      "lastmod": "2023-11-03T18:03:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tramonti-real-estate/",
+      "lastmod": "2023-11-03T19:41:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tramonti-real-estate/tramonti-condominiums/",
+      "lastmod": "2023-11-03T19:43:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-costa-real-estate/",
+      "lastmod": "2023-11-03T19:51:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-costa-real-estate/cabo-costa-condominiums/",
+      "lastmod": "2023-11-03T19:56:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hermitage-real-estate/",
+      "lastmod": "2023-11-03T19:59:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hermitage-real-estate/hermitage-condominiums/",
+      "lastmod": "2023-11-03T20:10:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hermitage-real-estate/hermitage-homes/",
+      "lastmod": "2023-11-03T20:11:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cardinal-living-real-estate/",
+      "lastmod": "2023-11-09T16:38:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cardinal-living-real-estate/cardinal-living-condominiums/",
+      "lastmod": "2023-11-09T16:41:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcomar-real-estate/",
+      "lastmod": "2023-11-09T16:44:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcomar-real-estate/arcomar-condominiums/",
+      "lastmod": "2023-11-09T16:52:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcomar-real-estate/arcomar-homes/",
+      "lastmod": "2023-11-09T16:56:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ciruelos-real-estate/ciruelos-commercials/",
+      "lastmod": "2023-11-09T17:05:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ciruelos-real-estate/ciruelos-condominiums/",
+      "lastmod": "2023-11-09T17:07:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ciruelos-real-estate/ciruelos-homes/",
+      "lastmod": "2023-11-09T17:10:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ciruelos-real-estate/ciruelos-land/",
+      "lastmod": "2023-11-09T17:13:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ciruelos-real-estate/ciruelos-multifamily/",
+      "lastmod": "2023-11-09T17:16:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ciruelos-real-estate/",
+      "lastmod": "2023-11-09T17:20:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tamar-real-estate/",
+      "lastmod": "2023-11-09T17:22:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tamar-real-estate/tamar-homes/",
+      "lastmod": "2023-11-09T17:25:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tamar-real-estate/tamar-condominiums/",
+      "lastmod": "2023-11-09T17:27:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-mar-ecopark-real-estate/",
+      "lastmod": "2023-11-09T17:33:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-mar-ecopark-real-estate/cabo-del-mar-ecopark-homes/",
+      "lastmod": "2023-11-09T17:38:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-mar-ecopark-real-estate/cabo-del-mar-ecopark-condominiums/",
+      "lastmod": "2023-11-09T17:41:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mediterranea-real-estate/",
+      "lastmod": "2023-11-17T17:02:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mediterranea-real-estate/mediterranea-commercials/",
+      "lastmod": "2023-11-17T17:25:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mediterranea-real-estate/mediterranea-condominiums/",
+      "lastmod": "2023-11-17T17:27:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mediterranea-real-estate/mediterranea-homes/",
+      "lastmod": "2023-11-17T17:30:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mediterranea-real-estate/mediterranea-land/",
+      "lastmod": "2023-11-17T17:35:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mediterranea-real-estate/mediterranea-multifamily/",
+      "lastmod": "2023-11-17T17:37:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jeronimo-real-estate/",
+      "lastmod": "2023-11-17T17:41:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jeronimo-real-estate/san-jeronimo-condominiums/",
+      "lastmod": "2023-11-17T17:43:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jeronimo-real-estate/san-jeronimo-homes/",
+      "lastmod": "2023-11-17T17:45:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cardon-real-estate/",
+      "lastmod": "2023-11-17T17:48:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cardon-real-estate/cardon-condominiums/",
+      "lastmod": "2023-11-17T17:51:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cardon-real-estate/cardon-homes/",
+      "lastmod": "2023-11-17T17:54:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-vista-real-estate/la-vista-commercials/",
+      "lastmod": "2023-11-17T17:59:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-vista-real-estate/la-vista-condominiums/",
+      "lastmod": "2023-11-17T18:06:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-vista-real-estate/la-vista-homes/",
+      "lastmod": "2023-11-17T18:08:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-vista-real-estate/la-vista-land/",
+      "lastmod": "2023-11-17T18:10:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-neptuno-real-estate/",
+      "lastmod": "2023-11-17T18:27:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-neptuno-real-estate/villas-neptuno-homes/",
+      "lastmod": "2023-11-17T18:40:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-neptuno-real-estate/villas-neptuno-condominiums/",
+      "lastmod": "2023-11-17T18:44:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-vista-real-estate/",
+      "lastmod": "2023-11-17T18:50:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-vista-real-estate/la-vista-multifamily/",
+      "lastmod": "2023-11-17T18:54:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/coto-san-diego-real-estate/",
+      "lastmod": "2023-11-22T18:33:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/coto-san-diego-real-estate/coto-san-diego-condominiums/",
+      "lastmod": "2023-11-22T18:36:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/coto-san-diego-real-estate/coto-san-diego-homes/",
+      "lastmod": "2023-11-22T18:39:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-noria-real-estate/",
+      "lastmod": "2023-11-22T18:43:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-noria-real-estate/la-noria-commercials/",
+      "lastmod": "2023-11-22T18:48:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-noria-real-estate/la-noria-condominiums/",
+      "lastmod": "2023-11-22T18:51:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-noria-real-estate/la-noria-homes/",
+      "lastmod": "2023-11-22T18:53:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-noria-real-estate/la-noria-land/",
+      "lastmod": "2023-11-22T18:57:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-noria-real-estate/la-noria-multifamily/",
+      "lastmod": "2023-11-22T19:00:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-misiones-real-estate/",
+      "lastmod": "2023-11-22T19:11:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-misiones-real-estate/las-misiones-condominiums/",
+      "lastmod": "2023-11-22T19:14:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-misiones-real-estate/las-misiones-homes/",
+      "lastmod": "2023-11-22T19:17:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cumbre-del-tezal-real-estate/",
+      "lastmod": "2023-11-22T19:41:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cumbre-del-tezal-real-estate/cumbre-del-tezal-condominiums/",
+      "lastmod": "2023-11-22T19:47:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cumbre-del-tezal-real-estate/cumbre-del-tezal-homes/",
+      "lastmod": "2023-11-22T19:52:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/idaho-condos-real-estate/",
+      "lastmod": "2023-11-22T19:57:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/idaho-condos-real-estate/idaho-condominiums/",
+      "lastmod": "2023-11-22T19:59:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miramar-real-estate/miramar-commercials/",
+      "lastmod": "2023-11-24T23:21:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-miranda-real-estate/",
+      "lastmod": "2023-11-30T16:46:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-miranda-real-estate/fracc-miranda-commercials/",
+      "lastmod": "2023-11-30T17:06:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-miranda-real-estate/fracc-miranda-condominiums/",
+      "lastmod": "2023-11-30T17:19:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-miranda-real-estate/fracc-miranda-homes/",
+      "lastmod": "2023-11-30T17:36:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-miranda-real-estate/fracc-miranda-land/",
+      "lastmod": "2023-11-30T17:48:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fracc-miranda-real-estate/fracc-miranda-multifamily/",
+      "lastmod": "2023-11-30T17:51:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balmaceda-real-estate/",
+      "lastmod": "2023-11-30T17:59:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balmaceda-real-estate/balmaceda-homes/",
+      "lastmod": "2023-11-30T18:28:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/balmaceda-real-estate/balmaceda-condominiums/",
+      "lastmod": "2023-11-30T18:31:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lunaterra-ii-real-estate/",
+      "lastmod": "2023-11-30T19:00:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lunaterra-ii-real-estate/lunaterra-ii-condominiums/",
+      "lastmod": "2023-11-30T19:20:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-panorama-real-estate/",
+      "lastmod": "2023-11-30T19:27:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-panorama-real-estate/vista-panorama-homes/",
+      "lastmod": "2023-11-30T19:35:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-panorama-real-estate/vista-panorama-condominiums/",
+      "lastmod": "2023-11-30T19:43:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/amalfi-real-estate/",
+      "lastmod": "2023-11-30T19:47:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/amalfi-real-estate/amalfi-homes/",
+      "lastmod": "2023-11-30T19:56:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/amalfi-real-estate/amalfi-condominiums/",
+      "lastmod": "2023-11-30T19:58:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-pescadero-any-price/",
+      "lastmod": "2023-12-07T17:02:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-pescadero-real-estate/",
+      "lastmod": "2023-12-07T17:09:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sobre-pescadero-bienes-raices/",
+      "lastmod": "2023-12-07T17:10:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pacifica-real-estate/",
+      "lastmod": "2023-12-07T21:02:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pacifica-real-estate/cabo-pacifica-commercials/",
+      "lastmod": "2023-12-07T21:19:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pacifica-real-estate/cabo-pacifica-condominiums/",
+      "lastmod": "2023-12-07T21:21:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pacifica-real-estate/cabo-pacifica-homes/",
+      "lastmod": "2023-12-07T21:24:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pacifica-real-estate/cabo-pacifica-land/",
+      "lastmod": "2023-12-07T21:26:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pacifica-real-estate/cabo-pacifica-multifamily/",
+      "lastmod": "2023-12-07T21:28:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-descanso-iii-real-estate/",
+      "lastmod": "2023-12-07T21:30:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-descanso-iii-real-estate/el-descanso-iii-condominiums/",
+      "lastmod": "2023-12-07T21:33:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-inland-real-estate/",
+      "lastmod": "2023-12-07T21:37:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-inland-real-estate/chileno-inland-commercials/",
+      "lastmod": "2023-12-07T21:40:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-inland-real-estate/chileno-inland-condominiums/",
+      "lastmod": "2023-12-07T21:41:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-inland-real-estate/chileno-inland-homes/",
+      "lastmod": "2023-12-07T21:45:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-inland-real-estate/chileno-inland-land/",
+      "lastmod": "2023-12-07T22:33:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/chileno-inland-real-estate/chileno-inland-multifamily/",
+      "lastmod": "2023-12-07T22:36:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-del-mar-real-estate/",
+      "lastmod": "2023-12-07T22:45:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-del-mar-real-estate/puerta-del-mar-condominiums/",
+      "lastmod": "2023-12-07T22:48:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-del-mar-real-estate/puerta-del-mar-homes/",
+      "lastmod": "2023-12-07T22:50:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/manana-real-estate/",
+      "lastmod": "2023-12-07T22:53:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/manana-real-estate/manana-condominiums/",
+      "lastmod": "2023-12-07T22:55:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/manana-real-estate/manana-homes/",
+      "lastmod": "2023-12-07T22:57:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/real-centenario/",
+      "lastmod": "2023-12-12T21:00:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/real-centenario-es/",
+      "lastmod": "2023-12-12T21:00:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tesoro-real-estate/",
+      "lastmod": "2023-12-15T17:13:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tesoro-real-estate/tesoro-condominiums/",
+      "lastmod": "2023-12-15T17:20:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tesoro-real-estate/tesoro-homes/",
+      "lastmod": "2023-12-15T17:24:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-charbel-real-estate/",
+      "lastmod": "2023-12-15T17:31:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miramar-real-estate/miramar-condominiums/",
+      "lastmod": "2023-12-15T17:37:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-charbel-real-estate/san-charbel-condominiums/",
+      "lastmod": "2023-12-15T17:37:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-charbel-real-estate/san-charbel-homes/",
+      "lastmod": "2023-12-15T17:40:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-paraiso-real-estate/",
+      "lastmod": "2023-12-15T17:46:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-paraiso-real-estate/rancho-paraiso-commercials/",
+      "lastmod": "2023-12-15T17:49:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-paraiso-real-estate/rancho-paraiso-condominiums/",
+      "lastmod": "2023-12-15T17:52:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-paraiso-real-estate/rancho-paraiso-homes/",
+      "lastmod": "2023-12-15T17:58:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-paraiso-real-estate/rancho-paraiso-land/",
+      "lastmod": "2023-12-15T18:02:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-paraiso-real-estate/rancho-paraiso-multifamily/",
+      "lastmod": "2023-12-15T18:05:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-vella-ii-real-estate/",
+      "lastmod": "2023-12-15T18:12:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-vella-ii-real-estate/vista-vella-ii-condominiums/",
+      "lastmod": "2023-12-15T18:14:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-vella-ii-real-estate/vista-vella-ii-homes/",
+      "lastmod": "2023-12-15T18:17:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-adobe-real-estate/",
+      "lastmod": "2023-12-15T18:19:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-adobe-real-estate/casa-adobe-condominiums/",
+      "lastmod": "2023-12-15T18:29:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-adobe-real-estate/casa-adobe-homes/",
+      "lastmod": "2023-12-15T18:41:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-bonita-real-estate/",
+      "lastmod": "2023-12-19T19:02:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-bonita-real-estate/plaza-bonita-commercials/",
+      "lastmod": "2023-12-19T19:07:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-bonita-real-estate/plaza-bonita-condominiums/",
+      "lastmod": "2023-12-19T19:10:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-bonita-real-estate/plaza-bonita-homes/",
+      "lastmod": "2023-12-19T19:11:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-bonita-real-estate/plaza-bonita-land/",
+      "lastmod": "2023-12-19T19:13:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/plaza-bonita-real-estate/plaza-bonita-multifamily/",
+      "lastmod": "2023-12-19T19:15:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcos-del-sol-real-estate/",
+      "lastmod": "2023-12-19T19:20:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcos-del-sol-real-estate/arcos-del-sol-commercials/",
+      "lastmod": "2023-12-19T19:23:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcos-del-sol-real-estate/arcos-del-sol-condominiums/",
+      "lastmod": "2023-12-19T19:26:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcos-del-sol-real-estate/arcos-del-sol-homes/",
+      "lastmod": "2023-12-19T19:30:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcos-del-sol-real-estate/arcos-del-sol-land/",
+      "lastmod": "2023-12-19T19:35:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arcos-del-sol-real-estate/arcos-del-sol-multifamily/",
+      "lastmod": "2023-12-19T19:37:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-east-real-estate/",
+      "lastmod": "2023-12-19T19:45:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-east-real-estate/brisas-del-pacifico-east-commercials/",
+      "lastmod": "2023-12-19T19:52:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-east-real-estate/brisas-del-pacifico-east-condominiums/",
+      "lastmod": "2023-12-19T19:58:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-east-real-estate/brisas-del-pacifico-east-homes/",
+      "lastmod": "2023-12-19T21:06:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-east-real-estate/brisas-del-pacifico-east-land/",
+      "lastmod": "2023-12-19T21:08:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/brisas-del-pacifico-east-real-estate/brisas-del-pacifico-east-multifamily/",
+      "lastmod": "2023-12-19T21:11:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hd-iii-real-estate/",
+      "lastmod": "2023-12-19T21:19:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hd-iii-real-estate/hd-iii-condominiums/",
+      "lastmod": "2023-12-19T21:26:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ahorcadita-real-estate/",
+      "lastmod": "2023-12-19T21:30:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ahorcadita-real-estate/ahorcadita-commercials/",
+      "lastmod": "2023-12-19T21:41:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ahorcadita-real-estate/ahorcadita-condominiums/",
+      "lastmod": "2023-12-19T21:47:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ahorcadita-real-estate/ahorcadita-homes/",
+      "lastmod": "2023-12-19T21:51:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ahorcadita-real-estate/ahorcadita-land/",
+      "lastmod": "2023-12-19T21:54:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ahorcadita-real-estate/ahorcadita-multifamily/",
+      "lastmod": "2023-12-19T21:57:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/haciendas-palo-verde-real-estate/",
+      "lastmod": "2024-01-10T22:26:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-centenario-real-estate/",
+      "lastmod": "2024-01-10T22:28:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-posada-real-estate/",
+      "lastmod": "2024-01-11T22:18:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmira-by-alttus-real-estate/",
+      "lastmod": "2024-01-11T22:23:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-de-palmira-real-estate/",
+      "lastmod": "2024-01-11T22:27:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-palmira-real-estate/",
+      "lastmod": "2024-01-11T22:30:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ocean-oasis-real-estate/",
+      "lastmod": "2024-01-11T22:32:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/marina-del-sol-real-estate/",
+      "lastmod": "2024-01-11T22:38:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/costa-baja-resort-real-estate/",
+      "lastmod": "2024-01-11T22:42:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-concha-real-estate/",
+      "lastmod": "2024-01-11T22:45:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pedregal-real-estate/",
+      "lastmod": "2024-01-11T22:49:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-cajete-real-estate/",
+      "lastmod": "2024-01-19T16:31:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-juan-de-la-costa-real-estate/",
+      "lastmod": "2024-01-19T16:37:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-ventana-village-real-estate/",
+      "lastmod": "2024-01-19T16:45:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/conquista-agraria-real-estate/",
+      "lastmod": "2024-01-19T16:48:37+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-inocentes-real-estate/",
+      "lastmod": "2024-01-19T16:54:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-cachora-real-estate/",
+      "lastmod": "2024-01-19T17:08:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-poza-real-estate/",
+      "lastmod": "2024-01-19T17:18:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-tunas-real-estate/",
+      "lastmod": "2024-01-19T17:21:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-maquina-real-estate/",
+      "lastmod": "2024-01-19T17:24:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-posito-real-estate/",
+      "lastmod": "2024-01-19T17:27:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-pastora-real-estate/",
+      "lastmod": "2024-01-19T17:30:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/agua-blanca-real-estate/",
+      "lastmod": "2024-01-19T17:37:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-playitas-real-estate/",
+      "lastmod": "2024-01-19T17:43:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-brisas-esencia-real-estate/",
+      "lastmod": "2024-01-19T17:46:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-brisas-todos-santos-real-estate/",
+      "lastmod": "2024-01-19T17:49:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/privacy-policy/",
+      "lastmod": "2024-04-18T16:55:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/secure-closings-baja/",
+      "lastmod": "2024-05-02T22:39:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/secure-closings-baja-es/",
+      "lastmod": "2024-05-02T22:44:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/baja-construction/",
+      "lastmod": "2024-05-08T23:04:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/baja-construction-es/",
+      "lastmod": "2024-05-08T23:13:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bay-of-the-dreams-real-estate/",
+      "lastmod": "2024-05-14T22:04:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buena-vista-real-estate/",
+      "lastmod": "2024-05-14T23:06:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-barriles-buena-vista-real-estate/",
+      "lastmod": "2024-05-14T23:49:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mision-buenavista-real-estate/",
+      "lastmod": "2024-05-17T22:59:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/baja-martires-real-estate/",
+      "lastmod": "2024-05-17T23:16:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-barriles-centro-real-estate/",
+      "lastmod": "2024-05-22T16:48:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-leonero-real-estate/",
+      "lastmod": "2024-05-22T17:18:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buena-vista-at-los-barriles-real-estate/",
+      "lastmod": "2024-05-22T18:08:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mar-y-sol-real-estate/",
+      "lastmod": "2024-05-23T19:43:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/spa-buena-vista-real-estate/",
+      "lastmod": "2024-05-23T23:30:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/boca-del-alamo-real-estate/",
+      "lastmod": "2024-05-24T20:57:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hermosa-vista-real-estate/",
+      "lastmod": "2024-05-28T18:18:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmares-de-sta-maria-real-estate/",
+      "lastmod": "2024-05-28T18:44:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/quinta-maria-real-estate/",
+      "lastmod": "2024-05-30T16:47:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-ridge-real-estate/",
+      "lastmod": "2024-05-30T16:52:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/torote-real-estate/",
+      "lastmod": "2024-05-30T18:24:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-cortes-real-estate/",
+      "lastmod": "2024-06-11T21:03:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-tinas-real-estate/",
+      "lastmod": "2024-06-14T18:31:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palo-blanco-real-estate/",
+      "lastmod": "2024-06-14T18:36:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-pescadero-real-estate/",
+      "lastmod": "2024-06-14T18:49:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-las-brisas-real-estate/",
+      "lastmod": "2024-06-14T19:01:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/buenos-aires-real-estate/",
+      "lastmod": "2024-06-14T19:06:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/esmeralda-real-estate/",
+      "lastmod": "2024-06-19T18:08:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/north-of-barilles-real-estate/",
+      "lastmod": "2024-06-19T18:20:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-maria-real-estate/",
+      "lastmod": "2024-06-21T21:25:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-bartolo-real-estate/",
+      "lastmod": "2024-06-21T21:42:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-pescadero-real-estate/",
+      "lastmod": "2024-06-28T21:34:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-pinos-real-estate/",
+      "lastmod": "2024-06-28T21:36:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mar-y-sol-condos-real-estate/",
+      "lastmod": "2024-06-28T21:56:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/costa-palmas-golf-residences-real-estate/",
+      "lastmod": "2024-07-04T22:32:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/costa-palmas-marina-residences-real-estate/",
+      "lastmod": "2024-07-04T22:39:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/four-seasons-residences-real-estate/",
+      "lastmod": "2024-07-04T22:51:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/acqua-real-estate/",
+      "lastmod": "2024-07-04T23:07:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-ribera-centro-real-estate/",
+      "lastmod": "2024-07-11T17:08:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-cuevas-real-estate/",
+      "lastmod": "2024-07-11T17:27:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lighthouse-point-real-estate/",
+      "lastmod": "2024-07-11T17:42:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-cruz-real-estate/",
+      "lastmod": "2024-07-11T17:47:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-riviera-real-estate/",
+      "lastmod": "2024-07-11T17:51:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-ribera-real-estate/",
+      "lastmod": "2024-07-11T18:09:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-lomas-i-real-estate/",
+      "lastmod": "2024-07-11T18:19:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lighthouse-point-est-real-estate/",
+      "lastmod": "2024-07-11T18:23:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-cortes-real-estate/",
+      "lastmod": "2024-07-11T18:33:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-ribera-general-real-estate/",
+      "lastmod": "2024-07-11T18:37:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-lomas-ii-real-estate/",
+      "lastmod": "2024-07-19T16:30:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/playa-colorada-real-estate/",
+      "lastmod": "2024-07-19T16:44:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mira-santi-general-real-estate/",
+      "lastmod": "2024-07-19T16:50:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/miraflores-real-estate/",
+      "lastmod": "2024-07-19T16:53:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santiago-real-estate/",
+      "lastmod": "2024-07-19T16:58:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/boca-del-salado-real-estate/",
+      "lastmod": "2024-07-19T17:02:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/castillo-de-arena-real-estate/",
+      "lastmod": "2024-07-19T17:05:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-barracas-real-estate/",
+      "lastmod": "2024-07-19T17:11:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vinora-real-estate/",
+      "lastmod": "2024-07-19T17:16:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vinoramas-real-estate/",
+      "lastmod": "2024-07-19T17:18:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pulmo-real-estate/",
+      "lastmod": "2024-07-26T17:46:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/costa-de-oro-real-estate/",
+      "lastmod": "2024-07-26T17:56:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-frailes-real-estate/",
+      "lastmod": "2024-07-26T18:34:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vinorama-real-estate/",
+      "lastmod": "2024-07-26T19:04:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-pulmo-beach-resort-real-estate/",
+      "lastmod": "2024-07-26T19:16:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pindojo-real-estate/",
+      "lastmod": "2024-07-26T19:51:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vinorama-estates-real-estate/",
+      "lastmod": "2024-07-26T19:56:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bahia-terranova-real-estate/",
+      "lastmod": "2024-07-26T19:59:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-perfecta-real-estate/",
+      "lastmod": "2024-07-26T20:37:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-linea-real-estate/",
+      "lastmod": "2024-07-26T20:39:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-los-amigos-real-estate/",
+      "lastmod": "2024-08-01T22:22:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-luis-nuevo-real-estate/",
+      "lastmod": "2024-08-01T22:25:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/zacatit-real-estate/",
+      "lastmod": "2024-08-01T22:27:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-dos-ballenas-real-estate/",
+      "lastmod": "2024-08-01T22:31:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/nine-palms-real-estate/",
+      "lastmod": "2024-08-01T22:53:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-tortuga-real-estate/",
+      "lastmod": "2024-08-01T22:58:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/shipwrecks-real-estate/",
+      "lastmod": "2024-08-01T23:01:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/zacatitos-real-estate/",
+      "lastmod": "2024-08-01T23:03:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/playa-tortuga-real-estate/",
+      "lastmod": "2024-08-01T23:08:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-la-laguna-real-estate/",
+      "lastmod": "2024-08-01T23:11:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-luis-real-estate/",
+      "lastmod": "2024-08-08T22:53:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/zacaton-real-estate/",
+      "lastmod": "2024-08-08T22:55:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/paraiso-del-mar-real-estate/",
+      "lastmod": "2024-08-08T23:34:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-jardines-real-estate/",
+      "lastmod": "2024-08-19T02:43:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-sebastian-real-estate/",
+      "lastmod": "2024-08-19T02:44:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/dunes-residence-club-real-estate/",
+      "lastmod": "2024-08-29T16:49:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/golf-villas-real-estate/",
+      "lastmod": "2024-08-29T16:55:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-south-beach-real-estate/",
+      "lastmod": "2024-08-29T17:03:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ocean-club-residences-real-estate/",
+      "lastmod": "2024-08-29T17:04:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cantinas-real-estate/",
+      "lastmod": "2024-08-29T17:08:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-cardonal-real-estate/",
+      "lastmod": "2024-08-29T17:12:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-casitas-real-estate/",
+      "lastmod": "2024-08-29T17:18:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ocean-residence-club-real-estate/",
+      "lastmod": "2024-08-29T17:22:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/diamante-dunes-residence-real-estate/",
+      "lastmod": "2024-08-29T17:25:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/golf-villa-real-estate/",
+      "lastmod": "2024-08-29T17:27:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-casitas-diamante-real-estate/",
+      "lastmod": "2024-09-04T19:24:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sunset-hill-real-estate/",
+      "lastmod": "2024-09-04T19:30:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/elias-calles-real-estate/",
+      "lastmod": "2024-09-04T19:34:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-nuevo-real-estate/",
+      "lastmod": "2024-09-04T19:40:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/migrino-real-estate/",
+      "lastmod": "2024-09-04T19:43:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-las-margaritas-real-estate/",
+      "lastmod": "2024-09-04T19:50:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pueblo-pescadero-real-estate/",
+      "lastmod": "2024-09-04T19:58:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/surf-residences-real-estate/",
+      "lastmod": "2024-09-04T20:00:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cerritos-surf-colony-real-estate/",
+      "lastmod": "2024-09-04T21:11:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palm-beach-real-estate/",
+      "lastmod": "2024-09-04T21:17:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-lobos-real-estate/",
+      "lastmod": "2024-09-12T19:07:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/surfside-residences-real-estate/",
+      "lastmod": "2024-09-12T19:11:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-condos-real-estate/",
+      "lastmod": "2024-09-12T19:16:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/soleado-real-estate/",
+      "lastmod": "2024-09-12T19:20:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-tequila-ranch-real-estate/",
+      "lastmod": "2024-09-12T19:23:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/alvar-real-estate/",
+      "lastmod": "2024-09-12T19:29:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/copala-real-estate/",
+      "lastmod": "2024-09-12T19:32:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/coronado-real-estate/",
+      "lastmod": "2024-09-12T19:36:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mavila-real-estate/",
+      "lastmod": "2024-09-12T19:45:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pacific-bay-real-estate/",
+      "lastmod": "2024-09-12T19:49:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/norman-estates-real-estate/",
+      "lastmod": "2024-09-27T21:51:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-villas-racho-san-lucas-real-estate/",
+      "lastmod": "2024-09-27T21:57:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rolling-hills-real-estate/",
+      "lastmod": "2024-09-27T22:18:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-cristobal-real-estate/",
+      "lastmod": "2024-09-27T22:26:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/seahorse-rent-a-car/",
+      "lastmod": "2024-10-16T23:26:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/seahorse-rent-a-car-es/",
+      "lastmod": "2024-10-16T23:55:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/baja-living-hub/",
+      "lastmod": "2024-10-31T17:10:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/baja-living-hub-es/",
+      "lastmod": "2024-10-31T17:11:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/diamante-destinations/",
+      "lastmod": "2024-12-10T19:26:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/diamante-destinations-es/",
+      "lastmod": "2024-12-10T19:27:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bcs-mls-real-estate-market-report-fourth-quarter-2024/",
+      "lastmod": "2025-01-16T23:27:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bcs-mls-real-estate-market-report-third-quarter-2024/",
+      "lastmod": "2025-01-16T23:27:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pallisades-real-estate/",
+      "lastmod": "2025-02-27T23:13:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/arena-blanca-real-estate/",
+      "lastmod": "2025-03-05T19:55:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/best-suites-real-estate/",
+      "lastmod": "2025-03-05T21:20:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/laiva-real-estate/",
+      "lastmod": "2025-03-06T17:58:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-palmas-real-estate/",
+      "lastmod": "2025-03-06T18:32:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/aqualoft-real-estate/",
+      "lastmod": "2025-03-06T18:33:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mandala-estrella-de-mar-real-estate/",
+      "lastmod": "2025-03-06T18:38:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/morgan-residences-real-estate/",
+      "lastmod": "2025-03-06T18:47:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rosales-residencial-ii-real-estate/",
+      "lastmod": "2025-03-06T18:58:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sancta-real-estate/",
+      "lastmod": "2025-03-06T19:31:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-cortes-real-estate/",
+      "lastmod": "2025-03-06T19:59:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/xantus-residences-real-estate/",
+      "lastmod": "2025-03-06T21:38:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/broker-brian-westerlund/",
+      "lastmod": "2025-03-14T17:54:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/dueno-brian-westerlund/",
+      "lastmod": "2025-03-14T17:54:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/veinte-preguntas-clave-al-comprar-en-preventa-en-mexico-2/",
+      "lastmod": "2025-06-02T22:30:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/twenty-key-questions-to-ask-when-buying-pre-construction-in-mexico/",
+      "lastmod": "2025-06-02T22:30:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/torres-cantera-real-estate/",
+      "lastmod": "2025-06-05T22:31:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-real-estate/",
+      "lastmod": "2025-07-04T19:46:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-sol-real-estate/",
+      "lastmod": "2025-07-04T19:48:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/querencia-real-estate/",
+      "lastmod": "2025-07-04T19:51:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-real-real-estate/",
+      "lastmod": "2025-07-08T17:55:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cerro-colorado-real-estate/",
+      "lastmod": "2025-07-08T19:05:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-tule-real-estate/",
+      "lastmod": "2025-07-08T19:19:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ladera-san-jose-real-estate/",
+      "lastmod": "2025-07-08T21:16:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/club-campestre-real-estate/",
+      "lastmod": "2025-07-08T23:02:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bcs-mls-real-estate-market-report-first-quarter-2025/",
+      "lastmod": "2025-07-08T23:42:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bcs-mls-real-estate-market-report-second-quarter-2025/",
+      "lastmod": "2025-07-08T23:43:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/costa-azul-beach-real-estate/",
+      "lastmod": "2025-07-10T17:26:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-aguajito-real-estate/",
+      "lastmod": "2025-07-10T17:38:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-encanto-laguna-real-estate/",
+      "lastmod": "2025-07-10T17:48:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fonatur-golf-hills-real-estate/",
+      "lastmod": "2025-07-10T17:57:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/gringo-lito-hills-real-estate/",
+      "lastmod": "2025-07-10T18:59:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sjd-downtown-real-estate/",
+      "lastmod": "2025-07-10T21:28:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sjd-marina-real-estate/",
+      "lastmod": "2025-07-10T21:55:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sjd-beach-real-estate/",
+      "lastmod": "2025-07-10T22:19:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-annie-espinoza/",
+      "lastmod": "2025-07-21T17:04:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-efren-guzman/",
+      "lastmod": "2025-07-21T17:14:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-gabriela-guemez/",
+      "lastmod": "2025-07-21T17:15:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-gregory-borquez/",
+      "lastmod": "2025-07-21T17:19:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-miriam-welldon/",
+      "lastmod": "2025-07-21T17:23:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-heather-borquez/",
+      "lastmod": "2025-07-21T17:24:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-donna-green/",
+      "lastmod": "2025-07-21T17:27:22+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-ana-maria/",
+      "lastmod": "2025-07-21T17:27:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-cambria-dotterer/",
+      "lastmod": "2025-07-21T17:34:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-stan-anguelov/",
+      "lastmod": "2025-07-21T17:34:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-gina-molinari/",
+      "lastmod": "2025-07-21T17:40:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-gabriela-jimenez/",
+      "lastmod": "2025-07-21T17:42:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-scott-rattray/",
+      "lastmod": "2025-07-21T17:43:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-valerio-hernandez/",
+      "lastmod": "2025-07-21T17:44:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-nicolas-dragomire/",
+      "lastmod": "2025-07-21T17:46:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-kern-oleary/",
+      "lastmod": "2025-07-21T17:48:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-annie-espinoza/",
+      "lastmod": "2025-07-21T17:52:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-efren-guzman/",
+      "lastmod": "2025-07-21T17:53:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-gabriela-guemez/",
+      "lastmod": "2025-07-21T17:54:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-gregory-borquez/",
+      "lastmod": "2025-07-21T17:55:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-miriam-welldon/",
+      "lastmod": "2025-07-21T17:55:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-heather-borquez/",
+      "lastmod": "2025-07-21T17:57:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-donna-green/",
+      "lastmod": "2025-07-21T17:59:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-ana-maria/",
+      "lastmod": "2025-07-21T18:00:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-cambria-dotterer/",
+      "lastmod": "2025-07-21T18:36:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-stan-anguelov/",
+      "lastmod": "2025-07-21T18:37:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-gina-molinari/",
+      "lastmod": "2025-07-21T18:40:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-gabriela-jimenez/",
+      "lastmod": "2025-07-21T18:41:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-scott-rattray/",
+      "lastmod": "2025-07-21T18:42:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-valerio-hernandez/",
+      "lastmod": "2025-07-21T18:43:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-nicolas-dragomire/",
+      "lastmod": "2025-07-21T18:45:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-kern-oleary/",
+      "lastmod": "2025-07-21T18:45:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ride-baja-mexican-insurance/",
+      "lastmod": "2025-07-29T19:47:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/ride-baja-mexican-insurance-es/",
+      "lastmod": "2025-07-29T19:47:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-san-jose-del-cabo-any-price/",
+      "lastmod": "2025-08-04T23:14:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/costa-de-la-vela/",
+      "lastmod": "2025-08-07T18:31:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/costa-de-la-vela-es/",
+      "lastmod": "2025-08-07T18:33:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/beach-north-real-estate/",
+      "lastmod": "2025-09-02T16:57:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-jaral-real-estate/",
+      "lastmod": "2025-09-02T18:40:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-cynthia-dozorec/",
+      "lastmod": "2025-09-05T17:16:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-isbaal-talamantes/",
+      "lastmod": "2025-09-05T23:18:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-ruben-bareno/",
+      "lastmod": "2025-09-05T23:22:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-isbaal-talamantes/",
+      "lastmod": "2025-09-05T23:27:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/agente-inmobiliario-gabriella-russo/",
+      "lastmod": "2025-09-08T21:43:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-cynthia-dozorec/",
+      "lastmod": "2025-09-08T21:44:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-infonavit-real-estate/",
+      "lastmod": "2025-09-09T23:03:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-miramar-real-estate/",
+      "lastmod": "2025-09-09T23:40:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-san-cosme-real-estate/",
+      "lastmod": "2025-09-11T21:14:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-south-real-estate/",
+      "lastmod": "2025-09-11T21:20:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-zaragoza-real-estate/",
+      "lastmod": "2025-09-11T22:38:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/danzante-bay-real-estate/",
+      "lastmod": "2025-09-11T23:29:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-centro-real-estate/",
+      "lastmod": "2025-09-12T17:03:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-ligui-real-estate/",
+      "lastmod": "2025-09-12T17:05:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pto-escondido-real-estate/",
+      "lastmod": "2025-09-12T17:20:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-gp-development-real-estate/",
+      "lastmod": "2025-09-12T23:07:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/offices-locations/",
+      "lastmod": "2025-09-17T22:24:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/nuestras-oficinas/",
+      "lastmod": "2025-09-17T22:26:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/oficina-loreto/",
+      "lastmod": "2025-09-17T23:07:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-office/",
+      "lastmod": "2025-09-17T23:08:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-barriles-office/",
+      "lastmod": "2025-09-17T23:10:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/oficina-los-barriles/",
+      "lastmod": "2025-09-17T23:12:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/oficina-la-ventana/",
+      "lastmod": "2025-09-17T23:16:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-ventana-office/",
+      "lastmod": "2025-09-17T23:16:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-san-lucas-office/",
+      "lastmod": "2025-09-17T23:18:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/oficina-cabo-san-lucas/",
+      "lastmod": "2025-09-17T23:18:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-office/",
+      "lastmod": "2025-09-17T23:20:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/oficina-la-paz/",
+      "lastmod": "2025-09-17T23:21:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-la-paz-any-price/",
+      "lastmod": "2025-09-24T15:39:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-todos-santos-any-price/",
+      "lastmod": "2025-09-24T15:40:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/listings-real-estate-cabo-san-lucas-any-price/",
+      "lastmod": "2025-09-24T15:41:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-omnia-chishti/",
+      "lastmod": "2025-09-24T16:47:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-omnia-chishti/",
+      "lastmod": "2025-09-24T17:04:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-gabriella-russo/",
+      "lastmod": "2025-09-30T18:39:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-brad-johnson/",
+      "lastmod": "2025-09-30T18:40:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-brad-johnson/",
+      "lastmod": "2025-09-30T18:51:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-lara-maxwell/",
+      "lastmod": "2025-10-02T17:39:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-lara-maxwell/",
+      "lastmod": "2025-10-02T17:46:13+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/todos-santos-office/",
+      "lastmod": "2025-10-06T22:20:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/oficina-todos-santos/",
+      "lastmod": "2025-10-06T22:20:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-ruben-bareno/",
+      "lastmod": "2025-10-13T23:08:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-ivan-castro/",
+      "lastmod": "2025-10-16T21:20:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-ivan-castro/",
+      "lastmod": "2025-10-16T21:21:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bcs-mls-real-estate-market-report-third-quarter-2025/",
+      "lastmod": "2025-10-17T17:37:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-los-suenos/",
+      "lastmod": "2025-10-21T21:28:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/vista-los-suenos-es/",
+      "lastmod": "2025-10-21T21:29:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-zon-murray/",
+      "lastmod": "2025-10-27T21:50:36+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-zon-murray/",
+      "lastmod": "2025-10-27T21:53:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-lyanne-oleary/",
+      "lastmod": "2025-10-30T21:42:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-lyanne-oleary/",
+      "lastmod": "2025-10-30T21:44:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/real-estate-vs-stock-market/",
+      "lastmod": "2025-10-31T19:01:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/bienes-raices-vs-bolsa-de-valores/",
+      "lastmod": "2025-10-31T19:02:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/baja-real-estate-market/",
+      "lastmod": "2025-11-03T18:26:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/mercado-inmobiliario-en-baja/",
+      "lastmod": "2025-11-03T18:27:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-natacha-montaldi/",
+      "lastmod": "2025-11-05T23:00:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-natacha-montaldi/",
+      "lastmod": "2025-11-05T23:17:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fideicomiso-or-corporation/",
+      "lastmod": "2025-11-11T21:25:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/fideicomiso-o-corporacion/",
+      "lastmod": "2025-11-11T21:26:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-evelyn-urias/",
+      "lastmod": "2025-11-18T21:11:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-evelyn-urias/",
+      "lastmod": "2025-11-18T21:14:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/retirement-in-mexico/",
+      "lastmod": "2025-11-20T19:53:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/retiro-en-mexico/",
+      "lastmod": "2025-11-20T19:53:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-sara-tellez-sauza/",
+      "lastmod": "2025-11-27T18:42:38+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-sara-tellez-sauza/",
+      "lastmod": "2025-11-27T18:43:01+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/investment-property/",
+      "lastmod": "2025-12-01T19:08:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/propiedad-de-inversion/",
+      "lastmod": "2025-12-01T19:08:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-cesar-figueroa/",
+      "lastmod": "2025-12-01T23:22:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-cesar-figueroa/",
+      "lastmod": "2025-12-01T23:25:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/acerca-de-nosotros/",
+      "lastmod": "2025-12-03T23:00:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/about-us/",
+      "lastmod": "2025-12-03T23:00:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-barak-eynav/",
+      "lastmod": "2025-12-09T23:06:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-barak-eynav/",
+      "lastmod": "2025-12-09T23:10:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-valeria-egorova/",
+      "lastmod": "2025-12-18T18:54:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/contact-us/",
+      "lastmod": "2026-01-13T16:47:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/contacto/",
+      "lastmod": "2026-01-13T16:48:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bcs-mls-real-estate-market-report-fourth-quarter-2025/",
+      "lastmod": "2026-01-13T21:31:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/diamante-cabo-san-lucas-real-estate/",
+      "lastmod": "2026-01-30T16:33:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/esperanza-an-auberge-resort-real-estate/",
+      "lastmod": "2026-01-30T16:45:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/montage-real-estate/",
+      "lastmod": "2026-01-30T18:36:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/old-lighthouse-club-hacienda-real-estate/",
+      "lastmod": "2026-01-30T18:44:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/park-hyatt-real-estate/",
+      "lastmod": "2026-01-30T18:51:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ritz-carlton-real-estate/",
+      "lastmod": "2026-01-30T19:03:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-mountain-club-at-pedregal-real-estate/",
+      "lastmod": "2026-01-30T19:29:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/twin-dolphin-real-estate/",
+      "lastmod": "2026-01-30T19:48:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/viceroy-residences-real-estate/",
+      "lastmod": "2026-01-30T19:58:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-del-mar-real-estate/",
+      "lastmod": "2026-01-30T21:06:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-residences-at-solaz-real-estate/",
+      "lastmod": "2026-01-30T22:25:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/tortuga-bay-real-estate/",
+      "lastmod": "2026-01-30T22:36:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/nopolo-real-estate/",
+      "lastmod": "2026-02-04T19:29:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loreto-bay-real-estate/",
+      "lastmod": "2026-02-04T19:40:35+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ensenada-blanca-real-estate/",
+      "lastmod": "2026-02-04T21:12:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/agua-verde-real-estate/",
+      "lastmod": "2026-02-04T21:23:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/above-isla-coronado-real-estate/",
+      "lastmod": "2026-02-04T21:45:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/north-loreto-bay-real-estate/",
+      "lastmod": "2026-02-04T21:52:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-bugambilias-real-estate/",
+      "lastmod": "2026-02-06T19:00:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/puerta-bugambilias-real-estate/puerta-bugambilias-condominiums/",
+      "lastmod": "2026-02-06T19:11:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-dorado-real-estate/",
+      "lastmod": "2026-02-09T21:47:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-dulce-ojeda/",
+      "lastmod": "2026-02-09T22:59:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-dulce-ojeda/",
+      "lastmod": "2026-02-09T23:06:11+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-valeria-egorova/",
+      "lastmod": "2026-02-16T23:24:12+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/forjadores-sjd-real-estate/",
+      "lastmod": "2026-02-20T19:43:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/1ro-de-mayo-real-estate/",
+      "lastmod": "2026-02-20T21:29:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/airport-sjd-real-estate/",
+      "lastmod": "2026-02-20T23:08:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/alegranza-real-estate/",
+      "lastmod": "2026-02-20T23:17:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ampliacion-zacatal-real-estate/",
+      "lastmod": "2026-02-20T23:26:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-colorado-real-estate/",
+      "lastmod": "2026-02-20T23:38:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-cortez-real-estate/",
+      "lastmod": "2026-02-20T23:45:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cabo-del-mar-real-estate/",
+      "lastmod": "2026-02-20T23:53:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-nima-real-estate/",
+      "lastmod": "2026-02-20T23:57:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/castellana-residencial-real-estate/",
+      "lastmod": "2026-02-23T18:34:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-chamizal-real-estate/",
+      "lastmod": "2026-02-23T18:43:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colorado-hills-real-estate/",
+      "lastmod": "2026-02-23T19:15:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/costa-azul-real-estate/",
+      "lastmod": "2026-02-23T19:37:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/dorado-hills-real-estate/",
+      "lastmod": "2026-02-23T23:27:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-altillo-real-estate/",
+      "lastmod": "2026-02-23T23:43:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-diana-hoyt/",
+      "lastmod": "2026-02-25T19:55:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-diana-hoyt/",
+      "lastmod": "2026-02-25T19:56:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-rincon-real-estate/",
+      "lastmod": "2026-02-25T23:13:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-zalate-real-estate/",
+      "lastmod": "2026-02-25T23:27:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/espiritu-del-mar-real-estate/",
+      "lastmod": "2026-02-25T23:38:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/fundadores-real-estate/",
+      "lastmod": "2026-02-27T17:57:23+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hacienda-los-cabos-real-estate/",
+      "lastmod": "2026-02-27T18:32:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/hideaways-sjd-real-estate/",
+      "lastmod": "2026-02-27T18:41:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-canada-sjd-real-estate/",
+      "lastmod": "2026-02-27T19:05:34+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-cima-real-estate/",
+      "lastmod": "2026-02-27T19:42:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-laguna-real-estate/",
+      "lastmod": "2026-02-27T21:32:30+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-playita-real-estate/",
+      "lastmod": "2026-02-27T23:15:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/alttus-sunset-real-estate/",
+      "lastmod": "2026-03-03T23:01:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/alttus-homes-real-estate/",
+      "lastmod": "2026-03-03T23:10:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-paz-vista-bahia-real-estate/",
+      "lastmod": "2026-03-03T23:25:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ladera-phase-1-real-estate/",
+      "lastmod": "2026-03-05T19:03:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-olas-real-estate/",
+      "lastmod": "2026-03-05T19:35:17+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-varedas-real-estate/",
+      "lastmod": "2026-03-05T19:49:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/loma-linda-real-estate/",
+      "lastmod": "2026-03-05T22:22:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-del-rosarito-real-estate/",
+      "lastmod": "2026-03-05T23:11:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/macrolotes-cantares-real-estate/",
+      "lastmod": "2026-03-05T23:22:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mauricio-castro-real-estate/",
+      "lastmod": "2026-03-05T23:35:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mirador-real-estate/",
+      "lastmod": "2026-03-05T23:40:45+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/featured-communities/",
+      "lastmod": "2026-03-09T21:44:44+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/comunidades-destacadas/",
+      "lastmod": "2026-03-09T21:48:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/monte-bello-plus-real-estate/",
+      "lastmod": "2026-03-11T20:00:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/muralla-real-estate/",
+      "lastmod": "2026-03-12T17:34:55+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-dunes-real-estate/",
+      "lastmod": "2026-03-12T18:53:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/north-enclaves-real-estate/",
+      "lastmod": "2026-03-12T19:30:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/paramo-real-estate/",
+      "lastmod": "2026-03-12T19:57:50+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/portside-place-real-estate/",
+      "lastmod": "2026-03-12T20:51:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/pueblo-campestre-real-estate/",
+      "lastmod": "2026-03-12T20:56:05+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/rancho-cerro-colorado-real-estate/",
+      "lastmod": "2026-03-12T21:06:25+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/residencial-la-jolla-real-estate/",
+      "lastmod": "2026-03-12T22:30:15+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jose-downtown-real-estate/",
+      "lastmod": "2026-03-12T23:26:48+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/san-jose-golf-courses-real-estate/",
+      "lastmod": "2026-03-13T17:31:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/santa-rosa-real-estate/",
+      "lastmod": "2026-03-13T17:49:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-parque-at-querencia-real-estate/",
+      "lastmod": "2026-03-13T19:47:39+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-loma-at-querencia-real-estate/",
+      "lastmod": "2026-03-13T21:50:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-campo-at-querencia-real-estate/",
+      "lastmod": "2026-03-13T21:57:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-vista-at-querencia-real-estate/",
+      "lastmod": "2026-03-13T23:20:09+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/ocean-residences-at-querencia-real-estate/",
+      "lastmod": "2026-03-13T23:30:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/solaz-residences-real-estate/",
+      "lastmod": "2026-03-13T23:40:06+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/the-break-real-estate/",
+      "lastmod": "2026-03-13T23:44:41+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/villas-de-montana-real-estate/",
+      "lastmod": "2026-03-18T21:43:51+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vista-hermosa-real-estate/",
+      "lastmod": "2026-03-20T19:05:04+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/vitai-real-estate/",
+      "lastmod": "2026-03-20T19:53:54+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/west-enclave-real-estate/",
+      "lastmod": "2026-03-23T19:14:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/aloha-real-estate/",
+      "lastmod": "2026-03-25T22:31:19+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/albaluz-real-estate/",
+      "lastmod": "2026-03-25T22:34:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/antigua-real-estate/",
+      "lastmod": "2026-03-25T23:19:24+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/belposto-real-estate/",
+      "lastmod": "2026-03-25T23:22:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/bugambilias-real-estate/",
+      "lastmod": "2026-03-25T23:25:20+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/casa-del-mar-real-estate/",
+      "lastmod": "2026-03-25T23:29:53+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/cenit-real-estate/",
+      "lastmod": "2026-03-27T19:03:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/colina-blanca-real-estate/",
+      "lastmod": "2026-03-27T19:08:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/el-rosarito-real-estate/",
+      "lastmod": "2026-03-27T19:48:26+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/finisterra-real-estate/",
+      "lastmod": "2026-03-30T17:46:46+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/gardenias-real-estate/",
+      "lastmod": "2026-03-30T17:49:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-chris-moyers/",
+      "lastmod": "2026-03-30T22:19:00+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-chris-moyers/",
+      "lastmod": "2026-03-30T22:26:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/jesus-castro-agundez-real-estate/",
+      "lastmod": "2026-04-01T21:39:43+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-canada-ii-real-estate/",
+      "lastmod": "2026-04-01T21:42:58+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-jolla-real-estate/",
+      "lastmod": "2026-04-01T21:46:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/la-reserva-at-querencia-real-estate/",
+      "lastmod": "2026-04-01T21:49:59+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/laguna-vista-real-estate/",
+      "lastmod": "2026-04-01T21:54:31+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-quintas-real-estate/",
+      "lastmod": "2026-04-01T22:24:18+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/las-ventanas-real-estate/",
+      "lastmod": "2026-04-01T22:28:47+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/lomas-de-la-jolla-real-estate/",
+      "lastmod": "2026-04-01T22:40:32+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/los-valles-real-estate/",
+      "lastmod": "2026-04-01T23:15:27+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/magisterial-real-estate/",
+      "lastmod": "2026-04-01T23:19:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mare-real-estate/",
+      "lastmod": "2026-04-01T23:22:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/monte-real-real-estate/",
+      "lastmod": "2026-04-01T23:25:57+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/mykonos-real-estate/",
+      "lastmod": "2026-04-01T23:34:40+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/oasis-palmilla-real-estate/",
+      "lastmod": "2026-04-01T23:39:56+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/oceano-baja-real-estate/",
+      "lastmod": "2026-04-01T23:44:49+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-canyon-real-estate/",
+      "lastmod": "2026-04-02T16:45:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-estates-real-estate/",
+      "lastmod": "2026-04-02T16:48:08+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/palmilla-norte-real-estate/",
+      "lastmod": "2026-04-02T16:52:21+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/peninsula-real-estate/",
+      "lastmod": "2026-04-02T17:23:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/punta-bella-real-estate/",
+      "lastmod": "2026-04-02T17:55:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sold-in-60-seconds/",
+      "lastmod": "2026-04-08T18:33:02+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/sold-in-60-seconds-es/",
+      "lastmod": "2026-04-08T18:40:07+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-pauleth-yee/",
+      "lastmod": "2026-04-09T19:56:42+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-pauleth-yee/",
+      "lastmod": "2026-04-09T19:58:03+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-alondra-rodriguez/",
+      "lastmod": "2026-04-28T17:47:14+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-alondra-rodriguez/",
+      "lastmod": "2026-04-28T17:47:29+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agentes/",
+      "lastmod": "2026-04-28T17:49:10+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/inicio/",
+      "lastmod": "2026-04-28T18:37:28+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/realtor-emma-nicholson/",
+      "lastmod": "2026-05-04T23:55:33+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/agents/",
+      "lastmod": "2026-05-05T16:55:16+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/es/agente-inmobiliario-emma-nicholson/",
+      "lastmod": "2026-05-05T17:11:12+00:00"
+    }
+  ]
 }
