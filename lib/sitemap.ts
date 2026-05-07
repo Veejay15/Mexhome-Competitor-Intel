@@ -6,12 +6,22 @@ const parser = new XMLParser({
   attributeNamePrefix: '@_',
 });
 
-const USER_AGENT = 'MexHome-CompetitorIntel/1.0 (+https://mexhome.com)';
+// Some competitor sites (e.g. mexicolife.com behind istio-envoy) return 403 to
+// non-browser User-Agents. Use a current Chrome string with full Accept headers
+// to look like a normal browser request.
+const USER_AGENT =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36';
+
+const BROWSER_HEADERS = {
+  'User-Agent': USER_AGENT,
+  Accept: 'application/xml,text/xml,application/xhtml+xml,text/html;q=0.9,*/*;q=0.8',
+  'Accept-Language': 'en-US,en;q=0.9',
+  'Accept-Encoding': 'gzip, deflate, br',
+  'Cache-Control': 'no-cache',
+};
 
 export async function fetchText(url: string): Promise<string> {
-  const res = await fetch(url, {
-    headers: { 'User-Agent': USER_AGENT },
-  });
+  const res = await fetch(url, { headers: BROWSER_HEADERS, redirect: 'follow' });
   if (!res.ok) {
     throw new Error(`Failed to fetch ${url}: ${res.status}`);
   }

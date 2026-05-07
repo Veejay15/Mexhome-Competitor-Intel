@@ -18,6 +18,7 @@ interface CompetitorDiff {
   newUrls: DiffEntry[];
   removedUrls: DiffEntry[];
   updatedUrls: DiffEntry[];
+  fetchError?: string;
 }
 interface DiffData {
   date: string;
@@ -87,6 +88,7 @@ async function generateForCompetitor(
   mexhomePages: string[],
   previousDate: string | null
 ): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
+  const sitemapFetchError = diff?.fetchError;
   const dataPayload = {
     date: TODAY,
     previousDate,
@@ -97,6 +99,11 @@ async function generateForCompetitor(
     },
     mexhomeExistingPages: mexhomePages,
     sitemapDiff: diff || { newUrls: [], removedUrls: [], updatedUrls: [] },
+    sitemapFetchStatus: sitemapFetchError
+      ? { ok: false, error: sitemapFetchError }
+      : diff
+      ? { ok: true }
+      : { ok: false, error: 'No sitemap snapshot was produced this week.' },
     csvData: csvs,
   };
 
@@ -121,11 +128,16 @@ Before recommending that MexHome build any new page (destination page, location 
 - When in doubt, search the list for keywords (e.g., "bucerias", "condos-for-sale") to check before suggesting a new build.
 - Acceptable equivalence checks: URL path contains the location name AND the property type or intent. Slight wording differences are fine (e.g., "condos-for-sale" vs "condos").
 
-Skip sections where there is no data. Do not invent data. Never recommend a page MexHome already has. Keep this report focused and specific to ${competitor.name} only, do not discuss other competitors.`;
+Skip sections where there is no data. Do not invent data. Never recommend a page MexHome already has. Keep this report focused and specific to ${competitor.name} only, do not discuss other competitors.
+
+CRITICAL RULE FOR SITEMAP FETCH FAILURES:
+The "sitemapFetchStatus" field tells you whether we were actually able to read ${competitor.name}'s sitemap this week.
+- If sitemapFetchStatus.ok is false, you MUST NOT write "no new pages were detected" or any phrasing that implies we looked and found nothing. Instead, in the "New Pages Built" section, state plainly that the sitemap could not be retrieved this week (include the error from sitemapFetchStatus.error in plain English) and that new-page detection is unavailable for this competitor until the fetch issue is resolved. Mention this in the Executive Summary too.
+- If sitemapFetchStatus.ok is true and the diff arrays are empty, then it is correct to say no new pages were detected.`;
 
   const userPrompt = `Here is this week's data for ${competitor.name} for the report dated ${TODAY}.
 
-${diff ? '' : '(No sitemap diff available for this competitor this week.)'}
+${sitemapFetchError ? `(Sitemap fetch FAILED for this competitor this week: ${sitemapFetchError}. Do not claim "no changes" — say the fetch failed.)` : diff ? '' : '(No sitemap diff available for this competitor this week.)'}
 ${csvs.length === 0 ? '(No SEMrush CSV data uploaded for this competitor this week.)' : ''}
 ${mexhomePages.length === 0 ? '(Warning: could not fetch MexHome existing pages this run. Be extra careful recommending new pages.)' : `(MexHome's existing ${mexhomePages.length} content pages are listed in "mexhomeExistingPages" for cross-reference.)`}
 

@@ -9,9 +9,9 @@ const OUT_DIR = path.join(ROOT, 'data', 'sitemaps', TODAY);
 
 async function fetchCompetitor(c: Competitor): Promise<void> {
   console.log(`Fetching ${c.name} (${c.sitemapUrl})`);
+  const outPath = path.join(OUT_DIR, `${c.id}.json`);
   try {
     const entries = await fetchSitemap(c.sitemapUrl);
-    const outPath = path.join(OUT_DIR, `${c.id}.json`);
     fs.writeFileSync(
       outPath,
       JSON.stringify(
@@ -28,7 +28,26 @@ async function fetchCompetitor(c: Competitor): Promise<void> {
     );
     console.log(`  ✓ ${entries.length} URLs saved to ${outPath}`);
   } catch (err) {
-    console.error(`  ✗ Failed: ${(err as Error).message}`);
+    // Write a snapshot anyway with the error recorded, so the diff and report
+    // pipeline can see that we attempted the fetch but it failed (rather than
+    // silently treating the competitor as having "no changes").
+    const errorMessage = (err as Error).message;
+    fs.writeFileSync(
+      outPath,
+      JSON.stringify(
+        {
+          competitorId: c.id,
+          fetchedAt: new Date().toISOString(),
+          sourceUrl: c.sitemapUrl,
+          entryCount: 0,
+          entries: [],
+          fetchError: errorMessage,
+        },
+        null,
+        2
+      )
+    );
+    console.error(`  ✗ Failed: ${errorMessage} (recorded in ${outPath})`);
   }
 }
 
