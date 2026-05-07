@@ -26,8 +26,16 @@ const BROWSER_HEADERS: Record<string, string> = {
 export async function GET(req: NextRequest) {
   const expected = process.env.SITEMAP_PROXY_TOKEN;
   if (!expected) {
+    // Diagnostic: list which SITEMAP-prefixed keys ARE in process.env so we
+    // can tell whether Vercel is injecting any env vars at all on this build.
+    const seen = Object.keys(process.env)
+      .filter((k) => k.startsWith('SITEMAP') || k.startsWith('NEXT_'))
+      .sort();
     return NextResponse.json(
-      { error: 'SITEMAP_PROXY_TOKEN is not configured on the server.' },
+      {
+        error: 'SITEMAP_PROXY_TOKEN is not configured on the server.',
+        diagnostic: { sitemapPrefixedKeys: seen, totalEnvKeys: Object.keys(process.env).length },
+      },
       { status: 500 }
     );
   }
