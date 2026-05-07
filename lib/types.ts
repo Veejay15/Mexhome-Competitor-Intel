@@ -31,6 +31,12 @@ export interface SitemapDiff {
   // (the urls arrays will be empty) and the report should say so explicitly
   // rather than claiming "no changes detected".
   fetchError?: string;
+  // Set true when this is the first usable snapshot for the competitor (no
+  // previous snapshot to diff against, or the previous snapshot was a fetch
+  // failure). Existing site URLs must NOT be reported as "new pages built
+  // this week" in this case. Real diffs start the following cycle.
+  isBaseline?: boolean;
+  totalCurrentUrls?: number;
 }
 
 export interface Report {

@@ -48,11 +48,18 @@ function diff(
   curr: SitemapEntry[]
 ): SitemapDiff {
   if (!prev) {
+    // First successful snapshot for this competitor. The current URLs are
+    // their existing site, NOT pages they built this week. Mark as baseline
+    // and emit zero "new" URLs so the report doesn't falsely claim they
+    // shipped hundreds of pages.
+    const meaningful = curr.filter((e) => !isNoise(e.url));
     return {
       competitorId,
-      newUrls: curr.filter((e) => !isNoise(e.url)),
+      newUrls: [],
       removedUrls: [],
       updatedUrls: [],
+      isBaseline: true,
+      totalCurrentUrls: meaningful.length,
     };
   }
   const prevMap = new Map(prev.map((e) => [e.url, e]));
@@ -127,9 +134,15 @@ async function main() {
     const prevEntries = prev && !prev.fetchError ? prev.entries : null;
     const d = diff(c.id, prevEntries, curr.entries);
     diffs.push(d);
-    console.log(
-      `${c.name}: +${d.newUrls.length} new, -${d.removedUrls.length} removed, ~${d.updatedUrls.length} updated`
-    );
+    if (d.isBaseline) {
+      console.log(
+        `${c.name}: baseline snapshot established (${d.totalCurrentUrls} URLs). No "new pages" reported this cycle. Real diffs start next cycle.`
+      );
+    } else {
+      console.log(
+        `${c.name}: +${d.newUrls.length} new, -${d.removedUrls.length} removed, ~${d.updatedUrls.length} updated`
+      );
+    }
   }
 
   const outDir = path.join(ROOT, 'data', 'diffs');
