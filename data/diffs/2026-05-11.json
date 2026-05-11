@@ -1,0 +1,300 @@
+{
+  "date": "2026-05-11",
+  "previousDate": "2026-05-07",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [
+        {
+          "url": "https://www.mexicolife.com/api-test.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/mls-number-filter-test.php"
+        },
+        {
+          "url": "https://www.mexicolife.com/test-catalog-demo-20260509.php"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [
+        {
+          "url": "https://www.caborealestate.com/blog/Beachfront-Homes-in-Los-Cabos--Pricing--Lifestyle--and-What-Buyers-Need-to-Know",
+          "lastmod": "2026-05-10"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/Pacific-Side-or-Sea-of-Cortez--Which-Side-of-Cabo-Living-Is-Better-",
+          "lastmod": "2026-05-08"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.caborealestate.com/",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabo-san-lucas",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabocorridor",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/exclusive-remexico-listings",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/homes-for-sale",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/lapaz",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/listing",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/loreto-danzantebay",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/new-to-market",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/our-listings",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/pescadero-cerritos",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/reviews",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/san-jose-del-cabo",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/sanjosecorridor",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/sitemap",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/the-east-cape",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/todos-santos",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/property-listings/sitemap",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/owner",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/developments",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/ME/Mexico",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/David-Horan/8529613",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ariel-Samara-David/8533555",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8527585",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fletcher-Wheaton/8529198",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrea-Delgado/8537351",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Owen-Perry/8529213",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8529618",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Pedro-Bulnes/8553787",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alil-Flores/8566938",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rosella-Teruggi/8573059",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Storm-Snyman/8584569",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Anthony-Comerford/8624421",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Chris-Ellis/8624422",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Luis-Tucker/8624812",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Francesco-Lee/8671489",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Shannon-Ploeger/8682485",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Larissa-Guti-rrez/8693017",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hyatsi-Valverde/8695264",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Karina-Ya-ez/8757536",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Christian-Diaz/8783382",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fernando-Jara/8811241",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alejandro-Donnadieu/8816941",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ricardo-Barron/8820380",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jovanski-Casta-eda/8826775",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Claudia-Padron/8840619",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Xochilt-Leon/8840632",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Antonio-Kalifa/8840644",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jahdai-Rojo/8841802",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivanna-Bross/8841906",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jossio-Agundez/8853778",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Mitch-McDonald/8850297",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrew-Hutson/8858873",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Carlos-Jimenez/8874126",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Nellie-Hutchison/8884557",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Flora-Chavez/8884555",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hilda-Corona-Aceves/8884556",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivana-Rendon/8886198",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rodrigo-Avila-Nava/8886197",
+          "lastmod": "2026-05-11"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/David-Coppel/8887041",
+          "lastmod": "2026-05-11"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    }
+  ]
+}
