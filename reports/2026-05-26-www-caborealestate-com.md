@@ -4,113 +4,107 @@
 
 ## 1. Executive Summary
 
-- Cabo Real Estate published one new blog post this week targeting commercial real estate in Cabo, a content area where MexHome has no direct equivalent page.
-- Keyword data shows broad ranking declines across core Cabo and Los Cabos terms, with several high-volume keywords dropping 8 to 13 positions week over week. Their organic traffic estimate stands at 701 sessions this period.
-- Backlink profile shows no new referring domains gained this week. Two low-quality, nofollow directory links were lost, both from domain-list-style pages with inlink rank of 0. Net effect on authority is negligible.
-- The site's overall keyword footprint is 1,324 tracked keywords, with the majority (757) sitting in positions 21 to 50, indicating they rank for many terms but struggle to break into top-10 positions at scale.
+- Cabo Real Estate published one new blog post this week targeting commercial real estate buyers in Cabo, a content angle MexHome has not covered for that market.
+- Keyword ranking data shows broad position declines across core Cabo and Los Cabos transactional terms, with most top keywords sliding 5 to 19 positions from prior week. The site's organic traffic estimate sits at 701 visits for May 2026.
+- Backlink movement was minor and negative: two low-quality directory links were lost with no new links gained this week.
+- The overview data shows 225 keywords moved down versus 86 up this week, signaling meaningful ranking erosion across their portfolio.
 
 ---
 
 ## 2. New Pages Built by Cabo Real Estate
 
-One new URL was detected in this week's sitemap diff:
+One new URL was detected this week:
 
 **`https://www.caborealestate.com/blog/Commercial-Real-Estate-in-Cabo`** (lastmod: 2026-05-25)
 
-The slug targets commercial real estate buyers and investors specifically in the Cabo market. This is a deliberate attempt to capture search demand from buyers looking at retail, office, or investment property in Los Cabos, a segment distinct from residential search intent.
-
-MexHome has no equivalent commercial real estate guide for Cabo or Los Cabos in its existing page inventory. This is a genuine content gap.
-
-In addition to the new page, 59 existing URLs received lastmod updates on 2026-05-26, including core location pages (Cabo San Lucas, San Jose del Cabo, Todos Santos, La Paz, the Corridor), agent profile pages, the homepage, and the blog index. This volume of same-day updates suggests a site-wide metadata refresh or CMS-triggered republish rather than substantive content changes across all those pages.
+The slug targets the query "commercial real estate in Cabo" or "commercial real estate Cabo San Lucas." This is a deliberate move into commercial property content within the Los Cabos market. It signals Cabo Real Estate is looking to capture buyers and investors researching office, retail, or mixed-use properties in the Cabo corridor, a category distinct from the residential listings that dominate their site.
 
 ---
 
 ## 3. Backlink Movements
 
-SE Ranking backlink data is available for this competitor this week.
+Data source: SE Ranking backlink export (3 rows, summary plus new/lost records).
 
-**Profile summary:** Cabo Real Estate has 498 total backlinks from 149 referring domains, with 354 dofollow links and 144 nofollow links. Their domain inlink rank is 33. The profile is heavily concentrated on the homepage, which alone accounts for the majority of backlinks across all URL variants.
+**Current profile snapshot:**
 
-**Top anchor text by backlinks:** "REMEXICO" (163 links) dominates, followed by the bare URL and "caborealestate.com" variants. "Cabo Real Estate" as branded anchor appears 31 times. The "REMEXICO" dominance reflects their brokerage affiliation and likely comes from a network of agent or partner pages rather than independent editorial links.
+- 498 total backlinks from 149 referring domains
+- 354 dofollow backlinks, 144 nofollow
+- Domain Inlink Rank: 33
+- No .edu or .gov backlinks
 
-**New backlinks this week:** None. The new backlinks field returned an empty array.
+**Top anchor themes by backlink count:** "REMEXICO" (163 links) dominates, followed by bare URL variations and "Cabo Real Estate" branded anchors. This anchor concentration around the REmexico brand reflects their agency identity and suggests most links come from affiliated or brand-adjacent sources rather than independent editorial coverage.
 
-**Lost backlinks this week:**
-- A nofollow link from `newdirectory.in/domain-list-651` was removed on 2026-05-20. This was an Alexa-style domain list page with inlink rank 0, first seen in October 2023. No meaningful authority loss.
-- A nofollow link from `discussion.co.in/domain-list-651` was removed on 2026-05-19. Same category of page, inlink rank 0, first seen June 2024. No meaningful authority loss.
+**Top pages by referring domains:** The homepage variants collectively hold the bulk of link equity. Notable non-homepage pages attracting referring domains include their Fideicomiso blog post (18 referring domains), a Montage development page (16 referring domains), and their Cabo San Lucas neighborhood page (15 referring domains). The Fideicomiso content is a recurring link magnet worth noting.
 
-Neither lost link has SEO consequence. Cabo Real Estate made no meaningful backlink gains this week.
+**This week's changes:**
 
-**Notable observation:** Their most linked-to content page by referring domains is `caborealestate.com/blog/the-fideicomiso-trust-unlocking-ownership-in-mexico` (18 referring domains), and `caborealestate.com/developments/montage` also holds 16 referring domains. Their Fideicomiso content is pulling real editorial links, which is a signal worth noting.
+- No new backlinks were gained.
+- Two backlinks were lost (both removed as of May 19 to 20, 2026). Both originated from low-authority directory pages on newdirectory.in and discussion.co.in, both were nofollow, and both had been in place since 2023 and 2024 respectively. The links pointed to the bare http://caborealestate.com/ homepage. Domain Inlink Ranks of 0 and 29 confirm these were low-quality links. Their loss has no meaningful impact on Cabo Real Estate's link authority.
+
+**Net assessment:** No competitive backlink threat this week. Their profile remains modest at 149 referring domains with no new quality links entering.
 
 ---
 
 ## 4. Keyword and Ranking Changes
 
-SE Ranking keyword data is available for this competitor this week.
+Data source: SE Ranking keywords export (100 rows) and position changes export (200 rows).
 
-**Overview metrics (May 2026):**
-- Total tracked keywords: 1,324
-- Estimated organic traffic: 701 sessions
-- Keywords in positions 1 to 5: 64
-- Keywords in positions 6 to 10: 80
-- Keywords in positions 11 to 20: 303
-- Keywords in positions 21 to 50: 757
-- Keywords in positions 51 to 100: 555
-- Keywords gained (new): 104
-- Keywords moved up: 86
-- Keywords moved down: 225
-- Keywords lost entirely: 112
-- Keywords stable: 1,344
+**Portfolio overview (May 2026):**
 
-The site lost more than twice as many positions as it gained this period. 112 keywords dropped out of the tracked top 100 entirely.
+- 1,324 tracked keywords
+- 64 keywords ranking positions 1 to 5
+- 80 keywords ranking positions 6 to 10
+- 303 keywords ranking positions 11 to 20
+- 225 keywords moved down this week vs. 86 moving up
+- 112 keywords lost entirely
+- Estimated organic traffic: 701 visits
 
-**Top keywords by estimated traffic (from topRows data):**
+**Top keyword performance:**
 
-The highest-traffic keywords are all mid-range positions, and most declined week over week:
+The top keywords by estimated traffic are all Cabo and Los Cabos transactional terms. Nearly every one dropped significantly from the prior week:
 
-| Keyword | Current Position | Previous Position | Search Volume | Est. Traffic |
-|---|---|---|---|---|
-| loreto homes for sale | 30 | 12 | 480 | 25 |
-| cabo san lucas property | 17 | 11 | 480 | 17 |
-| san jose del cabo real estate | 27 | 24 | 480 | 16 |
-| property cabo san lucas | 20 | 8 | 480 | 16 |
-| homes for sale loreto mexico | 26 | 18 | 480 | 16 |
-| homes for sale in loreto mexico | 24 | 20 | 480 | 15 |
-| properties in cabo san lucas | 15 | 8 | 480 | 15 |
-| properties cabo san lucas | 22 | 12 | 480 | 14 |
-| cabo house for sale | 19 | 11 | 260 | 14 |
-| loreto real estate | 22 | 19 | 210 | 11 |
-| los cabos mexico real estate | 17 | 16 | 590 | 11 |
-| realty cabo san lucas | 12 | 12 | 320 | 11 |
-| fideicomiso | 16 | 11 | 4,400 | 10 |
-| condos for sale san jose del cabo | 28 | 17 | 390 | 9 |
+| Keyword | Current Position | Prior Position | Est. Traffic |
+|---|---|---|---|
+| loreto homes for sale | 30 | 12 | 25 |
+| cabo san lucas property | 17 | 11 | 17 |
+| san jose del cabo real estate | 27 | 24 | 16 |
+| property cabo san lucas | 20 | 8 | 16 |
+| homes for sale loreto mexico | 26 | 18 | 16 |
+| homes for sale in loreto mexico | 24 | 20 | 15 |
+| properties in cabo san lucas | 15 | 8 | 15 |
+| properties cabo san lucas | 22 | 12 | 14 |
+| cabo house for sale | 19 | 11 | 14 |
+| real estate los cabos mx | 14 | 8 | 10 |
 
-**Key patterns:**
+The pattern is consistent: Cabo Real Estate fell out of page one (positions 1 to 10) on several high-value terms where they previously ranked in the top 8 to 12. The "loreto homes for sale" cluster dropped the hardest, sliding from position 12 to 30 in one week.
 
-- "Property cabo san lucas" fell from position 8 to 20, a drop of 12 positions on a 480-volume keyword. "Properties in cabo san lucas" fell from 8 to 15. Both send traffic to the homepage, indicating the homepage itself lost ground on core Cabo property terms.
-- "Loreto homes for sale" dropped from position 12 to 30, falling off page 1 entirely. The Loreto page (`/loreto-danzantebay`) is their landing destination for this cluster and appears to be sliding.
-- "Fideicomiso" at position 16 (down from 11) is notable because the term has 4,400 monthly searches. Their dedicated Fideicomiso blog page is also their strongest link-earning asset. Any further decline here is worth watching.
-- "Condos for sale san jose del cabo" dropped from 17 to 28 on a 390-volume keyword, again falling off page 1.
-- "Realty cabo san lucas" at position 12 held flat. It is their only top-10 or near-top-10 keyword that did not lose ground this week.
+**Notable gainers from the position changes report:**
 
-Overall, Cabo Real Estate is in a defensive ranking position this period. Their homepage is absorbing most of the keyword portfolio but losing positions across the board on Cabo and Los Cabos commercial terms.
+- "los barriles real estate": moved from position 19 to 12 (via their Los Barriles blog post)
+- "los barriles houses for sale": moved from 22 to 15
+- "realtor cabo san lucas": moved from 14 to 9
+- "cabo san lucas real estate market": moved from 21 to 8 (via their market update post)
+- "buying property in mexico with dual citizenship": moved from 8 to 5
+
+**Content driving gains:** Their Los Barriles blog post and their Cabo Real Estate Market Update post are the standout performers this week by position movement. The dual citizenship/fideicomiso content also continues to hold strong positions on informational queries.
+
+**Key gap to note:** Their page at /loreto-danzantebay is the single URL absorbing all Loreto-related traffic, yet it dropped sharply across multiple Loreto queries simultaneously. This suggests either a content quality issue or a competitor overtaking them on that cluster.
 
 ---
 
 ## 5. Recommended Actions for MexHome
 
-**1. Build a commercial real estate guide for Cabo or Los Cabos.**
-Cabo Real Estate just published a commercial real estate blog targeting this intent. MexHome has no equivalent page (confirmed by cross-reference of mexhomeExistingPages). A well-structured guide targeting "commercial real estate in Cabo," "commercial property for sale in Los Cabos," and related terms would capture a content gap that Cabo Real Estate is trying to own. This is the most time-sensitive action given the competitor's head start.
+**1. Publish a commercial real estate in Cabo blog post.**
+Cabo Real Estate just published content targeting this query. MexHome has no equivalent page (cross-reference confirms no "/blog/commercial-real-estate-cabo" or similar URL exists). The search intent covers investors and business buyers looking at Cabo for office, retail, or mixed-use property. MexHome's existing Cabo and Los Cabos area coverage gives it the authority base to compete. Publish a focused guide covering commercial property types, zones, and the buying process for foreign investors in the Los Cabos market.
 
-**2. Strengthen the existing Loreto area pages.**
-Cabo Real Estate's "loreto homes for sale" keyword dropped from position 12 to 30, meaning a top-10 opportunity may be opening. MexHome has `/area/los-cabos/loreto/`, `/area/los-cabos/loreto/danzante-bay/`, and `/area/los-cabos/loreto/nopolo/` already. The recommendation is to expand content depth on these existing pages, specifically targeting "loreto homes for sale," "homes for sale in loreto mexico," and "loreto real estate" with updated listing counts, neighborhood context, and buyer-intent copy. Do not build new pages. Strengthen what exists.
+**2. Strengthen the existing MexHome Loreto content to capitalize on Cabo Real Estate's drop.**
+Cabo Real Estate's Loreto rankings collapsed this week across "loreto homes for sale," "homes for sale loreto mexico," "loreto real estate," and "loreto bay mexico real estate." MexHome already has `/area/los-cabos/loreto/`, `/area/los-cabos/loreto/danzante-bay/`, and `/area/los-cabos/loreto/nopolo/`. These pages should be reviewed and strengthened now while the competitor is weakened on this cluster. Add current inventory depth, local lifestyle content, and target the exact keyword phrases where Cabo Real Estate just fell.
 
-**3. Develop a Fideicomiso content asset designed to earn backlinks.**
-Cabo Real Estate's Fideicomiso blog (`/blog/the-fideicomiso-trust-unlocking-ownership-in-mexico`) holds 18 referring domains and is their top link-earning content page. MexHome already has `/blog/bank-trusts-in-mexico/` and `/blog/fideicomiso-ownership-mexican-real-estate/`. The recommendation is to consolidate and substantially upgrade one of these into a definitive, citable Fideicomiso guide that can attract the same type of editorial links. Pitch it to expat and relocation publications once it is built out. This directly addresses one of Cabo Real Estate's most durable link advantages.
+**3. Build a Cabo San Lucas real estate market report or market update post.**
+Cabo Real Estate's market update blog post jumped from position 21 to 8 on "cabo san lucas real estate market" this week. MexHome has multiple Cabo-area blog posts and area pages but no equivalent dedicated market update or market report post (confirmed by cross-reference). A regularly updated or clearly dated market conditions post targeting "cabo san lucas real estate market" and related terms would compete directly against a content type that is clearly earning rankings for this competitor.
 
-**4. Audit MexHome's San Jose del Cabo condos page for content depth.**
-Cabo Real Estate's ranking for "condos for sale san jose del cabo" dropped from 17 to 28, opening a page-one gap. MexHome has `/area/los-cabos/san-jose-del-cabo/san-jose-del-cabo-condos-for-sale/` already. Review this page's content depth, title tag, and internal linking. If it is thin, expand it with current inventory context, neighborhood descriptions, and buyer guidance to capitalize on the competitor's regression.
+**4. Build a Los Barriles real estate page or post.**
+Cabo Real Estate is gaining ground on "los barriles real estate," "los barriles homes for sale," and "los barriles houses for sale" via a single blog post. Cross-referencing MexHome's existing pages confirms there is no `/area/los-cabos/east-cape/los-barriles/` page beyond the bare location entry. MexHome has `/area/los-cabos/east-cape/los-barriles/` listed. Check whether that page has transactional depth (property-type sub-pages, targeted copy). If it is a thin landing page, add a supporting blog post or expand it to absorb these specific queries before Cabo Real Estate consolidates those positions.
 
-**5. Monitor the Cabo Real Estate homepage keyword slide.**
-Their homepage lost positions on at least eight high-volume Cabo property terms this week, including drops of 8 to 13 positions on 480 and 590 monthly search volume keywords. If this trend continues next cycle, MexHome's existing Los Cabos area pages (`/area/los-cabos/`, `/area/los-cabos/cabo-san-lucas/`, `/area/los-cabos/cabo-san-lucas/cabo-san-lucas-condos-for-sale/`, etc.) may gain relative position without additional effort. Track these keywords directly against MexHome's own positions in the next report cycle to confirm whether MexHome is capturing the displaced traffic.
+**5. Develop Fideicomiso and dual citizenship buyer guide content.**
+Cabo Real Estate ranks position 5 on "buying property in mexico with dual citizenship" and has multiple pages earning links and traffic on fideicomiso topics. MexHome has `/blog/bank-trusts-in-mexico/`, `/blog/fideicomiso-ownership-mexican-real-estate/`, and `/blog/trusts-vs-corps-for-foreigners/`. Review whether any of these directly targets "buying property in mexico with dual citizenship" as a primary keyword. If not, either expand an existing post or publish a dedicated piece on that specific question, as it carries 260 monthly searches and Cabo Real Estate is holding a top-5 position on it with low difficulty (score 11).

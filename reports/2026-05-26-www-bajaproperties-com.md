@@ -4,86 +4,120 @@
 
 ## 1. Executive Summary
 
-- No new pages were detected on bajaproperties.com this week. The sitemap fetch succeeded and the diff shows zero new, removed, or updated URLs.
-- Baja properties holds 6,049 tracked organic keywords, with 1,542 ranking in positions 1 to 5. Their traffic footprint is concentrated almost entirely in the Los Cabos market.
-- Their strongest organic asset this week is a blog post on "Cabo San Lucas vs Los Cabos" that captures high-volume, informational traffic at positions 1 and 12 for "cabo san lucas" (135,000 monthly searches). This is a content type MexHome does not have a direct equivalent of for this market.
-- Their backlink profile shows 11,688 total backlinks from 1,180 referring domains, with a meaningful spam anchor pattern (Polish loan-term anchors, SEO Telegram spam) mixed into the profile, suggesting link quality issues that reduce the true authority signal.
+- Baja properties holds 6,049 organic keywords this month, with 1,542 ranking in positions 1 to 5. Keyword momentum is mixed: 1,062 new keywords entered the index against 993 lost, and 997 moved up against 1,123 that declined.
+- The most significant ranking movement this week was the "cabo san lucas" keyword jumping from position 23 to position 12, driven by a single blog post. Several Cabo and San Jose del Cabo commercial intent terms also improved in position.
+- La Paz real estate terms surged this week, with "la paz real estate" moving from position 13 to position 6 and "lapaz real estate" moving from 17 to 10 on a dedicated blog URL.
+- No new pages were detected on the Baja properties site this week. The backlink profile shows 11,688 total backlinks from 1,180 referring domains, though a significant portion of the anchor profile appears to consist of spam and non-relevant link noise.
 
 ---
 
 ## 2. New Pages Built by Baja properties
 
-No new pages were detected this week. The sitemap fetch completed successfully and the week-over-week diff returned zero new, removed, or updated URLs. Baja properties made no new content additions to their crawlable sitemap between 2026-05-25 and 2026-05-26.
+No new pages were detected on the Baja properties sitemap this week. The sitemap fetch completed successfully and the diff against the prior snapshot returned no additions, removals, or updates.
 
 ---
 
 ## 3. Backlink Movements
 
-The SE Ranking backlink data for bajaproperties.com shows the following as of May 2026:
+The SE Ranking backlink summary for bajaproperties.com shows the following profile as of this cycle:
 
-**Profile size:** 11,688 total backlinks from 1,180 referring domains across 770 IPs and 404 subnets.
+- **Total backlinks:** 11,688
+- **Referring domains:** 1,180
+- **Dofollow backlinks:** 10,728 (92% of total)
+- **Dofollow referring domains:** 922
 
-**Follow vs. nofollow split:** 10,728 dofollow backlinks and 960 nofollow. The dofollow share (92%) is unusually high and warrants caution when benchmarking authority, as spam-heavy profiles tend to accumulate dofollow links from low-quality directories.
+**New backlinks this week:** None reported in the data.
 
-**Anchor text quality flags:** The top anchors by backlink count are dominated by junk. "BAJA PROPERTIES" accounts for 4,045 backlinks (likely forum or directory spam), followed by a raw URL with 627, then a cluster of Polish financial terms ("pozyczka chwilowka bez bik," "kredyty bez biku," "bik a krd," "pozyczka bez bik," etc.) contributing hundreds of links each. By referring domains, a Telegram SEO spam anchor ("TELEGRAM @SEO_ANOMALY") accounts for 96 referring domains. This is a textbook spammy link pattern that Google likely discounts heavily.
+**Lost backlinks this week:** None reported in the data.
 
-**Legitimate anchor signals:** "luxury homes in Mexico" (16 referring domains) and "buying property in Mexico" (9 referring domains) represent the thin but real relevant link equity in the profile.
+**Profile quality note:** The anchor profile has a visible spam problem. Among the top anchors by referring domain count, entries include Polish-language payday loan terms ("pozyczka chwilowka bez bik," "kredyty bez biku 130612," "chwilowka") and a Telegram SEO spam anchor ("TELEGRAM @SEO_ANOMALY - SEO BACKLINKS"). These account for a substantial share of the referring domain pool and are clearly non-editorial. This dilutes the signal quality of their link profile and likely has no positive ranking impact.
 
-**Pages attracting the most referring domains:** The homepage leads with 678 referring domains. Their golf course guide ("how-many-golf-courses-los-cabos-2025-cabo-golf-guide") has attracted 96 referring domains, making it the strongest linked non-homepage asset by a wide margin. The "about-cabo-san-lucas" page draws 20 referring domains. The "puerto-los-cabos-homes-for-sale" listing page has 18.
+**Pages attracting the most referring domains:**
+- Homepage (www.bajaproperties.com): 678 referring domains
+- Golf courses in Los Cabos blog post: 96 referring domains
+- About Cabo San Lucas page: 20 referring domains
+- Puerto Los Cabos homes for sale page: 18 referring domains
 
-**New and lost backlinks this week:** No new or lost backlinks were reported in the current cycle's diff.
-
-**Takeaway for MexHome:** Baja properties' raw domain count (1,180) looks substantial, but the profile is heavily polluted. Their one standout legitimate link-earning asset is the golf guide, which has generated real editorial links. MexHome should note this content-to-links pattern rather than the aggregate numbers.
+The golf courses blog post being the second-strongest linked page by referring domains is noteworthy. It suggests either editorial pickup or a deliberate link-building effort around that topic.
 
 ---
 
 ## 4. Keyword and Ranking Changes
 
-SE Ranking keyword data is available for this competitor.
+**Overall keyword footprint (May 2026):**
 
-**Portfolio size:** 6,049 ranked keywords total (May 2026). Distribution: 1,542 in positions 1 to 5, 797 in positions 6 to 10, 1,410 in positions 11 to 20, 2,907 in positions 21 to 50, and 2,710 in positions 51 to 100. Momentum is mixed: 997 keywords moved up, 1,123 moved down, 1,062 are new, and 993 were lost.
+| Metric | Count |
+|---|---|
+| Total organic keywords | 6,049 |
+| Top 1 to 5 | 1,542 |
+| Top 6 to 10 | 797 |
+| Top 11 to 20 | 1,410 |
+| Top 21 to 50 | 2,907 |
+| Top 51 to 100 | 2,710 |
+| New keywords | 1,062 |
+| Keywords up | 997 |
+| Keywords down | 1,123 |
+| Keywords lost | 993 |
 
-**Top traffic-driving keywords this week (from the top-100 keyword export):**
+**Top ranking positions (selected highlights):**
 
-| Keyword | Position | Search Volume | Estimated Traffic | Target URL |
-|---|---|---|---|---|
-| cabo san lucas (SGE block) | 1 | 135,000 | 655 | /blog/cabo-san-lucas-vs-los-cabos-whats-difference/ |
-| cabo san lucas (organic) | 12 | 135,000 | 643 | /blog/cabo-san-lucas-vs-los-cabos-whats-difference/ |
-| san lucas | 4 (PAA) | 12,100 | 125 | /blog/cabo-san-lucas-vs-los-cabos-whats-difference/ |
-| cabo san lucas airport | 4 (PAA) | 10,800 | 92 | /blog/closest-airport-cabo-san-lucas-mexico/ |
-| san jose del cabo | 24 | 18,100 | 64 | /blog/Downtown-San-Jose-del-Cabo/ |
-| los cabos airport | 3 (PAA) | 18,100 | 56 | /blog/closest-airport-cabo-san-lucas-mexico/ |
-| los cabos property | 2 | 590 | 44 | bajaproperties.com/ |
-| los cabos properties | 2 | 590 | 43 | bajaproperties.com/ |
-| san jose del cabo homes for sale | 6 | 590 | 32 | bajaproperties.com/ |
+| Keyword | Current Position | Volume | URL |
+|---|---|---|---|
+| cabo san lucas | 12 (up from 23) | 135,000 | Blog: cabo-san-lucas-vs-los-cabos-whats-difference |
+| san lucas | 4 (stable) | 12,100 | Blog: cabo-san-lucas-vs-los-cabos-whats-difference |
+| cabo san lucas airport | 4 | 10,800 | Blog: closest-airport-cabo-san-lucas-mexico |
+| los cabos airport | 3 | 18,100 | Blog: closest-airport-cabo-san-lucas-mexico |
+| san jose del cabo | 24 (down from 19) | 18,100 | Blog: Downtown-San-Jose-del-Cabo |
+| los cabos property | 2 (up from 3) | 590 | Homepage |
+| los cabos properties | 2 (stable) | 590 | Homepage |
+| real estate los cabos mx | 2 (up from 3) | 590 | Homepage |
+| cabo properties | 2 (up from 3) | 480 | Homepage |
+| cabo real estate for sale | 2 (stable) | 390 | Homepage |
+| los cabos real estate mexico | 3 (down from 2) | 590 | Homepage |
 
-**Key observations:**
+**Notable movers this week (positions improved):**
 
-1. Their "Cabo San Lucas vs Los Cabos" blog post is doing significant heavy lifting. It appears multiple times across the top keyword list (SGE position, organic position 12, related "san lucas" and "cabos san lucas" queries) and collectively drives the bulk of their estimated traffic. This single informational post is their top traffic asset.
+- "cabo san lucas": position 23 to 12, 135,000 monthly searches. Their blog post on the Cabo vs. Los Cabos distinction is driving most of their high-volume traffic.
+- "la paz real estate": position 13 to 6, 590 searches. A blog post URL is doing the work here, not a dedicated location page.
+- "san jose del cabo homes for sale": position 10 to 6, 590 searches, routing to the homepage.
+- "fideicomiso": position 10 to 6, 4,400 searches. Their buyer-education content on fideicomiso is ranking well for a term with meaningful search volume.
+- "homes for sale in todos santos mexico": position 56 to 21, 480 searches. A large jump from outside the top 50.
+- "homes for sale cabo san lucas pedregal": position 10 to 4, 210 searches. Their neighborhood-specific page is now top 5.
+- "baja real estate for sale": position 4 to 2, 140 searches.
+- "baja property for sale": position 5 to 2, 140 searches.
 
-2. The airport-related content ("closest-airport-cabo-san-lucas-mexico") is ranking in People Also Ask boxes for two high-volume queries ("cabo san lucas airport" at 10,800 searches, "los cabos airport" at 18,100, "cabos airport" at 8,000). PAA placements on these queries are generating meaningful click volume.
+**Notable declines:**
 
-3. Their homepage ranks position 2 to 3 for a cluster of branded and near-branded commercial queries: "los cabos property," "los cabos properties," "real estate los cabos mx," "cabo properties," "cabo real estate for sale," "property cabo san lucas," and similar variants. These conversions-ready terms at position 2 to 3 represent direct competitive pressure on MexHome in the Los Cabos market.
+- "san jose del cabo": position 19 to 24, 18,100 monthly searches. This is a meaningful drop on a high-volume informational term.
+- "los cabos real estate mexico": position 2 to 3, 590 searches.
+- "property in cabo": position 2 to 3, 480 searches.
 
-4. "San jose del cabo homes for sale" moved up from position 10 to position 6. That keyword (590 searches/month) is low volume but high commercial intent. MexHome already has /area/los-cabos/san-jose-del-cabo/san-jose-del-cabo-homes-for-sale/ so this is a direct head-to-head ranking competition.
-
-5. Keyword momentum is slightly negative this month: 1,123 keywords down versus 997 up, and 993 lost versus 1,062 new. Net position is holding roughly flat with slight erosion at the mid-tier.
+**Strategic observation:** Baja properties is almost entirely concentrated on the Los Cabos and Baja peninsula markets. Their top-traffic blog post (Cabo vs. Los Cabos distinction) is capturing general destination searchers at position 12 for a 135,000-volume keyword. Their homepage is ranking position 2 or 3 for multiple commercial Cabo real estate terms with modest volume (390 to 590 searches). Their San Jose del Cabo homes content is fragmented across the homepage and a separate Puerto Los Cabos page, which may be contributing to inconsistent rankings on that term cluster.
 
 ---
 
 ## 5. Recommended Actions for MexHome
 
-**1. Build a "Cabo San Lucas vs Los Cabos" comparison guide.**
-Baja properties' top traffic asset by a large margin is a single blog post targeting this informational query at 135,000 monthly searches. MexHome has no equivalent page in its existing content inventory. This is a clear content gap. A well-structured, up-to-date comparison guide covering location differences, lifestyle, real estate market, and pricing would compete directly for this traffic and introduce top-of-funnel Los Cabos buyers to MexHome.
+**1. Defend and strengthen existing Los Cabos and San Jose del Cabo pages.**
 
-**2. Create an airport and travel logistics guide for Los Cabos.**
-Baja properties holds PAA positions for "cabo san lucas airport" (10,800 searches), "los cabos airport" (18,100 searches), and "cabos airport" (8,000 searches) through a single blog post. MexHome has no equivalent page. A practical guide covering the SJD airport, transfers to Cabo San Lucas and San Jose del Cabo, travel times, and tips would be a low-difficulty entry into high-volume queries that bring buyers into the research funnel.
+Baja properties is moving up on "san jose del cabo homes for sale" (now position 6) and related house-hunting terms, routing to their homepage. MexHome already has dedicated pages at `/area/los-cabos/san-jose-del-cabo/san-jose-del-cabo-homes-for-sale/` and `/area/los-cabos/san-jose-del-cabo/`. Audit those pages for content depth, internal linking, and page authority. Adding buyer-intent content (price ranges, neighborhood context, financing notes) to those existing pages is the right response, not building new ones.
 
-**3. Strengthen the existing San Jose del Cabo homes page to defend position against Baja properties' upward movement.**
-MexHome already has /area/los-cabos/san-jose-del-cabo/san-jose-del-cabo-homes-for-sale/. Baja properties just moved from position 10 to position 6 for "san jose del cabo homes for sale." Review that existing MexHome page for thin content, missing internal links, and schema markup. Adding neighborhood context, lifestyle copy, and current listing count signals may be enough to hold or reclaim ground before Baja properties pushes further.
+**2. Strengthen the La Paz real estate page to compete with Baja properties' surging blog post.**
 
-**4. Address the Los Cabos homepage-level keyword cluster with a dedicated Los Cabos real estate hub page.**
-Baja properties' homepage ranks position 2 to 3 across a cluster of commercial queries: "los cabos property," "los cabos properties," "real estate los cabos mx," "cabo properties," "cabo real estate for sale." MexHome has /area/los-cabos/ which could serve this function. Audit that page's title tag, H1, internal link equity, and content depth against Baja properties' homepage to identify gaps. If the page is thin, expanding it with market stats, neighborhood breakdowns, and buyer guides would improve its ability to compete on these commercial terms.
+Baja properties jumped from position 13 to 6 on "la paz real estate" using a blog post, not a structured location page. MexHome has `/area/los-cabos/la-paz/` and sub-pages including `/area/los-cabos/la-paz/la-paz-homes-for-sale/` and `/area/los-cabos/la-paz/la-paz-condos-for-sale/`. These pages have a structural advantage a blog post lacks. Invest in expanding content on those pages (market overview, lifestyle context, price data) to push them into direct competition with Baja properties' blog URL on La Paz terms.
 
-**5. Monitor and do not replicate Baja properties' backlink tactics.**
-Their 1,180 referring domain count is substantially inflated by Polish financial spam anchors and Telegram-network link schemes. MexHome should focus link acquisition on the pattern that actually generates real equity for Baja properties: editorial content that earns links naturally, specifically their golf guide (96 referring domains from a single post). Identify comparable destination-specific guides MexHome could publish for Puerto Vallarta, Riviera Nayarit, or San Miguel de Allende markets where MexHome has stronger content infrastructure.
+**3. Build a "Todos Santos homes for sale under $200K" or price-segmented Todos Santos page if MexHome does not have one.**
+
+Baja properties jumped from position 56 to 21 on "homes for sale in todos santos mexico" using a URL structured as `/todos-santos-homes-for-sale/under-200000/`. MexHome has `/area/los-cabos/todos-santos/todos-santos-homes-for-sale/` but no apparent price-filtered variant. A price-segmented page or a content section on the existing homes page addressing the entry-level buyer intent could compete directly with this Baja properties URL. Confirm whether the existing todos-santos-homes-for-sale page addresses affordability positioning before adding a new path.
+
+**4. Publish or expand a fideicomiso buyer-education article.**
+
+Baja properties moved from position 10 to 6 on "fideicomiso" (4,400 monthly searches) using a dedicated guide. MexHome has `/blog/fideicomiso-ownership-mexican-real-estate/` and `/blog/bank-trusts-in-mexico/`. Check whether those posts are competing for the "fideicomiso" keyword directly. If they are ranking outside the top 20, consolidate the content into a single, authoritative guide and redirect the weaker post. If they are not targeting the exact term, update the stronger post's title and on-page content to target "fideicomiso" explicitly.
+
+**5. Do not attempt to compete with Baja properties on the "cabo san lucas" head term blog play.**
+
+Their position 12 ranking for "cabo san lucas" (135,000 searches) is driven by a high-difficulty (score 82) blog post on the Cabo vs. Los Cabos geographic distinction. This is a general destination query, not a real estate query. MexHome's core market strength is Puerto Vallarta and Riviera Nayarit. Competing for that specific term is a poor allocation of content resources. Monitor whether Baja properties continues to climb on that keyword, but do not build content to chase it.
+
+**6. Audit MexHome's Pedregal coverage.**
+
+Baja properties jumped from position 10 to 4 on "homes for sale cabo san lucas pedregal" using a dedicated neighborhood page. MexHome does not appear to have a `/area/los-cabos/cabo-san-lucas/pedregal/` page or equivalent. Pedregal is a distinct, high-value neighborhood in Cabo. If MexHome has listings in Pedregal, building a neighborhood page would target a term where Baja properties is now top 5 and where MexHome currently has no apparent footprint.

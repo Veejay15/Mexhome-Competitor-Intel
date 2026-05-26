@@ -4,92 +4,94 @@
 
 ## 1. Executive Summary
 
-- TopMexicoRealEstate's sitemap was successfully fetched this week with no new, removed, or updated URLs detected, indicating no content publishing activity in the tracked period.
-- Their organic keyword footprint stands at 10,221 keywords, with a net negative movement profile: 2,054 keywords dropped in position, 1,960 were lost entirely, against 1,621 new keywords gained and 1,269 moving up. Stable keywords (10,733) outnumber total ranked keywords, suggesting the dataset includes multi-URL rankings for the same terms.
-- Their top-traffic keywords are broad national terms ("mexico homes for sale," "mexico houses for sale," "house in mexico") anchored almost entirely to a single legacy PHP page (homes.php), and several of these have lost meaningful ground week-over-week.
-- On backlinks, one editorial link was gained from survivingmexico.com, while three nofollow directory links from low-authority domains (newdirectory.in, discussion.co.in) were removed. Net backlink quality impact is neutral to marginally positive.
+- No new pages were detected on TopMexicoRealEstate's sitemap this week. The diff was clean with zero additions or removals.
+- TopMexicoRealEstate holds 10,221 ranked keywords this month, with estimated organic traffic of 11,414. Their homes listing page (homes.php) dominates their top traffic-driving positions, but several high-volume keywords (including "mexico homes for sale" at 12,100 monthly searches) have slipped in position this cycle.
+- Their oceanfront/beachfront landing page (oceanfront.php) is performing well, holding position 1 for multiple beachfront and oceanfront purchase intent keywords, with several notable upward moves this week.
+- Backlink movement is minimal and low quality. One relevant new link was acquired from survivingmexico.com. Lost links are exclusively from a low-authority directory (newdirectory.in), so there is no meaningful net loss.
 
 ---
 
 ## 2. New Pages Built by TopMexicoRealEstate
 
-No new pages were detected this week. The sitemap fetch completed successfully and the diff returned zero new, removed, or updated URLs. TopMexicoRealEstate published no new content in the tracked period.
+No new pages were detected on TopMexicoRealEstate's sitemap this week. The sitemap fetch was successful and the diff returned zero new, removed, or updated URLs.
 
 ---
 
 ## 3. Backlink Movements
 
-**Overall Profile (as of this report):**
-TopMexicoRealEstate carries 15,514 total backlinks from 1,160 referring domains. Of those, 12,398 are dofollow and 3,116 are nofollow. Domain-level inlink rank is 49. The referring domain base skews heavily toward .com TLDs (595 domains) and is geographically concentrated in the US (555 domains), with secondary presence in Germany (128), Sweden (94), and France (40).
+TopMexicoRealEstate's overall backlink profile stands at 15,514 backlinks from 1,160 referring domains, with 12,398 being dofollow links and 995 dofollow referring domains.
 
-**This Week's Changes:**
+**New link this week:**
 
-- **New link gained (2026-05-20):** survivingmexico.com linked to topmexicorealestate.com/blog with the anchor "Top Mexico Real Estate Blog" from a "top 30 mexico blog" tag page. The linking domain carries a domain inlink rank of 43. This is a dofollow, href link and is the only new link recorded this period. The placement is topically relevant and adds modest editorial value.
+- survivingmexico.com tagged TopMexicoRealEstate's blog in a "Top 30 Mexico Blog" list page (acquired 2026-05-20). The linking domain has a domain inlink rank of 43. The anchor is "Top Mexico Real Estate Blog" pointing to their blog index. This is a dofollow link and represents a modest but relevant editorial placement in the Mexico lifestyle/expat niche.
 
-- **Lost links (2026-05-19 to 2026-05-21):** Four links were removed, all originating from the same low-quality directory network (newdirectory.in and discussion.co.in, both "Alexa top domain list" pages). All four were nofollow hrefs with a domain inlink rank of 19 to 29. The oldest had been live since February 2023. These removals carry no meaningful SEO value loss.
+**Lost links this week:**
 
-**Assessment:** Net backlink movement this week is essentially neutral. The one gained link has genuine editorial context. The four lost links were directory noise with no dofollow value.
+- Three variants of the same URL from newdirectory.in (and one from discussion.co.in) were removed between 2026-05-19 and 2026-05-21. All four were nofollow links. The source is a low-authority Alexa domain directory with a domain inlink rank of 19 to 29. These losses carry no meaningful SEO weight.
+
+**Net assessment:** The week is essentially neutral on backlinks. The survivingmexico.com placement is more relevant than what was lost, though the volume is small. TopMexicoRealEstate's most linked pages by referring domains remain their homepage, their Tulum homes page, their oceanfront page, and their Morelia real estate page.
 
 ---
 
 ## 4. Keyword and Ranking Changes
 
-**Overview (May 2026):**
-TopMexicoRealEstate ranks for 10,221 keywords in organic search. Position distribution: 1,125 in positions 1 to 5, 1,295 in positions 6 to 10, 2,331 in positions 11 to 20, 6,500 in positions 21 to 50, and 4,412 in positions 51 to 100. Estimated organic traffic value is approximately $2,102 per month. Total traffic is tracked at 11,414 visits in the period.
+TopMexicoRealEstate holds 10,221 tracked keywords this month. Of those, 1,125 rank in positions 1 to 5, and 1,295 rank in positions 6 to 10. There were 1,269 keywords moving up, 2,054 moving down, and 1,960 lost entirely this cycle. This indicates broad ranking volatility, with more keywords losing ground than gaining.
 
-Movement breakdown: 1,621 new keywords entering the index, 1,269 keywords moving up, 2,054 keywords declining, 1,960 keywords lost, and 10,733 holding steady (this stable count exceeds the total ranked keyword count, which reflects the SE Ranking methodology counting multiple URL-keyword pairs).
+**Notable upward movers (from the positions data):**
 
-**Top Keywords by Estimated Traffic (from top 25 rows):**
+Their homes.php page drove the majority of upward movement this week on broad, high-volume terms:
 
-The site derives the majority of its tracked traffic from broad, high-volume national terms, almost all routing to the same destination (homes.php):
+- "mexico home" moved from position 6 to 4 (6,600 monthly searches)
+- "house in mexico" moved from position 5 to 4 (8,000 monthly searches)
+- "mexico homes" moved from position 7 to 5 (6,600 monthly searches)
 
-- "mexico homes for sale" (vol. 12,100): position 12, down from 9. Estimated traffic contribution: 208 visits.
-- "mexico houses for sale" (vol. 4,400): position 6, down from 3. Traffic: 236 visits.
-- "mexico home" (vol. 6,600): position 4, up from 6. Traffic: 178 visits.
-- "house in mexico" (vol. 8,000): position 4, up from 5. Traffic: 166 visits.
-- "homes for sale in mexico" (vol. 5,700): position 12, down from 7. Traffic: 156 visits.
-- "homes in mexico" (vol. 5,400): position 4, stable. Traffic: 150 visits.
-- "mexico homes" (vol. 6,600): position 5, up from 7. Traffic: 116 visits.
-- "houses for sale in mexico" (vol. 6,600): position 11, down from 3. Traffic: 114 visits.
-- "mexico houses" (vol. 6,600): position 7, down from 4. Traffic: 102 visits.
-- "for sale in mexico" (vol. 1,900): position 5, down from 3. Traffic: 89 visits.
+Their oceanfront.php page had strong upward movement on transactional beachfront terms:
 
-**Beachfront/Oceanfront cluster (all ranking number 1, routing to oceanfront.php):**
-- "beach property in mexico for sale" (vol. 390): position 1, up from 2.
-- "mexico beachfront real estate for sale" (vol. 390): position 1, stable.
-- "beachfront property in mexico for sale" (vol. 390): position 1, up from 2.
-- "oceanfront property for sale in mexico" (vol. 390): position 1, up from 10. Notable jump.
-- "ocean front property for sale mexico" (vol. 390): position 1, stable.
+- "oceanfront property for sale in mexico" jumped from position 10 to 1 (390 monthly searches)
+- "oceanfront property in mexico for sale" moved from position 5 to 1 (390 monthly searches)
+- "beachfront property in mexico for sale" moved from position 2 to 1 (390 monthly searches)
+- "beach property in mexico for sale" moved from position 2 to 1 (390 monthly searches)
 
-**Other notable entries:**
-- "homes for sale in rocky point mx" (vol. 320): position 1, stable.
-- "mexico land for sale" (vol. 1,100): position 3, stable.
-- "ca hotels" (vol. 20,100): appearing via a people-also-ask block at position 3, routing to a blog post about Hotel California. High volume but tangential to real estate intent.
+Other notable upward moves:
 
-**Key Observation:** TopMexicoRealEstate is consolidating significant national-intent traffic onto a small number of PHP-based legacy pages (homes.php, oceanfront.php, land.php). Several of the highest-volume terms have dropped materially in position week-over-week ("houses for sale in mexico" from 3 to 11, "mexico houses for sale" from 3 to 6, "homes for sale in mexico" from 7 to 12). The oceanfront cluster is strengthening. Their blog is delivering incidental traffic via a non-real-estate query ("ca hotels").
+- "mexico real estate" moved from position 34 to 10 via their b-listado.php page (2,400 monthly searches), a significant jump
+- "cancun houses for sale" moved from position 8 to 2 (480 monthly searches)
+- "mexico properties for sale cancun" moved from position 3 to 2 (590 monthly searches)
+- "mexico retirement community" moved from position 11 to 2 (320 monthly searches) via their retire.php page
+- "la paz real estate" moved from position 21 to 5 (590 monthly searches)
+- "rocky point real estate" moved from position 53 to 25 (590 monthly searches)
+- Puerto Morelos terms ("homes for sale in puerto morelos", "houses for sale in puerto morelos", "puerto morelos homes for sale") all moved from position 8 to 4 (590 monthly searches each)
+
+**Notable downward movers (from the top keywords data, cross-referencing prev_pos):**
+
+- "mexico houses for sale" dropped from position 3 to 6 (4,400 monthly searches)
+- "mexico homes for sale" dropped from position 9 to 12 (12,100 monthly searches, their highest-volume keyword)
+- "homes for sale in mexico" dropped from position 7 to 12 (5,700 monthly searches)
+- "houses for sale in mexico" dropped from position 3 to 11 (6,600 monthly searches)
+- "home in mexico" dropped from position 4 to 6 and from position 17 to 29 on two separate URLs (6,600 monthly searches)
+- "for sale in mexico" dropped from position 3 to 5 (1,900 monthly searches)
+- "mexico houses" dropped from position 4 to 7 (6,600 monthly searches)
+
+**Summary pattern:** TopMexicoRealEstate gained ground on niche and mid-tier terms (oceanfront, Cancun, Puerto Morelos, retirement, La Paz) while losing positions on their highest-volume broad "mexico homes for sale" cluster. That cluster collectively represents the bulk of their traffic and the losses on those terms are significant exposure for competitors.
 
 ---
 
 ## 5. Recommended Actions for MexHome
 
-The following recommendations are grounded in what the data reveals about TopMexicoRealEstate's positioning and weaknesses, cross-referenced against MexHome's existing page inventory.
+**1. Target the slipping "mexico homes for sale" keyword cluster aggressively.**
+TopMexicoRealEstate dropped from position 9 to 12 on "mexico homes for sale" (12,100 monthly searches), from position 7 to 12 on "homes for sale in mexico" (5,700), and from position 3 to 11 on "houses for sale in mexico" (6,600). MexHome has /area/homes-for-sale/ already. This week, audit and strengthen that page: sharpen the title tag, improve the H1 to include natural variants of these exact phrases, add fresh internal links from high-authority pages (blog posts, area pages), and consider adding schema markup for real estate listings. The window to capture displaced traffic is open now.
 
-**1. Attack the weakening broad national terms with a stronger dedicated landing page.**
+**2. Build or strengthen a dedicated Mexico beachfront/oceanfront for-sale page.**
+TopMexicoRealEstate holds position 1 on "beachfront property in mexico for sale," "oceanfront property for sale in mexico," "beach property in mexico for sale," and related variants, all via their oceanfront.php page. Searching the MexHome page list, there is no equivalent standalone beachfront or oceanfront search/landing page. MexHome has /blog/mexico-beachfront-discover-coastal-living-in-paradise/ and /blog/discover-the-best-waterfront-property-in-mexico-los-cabos-puerto-vallarta-riviera-nayarit/, but those are editorial blog posts, not transactional landing pages. Building a dedicated /area/beachfront-property-for-sale/ or equivalent page targeting these terms directly would be a genuine content gap.
 
-TopMexicoRealEstate is losing ground on "mexico homes for sale" (now position 12), "houses for sale in mexico" (now position 11), and "homes for sale in mexico" (now position 12). All three route to a single legacy PHP page. MexHome has /area/homes-for-sale/ already. The action here is not to build a new page but to strengthen that existing page aggressively: expand on-page content depth, improve internal linking from area and blog pages, and ensure it is targeting this exact keyword cluster with structured content (neighborhood breakdowns, property type filters, buyer intent signals). This is a direct window while a major competitor slides.
+**3. Strengthen the MexHome Cancun pages to contest TopMexicoRealEstate's improving Cancun positions.**
+TopMexicoRealEstate moved to position 2 on "cancun houses for sale" and "mexico properties for sale cancun" this week. MexHome has /area/cancun/, /area/cancun/cancun-condos-for-sale/, and /area/cancun/cancun-houses-for-sale/ already. Review whether the Cancun houses and condos pages have sufficient listing depth, internal links, and on-page optimization to compete with a site now ranking position 2 on those terms.
 
-**2. Build a dedicated Mexico beachfront/oceanfront real estate page.**
+**4. Contest TopMexicoRealEstate's Puerto Morelos gains.**
+Three Puerto Morelos terms all moved from position 8 to 4 for TopMexicoRealEstate this week. MexHome has /area/puerto-morelos/, /area/puerto-morelos/puerto-morelos-condos-for-sale/, /area/puerto-morelos/puerto-morelos-houses-for-sale/, and /area/puerto-morelos/puerto-morelos-land-for-sale/. These pages exist and are the right structure. The action is to strengthen them: refresh listing counts, improve meta descriptions, and add internal linking from the Riviera Maya parent page.
 
-TopMexicoRealEstate holds position 1 across five beachfront and oceanfront keyword variants ("beach property in mexico for sale," "beachfront property in mexico for sale," "oceanfront property for sale in mexico," etc.) via a single page (oceanfront.php). MexHome does not have an equivalent top-level beachfront or oceanfront real estate landing page in the existing page list. MexHome has blog posts touching coastal living but no dedicated transactional page targeting this keyword cluster. This is a content gap and a real acquisition opportunity. Build a page targeting the full beachfront/oceanfront purchase-intent cluster with listings integration.
+**5. Monitor TopMexicoRealEstate's retirement-focused page for keyword intent gaps.**
+Their retire.php page jumped from position 11 to 2 on "mexico retirement community" this week (320 monthly searches). MexHome has several retirement-themed blog posts (/blog/real-estate-retirement-in-puerto-vallarta-and-riviera-nayarit/, /blog/a-guide-to-affordable-retirement-living-in-puerto-vallarta-and-riviera-nayarit/, etc.) but no standalone retirement landing page at the /area/ or root level. If retirement buyer traffic is a meaningful segment for MexHome, a dedicated transactional page targeting "retire in mexico" and related terms would fill a gap that TopMexicoRealEstate is actively exploiting.
 
-**3. Strengthen the Mexico land for sale page.**
-
-TopMexicoRealEstate holds position 3 for "mexico land for sale" (vol. 1,100) via a dedicated land.php page. MexHome has /area/land-for-sale/ already. Review and expand this page's content to compete directly. If the page is thin, add regional breakdowns, buyer guidance content, and stronger internal links from location-specific land pages (MexHome has many, e.g., /area/los-cabos/los-cabos-land-for-sale/, /area/riviera-nayarit-real-estate/sayulita-real-estate/land-for-sale/).
-
-**4. Do not build a Rocky Point (Puerto Penasco) homes page as a direct response to their ranking.**
-
-TopMexicoRealEstate holds position 1 for "homes for sale in rocky point mx" (vol. 320) via a dedicated Rocky Point homes page. MexHome already has /area/puerto-penasco/ and several sub-pages (cholla-bay, las-conchas, sandy-beach, etc.). The action is to ensure the Puerto Penasco hub page and its sub-pages are internally linked properly and that /area/puerto-penasco/ includes sufficient homes-for-sale content to compete on this term. No new page is needed.
-
-**5. Pursue a link from survivingmexico.com or comparable Mexico lifestyle editorial properties.**
-
-TopMexicoRealEstate just received a dofollow editorial link from survivingmexico.com (domain inlink rank 43) on a "top 30 mexico blog" roundup. This type of editorial placement is achievable through outreach to Mexico expat and lifestyle content publishers. MexHome's blog has significant content depth across expat lifestyle, retirement, and city guides that could justify similar placements. Identify the top 10 to 15 Mexico-focused editorial sites in this category and execute a targeted outreach campaign, leading with MexHome's most authoritative destination guides.
+**6. Do not pursue survivingmexico.com as a link target based on this data alone.**
+The new link TopMexicoRealEstate acquired from survivingmexico.com is modestly relevant (domain inlink rank 43, expat/Mexico niche). However, the placement is a blog tag page listing "Top 30 Mexico Blogs," not editorial content about real estate. MexHome's team can consider the site as a prospecting opportunity for genuine editorial coverage, but a reactive link-chasing play is not warranted from this signal alone.

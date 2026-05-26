@@ -4,106 +4,86 @@
 
 ## 1. Executive Summary
 
-- No new pages were detected on mexicolife.com this week. The sitemap fetch was successful and the diff shows zero new, removed, or updated URLs.
-- Mexico Life Realty holds position 1 for multiple high-intent Puerto Vallarta beachfront condo and home keywords, and ranks in the top 5 for several San Pancho / San Francisco Nayarit real estate terms. These are direct ranking threats to MexHome in core markets.
-- Their organic profile shows 5,233 total ranking keywords this month, with 565 new keywords gained but 1,038 keywords declining and 468 lost, suggesting net ranking pressure across their portfolio.
-- A large volume of new redirect-type backlinks originated from puertovallartarealestate.com on 2026-05-20. All point to mexicolife.com's homepage via redirect and carry a domain inlink rank of 1, indicating minimal direct authority value, but the domain association is worth monitoring.
+- Mexico Life Realty's sitemap was successfully fetched this week with no new pages, removed pages, or updated pages detected, meaning their content footprint held steady compared to last week.
+- Their "cheap homes" price-filtered page (mexicolife.com/pool/under-100000/) made aggressive ranking gains this week, jumping from positions in the 20s and higher into the top 10 for multiple "cheap houses/homes for sale in Mexico" variants, each with 590 monthly searches.
+- Their dedicated Puerto Vallarta apartments/Zona Romantica condo page also surged from positions 46 to 65 all the way to position 4 for three "apartments for sale in Puerto Vallarta" keyword variants (320 monthly searches each).
+- A bulk backlink event was detected: all new links recorded this week originate from a single domain (puertovallartarealestate.com) and appear to be redirect-type links with a domain inlink rank of 1. This is low-quality and likely not a meaningful authority signal.
 
 ---
 
 ## 2. New Pages Built by Mexico Life Realty
 
-No new pages were detected this week. The sitemap fetch completed successfully (sitemapFetchStatus.ok is true) and the diff arrays are empty. Mexico Life Realty did not publish any new URLs between the previous snapshot and 2026-05-26.
+No new pages were detected in Mexico Life Realty's sitemap this week. The diff returned empty arrays for new, removed, and updated URLs. No page-build activity to report.
 
 ---
 
 ## 3. Backlink Movements
 
-The SE Ranking backlink data for mexicolife.com shows the following as of this week.
+The SEMrush backlink data is available this week. Here is what the data shows.
 
-**Overall profile summary:**
-- Total backlinks: 72,966
-- Referring domains: 183
-- Dofollow backlinks: 72,889 (effectively all of the link count)
-- Domain inlink rank: 49
+**Overall profile snapshot:**
 
-**Top pages by referring domains:**
-- The homepage (both www and non-www variants combined) accounts for the largest share of referring domains, with 34 and 32 respectively.
-- The old-town-vallarta.php page holds 24 referring domains, making it their third-strongest linked page by domain count.
-- The Nuevo Vallarta condos for sale page and the Nuevo Vallarta real estate page each hold 5 referring domains.
+Mexico Life Realty's backlink profile sits at 72,966 total backlinks across 183 referring domains, with 72,889 of those being dofollow. Their domain inlink rank is 49 per the summary data. The profile is heavily concentrated: the homepage (mexicolife.com, no www) accounts for 71,241 of all backlinks, indicating the vast majority of links point to the root domain rather than to internal content pages. Only 59 pages across the site have any backlinks at all.
 
-**Top anchor text by referring domains:**
-- Naked domain ("mexicolife.com"): 31 referring domains
-- Empty/image anchors: 24 referring domains
-- Property address anchors (two specific listing URLs): 14 referring domains each, suggesting aggregator or directory syndication
+Top anchors by backlink count include the bare domain name (44 links), empty anchors (32 links), "Mexico Life Realty" (15 links), and two specific property listing addresses (14 links each). The anchor "LINKS FOR www.mexicolife.com TELEGRAM @happygrannypies" appears across 9 referring domains, which is a notable spam signal.
 
-**New backlinks this week:**
-A bulk of new backlinks appeared on 2026-05-20, all originating from puertovallartarealestate.com. The links are redirect-type, carry a domain inlink rank of 1, and all point to the mexicolife.com homepage. The pattern (dozens of near-identical search results page URLs from a single domain) indicates an automated redirect or crawler artifact rather than an editorially placed link. This link batch is unlikely to deliver meaningful ranking authority to Mexico Life Realty.
+**This week's new links:**
 
-**Lost backlinks:** None reported this week.
+All new links detected this week (first seen 2026-05-20) come from a single referring domain: puertovallartarealestate.com. The links are all redirect-type, carry no anchor text or title, and the domain has an inlink rank of 0 and a domain inlink rank of 1. These appear to be auto-generated or programmatic search result and sitemap pages from that site, not editorially placed links. This event does not meaningfully strengthen Mexico Life Realty's authority. No lost backlinks were recorded this period.
+
+**Notable pages receiving external links:**
+
+Per the summary data, the pages with the most referring domains (beyond the homepage) include the Old Town Vallarta page (24 referring domains), two individual property listing pages (14 referring domains each), a blog post on the Puerto Vallarta condo market from June 2025 (13 backlinks), a house market report from March 2025 (7 referring domains), the La Penita page (9 backlinks), and the Nuevo Vallarta condos and real estate pages (5 referring domains each).
 
 ---
 
 ## 4. Keyword and Ranking Changes
 
-SE Ranking keyword data covers 100 tracked keywords for mexicolife.com this week.
+The SEMrush keyword and positions data is available this week.
 
-**Portfolio overview (May 2026):**
-- Total ranking keywords: 5,233
-- Top 1 to 5 positions: 1,049 keywords
-- Top 6 to 10 positions: 794 keywords
-- Keywords gained (new): 565
-- Keywords moved up: 464
-- Keywords moved down: 1,038
-- Keywords lost: 468
+**Overall organic footprint:**
 
-The keyword movement balance is negative this month. More keywords declined or were lost than gained or improved.
+Mexico Life Realty has 5,233 ranking keywords this month. Their estimated organic traffic is 4,128 visits. Positional momentum is mixed: 464 keywords moved up, 1,038 moved down, 565 are new, and 468 were lost. The majority of keywords (6,519) held their positions. They have 1,049 keywords in positions 1 to 5 and 794 in positions 6 to 10.
 
-**Top traffic-driving keywords from the top-25 data:**
+**Top keywords by estimated traffic (from top-keywords file):**
 
-| Keyword | Position | Search Volume | Competitor URL |
-|---|---|---|---|
-| mexico real estate | 18 | 2,400 | Homepage |
-| bucerias mexico | 17 (down from 15) | 4,400 | living-in-bucerias page |
-| san francisco nayarit mexico real estate | 4 (stable) | 590 | san-pancho-mls page |
-| san pancho nayarit mexico real estate | 5 (down from 3) | 590 | san-pancho-mls page |
-| beachfront condos for sale in puerto vallarta | 1 (stable) | 140 | beachfront condos page |
-| puerto vallarta oceanfront condos for sale | 1 (stable) | 140 | beachfront condos page |
-| san pancho real estate mexico | 3 (stable) | 590 | san-pancho-mls page |
-| mexico mortgage calculator | 1 (stable) | 140 | mortgage calculator page |
-| mortgage calculator mexico | 1 (stable) | 140 | mortgage calculator page |
-| puerto vallarta beach condos for sale | 1 (stable) | 140 | beachfront condos page |
-| puerto vallarta beachfront homes for sale | 1 (stable) | 170 | oceanfront-beachfront page |
-| beachfront homes for sale in puerto vallarta mexico | 1 (stable) | 170 | oceanfront-beachfront page |
-| homes for sale in guanajuato mexico | 12 (down from 10) | 480 | guanajuato real estate page |
-| real estate in guanajuato city mexico | 8 (up from 10) | 590 | guanajuato real estate page |
-| condo for sale nuevo vallarta | 1 (stable) | 110 | nuevo vallarta condos page |
-| condos for sale in nuevo vallarta mexico | 1 (stable) | 110 | nuevo vallarta condos page |
-| cheap homes for sale in mexico | 4 | 590 | under-100000 price filter page |
-| cheap houses for sale in mexico on the beach | 3 (stable) | 480 | under-100000 price filter page |
-| puerto vallarta real estate | 11 (down from 7) | 1,100 | puerto vallarta real estate page |
-| beach property in mexico for sale | 16 (down from 13) | 390 | oceanfront-beachfront page |
+The homepage ranks position 18 for "mexico real estate" (2,400 monthly searches, 47 estimated visits). Their living-in-bucerias page ranks position 17 for "bucerias mexico" (4,400 searches, 30 estimated visits), sliding from position 15 the prior period. Their San Pancho MLS page holds positions 3 to 5 across three San Francisco/San Pancho Nayarit real estate variants (590 searches each), contributing roughly 84 estimated visits in aggregate.
 
-**Key observations:**
+Their beachfront Puerto Vallarta condo page dominates several low-competition, low-volume but commercially intent-rich keywords: it holds position 1 for "beachfront condos for sale in puerto vallarta" and four close variants (all 140 monthly searches), as well as position 1 for "puerto vallarta beach condos for sale." Their dedicated oceanfront/beachfront page ranks position 1 for "puerto vallarta beachfront homes for sale," "beachfront homes for sale in puerto vallarta mexico," and "beachfront houses for sale in puerto vallarta" (all 170 monthly searches). These position-1 rankings are consistent with prior periods and represent a stable ownership of the Puerto Vallarta beachfront niche.
 
-Mexico Life Realty holds position 1 on four distinct Puerto Vallarta beachfront condo and home keywords (volumes 140 to 170 each), all pointing to two dedicated beachfront-specific landing pages. These are niche but high-intent queries with no current MexHome equivalent built at that specificity level.
+Their Guanajuato real estate page ranks positions 8 to 12 across multiple Guanajuato variants (480 to 590 monthly searches each). Their Nuevo Vallarta condos page holds position 1 for "condo for sale nuevo vallarta" and "condos for sale in nuevo vallarta mexico" (110 monthly searches each, 23 and 22 estimated visits respectively).
 
-Their position on "puerto vallarta real estate" (volume 1,100) dropped from position 7 to 11 this week, representing a meaningful loss in a high-value term. Their "bucerias mexico" ranking also slipped from 15 to 17. These declines are opportunities for MexHome to gain ground.
+Their under-$100,000 price pool page ranks position 4 for "cheap homes for sale in mexico" (590 searches, 21 estimated visits) and position 3 for "cheap houses for sale in mexico on the beach" (480 searches, 18 estimated visits).
 
-Their price-filter page (/pool/under-100000/) ranks position 3 to 4 for "cheap homes for sale in mexico" and "cheap houses for sale in mexico on the beach" (combined volume 1,070). This is a content format MexHome does not currently replicate.
+Their Puerto Vallarta real estate page has dropped from position 7 to position 11 for "puerto vallarta real estate" (1,100 monthly searches, 19 estimated visits).
+
+**Notable ranking gains this week (from position-changes file):**
+
+The most significant movement is in the "cheap homes/houses in Mexico" keyword cluster. Their under-$100,000 price page made large jumps across multiple variants:
+
+- "cheap houses for sale in mexico": position 17 to position 5 (590 searches)
+- "cheap house for sale in mexico": position 21 to position 6 (590 searches)
+- "homes in mexico for sale cheap": position 19 to position 7 (590 searches)
+- "cheap mexico houses for sale": position 28 to position 8 (590 searches)
+- "mexico homes for sale cheap": position 24 to position 7 (590 searches)
+- "cheap homes in mexico for sale": position 26 to position 8 (590 searches)
+- "cheap mexico homes for sale": position 22 to position 8 (590 searches)
+- "cheap homes for sale mexico": position 10 to position 9 (590 searches)
+
+The Puerto Vallarta apartments/Zona Romantica condo page surged for three "apartments for sale in puerto vallarta" variants, all moving from positions 46 to 65 into position 4 (320 searches each). Their Bucerias pages also moved up: "homes for sale in bucerias mexico" went from position 4 to 3, "bucerias homes for sale" from 4 to 3, and "bucerias condos for sale" from 3 to 2. Their Versalles Puerto Vallarta page moved from position 4 to 3 for "versalles puerto vallarta" (480 searches). Their Guanajuato page gained across three variants (positions 9 to 10 improving to 8). MLS listings keywords for Puerto Vallarta moved up from positions 36 to 40 into the mid-20s. Their Nuevo Vallarta homes page moved from position 4 to 3 for "houses for sale nuevo vallarta" (210 searches).
 
 ---
 
 ## 5. Recommended Actions for MexHome
 
-1. **Build a dedicated Puerto Vallarta beachfront condos for sale page.** Mexico Life Realty holds position 1 for at least five variations of "beachfront condos for sale in puerto vallarta" and "puerto vallarta beach condos for sale" using a single targeted page. MexHome has /area/puerto-vallarta-real-estate/condos-for-sale/ but no beachfront-specific filter or landing page within that path. Create /area/puerto-vallarta-real-estate/beachfront-condos-for-sale/ with content targeting this keyword cluster directly.
+1. **Counter the "cheap homes in Mexico" surge with a dedicated price-filtered content asset.** Mexico Life Realty jumped into the top 10 for at least eight "cheap homes/houses for sale in Mexico" variants (590 monthly searches each) this week using a price-filtered pool page. MexHome does not appear to have an equivalent price-anchored page in the existing page list. Build a content page targeting the "affordable homes in Mexico" or "homes under $200,000 in Mexico" intent cluster that combines editorial content with a filtered listings view. This directly addresses the traffic category Mexico Life Realty is now capturing.
 
-2. **Build a dedicated Puerto Vallarta beachfront homes for sale page.** The competitor holds position 1 for "puerto vallarta beachfront homes for sale" and related variants via a separate oceanfront homes page. MexHome has /area/puerto-vallarta-real-estate/homes-for-sale/ but no beachfront-specific homes variant. Build /area/puerto-vallarta-real-estate/beachfront-homes-for-sale/ to target this gap.
+2. **Defend the Puerto Vallarta apartments/Zona Romantica condo keyword cluster.** Mexico Life Realty jumped from outside the top 50 to position 4 for "apartments for sale in puerto vallarta" and two close variants (320 monthly searches each) using a single Zona Romantica condo page. MexHome has /area/puerto-vallarta-real-estate/condos-for-sale/ which is the closest equivalent. Audit that page for on-page optimization against the exact phrase "apartments for sale in puerto vallarta," add explicit Zona Romantica/apartment-intent copy, and strengthen internal linking to it from the main Puerto Vallarta area page.
 
-3. **Strengthen the existing /area/riviera-nayarit-real-estate/san-francisco-mexico/ page.** Mexico Life Realty ranks positions 3 to 5 for "san pancho real estate mexico," "san francisco nayarit mexico real estate," and "san pancho nayarit mexico real estate" (combined volume 1,770) using a single MLS page. MexHome already has this page but should audit its content depth, internal linking, and keyword targeting against the competitor's page to compete more aggressively on these terms.
+3. **Strengthen MexHome's Bucerias property-type pages before Mexico Life Realty consolidates further.** Mexico Life Realty moved up to position 2 for "bucerias condos for sale" and position 3 for "bucerias homes for sale" and "homes for sale in bucerias mexico" this week. MexHome already has /area/riviera-nayarit-real-estate/bucerias-mexico/condos-for-sale/ and /area/riviera-nayarit-real-estate/bucerias-mexico/homes-for-sale/. Review both pages for thin content, add updated market context, and build topical depth around Bucerias neighborhoods and property types to increase their competitive standing against Mexico Life Realty's improving positions.
 
-4. **Capitalize on Mexico Life Realty's "puerto vallarta real estate" position drop.** Their ranking for this 1,100-volume term fell from position 7 to 11 this week. MexHome's /area/puerto-vallarta-real-estate/ page is the natural candidate to displace them. Review on-page optimization, content freshness, and internal link authority flowing to this page and prioritize improvements this cycle while the competitor is slipping.
+4. **Audit and strengthen the MexHome Puerto Vallarta beachfront real estate page.** Mexico Life Realty holds position 1 for multiple "beachfront condos/homes/houses for sale in Puerto Vallarta" variants consistently. MexHome has /area/puerto-vallarta-real-estate/condos-for-sale/ and /area/puerto-vallarta-real-estate/homes-for-sale/ but no page specifically targeting the beachfront/oceanfront intent within Puerto Vallarta. This is a content gap. Build a dedicated "beachfront condos and homes for sale in Puerto Vallarta" page to challenge Mexico Life Realty's clean position-1 ownership of this keyword cluster, which drives an estimated 150-plus visits per month for them across the variants.
 
-5. **Evaluate a price-filtered or affordable homes landing page.** Mexico Life Realty ranks positions 3 to 4 for "cheap homes for sale in mexico" and "cheap houses for sale in mexico on the beach" (combined volume 1,070) via a price-filter URL. MexHome has no equivalent content page targeting affordable or budget-range Mexico property searches. Consider whether a curated affordable listings page or editorial guide targeting this intent would fit MexHome's positioning, and build it if so.
+5. **Monitor the puertovallartarealestate.com redirect situation but do not act on it.** The bulk of Mexico Life Realty's new link activity this week is a mass redirect from puertovallartarealestate.com, a low-authority domain (inlink rank 0) generating programmatic redirect links. This is not a genuine authority acquisition. No competitive response is needed from MexHome on backlinks this cycle. However, if puertovallartarealestate.com is a site that could link to MexHome editorially in the future, flag it for outreach assessment.
 
-6. **Do not pursue a Mexico mortgage calculator page.** Mexico Life Realty holds position 1 for "mexico mortgage calculator" and "mortgage calculator mexico" using a standalone calculator tool. MexHome already has /mortgage/ covering this space. Review whether that page includes an interactive calculator or could be enhanced to compete for these terms rather than building a separate page.
+6. **Consider building a Versalles Puerto Vallarta neighborhood page.** Mexico Life Realty ranks position 3 for "versalles puerto vallarta" and position 4 for "colonia versalles puerto vallarta" (480 monthly searches each, CPC of $1.12 indicating commercial intent). MexHome has /area/puerto-vallarta-real-estate/versalles-puerto-vallarta/ already in the page list. This page exists and does not need to be built. Instead, review its content depth and listing coverage to improve its position against Mexico Life Realty's competing page.
