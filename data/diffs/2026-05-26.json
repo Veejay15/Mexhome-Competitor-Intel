@@ -273,6 +273,22 @@
       "newUrls": [],
       "removedUrls": [],
       "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 4411
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 92
     }
   ]
 }
