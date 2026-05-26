@@ -1,0 +1,51 @@
+name: Internal Linking Strategy Doc
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate internal linking doc
+        env:
+          SE_RANKING_API_KEY: ${{ secrets.SE_RANKING_API_KEY }}
+          SE_RANKING_COUNTRY: ${{ vars.SE_RANKING_COUNTRY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITEMAP_PROXY_URL: ${{ secrets.SITEMAP_PROXY_URL }}
+          SITEMAP_PROXY_TOKEN: ${{ secrets.SITEMAP_PROXY_TOKEN }}
+        run: npx tsx scripts/generate-internal-linking-doc.ts
+
+      - name: Commit doc back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Internal linking strategy doc: $(date -u +%Y-%m-%d)"
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase || true
+            sleep $((attempt * 5))
+          done
+          exit 1
