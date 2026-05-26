@@ -47,6 +47,14 @@
       "sitemapUrl": "https://www.cblacosta.com/sitemap.xml",
       "addedAt": "2026-05-26",
       "active": true
+    },
+    {
+      "id": "www-remaxcaborealestate-com",
+      "name": "Remax",
+      "domain": "https://www.remaxcaborealestate.com/",
+      "sitemapUrl": "https://www.remaxcaborealestate.com/sitemap.xml",
+      "addedAt": "2026-05-26",
+      "active": true
     }
   ]
 }
