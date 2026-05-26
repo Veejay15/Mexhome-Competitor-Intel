@@ -130,11 +130,12 @@ Structure:
    - If sitemapDiff.newUrls is empty AND sitemapFetchStatus.ok is false, write that the sitemap could not be retrieved (cite the error). DO NOT list any URLs.
    - If sitemapDiff.newUrls is empty AND none of the above, write that no new pages were detected this week.
 3. Backlink Movements
-   - If csvData has a backlinks-type entry for this competitor, summarize from the topRows.
-   - Otherwise: "No SEMrush CSV data uploaded. Backlink analysis is not available." DO NOT invent backlink domains.
+   - If csvData has a backlinks-type entry for this competitor, summarize from the topRows. Output MUST be a markdown table (not bullets). The table MUST have these columns in this exact order: | Source Domain | Source URL | Anchor Text | Domain Authority | Followed | New/Lost |. One row per backlink, up to 15 rows max. Below the table you may add 2-3 sentences of interpretation, no more. Group "New" rows first, then "Lost". If a field is missing in the data, write "—" in the cell. DO NOT use bullet points for the per-link data.
+   - If csvData has no backlinks-type entry: "No backlink data available for this competitor this week." Do not write anything else for this section. DO NOT invent backlink domains.
 4. Keyword and Ranking Changes
-   - If csvData has a positions/keywords-type entry for this competitor, summarize from the topRows.
-   - Otherwise: "No SEMrush CSV data uploaded. Keyword and ranking analysis is not available." DO NOT invent keywords or positions.
+   - If csvData has a positions or keywords entry for this competitor, output MUST be a markdown table (not bullets). The table MUST have these columns in this exact order: | Keyword | Previous Position | Current Position | Change | Search Volume | Landing Page |. One row per keyword. Use up to 12 rows of biggest gains and up to 12 rows of biggest declines, in two separate tables under bold subheadings **Notable ranking gains** and **Notable ranking declines**. Compute "Change" as (current minus previous) with a + or - sign; for new entries write "new" and for lost entries write "lost". If the landing page is a full URL, keep the pathname only. If a field is missing, write "—". Below each table you may add 2-3 sentences of interpretation, no more. DO NOT mix bullets and tables. DO NOT use bullets for per-keyword data.
+   - You may include a short Overview paragraph above the tables (1-2 lines) citing totals: total tracked keywords, new keywords, lost keywords, traffic estimate — IF these numbers appear in the data. Do not invent them.
+   - If csvData has neither positions nor keywords entries: "No keyword and ranking data available for this competitor this week." Do not write anything else. DO NOT invent keywords or positions.
 5. Recommended Actions for MexHome (numbered list, grounded in what was actually observed in this week's data and in mexhomeExistingPages)
 
 CRITICAL RULE FOR RECOMMENDATIONS:
