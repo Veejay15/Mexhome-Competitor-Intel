@@ -1,6 +1,6 @@
 {
   "competitorId": "diamanterealtors-com",
-  "fetchedAt": "2026-05-26T17:09:28.633Z",
+  "fetchedAt": "2026-05-26T17:29:02.223Z",
   "sourceUrl": "https://diamanterealtors.com/sitemap_index.xml",
   "entryCount": 1324,
   "entries": [
@@ -5241,10 +5241,6 @@
       "lastmod": "2026-04-02T17:55:10+00:00"
     },
     {
-      "url": "https://diamanterealtors.com/sold-in-60-seconds/",
-      "lastmod": "2026-04-08T18:33:02+00:00"
-    },
-    {
       "url": "https://diamanterealtors.com/es/sold-in-60-seconds-es/",
       "lastmod": "2026-04-08T18:40:07+00:00"
     },
@@ -5299,6 +5295,10 @@
     {
       "url": "https://diamanterealtors.com/es/acerca-de-nosotros/",
       "lastmod": "2026-05-20T19:51:52+00:00"
+    },
+    {
+      "url": "https://diamanterealtors.com/sold-in-60-seconds/",
+      "lastmod": "2026-05-26T17:27:58+00:00"
     }
   ]
 }
