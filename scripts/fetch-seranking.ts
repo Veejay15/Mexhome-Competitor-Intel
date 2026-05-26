@@ -15,6 +15,14 @@ function weekAgoISO(): string {
   return d.toISOString().split('T')[0];
 }
 
+// SE Ranking rate-limits requests (per-second / per-minute quotas vary by plan).
+// 429s started appearing on the third position-change call per competitor in
+// the previous run. A short delay between requests keeps us under their cap.
+const REQUEST_DELAY_MS = 1200;
+function sleep(ms: number): Promise<void> {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
 // Output shape matches scripts/process-csvs.ts so scripts/generate-report.ts
 // can consume it unchanged.
 interface CsvSummary {
@@ -52,19 +60,32 @@ async function callSeRanking({
   for (const [k, v] of Object.entries(query)) url.searchParams.set(k, String(v));
 
   const tag = label || type;
-  const res = await fetch(url.toString(), {
-    headers: {
-      Authorization: `Token ${API_KEY}`,
-      Accept: 'application/json',
-    },
-  });
-  if (!res.ok) {
-    const body = await res.text();
+  // Retry once on 429 with a longer back-off. SE Ranking sometimes throttles
+  // bursts of identical-shape requests (e.g. several pos_change variants in
+  // quick succession).
+  let res: Response | null = null;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    res = await fetch(url.toString(), {
+      headers: {
+        Authorization: `Token ${API_KEY}`,
+        Accept: 'application/json',
+      },
+    });
+    if (res.status !== 429) break;
+    if (attempt === 0) {
+      console.warn(`  [${tag}] ${competitor.name}: 429, backing off 5s and retrying...`);
+      await sleep(5000);
+    }
+  }
+  if (!res || !res.ok) {
+    const body = res ? await res.text() : '(no response)';
     console.warn(
-      `  [${tag}] ${competitor.name}: HTTP ${res.status} from ${url.pathname} — ${body.slice(0, 200)}`
+      `  [${tag}] ${competitor.name}: HTTP ${res?.status} from ${url.pathname} — ${body.slice(0, 200)}`
     );
+    await sleep(REQUEST_DELAY_MS);
     return null;
   }
+  await sleep(REQUEST_DELAY_MS);
 
   const json: unknown = await res.json();
   return { rows: extractRows(json), status: res.status };
@@ -162,7 +183,9 @@ async function fetchCompetitor(competitor: Competitor): Promise<CsvSummary[]> {
         domain,
         type: 'organic',
         limit: 50,
-        'filter[pos_change]': direction,
+        // SE Ranking accepts the bare param (not the filter[] wrapper). The
+        // wrapper form returns HTTP 400 "Invalid advanced filter pos_change".
+        pos_change: direction,
         order_field: 'traffic',
         order_type: 'desc',
       },
