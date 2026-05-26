@@ -39,6 +39,14 @@
       "sitemapUrl": "https://www.topmexicorealestate.com/sitemap.xml",
       "addedAt": "2026-05-07",
       "active": true
+    },
+    {
+      "id": "www-cblacosta-com",
+      "name": "Coldwell Banker La Costa Realty",
+      "domain": "https://www.cblacosta.com/",
+      "sitemapUrl": "https://www.cblacosta.com/sitemap.xml",
+      "addedAt": "2026-05-26",
+      "active": true
     }
   ]
 }
