@@ -55,6 +55,14 @@
       "sitemapUrl": "https://www.remaxcaborealestate.com/sitemap.xml",
       "addedAt": "2026-05-26",
       "active": true
+    },
+    {
+      "id": "mexhome-com",
+      "name": "MexHome",
+      "domain": "https://mexhome.com/",
+      "sitemapUrl": "https://mexhome.com/sitemap.xml",
+      "addedAt": "2026-06-03",
+      "active": true
     }
   ]
 }
