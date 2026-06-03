@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-03",
+  "previousDate": "2026-06-01",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/reporte-inteligencia-mercado-puerto-vallarta-riviera-nayarit-junio-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-riviera-nayarit-market-intelligence-report-june-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/what-often-kills-deals-puerto-vallarta-why-buyers-miss-opportunities/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/que-suele-matar-los-tratos-en-puerto-vallarta-y-por-que-los-compradores-pierden-oportunidades/"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 2187
+    }
+  ]
+}
