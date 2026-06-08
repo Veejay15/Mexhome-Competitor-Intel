@@ -1,0 +1,229 @@
+{
+  "date": "2026-06-08",
+  "previousDate": "2026-06-03",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 1321
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/NEWSLETTER-JUNE-2026/"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/nuevo-vallarta/nuevo-vallarta-vacation-rentals/nuevo-vallarta-beachfront-rentals/",
+          "lastmod": "2026-05-22T18:02:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/cabo-san-lucas/apartments-for-rent-in-cabo-san-lucas/",
+          "lastmod": "2026-06-04T13:42:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/cabo-san-lucas/cabo-san-lucas-condos-for-rent/",
+          "lastmod": "2026-06-04T13:46:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/cabo-san-lucas/cabo-san-lucas-luxury-rentals/",
+          "lastmod": "2026-06-04T13:47:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/cabo-san-lucas/cabo-san-lucas-vacation-rentals/",
+          "lastmod": "2026-06-04T13:47:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/los-cabos-beachfront-rentals/",
+          "lastmod": "2026-06-04T13:47:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/los-cabos-vacation-rentals/",
+          "lastmod": "2026-06-04T13:48:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/san-jose-del-cabo/san-jose-del-cabo-vacation-rentals/",
+          "lastmod": "2026-06-04T13:48:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/bucerias-mexico/bucerias-apartments-for-rent/",
+          "lastmod": "2026-06-04T13:49:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/bucerias-mexico/bucerias-beachfront-rentals/",
+          "lastmod": "2026-06-04T13:49:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/bucerias-mexico/bucerias-vacation-rentals/",
+          "lastmod": "2026-06-04T13:49:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/nuevo-vallarta/nuevo-vallarta-condos-for-rent/",
+          "lastmod": "2026-06-04T13:49:52+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/nuevo-vallarta/nuevo-vallarta-vacation-rentals/",
+          "lastmod": "2026-06-04T13:50:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/puerto-vallarta-real-estate/puerto-vallarta-luxury-rentals/",
+          "lastmod": "2026-06-04T13:51:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/riviera-nayarit-beachfront-rentals/",
+          "lastmod": "2026-06-04T13:54:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/riviera-nayarit-luxury-rentals/",
+          "lastmod": "2026-06-04T13:54:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-real-estate/riviera-nayarit-vacation-rentals/",
+          "lastmod": "2026-06-04T13:54:59+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://mexhome.com/area/los-cabos-vacation-rentals/",
+          "lastmod": "2026-05-08T19:37:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/cabo-san-lucas-vacation-rentals/",
+          "lastmod": "2026-05-08T19:44:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-vacation-rentals/",
+          "lastmod": "2026-05-08T19:46:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/nuevo-vallarta-vacation-rentals/",
+          "lastmod": "2026-05-08T19:48:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/bucerias-vacation-rentals/",
+          "lastmod": "2026-05-08T19:51:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/cabo-san-lucas-vacation-rentals/apartments-for-rent-in-cabo-san-lucas/",
+          "lastmod": "2026-05-11T19:59:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/san-jose-del-cabo-vacation-rentals/",
+          "lastmod": "2026-05-11T20:37:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/bucerias-vacation-rentals/bucerias-apartments-for-rent/",
+          "lastmod": "2026-05-22T17:59:00+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/nuevo-vallarta-vacation-rentals/nuevo-vallarta-beachfront-rentals/",
+          "lastmod": "2026-05-22T18:02:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-vacation-rentals/riviera-nayarit-beachfront-rentals/",
+          "lastmod": "2026-05-22T18:05:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/puerto-vallarta-vacation-rentals/puerto-vallarta-luxury-rentals/",
+          "lastmod": "2026-05-22T18:06:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/cabo-san-lucas-vacation-rentals/cabo-san-lucas-condos-for-rent/",
+          "lastmod": "2026-05-22T18:09:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/nuevo-vallarta-vacation-rentals/nuevo-vallarta-condos-for-rent/",
+          "lastmod": "2026-05-22T18:10:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/cabo-san-lucas-vacation-rentals/cabo-san-lucas-luxury-rentals/",
+          "lastmod": "2026-05-26T17:00:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos-vacation-rentals/los-cabos-beachfront-rentals/",
+          "lastmod": "2026-05-26T17:01:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/bucerias-vacation-rentals/bucerias-beachfront-rentals/",
+          "lastmod": "2026-05-26T17:25:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/riviera-nayarit-vacation-rentals/riviera-nayarit-luxury-rentals/",
+          "lastmod": "2026-05-26T18:15:14+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/",
+          "lastmod": "2026-06-04T17:25:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/areas/",
+          "lastmod": "2026-06-05T17:51:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-06-08T11:30:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/areas/",
+          "lastmod": "2026-06-05T17:51:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/cabo-san-lucas/cabo-san-lucas-centro/",
+          "lastmod": "2026-06-05T17:51:50+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-06-08T04:30:30+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-06-08T10:02:02+00:00"
+        }
+      ]
+    }
+  ]
+}
