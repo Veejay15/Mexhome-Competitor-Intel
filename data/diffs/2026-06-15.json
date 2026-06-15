@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-15",
+  "previousDate": "2026-06-08",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://diamanterealtors.com/",
+          "lastmod": "2026-06-09T16:55:47+00:00"
+        },
+        {
+          "url": "https://diamanterealtors.com/es/inicio/",
+          "lastmod": "2026-06-09T16:57:30+00:00"
+        },
+        {
+          "url": "https://diamanterealtors.com/realtor-jenn-petitclerc/",
+          "lastmod": "2026-06-10T18:52:30+00:00"
+        },
+        {
+          "url": "https://diamanterealtors.com/es/agente-inmobiliario-jenn-petitclerc/",
+          "lastmod": "2026-06-10T18:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/san-pancho-nayarit-lifestyle-real-estate-guide-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/guia-estilo-de-vida-bienes-raices-san-pancho-nayarit/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/invertir-bienes-raices-mexico-6-preguntas-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/investing-mexican-real-estate-6-questions-2026/"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/area/san-miguel-de-allende/apartments-for-rent-in-san-miguel-de-allende/",
+          "lastmod": "2026-06-12T17:39:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/mexico-vacation-rentals/mexico-luxury-vacation-rental/",
+          "lastmod": "2026-06-12T18:59:06+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/areas/",
+          "lastmod": "2026-06-12T18:59:06+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-06-15T13:01:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/areas/",
+          "lastmod": "2026-06-12T18:59:06+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/loreto/danzante-bay/",
+          "lastmod": "2026-06-09T18:14:52+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/east-cape/zacatitos/",
+          "lastmod": "2026-06-09T18:41:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/los-cabos/la-paz/el-tecolote/",
+          "lastmod": "2026-06-09T18:59:26+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-06-15T04:29:47+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-06-15T13:01:25+00:00"
+        }
+      ]
+    }
+  ]
+}

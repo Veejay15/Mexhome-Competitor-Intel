@@ -1,0 +1,896 @@
+{
+  "competitorId": "www-remaxcaborealestate-com",
+  "fetchedAt": "2026-06-15T14:59:16.551Z",
+  "sourceUrl": "https://www.remaxcaborealestate.com/sitemap.xml",
+  "entryCount": 222,
+  "entries": [
+    {
+      "url": "https://www.remaxcaborealestate.com/",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/rentals",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/properties-featured",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/properties-firesales",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/properties-sold",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/developments",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/blog",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/contact",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-corridor/condo-dunna-25-1136",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/house-pedregal-csl-24-1381",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/condo-marea-los-cabos-24-1028",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/properties-byfeature/indevelopment",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/properties-byfeature/remoteproperties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/properties-byfeature/withpool",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/blog/loscabos-premium-golf-destination",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/condo-sunset-25-1936",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/house-pedregal-csl-25-1945",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-sjd-inlandgolf-25-1765",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-rancho-nuevo-25-1727",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/land-almar-25-1754",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/todos-santos-pacific/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/cabo-corridor/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/cabo-san-lucas/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/east-cape/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/la-paz/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/loreto/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/mulege/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/san-jose-corridor/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/san-jose-del-cabo/properties",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/privacy",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/nom247",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/privacidad",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/politica-nd",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/properties-list",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/land-almar-25-1755",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/reservations-only-avalon-25-1448",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/condo-sunset-by-alttus-25-1442",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-mavila-25-1309",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-general-25-1355",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/alegranza",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/cabo-real-surf-club",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/camino-del-mar",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/cerro-colorado",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/chileno-bay",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/cian",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/club-campestre",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/costa-palmas",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/diamante",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/el-encanto-de-la-laguna",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/lumaria",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/maravillas-todos-santos",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/mare",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/palmilla",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/puerto-los-cabos",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/querencia",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/quivira",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/rancho-san-lucas",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/santa-carmela",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/sole",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/the-residences-at-solaz",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/development/villas-de-palmar",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/javier-noguera",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/naomi-villegas",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/berenice-diaz",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/betty-villalobos",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/claudia-vaca",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/cristobal-gonzales",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/dania-jaimes",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/daniela-alvarez",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/diana-martinez",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/eduardo-manzo",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/eloisaalvarez",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/flor-alvarez",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/gabriela-delarosa",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/gema-velasco",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/gilberto-pineda",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/giovanna-garcia",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/hugo-flores",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/jorgediaz",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/judy-wagner",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/karinaolachea",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/leonor-marron",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/lorena-ruiz",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/luke-bocanegra",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/maggiewoodward",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/marysol-melgosa",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/monica-markeset",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/natalie-evaniew",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/paola-legaspi",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/rocio-robles",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/rocio-meza",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/santiago-velasco",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/sergio-banos",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/agents/silvina-andrea-quintana",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-misiones-del-cabo-23-972",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-tramonti-paradiso-22-3253",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/condo-mistiq-pedregal-los-cabos-22-4010",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/land-pedregal-csl-22-4714",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-cian-25-741",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-bvistabarilles-10-377",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-las-tinas-13-924",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/commercial-centro-todos-santos-18-2661",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-nine-palms-18-2728",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-bvistabarilles-20-318",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-bvistabarilles-20-328",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-bvistabarilles-20-336",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-bvistabarilles-20-715",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-los-frailes-21-1580",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/loreto/land-founders-21-4353",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-mavila-24-5028",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-mavila-23-1800",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/house-cerritos-23-2361",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-emma-23-2343",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-oceana-wellness-residences-23-3571",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-st-regis-residences-23-3600",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-punto-nima-23-4046",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/house-las-tunas-25-1010",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-cerritos-25-301",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/house-ahorcadita-24-6044",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-mavila-24-5759",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-copala-24-5600",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-migrino-24-5444",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/house-ventanas-25-1274",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/land-cabo-bello-25-445",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-el-tezal-oceanside-24-6042",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-camino-del-mar-24-5296",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-vista-vela-24-4669",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-ventanas-24-4623",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/house-duara-25-86",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-cabo-costa-24-3445",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/commercial-ocean-plaza-24-3289",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/house-portales-24-5094",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/condo-villa-la-estancia-24-4679",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/condo-terra-192-24-4273",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/land-csl-near-bch-mar-24-3942",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/land-csl-n-e-of19ral-24-3790",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/condo-marea-los-cabos-24-4779",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/house-palma-real-24-1987",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/land-marina-side-24-1984",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-nrth-of-barilles-25-740",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-buena-vista-25-597",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/house-spa-buena-vista-25-641",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-castillo-de-arena-25-303",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-palo-blanco-24-5624",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-las-lomas-ii-24-4406",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-miraflores-24-4428",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-pindojo-24-3646",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-santiago-24-1766",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-la-ribera-23-1822",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/land-el-cajete-25-441",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/house-general-25-139",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/condo-pedregal-24-5006",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/house-marina-sol-24-3978",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/land-lomas-de-palmira-24-3650",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/house-lomas-de-palmira-24-3023",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/land-colina-del-sol-24-2217",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/loreto/house-general-25-199",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/loreto/land-waicuri-2-24-5140",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/loreto/land-waicuri-2-24-5139",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/loreto/land-general-23-1072",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-corridor/condo-casa-del-mar-25-1495",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-corridor/condo-dunna-25-1189",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-corridor/house-palmilla-norte-24-5483",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-corridor/house-la-caleta-24-4836",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-corridor/condo-section-6-las-verandas-24-1031",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-vitai-25-1137",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-punto-nima-24-5887",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-costarena-24-5879",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-las-olas-24-5966",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/land-chula-vista-24-5120",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/house-los-valles-24-4412",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-viva-24-4093",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/land-fundadores-24-3292",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/condo-centro-sjd-24-1356",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-pescadero-22-2180",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-migrino-24-5448",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/house-sunset-hill-24-4629",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/house-pescadero-24-5579",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-old-lighthouse-club-hacienda-24-3180",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-cerritos-24-3161",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-panorama-24-2961",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-panorama-24-2960",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-agua-blanca-24-2742",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/house-elias-calles-24-2553",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-todos-santos-24-2546",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-lucca-tower-24-2343",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-cerritos-sunrise-24-2344",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/house-copala-24-2215",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/condo-the-cliff-at-cerritos-24-1769",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/condo-sky-town-24-1027",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/house-centro-todos-santos-24-745",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-la-cachora-24-531",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/multifamily-sunset-24-524",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/house-monte-real-24-229",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/commercial-plaza-las-olas-24-227",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/land-lomas-del-desierto-22-3982",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-agua-blanca-22-3142",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/land-chileno-inland-22-1908",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-colina-del-sol-22-1343",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-colina-del-sol-22-1323",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/east-cape/land-las-tinas-21-4357",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/san-jose-del-cabo/house-vista-lagos-24-29",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/land-mesa-colorada-23-5025",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/land-lapaz-beach-subdivision-23-4560",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-corridor/condo-bahia-del-tezal-23-4523",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/cabo-san-lucas/multifamily-csl-n-e-of19ral-23-4027",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-gallo-64-23-3603",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-gallo-64-23-3488",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-elias-calles-23-2770",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/pacific/land-elias-calles-23-5066",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/property/for-sale/la-paz/land-el-sargento-23-1224",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/todos-santos-pacific/properties/false",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/cabo-corridor/properties/false",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/cabo-san-lucas/properties/false",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/east-cape/properties/false",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/la-paz/properties/false",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/loreto/properties/false",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/mulege/properties/false",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/san-jose-corridor/properties/false",
+      "lastmod": "2025-04-09"
+    },
+    {
+      "url": "https://www.remaxcaborealestate.com/san-jose-del-cabo/properties/false",
+      "lastmod": "2025-04-09"
+    }
+  ]
+}
