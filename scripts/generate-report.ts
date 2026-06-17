@@ -82,12 +82,13 @@ async function fetchMexHomePages(): Promise<string[]> {
   }
 }
 
+// Generates sections 1-4 for a single competitor. Recommendations are handled
+// separately in generateCombinedRecommendations() after all competitors run.
 async function generateForCompetitor(
   client: Anthropic,
   competitor: Competitor,
   diff: CompetitorDiff | null,
   csvs: CsvSummary[],
-  mexhomePages: string[],
   previousDate: string | null
 ): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
   const sitemapFetchError = diff?.fetchError;
@@ -100,7 +101,6 @@ async function generateForCompetitor(
       name: competitor.name,
       domain: competitor.domain,
     },
-    mexhomeExistingPages: mexhomePages,
     sitemapDiff: diff || { newUrls: [], removedUrls: [], updatedUrls: [] },
     sitemapFetchStatus: sitemapFetchError
       ? { ok: false, error: sitemapFetchError }
@@ -140,18 +140,10 @@ Structure:
    - EMPTY TABLE RULE: If there are no qualifying gains, do NOT create an empty table. Write "No notable ranking gains this week." Same rule for declines.
    - You may include a short Overview paragraph above the tables (1-2 lines) citing totals if the numbers appear in the data. Do not invent them.
    - If csvData has neither positions nor keywords entries: "No keyword and ranking data available for this competitor this week." Do not write anything else. DO NOT invent keywords or positions.
-5. Recommended Actions for MexHome (numbered list, grounded in what was actually observed in this week's data and in mexhomeExistingPages)
 
-CRITICAL RULE FOR RECOMMENDATIONS:
-Before recommending that MexHome build any new page (destination page, location page, property-type page, guide, etc.), you MUST cross-reference the "mexhomeExistingPages" list in the data payload. That list contains every content URL path that currently exists on mexhome.com.
+Do NOT include a Section 5 or any recommendations. Recommended actions are generated separately after all competitors are analyzed.
 
-- If MexHome ALREADY has an equivalent page, do NOT recommend building it. Instead, you may recommend updating, expanding, or strengthening that existing page (and reference the existing URL).
-- If MexHome does NOT have an equivalent page, you may recommend building it as a genuine content gap.
-- When in doubt, search the list for keywords (e.g., "bucerias", "condos-for-sale") to check before suggesting a new build.
-- Acceptable equivalence checks: URL path contains the location name AND the property type or intent. Slight wording differences are fine (e.g., "condos-for-sale" vs "condos").
-- MARKET RELEVANCE: Only draw recommendations from competitor activity that overlaps with MexHome's actual Mexico markets. If a competitor made a move targeting a market or audience that MexHome does not serve, skip it. Every recommendation must link to something a competitor did this week in a location or property segment where MexHome operates.
-
-Skip sections where there is no data. Do not invent data. Never recommend a page MexHome already has. Keep this report focused and specific to ${competitor.name} only, do not discuss other competitors.
+Skip sections where there is no data. Do not invent data. Keep this report focused and specific to ${competitor.name} only, do not discuss other competitors.
 
 CRITICAL RULE FOR SITEMAP FETCH FAILURES:
 The "sitemapFetchStatus" field tells you whether we were actually able to read ${competitor.name}'s sitemap this week.
@@ -162,19 +154,17 @@ CRITICAL RULE FOR BASELINE WEEKS:
 If sitemapFetchStatus.ok is true AND sitemapFetchStatus.isBaseline is true, this is the FIRST successful sitemap snapshot for this competitor. There is no prior week to compare against. The "newUrls" array will be empty by design.
 - You MUST NOT list, summarize, or describe any of the URLs from sitemapDiff.totalCurrentUrls as "new pages built this week" or "pages they shipped this week". Those are existing site URLs, not new construction.
 - In the "New Pages Built" section, state that this is the first successful sitemap capture for this competitor (mention the URL count from sitemapFetchStatus.totalCurrentUrls as their current site footprint), that real week-over-week new-page detection starts from the next cycle, and DO NOT enumerate URLs in this section.
-- The Executive Summary should reflect that this is a baseline week with no week-over-week page-build signal yet.
-- Recommended Actions can still leverage knowledge of MexHome's own page list and general competitive context, but must NOT be framed as a response to "what they built this week".`;
+- The Executive Summary should reflect that this is a baseline week with no week-over-week page-build signal yet.`;
 
   const userPrompt = `Here is this week's data for ${competitor.name} for the report dated ${TODAY}.
 
 ${sitemapFetchError ? `(Sitemap fetch FAILED for this competitor this week: ${sitemapFetchError}. Do not claim "no changes" — say the fetch failed.)` : isBaseline ? `(BASELINE WEEK for this competitor: first successful sitemap capture. Their site has ${diff?.totalCurrentUrls} URLs total. Do NOT list these as "new pages built this week". Real diffs start next cycle.)` : diff ? '' : '(No sitemap diff available for this competitor this week.)'}
 ${csvs.length === 0 ? '(No SEMrush CSV data uploaded for this competitor this week.)' : ''}
-${mexhomePages.length === 0 ? '(Warning: could not fetch MexHome existing pages this run. Be extra careful recommending new pages.)' : `(MexHome's existing ${mexhomePages.length} content pages are listed in "mexhomeExistingPages" for cross-reference.)`}
 
 DATA:
 ${JSON.stringify(dataPayload, null, 2)}
 
-Write the full report in markdown. Start with a top-level H1 like "# ${competitor.name}: Week of ${TODAY}".`;
+Write sections 1-4 only in markdown. Start with a top-level H1 like "# ${competitor.name}: Week of ${TODAY}". Do not include a Section 5 or any recommended actions.`;
 
   const response = await client.messages.create({
     model: 'claude-sonnet-4-6',
@@ -186,6 +176,77 @@ Write the full report in markdown. Start with a top-level H1 like "# ${competito
   const textBlock = response.content.find((b) => b.type === 'text');
   if (!textBlock || textBlock.type !== 'text') {
     throw new Error('No text in Claude response');
+  }
+  return {
+    markdown: textBlock.text,
+    inputTokens: response.usage.input_tokens,
+    outputTokens: response.usage.output_tokens,
+  };
+}
+
+// After all per-competitor reports are generated, this produces a single
+// combined recommendations section (top 3-4 actions) appended to every report.
+async function generateCombinedRecommendations(
+  client: Anthropic,
+  competitorReports: { competitor: Competitor; markdown: string }[],
+  mexhomePages: string[]
+): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
+  const competitorCount = competitorReports.length;
+
+  const systemPrompt = `You are a senior SEO analyst advising the marketing team at MexHome, a Mexico real estate platform. You have just reviewed ${competitorCount} competitor(s) this week. Your job is to select the top 3 to 4 highest-impact content actions MexHome should take, drawn from the combined activity across ALL competitors reviewed.
+
+VOICE AND AUDIENCE RULES
+Plain English. No jargon. No data references. Tone: confident, direct, no fluff. No emojis. No em dashes.
+
+OUTPUT FORMAT
+- Start with this exact note on its own line in italics:
+  "*These are combined recommended actions based on a review of all ${competitorCount} competitor(s) monitored this week.*"
+- Then output exactly 3 to 4 numbered recommendations.
+- Each recommendation must follow this format:
+  "[Action]. Trigger: [which competitor did what]. Why this fits MexHome: [the market or property segment this builds on]."
+- For a NEW page recommendation: state the proposed URL slug and confirm the topic does not already exist on MexHome's site.
+- For an UPDATE recommendation: cite the existing MexHome page path.
+
+SELECTION CRITERIA - rank and keep only the actions that are:
+1. Highest signal (multiple competitors pointing to the same gap, or one unusually significant move)
+2. Most immediately actionable (MexHome can build or update this now)
+3. Most aligned with MexHome's actual Mexico markets and property segments:
+   - Destination markets: Puerto Vallarta, Bucerias, Sayulita, Punta Mita, Nuevo Vallarta, Los Cabos, Cabo San Lucas, Playa del Carmen, Tulum, Cancun, Riviera Maya, Mazatlan, San Miguel de Allende, Merida, Oaxaca
+   - Property types: condos for sale, beachfront homes, luxury villas, vacation rentals, investment properties, oceanfront, expat homes
+   - Buyer segments: expats, vacation home buyers, real estate investors, retirees relocating to Mexico
+
+MARKET RELEVANCE: Only draw recommendations from competitor activity that overlaps with MexHome's actual Mexico markets. If a competitor made a move targeting a market or audience that MexHome does not serve, skip it. Every recommendation must link to something a competitor did this week in a location or property segment where MexHome operates.
+
+DO NOT recommend pages MexHome already has. MexHome's existing pages are provided below.
+DO NOT pad with generic SEO advice. Every recommendation must link to something a competitor did this week.
+A focused list of 3 actions beats a padded list of 6. If only 2 actions are genuinely justified, output 2.
+
+Do not include an H1, H2, or section title in your output. Start directly with the italics note.`;
+
+  const competitorSummaries = competitorReports
+    .map((r, i) => `--- COMPETITOR ${i + 1}: ${r.competitor.name} (${r.competitor.domain}) ---\n${r.markdown}`)
+    .join('\n\n');
+
+  const userPrompt = `Date: ${TODAY}
+
+MexHome's existing ${mexhomePages.length} content pages (cross-reference — do not recommend pages already covered):
+${JSON.stringify(mexhomePages)}
+
+COMPETITOR ANALYSES THIS WEEK:
+${competitorSummaries}
+
+Output the combined recommended actions now.`;
+
+  const response = await client.messages.create({
+    model: 'claude-sonnet-4-6',
+    max_tokens: 2000,
+    system: systemPrompt,
+    messages: [{ role: 'user', content: userPrompt }],
+  });
+
+  const textBlock = response.content.find((b) => b.type === 'text');
+  if (!textBlock || textBlock.type !== 'text') {
+    throw new Error('No text in Claude response for combined recommendations');
   }
   return {
     markdown: textBlock.text,
@@ -224,6 +285,7 @@ async function main() {
   let totalOutput = 0;
   const succeeded: string[] = [];
   const failed: string[] = [];
+  const succeededReports: { filePath: string; competitor: Competitor; markdown: string }[] = [];
 
   for (const competitor of competitors) {
     console.log(`\nGenerating report for ${competitor.name}...`);
@@ -236,7 +298,6 @@ async function main() {
         competitor,
         diff,
         csvs,
-        mexhomePages,
         diffs?.previousDate || null
       );
       const filename = `${TODAY}-${competitor.id}.md`;
@@ -247,9 +308,33 @@ async function main() {
       totalInput += result.inputTokens;
       totalOutput += result.outputTokens;
       succeeded.push(competitor.name);
+      succeededReports.push({ filePath: outPath, competitor, markdown: result.markdown });
     } catch (err) {
       console.error(`  ✗ Failed: ${(err as Error).message}`);
       failed.push(competitor.name);
+    }
+  }
+
+  // Generate one combined recommendations section across all competitors and
+  // append it to every report so the client sees a single prioritised list.
+  if (succeededReports.length > 0) {
+    console.log(`\nGenerating combined recommended actions (${succeededReports.length} competitor(s))...`);
+    try {
+      const combined = await generateCombinedRecommendations(
+        client,
+        succeededReports.map((r) => ({ competitor: r.competitor, markdown: r.markdown })),
+        mexhomePages
+      );
+      const combinedSection = `\n\n---\n\n## 5. Recommended Actions for MexHome\n\n${combined.markdown}`;
+      for (const report of succeededReports) {
+        fs.appendFileSync(report.filePath, combinedSection);
+      }
+      totalInput += combined.inputTokens;
+      totalOutput += combined.outputTokens;
+      console.log(`  ✓ Combined recommendations appended to ${succeededReports.length} report(s)`);
+      console.log(`    Tokens: input ${combined.inputTokens}, output ${combined.outputTokens}`);
+    } catch (err) {
+      console.error(`  ✗ Combined recommendations failed: ${(err as Error).message}`);
     }
   }
 
