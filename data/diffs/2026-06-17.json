@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-17",
+  "previousDate": "2026-06-15",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/tours-privacy-policy/",
+          "lastmod": "2026-06-15T23:10:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tours-reservation-cancellation-policies/",
+          "lastmod": "2026-06-15T23:11:05+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-06-17T06:30:20+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-06-17T04:29:52+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-06-17T05:50:11+00:00"
+        }
+      ]
+    }
+  ]
+}
