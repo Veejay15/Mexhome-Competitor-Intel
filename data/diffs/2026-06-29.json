@@ -1,0 +1,247 @@
+{
+  "date": "2026-06-29",
+  "previousDate": "2026-06-22",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [
+        {
+          "url": "https://diamanterealtors.com/diamante-destinations/",
+          "lastmod": "2024-12-10T19:26:50+00:00"
+        },
+        {
+          "url": "https://diamanterealtors.com/es/diamante-destinations-es/",
+          "lastmod": "2024-12-10T19:27:19+00:00"
+        }
+      ],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/masterclass-for-sales-agents/",
+          "lastmod": "2026-06-27T05:15:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/canteria/",
+          "lastmod": "2026-06-26T20:53:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/alero/",
+          "lastmod": "2026-06-26T21:08:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/building-the-life-of-your-dreams/",
+          "lastmod": "2026-06-24T03:58:56+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/developments/",
+          "lastmod": "2026-06-26T21:08:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-06-29T12:29:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/developments/",
+          "lastmod": "2026-06-26T21:08:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agents/",
+          "lastmod": "2026-06-27T16:42:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agents/",
+          "lastmod": "2026-06-27T16:42:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/rodrigo-trejo/",
+          "lastmod": "2026-06-27T16:42:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/",
+          "lastmod": "2026-06-24T19:39:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/1-2-the-star-of-your-own-show-commanding-respect/",
+          "lastmod": "2026-06-23T19:23:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/1-3-authenticity-as-a-business-tool-be-geniune/",
+          "lastmod": "2026-06-23T19:24:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/1-4-humility-and-poise-dont-take-yourself-too-seriously/",
+          "lastmod": "2026-06-23T19:25:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/1-5-the-pinnacle-of-self-respect-do-everything-with-grace/",
+          "lastmod": "2026-06-23T19:28:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/1-6-executing-at-the-highest-level/",
+          "lastmod": "2026-06-23T19:30:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/2-1-certification-the-professional-barrier-to-entry/",
+          "lastmod": "2026-06-23T19:31:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/2-2-essential-infrastructure-the-things-you-should-have/",
+          "lastmod": "2026-06-23T19:32:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/2-3-your-digital-hub-building-a-world-class-website/",
+          "lastmod": "2026-06-23T19:33:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/2-4-the-brain-of-the-operation-using-a-crm-and-flex-mls/",
+          "lastmod": "2026-06-23T19:35:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/2-5-the-agency-vs-building-your-own-brand/",
+          "lastmod": "2026-06-23T19:37:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/2-6-the-power-of-your-origin-story/",
+          "lastmod": "2026-06-23T19:55:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/3-1-the-5-minute-rule-imprinting-on-the-client-2/",
+          "lastmod": "2026-06-23T20:03:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/3-2-putting-in-the-time-the-physical-commitment-2/",
+          "lastmod": "2026-06-23T20:04:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/3-3-post-acceptance-client-communication-2/",
+          "lastmod": "2026-06-23T20:05:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/3-4-strategic-pricing-and-negotiation-science-2/",
+          "lastmod": "2026-06-23T20:06:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/3-5-create-your-offering-the-one-page-proposal-2/",
+          "lastmod": "2026-06-23T20:07:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/3-6-dazzle-your-clients-transactional-excellence-2/",
+          "lastmod": "2026-06-23T20:08:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/4-1-the-notarios-critical-role-and-closing-process-2/",
+          "lastmod": "2026-06-23T23:51:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/4-2-understanding-the-fideicomiso-bank-trust-2/",
+          "lastmod": "2026-06-23T23:54:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/4-3-agent-due-diligence-checklist-2/",
+          "lastmod": "2026-06-24T00:06:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/4-4-non-resident-financing-and-alternative-funding-2/",
+          "lastmod": "2026-06-24T00:24:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/5-1-sell-the-sizzle-not-the-steak-the-lifestyle-2/",
+          "lastmod": "2026-06-24T00:27:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/5-2-building-a-tribe-with-consistent-social-media-2/",
+          "lastmod": "2026-06-24T00:28:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/5-3-becoming-an-authority-writing-your-guidebooks-2/",
+          "lastmod": "2026-06-24T03:40:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/5-4-your-unique-calling-card-telling-everyone-what-you-do-2/",
+          "lastmod": "2026-06-24T03:41:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/5-5-networking-with-grace-being-the-best-agent-to-work-with-2/",
+          "lastmod": "2026-06-24T03:42:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/5-6-the-business-card-cheat-code-2/",
+          "lastmod": "2026-06-24T03:43:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/5-7-the-7-year-rule-long-term-business-strategy-2/",
+          "lastmod": "2026-06-24T03:44:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/6-1-building-your-essential-support-team-2/",
+          "lastmod": "2026-06-24T03:47:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/6-2-the-agent-to-ceo-transition-2/",
+          "lastmod": "2026-06-24T03:49:06+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/6-3-systemizing-the-client-journey-2/",
+          "lastmod": "2026-06-24T03:54:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/courses/masterclass-for-agents/lessons/6-4-key-performance-indicators-kpis-that-matter-2/",
+          "lastmod": "2026-06-24T03:57:28+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-06-29T04:29:46+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-06-29T12:29:51+00:00"
+        }
+      ]
+    }
+  ]
+}
