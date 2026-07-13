@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-13",
+  "previousDate": "2026-07-06",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [
+        {
+          "url": "https://www.mexicolife.com/blog/my-mexico-story.html"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mexico-real-estate-guide.html"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [
+        {
+          "url": "https://diamanterealtors.com/realtor-diana-hoyt/",
+          "lastmod": "2026-02-25T19:55:29+00:00"
+        },
+        {
+          "url": "https://diamanterealtors.com/es/agente-inmobiliario-diana-hoyt/",
+          "lastmod": "2026-02-25T19:56:41+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://diamanterealtors.com/agents/",
+          "lastmod": "2026-07-06T22:15:40+00:00"
+        },
+        {
+          "url": "https://diamanterealtors.com/es/agentes/",
+          "lastmod": "2026-07-06T22:17:54+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/por-que-la-baja-densidad-es-el-nuevo-lujo-puerto-vallarta-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-low-density-living-is-the-new-luxury-puerto-vallarta-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/pulso-del-mercado-puerto-vallarta-casas-vs-condominios-julio-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-market-pulse-houses-vs-condos-july-2026/"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.cblacosta.com/maria-riviera/"
+        }
+      ],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/blog/self-employed-mortgage-mexico/",
+          "lastmod": "2026-07-09T17:16:54+00:00"
+        },
+        {
+          "url": "https://mexhome.com/blog/best-regions-mexico-real-estate/",
+          "lastmod": "2026-07-10T01:17:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/blog/how-long-to-buy-a-house-in-mexico/",
+          "lastmod": "2026-07-10T18:53:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/blog/foreigner-property-taxes-mexico/",
+          "lastmod": "2026-07-10T19:39:43+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/blog/",
+          "lastmod": "2026-07-10T19:39:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/developments/",
+          "lastmod": "2026-07-11T08:16:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-07-13T09:50:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/developments/",
+          "lastmod": "2026-07-11T08:16:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/canteria/",
+          "lastmod": "2026-07-11T08:16:02+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-07-13T07:42:51+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-07-13T09:50:26+00:00"
+        }
+      ]
+    }
+  ]
+}
