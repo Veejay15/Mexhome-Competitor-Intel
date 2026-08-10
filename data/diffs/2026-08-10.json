@@ -1,0 +1,448 @@
+{
+  "date": "2026-08-10",
+  "previousDate": "2026-08-03",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.mexicolife.com/villa-magna-condos-for-sale.php",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-paradise-condos-for-sale.php",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/tridenta-condos-for-sale.php",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/unatu-condos-for-sale.php",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/v-boulevard-condos-for-sale.php",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/south-bay-condos-for-sale.php",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/3-vistas-high-living-condos-for-sale.php",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-mangos-bucerias-homes-for-sale.php",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/my-mexico-story.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mexico-real-estate-guide.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/test.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/buying-property-in-mexicos-restricted-zone-complete-faq-for-foreign-buyers.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-vallarta-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/la-cruz-de-huanacaxtle-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-08-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/nuevo-vallarta-west-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/romantic-zone-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-mls-market-report-july-2025.html",
+          "lastmod": "2026-08-05"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-houses-mls-market-report-july-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-vallarta-condo-market-report-june-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-june-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-houses-market-report-june-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-market-report-june-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mismaloya-house-market-report-april-2025.html",
+          "lastmod": "2026-08-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condo-market-report-april-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-april-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-house-market-report-april-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-market-report-april-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/nuevo-vallarta-west-condo-market-report-march-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/zona-dorada-houses-march-2025-market-report-inventory-climb-sales-pause.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/la-cruz-condo-market-report-march-2025.html",
+          "lastmod": "2026-08-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condo-market-report-march-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/romantic-zone-condo-market-report-march-2025.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-march-2025-analysis.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-house-market-report-march-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-land-market-report-feb-2025.html",
+          "lastmod": "2026-08-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-house-market-report-feb-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-condo-market-report-feb-2025.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mexico-real-estate-closing-costs.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/cfdi.html",
+          "lastmod": "2026-08-05"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/beyond-the-numbers-puerto-vallartas-land-market-reveals-unprecedented-investment-landscape.html",
+          "lastmod": "2026-08-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/2024-november-puerto-vallarta-real-estate-market-report-for-homes.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/august-2024-homes-report-puerto-vallarta.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/august-2024-puerto-vallarta-condo-market-report.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/july-2024-condo-market-report.html",
+          "lastmod": "2026-08-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-home-market-report-june-2024.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/june-2024-puerto-vallarta-condo-market-report.html",
+          "lastmod": "2026-08-06"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/luxury-waves-condos-discover-the-hidden-gem-of-bucerias.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/point2-homes-mexico-closing.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-towers-puerto-vallarta.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/riviera-nayarit-golf-courses.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/best-real-estate-companies-in-puerto-vallarta.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/grand-venetian-puerto-vallarta.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/ultimate-guide-beachfront-living-puerto-vallarta.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-global-real-estate-boom.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/march-2024-real-estate-market-report-houses.html",
+          "lastmod": "2026-08-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/exploring-the-puerto-vallarta-mls-on-mexicolifecom.html",
+          "lastmod": "2026-08-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/2023-puerto-vallarta-real-estate-market-review.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/why-median-home-sales-price-is-confusing-right-now.html",
+          "lastmod": "2026-08-05"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/people-want-less-expensive-homes-and-builders-are-responding.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/low-housing-inventory-is-a-sweet-spot-for-sellers.html",
+          "lastmod": "2026-08-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/live-and-work-abroad.html",
+          "lastmod": "2026-08-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/june-2023-puerto-vallarta-and-area-real-estate-market-report.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/retire-in-paradise-puerto-vallarta-real-estate-for-retirement.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/decluttering-your-home-for-sale.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/the-pros-and-cons-of-pre-construction-in-mexico.html",
+          "lastmod": "2026-08-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/losing-that-lovin-feeling-for-your-humble-abode-time-to-pack-your-bags.html",
+          "lastmod": "2026-08-06"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/10-benefits-of-living-by-the-ocean-in-the-bay-of-banderas.html",
+          "lastmod": "2026-08-05"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/the-humpback-whales-of-the-bay-of-banderas.html",
+          "lastmod": "2026-08-06"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/how-to-avoid-mexico-vacation-rental-scams.html",
+          "lastmod": "2026-08-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/top-10-puerto-vallarta-real-estate-questions.html",
+          "lastmod": "2026-08-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/top-10-things-to-do-in-puerto-vallarta.html",
+          "lastmod": "2026-08-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/risco-bucerias-ocean-view-condos-for-sale.html",
+          "lastmod": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "fetchError": "fetch failed"
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/mudarse-a-mexico-desde-estados-unidos-o-canada-guia-de-reubicacion/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/moving-to-mexico-from-us-canada-relocation-guide/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/reporte-mercado-inmobiliario-puerto-vallarta-agosto-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-real-estate-market-pulse-august-2026/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/notario-publico-cierre-inmobiliario-mexico/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/notario-publico-mexican-real-estate-closing/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/guia-bucerias-riviera-nayarit/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/bucerias-neighborhood-guide-riviera-nayarit/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/preventa-vs-reventa-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/pre-construction-vs-resale-puerto-vallarta/"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.cblacosta.com/cesar-rios/"
+        }
+      ],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/blog/fideicomiso-explained-how-americans-legally-own-property-in-mexico/",
+          "lastmod": "2026-08-05T21:02:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/blog/mexico-mortgages/",
+          "lastmod": "2026-08-06T18:47:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/blog/tax-implications-of-owning-a-second-home-in-mexico/",
+          "lastmod": "2026-08-07T19:22:00+00:00"
+        },
+        {
+          "url": "https://mexhome.com/saved-searches/",
+          "lastmod": "2026-08-06T19:27:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/delete-account/",
+          "lastmod": "2026-08-06T19:51:19+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://mexhome.com/blog/mexico-mortagages/",
+          "lastmod": "2026-07-23T21:56:03+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/blog/",
+          "lastmod": "2026-08-07T19:22:00+00:00"
+        },
+        {
+          "url": "https://mexhome.com/blog/fideicomiso-ownership-mexican-real-estate/",
+          "lastmod": "2026-08-04T18:51:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-08-10T08:30:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agents/",
+          "lastmod": "2026-08-08T02:47:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agents/",
+          "lastmod": "2026-08-08T02:47:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/esperanza-mares/",
+          "lastmod": "2026-08-08T02:47:28+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-08-10T07:43:05+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-08-10T10:09:48+00:00"
+        }
+      ]
+    }
+  ]
+}
