@@ -1,0 +1,2977 @@
+{
+  "date": "2026-09-21",
+  "previousDate": "2026-09-14",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [
+        {
+          "url": "https://www.mexicolife.com/",
+          "lastmod": "2026-08-16"
+        },
+        {
+          "url": "https://www.mexicolife.com/sitemap.php",
+          "lastmod": "2024-04-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/search.php",
+          "lastmod": "2024-04-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/privacy-policy.php",
+          "lastmod": "2026-07-22"
+        },
+        {
+          "url": "https://www.mexicolife.com/help.php",
+          "lastmod": "2024-04-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/snippets-library.php",
+          "lastmod": "2026-07-14"
+        },
+        {
+          "url": "https://www.mexicolife.com/agents.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-real-estate-for-sale.php",
+          "lastmod": "2024-06-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/offices.php",
+          "lastmod": "2026-03-25"
+        },
+        {
+          "url": "https://www.mexicolife.com/sayulita-mls.php",
+          "lastmod": "2024-06-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/testimonials.php",
+          "lastmod": "2024-04-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/enhanced-listings.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/web-accessibility.php",
+          "lastmod": "2024-05-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/communities.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-real-estate.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-real-estate.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-real-estate-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/chacala-mls.php",
+          "lastmod": "2024-06-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/destiladeras-mls.php",
+          "lastmod": "2024-06-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/guayabitos-mls.php",
+          "lastmod": "2024-06-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-penita-mls.php",
+          "lastmod": "2024-06-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/litibu-mls.php",
+          "lastmod": "2024-06-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/lo-de-marcos-mls.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/mismaloya-mls.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/san-pancho-mls.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/el-tuito-real-estate.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/marina-vallarta-condos-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/terralta-3-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/terralta-1-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-arboles-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/amapas-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/versalles-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/conchas-chinas-real-estate.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/san-pancho-condos-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/san-pancho-homes-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-homes-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-condos-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/sayulita-homes-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-condos-for-sale-zona-romantica.php",
+          "lastmod": "2026-06-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/guadalajara.php",
+          "lastmod": "2026-04-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/mexico-mortgage-calculator.php",
+          "lastmod": "2025-08-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/mortgage/complete-guide-getting-mortgage-mexico-2025.php",
+          "lastmod": "2025-08-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/listings.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/about.php",
+          "lastmod": "2026-03-26"
+        },
+        {
+          "url": "https://www.mexicolife.com/about/osm.php",
+          "lastmod": "2025-10-17"
+        },
+        {
+          "url": "https://www.mexicolife.com/contact.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/buyers-form.php",
+          "lastmod": "2022-01-26"
+        },
+        {
+          "url": "https://www.mexicolife.com/sellers-form.php",
+          "lastmod": "2025-02-21"
+        },
+        {
+          "url": "https://www.mexicolife.com/home-valuation.php",
+          "lastmod": "2022-01-26"
+        },
+        {
+          "url": "https://www.mexicolife.com/life-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/oqueano-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-zona-dorada-pavilion-bucerias.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-vida-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/vista-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/quadrant-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/sabbia-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-grand-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/promenade-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/barlovento-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-progresso-universidad-entorno.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-airport-torre-koba.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-ixtapa-departamento-carlos.php",
+          "lastmod": "2022-01-26"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-la-floresta-moncao-uno.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-aramara-bambu-residencial.php",
+          "lastmod": "2024-06-19"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-fluvial-centrika.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/miramar-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-esmeralda-la-cruz-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-el-tizate-ph-torre-taib.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-pelicanos-cruz-de-mar.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-las-gaviotas-formentera.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/canuva-lux-la-cruz-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-la-cruz-centro-ocean-singer.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-las-gaviotas-torre-pacifica.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/alamar-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-marival-residences.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-ikaria.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/villa-magna-condos-for-sale.php",
+          "lastmod": "2026-08-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-canal-los-peces.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-canal-quinta-san-miguel.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-delfines.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-los-crotos.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/ocean-terrace-nuevo-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-bahia-del-sol.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-paradise-village-luma.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/playa-royale-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-peninsula.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-grand-marina-villas.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-314-living.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-canal-punto-novo.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-ki-green-district.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-el-tigre-taheima.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/isla-palmares-nuevo-vallarta-for-sale.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-el-tigre-green-bay.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-el-tigre-peninsula-golf.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-mayan-palace-vitania.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-mayan-palace-balancan.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-mayan-palace-seibal.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-el-tigre-green-18.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-vallarta-v-golf.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-villas-del-country.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-v-marina.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-bay-view-grand.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-playa-de-oro-duva.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-plaza-marina.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-nima-bay.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-marina-suites.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-marina-sol.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-marina-del-rey.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-royal-pacific.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-puesta-del-sol.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/portofino-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-los-caracoles.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-shangrila.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-las-palmas-ii.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-las-palmas-i.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-villas-pacifico.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-marina-tres-mares.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-zoho-skies.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-aramara-manyara.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-icon.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-peninsula-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-condomar-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-tules-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-puerto-del-luna.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-venecia-palm.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-roma.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-portamar.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-terra.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-origen.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-grand-trianon.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-palm-springs.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-via-milan.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-harbor-171.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-viena.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-francisco-villa-los-sauces.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-coapinole-mirador.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-barrio-sta-maria-las-palmas.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-colonial.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-brilla-sol.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-oporto.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/lifestyle.php",
+          "lastmod": "2022-01-26"
+        },
+        {
+          "url": "https://www.mexicolife.com/gated-communities.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/golf-puerto-vallarta.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-kai-loft.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/oceanfront-beachfront.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/pet-friendly.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-los-altos.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/pool.php",
+          "lastmod": "2024-04-25"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-mangos.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-luxury-properties-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-concept-180.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-vista-bahia.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/new-puerto-vallarta-real-estate-listings.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-sotavento.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-allende-tower.php",
+          "lastmod": "2024-06-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-los-papelillos.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/perla-del-mar-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/azul-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/pacifica-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/moona-bucerias-for-sale.php",
+          "lastmod": "2026-04-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/casa-del-mar-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nayri-ocean-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/suites-atlas-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/suite-sandi-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/vento-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-arena-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nova-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-north-puesta-del-sol.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/molino-de-agua-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-04-21"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-rincon-de-almas.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-desire.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-avida.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-plaza-mar.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-pavilion.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-loft-268.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-zenith.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-nayri.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-v399.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/105-sail-view-puerto-vallarta-condos.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-pier-57.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-nomada.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-el-dorado.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-pinnacle.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-sohopv.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-villas-jacarandas.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-agave-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-el-remance.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-scala.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-loma-del-sol.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-campanario.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-villas-de-las-colinas.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-avalon.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-perlas-de-las-lomas.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-amapas-indah.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-conchas-chinas-montemar.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-conchas-chinas-vallarta-med.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-conchas-chinas-marlinda.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-playa-los-venados-the-reef.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-punta-negra-quinta-esmeralda.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-punta-negra-mirablau.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/garza-blanca-real-estate.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/mismaloya-sierra-del-mar.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/mismaloya-villas-altas.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-sport-residence-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/orquideas-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/acqua-flamingos-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/quinta-del-mar-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/del-canto-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/believe-flamingos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-el-faro-real.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-el-anclote.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/litibu-haixa.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-portosanto.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-conchas-chinas-carmelina.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-centro-south-v-estrella.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-oceanside-ocean-vista.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-jarretaderas-7-mares.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/zantamar-la-cruz-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/diagonal-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/boracay-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-palmares-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/velmar-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/bahia-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/deimare-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/terralta-2-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-penthouse-condos-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/balica-luxury-living.php",
+          "lastmod": "2024-04-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/espana-316-puerto-vallarta-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/albatros-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/paramount-bay-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/bugambilias-nuevo-vallarta-for-sale.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/dtoscana-condos-for-sale.php",
+          "lastmod": "2026-04-15"
+        },
+        {
+          "url": "https://www.mexicolife.com/azulejos-grand.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/v-bucerias-condos.php",
+          "lastmod": "2026-06-24"
+        },
+        {
+          "url": "https://www.mexicolife.com/oasis-riviera-cuale-puerto-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/sierra-del-mar-los-arcos.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/las-verandas-de-amapas-condos-puerto-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/sayan-beach-condos-puerto-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-real-estate-developments.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/arrecife-bucerias.php",
+          "lastmod": "2026-06-24"
+        },
+        {
+          "url": "https://www.mexicolife.com/arama-bay-bucerias.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/featured-listings.php",
+          "lastmod": "2025-02-19"
+        },
+        {
+          "url": "https://www.mexicolife.com/pre-construction.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/faq.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/ready-to-live.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-homes-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-pelicanos-la-cruz-de-huanacaxtle-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-condos-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-homes-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-homes-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-condos-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-condos-for-sale.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-area-real-estate-reports.php",
+          "lastmod": "2026-06-15"
+        },
+        {
+          "url": "https://www.mexicolife.com/sayulita-condos-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/arena-blanca-condominiums-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-cruz-las-gaviotas-la-joya.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-plata-bucerias-condos-for-sale.php",
+          "lastmod": "2026-04-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/maralma-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/colibri-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/style-guide.php",
+          "lastmod": "2022-11-06"
+        },
+        {
+          "url": "https://www.mexicolife.com/careers.php",
+          "lastmod": "2022-11-06"
+        },
+        {
+          "url": "https://www.mexicolife.com/velas-vallarta-marina-for-sale.php",
+          "lastmod": "2026-04-16"
+        },
+        {
+          "url": "https://www.mexicolife.com/ibiza-nuevo-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/living-in-bucerias-mexico.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/refugio-del-mar-bucerias-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/belle-vie-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/siete-uno-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-alebrijes-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/nerea-living-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/avelar-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-amores-1-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-amores-2-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/mar-de-plata-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-mangos-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/playa-seis-bucerias-condo-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/tau-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/torres-bom-sol-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/costa-dorada-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/arenka-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/makare-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/pisitos-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/ciye-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/cuatro-estaciones-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/dellaterra-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/indigo-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/las-flores-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/las-villas-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/mar-azul-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-coradiso-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/risco-bucerias-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/suites-malvinas-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/tayau-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/mina-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/the-one-residences-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/musa-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/naarena-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/torre-agua-marina-bucerias-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/torre-naomi-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/narval-norte-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/villas-del-sol-bucerias-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/narval-sur-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/paraiso-del-mar-bucerias-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/parota-condominiums-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/paseo-vallarta-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/bungalows-arroyo-bucerias-condos-for-sale.php",
+          "lastmod": "2024-06-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/real-del-mar-for-sale-la-cruz.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/villa-la-estancia-nuevo-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-vs-la-cruz.php",
+          "lastmod": "2024-06-19"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-vs-bucerias.php",
+          "lastmod": "2026-04-06"
+        },
+        {
+          "url": "https://www.mexicolife.com/lo-de-marcos-vs-bucerias.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-vs-bucerias.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/nuevo-vallarta-vs-bucerias.php",
+          "lastmod": "2026-04-06"
+        },
+        {
+          "url": "https://www.mexicolife.com/towns-in-riviera-nayarit.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-mls.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-homes-for-sale.php",
+          "lastmod": "2026-05-27"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-condos-for-sale.php",
+          "lastmod": "2026-05-27"
+        },
+        {
+          "url": "https://www.mexicolife.com/bucerias-real-estate-buying-guide.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/why-choose-bucerias.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/zona-dorada-real-estate.php",
+          "lastmod": "2026-04-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-real-estate.php",
+          "lastmod": "2026-02-05"
+        },
+        {
+          "url": "https://www.mexicolife.com/amapas-353-puerto-vallarta-condos-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-real-estate-a-buyers-guide.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-homes-for-sale.php",
+          "lastmod": "2026-02-05"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-land-for-sale.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/old-town-vallarta.php",
+          "lastmod": "2024-06-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/beachfront-condos-for-sale-in-puerto-vallarta.php",
+          "lastmod": "2026-03-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-condos-for-sale.php",
+          "lastmod": "2026-02-05"
+        },
+        {
+          "url": "https://www.mexicolife.com/price-changes-for-the-week.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/el-tigre-nuevo-vallarta-real-estate.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/bengala-boutique-nuevo-vallarta-for-sale.php",
+          "lastmod": "2024-06-19"
+        },
+        {
+          "url": "https://www.mexicolife.com/profit-loss-calculator.php",
+          "lastmod": "2026-09-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/sold-listings.php",
+          "lastmod": "2023-08-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/currency-exchange-for-mexico-real-estate.php",
+          "lastmod": "2026-09-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/flexmls-vallarta.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/explore-the-best-houses-for-sale-near-you.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/grand-venetian-condos.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/las-moras-homes-for-sale-puerto-vallarta.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/ocean-view-condos-puerto-vallarta.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-hotel-zone-real-estate.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/marbella-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/puerto-vallarta-condo-report---april-2024.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/v177-condos-puerto-vallarta-for-sale.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/v-conchas-chinas-puerto-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/top-10-puerto-vallarta-deals.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/barra-de-navidad.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/taskmagic-glossary-of-terms.php",
+          "lastmod": "2024-05-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/properties-close-to-mexico-life-puerto-vallarta.php",
+          "lastmod": "2024-07-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/oceana-bucerias-condos.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/guanajuato-real-estate.php",
+          "lastmod": "2024-07-03"
+        },
+        {
+          "url": "https://www.mexicolife.com/ixtapa-real-estate.php",
+          "lastmod": "2026-04-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/cabo-corrientes-real-estate.php",
+          "lastmod": "2026-04-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/costa-alegre-real-estate.php",
+          "lastmod": "2026-04-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/costa-banderas-real-estate.php",
+          "lastmod": "2026-04-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/monteon-real-estate.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/tomatlan-real-estate.php",
+          "lastmod": "2026-04-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/rincon-del-cielo-nuevo-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/la-fronda-nuevo-vallarta.php",
+          "lastmod": "2026-06-24"
+        },
+        {
+          "url": "https://www.mexicolife.com/udara-bucerias.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/mdy-puerto-vallarta.php",
+          "lastmod": "2026-03-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/stanza-bucerias-for-sale.php",
+          "lastmod": "2026-06-24"
+        },
+        {
+          "url": "https://www.mexicolife.com/jarretaderas-real-estate.php",
+          "lastmod": "2026-04-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/sierra-madre-real-estate.php",
+          "lastmod": "2026-04-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/mezcales-real-estate.php",
+          "lastmod": "2026-04-14"
+        },
+        {
+          "url": "https://www.mexicolife.com/property-size-converter.php",
+          "lastmod": "2026-09-04"
+        },
+        {
+          "url": "https://www.mexicolife.com/mexico-real-estate-glossary.php",
+          "lastmod": "2024-12-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/properties-with-virtual-tours.php",
+          "lastmod": "2025-02-19"
+        },
+        {
+          "url": "https://www.mexicolife.com/cma.php",
+          "lastmod": "2025-08-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/brand.php",
+          "lastmod": "2025-10-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/services.php",
+          "lastmod": "2025-10-18"
+        },
+        {
+          "url": "https://www.mexicolife.com/terms-of-service.php",
+          "lastmod": "2025-10-19"
+        },
+        {
+          "url": "https://www.mexicolife.com/editorial-publishing-principles.php",
+          "lastmod": "2025-10-19"
+        },
+        {
+          "url": "https://www.mexicolife.com/ethics-disclosure-policy.php",
+          "lastmod": "2025-10-19"
+        },
+        {
+          "url": "https://www.mexicolife.com/data-methodology.php",
+          "lastmod": "2026-04-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/how-foreigners-buy-real-estate-in-mexico.php",
+          "lastmod": "2026-04-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/flamingos-paradise-condos-for-sale.php",
+          "lastmod": "2026-08-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/tridenta-condos-for-sale.php",
+          "lastmod": "2026-08-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/unatu-condos-for-sale.php",
+          "lastmod": "2026-08-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/v-boulevard-condos-for-sale.php",
+          "lastmod": "2026-08-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/south-bay-condos-for-sale.php",
+          "lastmod": "2026-08-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/3-vistas-high-living-condos-for-sale.php",
+          "lastmod": "2026-08-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/los-mangos-bucerias-homes-for-sale.php",
+          "lastmod": "2026-08-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-mita-real-estate.php",
+          "lastmod": "2026-04-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/riviera-nayarit-real-estate.php",
+          "lastmod": "2026-06-23"
+        },
+        {
+          "url": "https://www.mexicolife.com/mls-number-filter-test.php",
+          "lastmod": "2026-05-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/test-catalog-demo-20260509.php",
+          "lastmod": "2026-05-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/pool/under-100000.php",
+          "lastmod": "2026-05-25"
+        },
+        {
+          "url": "https://www.mexicolife.com/zr-condo-market-sample-draft-7q2k9.php",
+          "lastmod": "2026-06-16"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/my-mexico-story.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mexico-real-estate-guide.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/test.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/buying-property-in-mexicos-restricted-zone-complete-faq-for-foreign-buyers.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-vallarta-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-09-07"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/la-cruz-de-huanacaxtle-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-09-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/nuevo-vallarta-west-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/romantic-zone-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-mls-market-report-july-2025.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-houses-mls-market-report-july-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-vallarta-condo-market-report-june-2025.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-june-2025.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-houses-market-report-june-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-market-report-june-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mismaloya-house-market-report-april-2025.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condo-market-report-april-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-april-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-house-market-report-april-2025.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-market-report-april-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/nuevo-vallarta-west-condo-market-report-march-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/zona-dorada-houses-march-2025-market-report-inventory-climb-sales-pause.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/la-cruz-condo-market-report-march-2025.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condo-market-report-march-2025.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/romantic-zone-condo-market-report-march-2025.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-march-2025-analysis.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-house-market-report-march-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-land-market-report-feb-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-house-market-report-feb-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-condo-market-report-feb-2025.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mexico-real-estate-closing-costs.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/cfdi.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/beyond-the-numbers-puerto-vallartas-land-market-reveals-unprecedented-investment-landscape.html",
+          "lastmod": "2026-09-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/2024-november-puerto-vallarta-real-estate-market-report-for-homes.html",
+          "lastmod": "2026-09-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-report-november-2024.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/august-2024-homes-report-puerto-vallarta.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/august-2024-puerto-vallarta-condo-market-report.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/home-market-trends-july-2024.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/july-2024-condo-market-report.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-home-market-report-june-2024.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/june-2024-puerto-vallarta-condo-market-report.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/luxury-waves-condos-discover-the-hidden-gem-of-bucerias.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/point2-homes-mexico-closing.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-towers-puerto-vallarta.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/riviera-nayarit-golf-courses.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/best-real-estate-companies-in-puerto-vallarta.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/grand-venetian-puerto-vallarta.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/ultimate-guide-beachfront-living-puerto-vallarta.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-global-real-estate-boom.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/march-2024-real-estate-market-report-houses.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/march-2024-real-estate-market-report-condos.html",
+          "lastmod": "2026-09-08"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/exploring-the-best-puerto-vallarta-real-estate-opportunities.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/exploring-the-puerto-vallarta-mls-on-mexicolifecom.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/2023-puerto-vallarta-real-estate-market-review.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/why-median-home-sales-price-is-confusing-right-now.html",
+          "lastmod": "2026-09-06"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/people-want-less-expensive-homes-and-builders-are-responding.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/low-housing-inventory-is-a-sweet-spot-for-sellers.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/live-and-work-abroad.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/june-2023-puerto-vallarta-and-area-real-estate-market-report.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/retire-in-paradise-puerto-vallarta-real-estate-for-retirement.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/decluttering-your-home-for-sale.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/the-pros-and-cons-of-pre-construction-in-mexico.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/losing-that-lovin-feeling-for-your-humble-abode-time-to-pack-your-bags.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/10-benefits-of-living-by-the-ocean-in-the-bay-of-banderas.html",
+          "lastmod": "2026-09-10"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/the-humpback-whales-of-the-bay-of-banderas.html",
+          "lastmod": "2026-09-09"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/how-to-avoid-mexico-vacation-rental-scams.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/top-10-puerto-vallarta-real-estate-questions.html",
+          "lastmod": "2026-09-11"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/top-10-things-to-do-in-puerto-vallarta.html",
+          "lastmod": "2026-09-13"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/interested-in-moving-to-puerto-vallarta-mexico.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/risco-bucerias-ocean-view-condos-for-sale.html",
+          "lastmod": "2026-09-12"
+        },
+        {
+          "url": "https://www.mexicolife.com/idx/"
+        },
+        {
+          "url": "https://www.mexicolife.com/idx/map/"
+        }
+      ],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 1318
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.topmexicorealestate.com/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/akumal-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/bacalar-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cancun-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/costamaya-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cozumel-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/yucatan-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/playadelcarmen-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/progreso-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertoaventuras-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertomorelos-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tulum-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/morelia-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lakechapala-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/sanmiguelallende-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/valledebravo-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lapaz-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cabo-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertovallarta-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/rockypoint-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oaxaca-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/preconstruction.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/retire.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oceanfront.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/land.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/condos.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/homes.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/b-listado.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lets-retire-in-mexico/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/top-beaches-mexico/top-beaches-riviera-maya/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/micasaestucasawiththomaslloyd/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/living",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/top-beaches",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/testimonials",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/top-tips",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/about-mexico",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/how-to",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/listings",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/legal",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/virtual-showroom",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-books/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/blog/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-infographics/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/webinars/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/smart-retirement-in-mexico",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/LP-questionnaire.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/Article-real-estate/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tools-for-sellers.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/invest-in-mexico/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/financing-your-dream-home-in-mexico/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/financing.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/explore-our-projects",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/about-us.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/buy-in-mexico-testimonials.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/mexico-broker-credentials.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/community",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/newsletter",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/exclusives/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/webinars/financing-options-for-foreigners/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/webinars/first-time-buyers-in-mexico-most-frequently-asked-questions/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/webinars/how-does-luxury-home-look-like-riviera-maya/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/LP-contactus.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/1-directory/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/faq.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/join-us/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/z-privacy-policy.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/akumal-real-estate/preconstruction-akumal.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/akumal-real-estate/retire-akumal.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/akumal-real-estate/oceanfront-akumal.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/akumal-real-estate/land-akumal.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/akumal-real-estate/condos-akumal.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/akumal-real-estate/homes-akumal.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/akumal-real-estate/b-listado-akumal.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/bacalar-real-estate/lagoonfront-bacalar",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/bacalar-real-estate/land-bacalar.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/bacalar-real-estate/b-listado-bacalar.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/bacalar-real-estate/retire-bacalar.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/bacalar-real-estate/homes-bacalar.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/bacalar-real-estate/preconstruction-bacalar.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cancun-real-estate/preconstruction-cancun.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cancun-real-estate/retire-cancun.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cancun-real-estate/oceanfront-cancun.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cancun-real-estate/land-cancun.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cancun-real-estate/condos-cancun.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cancun-real-estate/homes-cancun.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cancun-real-estate/b-listado-cancun.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/costamaya-real-estate/retire-costamaya.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/costamaya-real-estate/oceanfront-costamaya.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/costamaya-real-estate/land-costamaya.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/costamaya-real-estate/homes-costamaya.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/costamaya-real-estate/b-listado-costamaya.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/costamaya-real-estate/preconstruction-costamaya.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cozumel-real-estate/retire-cozumel.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cozumel-real-estate/oceanfront-cozumel.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cozumel-real-estate/condos-cozumel.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cozumel-real-estate/b-listado-cozumel.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cozumel-real-estate/homes-cozumel.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cozumel-real-estate/preconstruction-cozumel.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cozumel-real-estate/land-cozumel.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/yucatan-real-estate/preconstruction-yucatan.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/yucatan-real-estate/retire-yucatan.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/yucatan-real-estate/oceanfront-yucatan.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/yucatan-real-estate/land-yucatan.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/yucatan-real-estate/condos-yucatan.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/yucatan-real-estate/homes-yucatan.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/yucatan-real-estate/b-listado-yucatan.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/playadelcarmen-real-estate/preconstruction-playadelcarmen.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/playadelcarmen-real-estate/retire-playadelcarmen.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/playadelcarmen-real-estate/oceanfront-playadelcarmen.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/playadelcarmen-real-estate/land-playadelcarmen.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/playadelcarmen-real-estate/condos-playadelcarmen.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/playadelcarmen-real-estate/homes-playadelcarmen.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/playadelcarmen-real-estate/b-listado-playadelcarmen.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/progreso-real-estate/retire-progreso.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/progreso-real-estate/oceanfront-progreso.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/progreso-real-estate/land-progreso.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/progreso-real-estate/condos-progreso.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/progreso-real-estate/homes-progreso.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/progreso-real-estate/b-listado-progreso.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/progreso-real-estate/preconstruction-progreso.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertoaventuras-real-estate/retire-puertoaventuras.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertoaventuras-real-estate/oceanfront-puertoaventuras.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertoaventuras-real-estate/land-puertoaventuras.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertoaventuras-real-estate/condos-puertoaventuras.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertoaventuras-real-estate/homes-puertoaventuras.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertoaventuras-real-estate/b-listado-puertoaventuras.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertoaventuras-real-estate/preconstruction-puertoaventuras.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertomorelos-real-estate/preconstruction-puertomorelos.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertomorelos-real-estate/retire-puertomorelos.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertomorelos-real-estate/oceanfront-puertomorelos.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertomorelos-real-estate/condos-puertomorelos.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertomorelos-real-estate/b-listado-puertomorelos.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertomorelos-real-estate/homes-puertomorelos.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertomorelos-real-estate/land-puertomorelos.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tulum-real-estate/preconstruction-tulum.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tulum-real-estate/retire-tulum.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tulum-real-estate/oceanfront-tulum.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tulum-real-estate/land-tulum.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tulum-real-estate/condos-tulum.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tulum-real-estate/homes-tulum.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/tulum-real-estate/b-listado-tulum.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/morelia-real-estate/retire-morelia.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/morelia-real-estate/homes-morelia.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/morelia-real-estate/b-listado-morelia.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/morelia-real-estate/oceanfront-morelia.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/morelia-real-estate/preconstruction-morelia.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/morelia-real-estate/land-morelia.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lakechapala-real-estate/land-lakechapala.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lakechapala-real-estate/condos-lakechapala.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lakechapala-real-estate/homes-lakechapala.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lakechapala-real-estate/b-listado-lakechapala.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lakechapala-real-estate/retire-lakechapala.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lakechapala-real-estate/oceanfront-lakechapala.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lakechapala-real-estate/preconstruction-lakechapala.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/sanmiguelallende-real-estate/retire-sanmiguelallende.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/sanmiguelallende-real-estate/land-sanmiguelallende.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/sanmiguelallende-real-estate/condos-sanmiguelallende.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/sanmiguelallende-real-estate/homes-sanmiguelallende.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/sanmiguelallende-real-estate/b-listado-sanmiguelallende.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/sanmiguelallende-real-estate/preconstruction-sanmiguelallende.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/valledebravo-real-estate/retire-valledebravo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/valledebravo-real-estate/lakefront-valledebravo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/valledebravo-real-estate/land-valledebravo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/valledebravo-real-estate/homes-valledebravo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/valledebravo-real-estate/b-listado-valledebravo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/valledebravo-real-estate/oceanfront-valledebravo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/valledebravo-real-estate/preconstruction-valledebravo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lapaz-real-estate/retire-lapaz.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lapaz-real-estate/oceanfront-lapaz.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lapaz-real-estate/condos-lapaz.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lapaz-real-estate/homes-lapaz.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lapaz-real-estate/b-listado-lapaz.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lapaz-real-estate/preconstruction-lapaz.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/lapaz-real-estate/land-lapaz.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cabo-real-estate/oceanfront-cabo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cabo-real-estate/land-cabo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cabo-real-estate/condos-cabo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cabo-real-estate/homes-cabo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cabo-real-estate/b-listado-cabo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cabo-real-estate/retire-cabo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/cabo-real-estate/preconstruction-cabo.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertovallarta-real-estate/oceanfront-puertovallarta.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertovallarta-real-estate/preconstruction-puertovallarta.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertovallarta-real-estate/retire-puertovallarta.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertovallarta-real-estate/condos-puertovallarta.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertovallarta-real-estate/homes-puertovallarta.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertovallarta-real-estate/b-listado-puertovallarta.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/puertovallarta-real-estate/land-puertovallarta.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/rockypoint-real-estate/condos-rockypoint.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/rockypoint-real-estate/homes-rockypoint.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/rockypoint-real-estate/b-listado-rockypoint.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/rockypoint-real-estate/retire-rockypoint.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/rockypoint-real-estate/oceanfront-rockypoint.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/rockypoint-real-estate/preconstruction-rockypoint.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/rockypoint-real-estate/land-rockypoint.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oaxaca-real-estate/retire-oaxaca.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oaxaca-real-estate/oceanfront-oaxaca.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oaxaca-real-estate/land-oaxaca.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oaxaca-real-estate/condos-oaxaca.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oaxaca-real-estate/homes-oaxaca.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oaxaca-real-estate/b-listado-oaxaca.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/oaxaca-real-estate/preconstruction-oaxaca.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/playa-del-carmen/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/la-paz/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/akumal/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/cancun/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/progreso/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/puerto-aventuras/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/tulum/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/rocky-point/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/cozumel/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/oaxaca/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/cabo/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/yucatan/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/blog/category/luxury-collection/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/build-your-own-home-in-mexico.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/choose-an-area/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/luxury/listings/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/about-us/thomas-lloyd",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/about-us/victor-granados",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/about-us/joseph-toland",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/about-us/valerie-verhalen",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/real-estate-videos/group/luxury",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/mexico-for-sale/",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-authors.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-cities.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-communities.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-index.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-infrastructure-news.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-investment-property.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-listings.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-living-in-mexico.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-luxury.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-mexico-organizations.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-oceanfront.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-preconstruction.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-property-type.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-rental-property.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/content-retirement.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/w-articles.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/w-bank-trust.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/w-buying-process.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        },
+        {
+          "url": "https://www.topmexicorealestate.com/w-gains-tax.php",
+          "lastmod": "2026-09-14T22:13:36+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/budget-retraite-puerto-vallarta-partie-1/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/presupuesto-retiro-puerto-vallarta-parte-1/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-retirement-budget-part-1/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/comunidad-expatriados-puerto-vallarta-donde-conectar/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-expat-community-where-to-connect/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/mejores-proyectos-preventa-inversionistas-renta-bahia-banderas/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/best-pre-construction-projects-rental-investors-banderas-bay/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/condos-frente-playa-vs-centro-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/beachfront-vs-intown-condos-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/guia-versalles-puerto-vallarta-bienes-raices/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/versalles-puerto-vallarta-real-estate-guide/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/segunda-casa-o-propiedad-de-inversion-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/second-home-or-investment-property-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/llevar-mascotas-a-mexico-compradores-reubicacion/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/bringing-pets-to-mexico-relocating-buyers/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/renta-corto-plazo-vs-largo-plazo-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/short-term-vs-long-term-rental-strategy-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/bienes-raices-puerto-vallarta-2025-coldwell-banker-la-costa/"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/developments/",
+          "lastmod": "2026-09-15T17:15:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-09-21T11:01:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/developments/",
+          "lastmod": "2026-09-15T17:15:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/7-eight-bahia-golf-residences/",
+          "lastmod": "2026-09-15T17:15:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agents/",
+          "lastmod": "2026-09-18T19:15:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agents/",
+          "lastmod": "2026-09-18T19:15:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/esperanza-mares/",
+          "lastmod": "2026-09-16T22:03:17+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/mark-vavra/",
+          "lastmod": "2026-09-18T19:15:58+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-09-21T15:30:44+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-09-21T15:02:17+00:00"
+        }
+      ]
+    }
+  ]
+}
