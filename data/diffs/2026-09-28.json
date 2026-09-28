@@ -1,0 +1,2961 @@
+{
+  "date": "2026-09-28",
+  "previousDate": "2026-09-21",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "fetchError": "Failed to fetch https://diamanterealtors.com/sitemap_index.xml: 404"
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 286
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/villa-caracoles-1a-marina-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/villa-caracoles-1a-marina-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-kalista-mismaloya/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-kalista-mismaloya-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casita-el-dorado-careyes-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-las-flores-puerto-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/versalles-vs-5-de-diciembre-puerto-vallarta-real-estate/",
+          "lastmod": "2026-09-26"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/versalles-vs-5-de-diciembre-bienes-raices-puerto-vallarta/",
+          "lastmod": "2026-09-26"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/por-que-compradores-internacionales-eligen-coldwell-banker-la-costa/",
+          "lastmod": "2026-09-25"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-international-buyers-choose-coldwell-banker-la-costa/",
+          "lastmod": "2026-09-25"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/impuestos-ingresos-alquiler-propietarios-extranjeros-mexico/",
+          "lastmod": "2026-09-24"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/rental-income-taxes-foreign-owners-mexico/",
+          "lastmod": "2026-09-24"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/proceso-paso-a-paso-para-comprar-casa-puerto-vallarta/",
+          "lastmod": "2026-09-26"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/step-by-step-home-buying-process-puerto-vallarta/",
+          "lastmod": "2026-09-26"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/guia-flamingos-nuevo-nayarit-bienes-raices/",
+          "lastmod": "2026-09-26"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/flamingos-nuevo-nayarit-real-estate-guide/",
+          "lastmod": "2026-09-26"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/es/blog/actividades-festivales-y-eventos-en-el-lago-de-chapala/",
+          "lastmod": "2026-09-22T19:18:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-vida-y-el-mercado-inmobiliario-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T19:25:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-basica-de-colegios-en-los-cabos/",
+          "lastmod": "2026-09-22T22:17:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-el-encanto-de-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T22:17:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-la-escena-gastronomica-de-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T22:17:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/barrios-de-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T22:17:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-vida-de-los-expatriados-en-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T22:17:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-constituir-un-fideicomiso-el-proceso-paso-a-paso/",
+          "lastmod": "2026-09-22T22:17:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-se-mudan-los-expatriados-a-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T22:17:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/estafas-inmobiliarias-habituales-en-mexico-y-como-evitarlas/",
+          "lastmod": "2026-09-22T22:17:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/los-expertos-inmobiliarios-de-mexico-ahora-te-ofrecen-alojamientos-de-alquiler-para-tu-proxima-escapada/",
+          "lastmod": "2026-09-22T22:17:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-comprobar-el-titulo-de-propiedad-en-mexico-que-hay-que-revisar/",
+          "lastmod": "2026-09-22T22:17:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-esta-pasando-en-el-mercado-inmobiliario-de-pv/",
+          "lastmod": "2026-09-22T22:17:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-alquilar-una-casa-en-mexico-una-guia-completa/",
+          "lastmod": "2026-09-22T22:17:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/pueden-los-extranjeros-que-trabajan-por-cuenta-propia-conseguir-una-hipoteca-en-mexico/",
+          "lastmod": "2026-09-22T22:17:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/alquileres-a-largo-plazo-frente-a-alquileres-a-corto-plazo-en-mexico/",
+          "lastmod": "2026-09-22T22:17:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/donde-deberias-comprar-una-propiedad-inmobiliaria-en-mexico/",
+          "lastmod": "2026-09-22T22:17:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-proceso-de-compra-de-una-vivienda-en-mexico-paso-a-paso/",
+          "lastmod": "2026-09-22T22:17:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-fideicomiso-explicado-como-los-estadounidenses-pueden-ser-propietarios-legales-de-inmuebles-en-mexico/",
+          "lastmod": "2026-09-22T22:17:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/impuestos-sobre-la-propiedad-en-mexico-para-propietarios-extranjeros/",
+          "lastmod": "2026-09-22T22:17:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/consecuencias-fiscales-de-tener-una-segunda-vivienda-en-mexico/",
+          "lastmod": "2026-09-22T22:17:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-jubilarse-en-mexico-en-2026/",
+          "lastmod": "2026-09-22T22:17:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/ahorra-tiempo-encuentra-mas-como-la-nueva-funcion-busquedas-guardadas-de-mexhome-te-permite-asegurarte-las-mejores-propiedades-de-mexico/",
+          "lastmod": "2026-09-22T22:17:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-no-jubilarse-en-mexico-ventajas-y-desventajas-sinceras-y-lo-que-debes-saber/",
+          "lastmod": "2026-09-22T22:17:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-mudarte-a-mexico-desde-ee-uu/",
+          "lastmod": "2026-09-22T22:17:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/ciudad-de-mexico-frente-a-la-costa-de-mexico-donde-comprar-tu-segunda-vivienda/",
+          "lastmod": "2026-09-22T22:17:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/zonas/",
+          "lastmod": "2026-09-22T18:14:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/guia-del-comprador/",
+          "lastmod": "2026-09-22T18:14:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/novedades/",
+          "lastmod": "2026-09-22T18:14:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/riviera-nayarit-bienes-raices/",
+          "lastmod": "2026-09-22T18:14:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/inmobiliaria-de-south-shore/",
+          "lastmod": "2026-09-22T18:14:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/confirmacion-de-la-hipoteca/",
+          "lastmod": "2026-09-22T18:14:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/puerto-vallarta-inmobiliaria/",
+          "lastmod": "2026-09-22T18:14:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/contrasena-olvidada/",
+          "lastmod": "2026-09-22T18:14:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lote-brasilia-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:14:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/carmen-alicia-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:14:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/mexhome-wpengine-com-terrazas/",
+          "lastmod": "2026-09-22T18:14:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/confirmacion-de-nuevo-anuncio/",
+          "lastmod": "2026-09-22T18:14:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/casas-en-venta-en-mexico-inmobiliaria-en-mexico/",
+          "lastmod": "2026-09-22T18:14:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/cerrar-sesion/",
+          "lastmod": "2026-09-22T18:14:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tu-perfil/",
+          "lastmod": "2026-09-22T18:14:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/restablecer-contrasena/",
+          "lastmod": "2026-09-22T18:14:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/has-solicitado-una-visita-a/",
+          "lastmod": "2026-09-22T18:14:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/santa-barbara-shores-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:14:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/has-solicitado-una-visita-virtual-a/",
+          "lastmod": "2026-09-22T18:14:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/guia-del-comprador-2/",
+          "lastmod": "2026-09-22T18:14:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/ya-no-estas-suscribido/",
+          "lastmod": "2026-09-22T18:14:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/proyectos-guardados/",
+          "lastmod": "2026-09-22T18:14:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/proyecciones-de-aaron/",
+          "lastmod": "2026-09-22T18:14:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/gracias/",
+          "lastmod": "2026-09-22T18:14:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/confirmacion-de-la-lista-de-deseos-inmobiliarios/",
+          "lastmod": "2026-09-22T18:14:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/inmobiliaria-de-vacaciones/",
+          "lastmod": "2026-09-22T18:14:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/visita-virtual-programada/",
+          "lastmod": "2026-09-22T18:14:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/san-pancho-inmobiliaria/",
+          "lastmod": "2026-09-22T18:14:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/virtual/",
+          "lastmod": "2026-09-22T18:14:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/clase-magistral-de-mexhome-para-compradores/",
+          "lastmod": "2026-09-22T18:14:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/inscripcion/",
+          "lastmod": "2026-09-22T18:14:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/el-registro-se-ha-realizado-correctamente/",
+          "lastmod": "2026-09-22T18:14:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/recursos-para-agentes/",
+          "lastmod": "2026-09-22T18:14:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/eliminar-cuenta/",
+          "lastmod": "2026-09-22T18:14:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/restablecer-contrasena-2/",
+          "lastmod": "2026-09-22T18:14:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/curso-intensivo-para-agentes-de-ventas/",
+          "lastmod": "2026-09-22T18:14:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/perfil/",
+          "lastmod": "2026-09-22T18:14:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/soluciones-de-seguros-2/",
+          "lastmod": "2026-09-22T18:14:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/busquedas-guardadas/",
+          "lastmod": "2026-09-22T18:14:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/terminos-y-condiciones-de-alquiler/",
+          "lastmod": "2026-09-22T18:14:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/politica-de-privacidad-de-tours/",
+          "lastmod": "2026-09-22T18:14:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/politicas-de-reserva-y-cancelacion-de-excursiones/",
+          "lastmod": "2026-09-22T18:14:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/guanajuato/",
+          "lastmod": "2026-09-22T18:16:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/pisos-en-venta-en-los-cabos/",
+          "lastmod": "2026-09-22T18:16:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/manzanillo/bulevar-miguel-de-la-madrid/",
+          "lastmod": "2026-09-22T18:16:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/los-cerritos/terreno-en-venta-en-los-cerritos/",
+          "lastmod": "2026-09-22T18:16:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/los-cerritos/casas-en-venta-en-los-cerritos/",
+          "lastmod": "2026-09-22T18:16:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/san-jose-del-cabo/pisos-en-venta-en-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T18:16:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/los-cerritos/pisos-en-venta-en-los-cerritos/",
+          "lastmod": "2026-09-22T18:16:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/todos-santos/terrenos-en-venta-en-todos-santos/",
+          "lastmod": "2026-09-22T18:16:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/todos-santos/casas-en-venta-en-todos-santos/",
+          "lastmod": "2026-09-22T18:16:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/la-paz/pisos-en-venta-en-la-paz/",
+          "lastmod": "2026-09-22T18:16:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/san-jose-del-cabo/terrenos-en-venta-en-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T18:16:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/todos-santos/pisos-en-venta-en-todos-santos/",
+          "lastmod": "2026-09-22T18:16:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/cabo-san-lucas/terrenos-en-venta-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T18:16:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/san-jose-del-cabo/casas-en-venta-en-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T18:16:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/casas-en-venta-en-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T18:16:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/cabo-san-lucas/casas-en-venta-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T18:16:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/pisos-en-venta-en-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T18:16:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/cabo-san-lucas/pisos-en-venta-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T18:16:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/cancun/",
+          "lastmod": "2026-09-22T18:16:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/terrenos-en-venta-en-los-cabos/",
+          "lastmod": "2026-09-22T18:16:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/casas-en-venta-en-los-cabos/",
+          "lastmod": "2026-09-22T18:16:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/terrenos-en-venta-en-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T18:16:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ciudad-de-mexico/casas-en-venta-en-la-ciudad-de-mexico/",
+          "lastmod": "2026-09-22T18:16:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ciudad-de-mexico/pisos-en-venta-en-ciudad-de-mexico/",
+          "lastmod": "2026-09-22T18:16:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ciudad-de-mexico/",
+          "lastmod": "2026-09-22T18:16:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/playa-del-carmen/pisos-en-venta-en-playa-del-carmen/",
+          "lastmod": "2026-09-22T18:16:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/playa-del-carmen/",
+          "lastmod": "2026-09-22T18:16:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/cancun/casas-en-venta-en-cancun/",
+          "lastmod": "2026-09-22T18:16:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/cancun/pisos-en-venta-en-cancun/",
+          "lastmod": "2026-09-22T18:16:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/la-paz/terrenos-en-venta-en-la-paz/",
+          "lastmod": "2026-09-22T18:16:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/playa-del-carmen/casas-en-venta-en-playa-del-carmen/",
+          "lastmod": "2026-09-22T18:16:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/la-paz/casas-en-venta-en-la-paz/",
+          "lastmod": "2026-09-22T18:16:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/playa-del-carmen/terrenos-en-venta-en-playa-del-carmen/",
+          "lastmod": "2026-09-22T18:16:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/tijuana/",
+          "lastmod": "2026-09-22T18:16:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/tijuana/pisos-en-venta-en-tijuana/",
+          "lastmod": "2026-09-22T18:16:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/monterrey/casas-en-venta-en-monterrey/",
+          "lastmod": "2026-09-22T18:16:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/monterrey/pisos-en-venta-en-monterrey/",
+          "lastmod": "2026-09-22T18:16:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/monterrey/",
+          "lastmod": "2026-09-22T18:16:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/monterrey/terrenos-en-venta-en-monterrey/",
+          "lastmod": "2026-09-22T18:16:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/guadalajara/terrenos-en-venta-en-guadalajara/",
+          "lastmod": "2026-09-22T18:16:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/guadalajara/casas-en-venta-en-guadalajara/",
+          "lastmod": "2026-09-22T18:16:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/guadalajara/pisos-en-venta-en-guadalajara/",
+          "lastmod": "2026-09-22T18:16:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/guadalajara/",
+          "lastmod": "2026-09-22T18:16:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/merida/",
+          "lastmod": "2026-09-22T18:16:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/merida/terrenos-en-venta-en-merida/",
+          "lastmod": "2026-09-22T18:16:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-morelos/apartamentos-en-venta-en-puerto-morelos/",
+          "lastmod": "2026-09-22T18:16:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/merida/casas-en-venta-en-merida/",
+          "lastmod": "2026-09-22T18:16:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/merida/pisos-en-venta-en-merida/",
+          "lastmod": "2026-09-22T18:16:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-morelos/terrenos-en-venta-en-puerto-morelos/",
+          "lastmod": "2026-09-22T18:16:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-morelos/casas-en-venta-en-puerto-morelos/",
+          "lastmod": "2026-09-22T18:16:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-morelos/",
+          "lastmod": "2026-09-22T18:16:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ciudad-de-mexico/terrenos-en-venta-en-la-ciudad-de-mexico/",
+          "lastmod": "2026-09-22T18:16:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ensenada/",
+          "lastmod": "2026-09-22T18:16:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ensenada/terrenos-en-venta-en-ensenada/",
+          "lastmod": "2026-09-22T18:16:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ensenada/casas-en-venta-en-ensenada/",
+          "lastmod": "2026-09-22T18:16:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/acapulco/pisos-en-venta-en-acapulco/",
+          "lastmod": "2026-09-22T18:16:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ensenada/pisos-en-venta-en-ensenada/",
+          "lastmod": "2026-09-22T18:16:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/acapulco/",
+          "lastmod": "2026-09-22T18:16:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/riviera-maya/",
+          "lastmod": "2026-09-22T18:16:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/tijuana/terrenos-en-venta-en-tijuana/",
+          "lastmod": "2026-09-22T18:16:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/acapulco/terrenos-en-venta-en-acapulco/",
+          "lastmod": "2026-09-22T18:16:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/tijuana/casas-en-venta-en-tijuana/",
+          "lastmod": "2026-09-22T18:16:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/acapulco/casas-en-venta-en-acapulco/",
+          "lastmod": "2026-09-22T18:16:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/huatulco/",
+          "lastmod": "2026-09-22T18:16:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/guanajuato/terrenos-en-venta-en-guanajuato/",
+          "lastmod": "2026-09-22T18:16:54+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/guanajuato/casas-en-venta-en-guanajuato/",
+          "lastmod": "2026-09-22T18:16:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/guanajuato/pisos-en-venta-en-guanajuato/",
+          "lastmod": "2026-09-22T18:16:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/isla-mujeres/pisos-en-venta-en-isla-mujeres/",
+          "lastmod": "2026-09-22T18:16:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/isla-mujeres/",
+          "lastmod": "2026-09-22T18:16:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/cozumel/",
+          "lastmod": "2026-09-22T18:17:00+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/cozumel/terrenos-en-venta-en-cozumel/",
+          "lastmod": "2026-09-22T18:17:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/cozumel/casas-en-venta-en-cozumel/",
+          "lastmod": "2026-09-22T18:17:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/cozumel/apartamentos-en-venta-en-cozumel/",
+          "lastmod": "2026-09-22T18:17:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ixtapa/pisos-en-venta-en-ixtapa/",
+          "lastmod": "2026-09-22T18:17:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ixtapa/",
+          "lastmod": "2026-09-22T18:17:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ixtapa/casas-en-venta-en-ixtapa/",
+          "lastmod": "2026-09-22T18:17:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/rosarito/pisos-en-venta-en-rosarito/",
+          "lastmod": "2026-09-22T18:17:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/rosarito/",
+          "lastmod": "2026-09-22T18:17:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/ixtapa/terrenos-en-venta-en-ixtapa/",
+          "lastmod": "2026-09-22T18:17:06+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/progreso/",
+          "lastmod": "2026-09-22T18:17:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/huatulco/casas-en-venta-en-huatulco/",
+          "lastmod": "2026-09-22T18:17:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/akumal/terrenos-en-venta-en-akumal/",
+          "lastmod": "2026-09-22T18:17:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/akumal/casas-en-venta-en-akumal/",
+          "lastmod": "2026-09-22T18:17:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/akumal/pisos-en-venta-en-akumal/",
+          "lastmod": "2026-09-22T18:17:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/akumal/",
+          "lastmod": "2026-09-22T18:17:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/huatulco/pisos-en-venta-en-huatulco/",
+          "lastmod": "2026-09-22T18:17:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/progreso/terrenos-en-venta-en-progreso/",
+          "lastmod": "2026-09-22T18:17:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/isla-mujeres/casas-en-venta-en-isla-mujeres/",
+          "lastmod": "2026-09-22T18:17:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/progreso/casas-en-venta-en-progreso/",
+          "lastmod": "2026-09-22T18:17:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/progreso/pisos-en-venta-en-progreso/",
+          "lastmod": "2026-09-22T18:17:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/valle-de-bravo/",
+          "lastmod": "2026-09-22T18:17:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-carlos/casas-en-venta-en-san-carlos/",
+          "lastmod": "2026-09-22T18:17:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-carlos/pisos-en-venta-en-san-carlos/",
+          "lastmod": "2026-09-22T18:17:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-carlos/",
+          "lastmod": "2026-09-22T18:17:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/valle-de-bravo/terrenos-en-venta-en-valle-de-bravo/",
+          "lastmod": "2026-09-22T18:17:17+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/valle-de-bravo/pisos-en-venta-en-valle-de-bravo/",
+          "lastmod": "2026-09-22T18:17:17+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-aventuras/terrenos-en-venta-en-puerto-aventuras/",
+          "lastmod": "2026-09-22T18:17:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-aventuras/casas-en-venta-en-puerto-aventuras/",
+          "lastmod": "2026-09-22T18:17:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-aventuras/apartamentos-en-venta-en-puerto-aventuras/",
+          "lastmod": "2026-09-22T18:17:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-aventuras/",
+          "lastmod": "2026-09-22T18:17:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/valle-de-bravo/casas-en-venta-en-valle-de-bravo/",
+          "lastmod": "2026-09-22T18:17:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-mexico/",
+          "lastmod": "2026-09-22T18:17:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-mexico/casas-de-vacaciones-en-mexico/",
+          "lastmod": "2026-09-22T18:17:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-mexico/alquileres-vacacionales-en-mexico-beach/",
+          "lastmod": "2026-09-22T18:17:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/zihuatanejo/terrenos-en-venta-en-zihuatanejo/",
+          "lastmod": "2026-09-22T18:17:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/zihuatanejo/casas-en-venta-en-zihuatanejo/",
+          "lastmod": "2026-09-22T18:17:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/zihuatanejo/apartamentos-en-venta-en-zihuatanejo/",
+          "lastmod": "2026-09-22T18:17:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/zihuatanejo/",
+          "lastmod": "2026-09-22T18:17:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-puerto-vallarta/casas-de-vacaciones-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:17:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-puerto-vallarta/alquileres-de-lujo-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:17:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:17:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-puerto-vallarta/apartamentos-en-alquiler-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:17:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/loreto/bahia-de-danzante/",
+          "lastmod": "2026-09-22T18:17:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-puerto-vallarta/alquileres-frente-al-mar-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:17:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/bacalar/pisos-en-venta-en-bacalar/",
+          "lastmod": "2026-09-22T18:17:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-puerto-vallarta/apartamentos-en-alquiler-en-puerto-vallarta-2/",
+          "lastmod": "2026-09-22T18:17:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/bacalar/",
+          "lastmod": "2026-09-22T18:17:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/la-paz/el-tecolote/",
+          "lastmod": "2026-09-22T18:17:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-carlos/terrenos-en-venta-en-san-carlos/",
+          "lastmod": "2026-09-22T18:17:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/cabo-oriental/zacatitos/",
+          "lastmod": "2026-09-22T18:17:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-todos-santos/",
+          "lastmod": "2026-09-22T18:17:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T18:17:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T18:17:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-los-cabos/",
+          "lastmod": "2026-09-22T18:17:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-la-riviera-nayarit/",
+          "lastmod": "2026-09-22T18:17:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-los-cabos/alquileres-frente-al-mar-en-los-cabos/",
+          "lastmod": "2026-09-22T18:17:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-la-riviera-nayarit/alquileres-frente-al-mar-en-riviera-nayarit/",
+          "lastmod": "2026-09-22T18:17:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-cabo-san-lucas/apartamentos-en-alquiler-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T18:17:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-nuevo-vallarta/apartamentos-en-alquiler-en-nuevo-vallarta/",
+          "lastmod": "2026-09-22T18:17:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-cabo-san-lucas/alquileres-de-lujo-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T18:17:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-nuevo-vallarta/",
+          "lastmod": "2026-09-22T18:17:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/inmobiliaria-en-mazatlan-casas-y-pisos-en-venta/casas-en-venta-en-mazatlan/",
+          "lastmod": "2026-09-22T19:18:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/inmobiliaria-en-mazatlan-casas-y-pisos-en-venta/pisos-en-venta-en-mazatlan/",
+          "lastmod": "2026-09-22T19:18:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/inmobiliaria-en-mazatlan-casas-y-pisos-en-venta/terrenos-en-venta-en-mazatlan/",
+          "lastmod": "2026-09-22T19:18:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/inmobiliaria-en-mazatlan-casas-y-pisos-en-venta/",
+          "lastmod": "2026-09-22T19:18:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-sayulita/",
+          "lastmod": "2026-09-22T19:18:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-punta-mita/alquileres-de-lujo-en-punta-mita/",
+          "lastmod": "2026-09-22T19:18:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-bucerias/",
+          "lastmod": "2026-09-22T19:18:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-punta-mita/",
+          "lastmod": "2026-09-22T19:18:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/melaque/",
+          "lastmod": "2026-09-22T19:18:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-cabo-san-lucas/apartamentos-en-alquiler-en-cabo-san-lucas-2/",
+          "lastmod": "2026-09-22T19:19:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-san-pancho/apartamentos-en-alquiler-en-san-pancho/",
+          "lastmod": "2026-09-22T19:19:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-la-paz/",
+          "lastmod": "2026-09-22T19:19:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-san-pancho/",
+          "lastmod": "2026-09-22T19:19:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/pisos-en-alquiler-en-san-miguel-de-allende/",
+          "lastmod": "2026-09-22T19:19:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-la-riviera-nayarit/alquileres-de-lujo-en-la-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:19:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-sayulita/casas-de-vacaciones-en-sayulita/",
+          "lastmod": "2026-09-22T19:19:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-nuevo-vallarta/alquileres-frente-al-mar-en-nuevo-vallarta/",
+          "lastmod": "2026-09-22T19:19:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-sayulita/alquileres-frente-al-mar-en-sayulita/",
+          "lastmod": "2026-09-22T19:19:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-mexico/alquileres-vacacionales-de-lujo-en-mexico/",
+          "lastmod": "2026-09-22T19:19:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-punta-mita/villas-en-alquiler-en-punta-mita/",
+          "lastmod": "2026-09-22T19:19:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-bucerias/alquileres-frente-al-mar-en-bucerias/",
+          "lastmod": "2026-09-22T19:19:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/alquileres-vacacionales-en-bucerias/apartamentos-en-alquiler-en-bucerias/",
+          "lastmod": "2026-09-22T19:19:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/alero/",
+          "lastmod": "2026-09-22T19:19:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/residencias-kinau-marina/",
+          "lastmod": "2026-09-22T19:19:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/tramonti-paradiso-2/",
+          "lastmod": "2026-09-22T19:19:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/casa-loma/",
+          "lastmod": "2026-09-22T19:19:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/espana-316-2/",
+          "lastmod": "2026-09-22T19:19:52+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/dei-mare-2/",
+          "lastmod": "2026-09-22T19:19:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/canteria/",
+          "lastmod": "2026-09-22T19:19:54+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/calle-principal-de-bucerias/",
+          "lastmod": "2026-09-22T19:19:54+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/naarena/",
+          "lastmod": "2026-09-22T19:19:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/mady-hake/",
+          "lastmod": "2026-09-22T19:19:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/lorna-fitzsimons/",
+          "lastmod": "2026-09-22T19:20:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/zuri-tames/",
+          "lastmod": "2026-09-22T19:20:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/lesley-fay/",
+          "lastmod": "2026-09-22T19:20:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/brenda-sanchez/",
+          "lastmod": "2026-09-22T19:20:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/courses/curso-magistral-para-agentes/",
+          "lastmod": "2026-09-22T19:21:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/courses/clase-magistral-para-compradores/",
+          "lastmod": "2026-09-22T19:21:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/1-4-humildad-y-serenidad-no-te-tomes-demasiado-en-serio/",
+          "lastmod": "2026-09-22T19:21:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/1-3-la-autenticidad-como-herramienta-empresarial-se-tu-mismo/",
+          "lastmod": "2026-09-22T19:21:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/1-2-el-protagonista-de-tu-propio-espectaculo-como-ganarte-el-respeto/",
+          "lastmod": "2026-09-22T19:21:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/1-1-lo-basico-hacer-la-cama/",
+          "lastmod": "2026-09-22T19:21:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/0-bienvenida-e-introduccion/",
+          "lastmod": "2026-09-22T19:21:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/en-resumen/",
+          "lastmod": "2026-09-22T19:21:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/todo-es-cuestion-de-sincronizacion/",
+          "lastmod": "2026-09-22T19:21:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/dia-de-cierre/",
+          "lastmod": "2026-09-22T19:21:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/como-trabajar-con-un-agente-inmobiliario/",
+          "lastmod": "2026-09-22T19:21:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/hacer-una-oferta/",
+          "lastmod": "2026-09-22T19:21:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/acceso-acceso-acceso-informo/",
+          "lastmod": "2026-09-22T19:21:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/compras-preguntas-que-debes-hacer/",
+          "lastmod": "2026-09-22T19:21:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/visitas-a-pisos-cuanto-mas-vayas-mas-aprenderas/",
+          "lastmod": "2026-09-22T19:21:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/conoce-a-tu-profesor/",
+          "lastmod": "2026-09-22T19:21:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/como-entender-la-jerga-inmobiliaria/",
+          "lastmod": "2026-09-22T19:21:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/2-2-infraestructura-esencial-las-cosas-que-deberias-tener/",
+          "lastmod": "2026-09-22T19:21:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/1-5-la-cuspide-del-respeto-por-uno-mismo-hazlo-todo-con-elegancia/",
+          "lastmod": "2026-09-22T19:21:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/2-1-certificacion-la-barrera-profesional-de-acceso-al-mercado/",
+          "lastmod": "2026-09-22T19:21:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/2-6-el-poder-de-tu-historia-personal/",
+          "lastmod": "2026-09-22T19:21:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/1-6-rendir-al-maximo-nivel/",
+          "lastmod": "2026-09-22T19:21:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/2-5-la-agencia-frente-a-crear-tu-propia-marca/",
+          "lastmod": "2026-09-22T19:21:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-5-crea-tu-oferta-la-propuesta-de-una-sola-pagina/",
+          "lastmod": "2026-09-22T19:21:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/2-4-el-cerebro-de-la-operacion-como-usar-un-crm-y-flex-mls/",
+          "lastmod": "2026-09-22T19:21:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/2-3-tu-centro-digital-como-crear-una-pagina-web-de-primera-categoria/",
+          "lastmod": "2026-09-22T19:21:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-4-fijacion-estrategica-de-precios-y-la-ciencia-de-la-negociacion/",
+          "lastmod": "2026-09-22T19:21:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-3-comunicacion-con-el-cliente-tras-la-aceptacion/",
+          "lastmod": "2026-09-22T19:21:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/6-3-estructuracion-del-recorrido-del-cliente/",
+          "lastmod": "2026-09-22T19:21:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-2-dedicarle-tiempo-el-esfuerzo-fisico/",
+          "lastmod": "2026-09-22T19:21:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/6-2-la-transicion-del-agente-al-director-general/",
+          "lastmod": "2026-09-22T19:21:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-1-la-regla-de-los-5-minutos-crear-un-vinculo-con-el-cliente/",
+          "lastmod": "2026-09-22T19:21:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/6-1-como-formar-tu-equipo-de-apoyo-imprescindible/",
+          "lastmod": "2026-09-22T19:21:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/leccion/",
+          "lastmod": "2026-09-22T19:21:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-7-la-regla-de-los-7-anos-estrategia-empresarial-a-largo-plazo/",
+          "lastmod": "2026-09-22T19:21:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/leccion-2/",
+          "lastmod": "2026-09-22T19:21:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-6-el-truco-de-las-tarjetas-de-visita/",
+          "lastmod": "2026-09-22T19:21:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/4-4-financiacion-de-no-residentes-y-fuentes-de-financiacion-alternativas/",
+          "lastmod": "2026-09-22T19:21:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-5-hacer-contactos-con-elegancia-como-ser-el-mejor-agente-con-el-que-trabajar/",
+          "lastmod": "2026-09-22T19:21:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/4-3-lista-de-comprobacion-para-la-diligencia-debida-del-agente/",
+          "lastmod": "2026-09-22T19:21:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-4-tu-tarjeta-de-visita-unica-como-contarle-a-todo-el-mundo-a-que-te-dedicas/",
+          "lastmod": "2026-09-22T19:21:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/4-2-que-es-un-fideicomiso-fideicomiso-bancario/",
+          "lastmod": "2026-09-22T19:21:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-3-como-convertirte-en-una-autoridad-como-escribir-tus-guias-practicas/",
+          "lastmod": "2026-09-22T19:21:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/4-1-el-papel-fundamental-del-notario-y-el-proceso-de-formalizacion/",
+          "lastmod": "2026-09-22T19:21:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-2-como-crear-una-comunidad-con-una-presencia-constante-en-las-redes-sociales/",
+          "lastmod": "2026-09-22T19:21:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-6-deja-boquiabiertos-a-tus-clientes-excelencia-en-las-transacciones/",
+          "lastmod": "2026-09-22T19:21:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-1-vende-el-chisporroteo-no-el-filete-el-estilo-de-vida/",
+          "lastmod": "2026-09-22T19:21:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-4-tu-tarjeta-de-visita-unica-como-contarle-a-todo-el-mundo-a-que-te-dedicas-2/",
+          "lastmod": "2026-09-22T19:21:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/4-3-lista-de-comprobacion-para-la-diligencia-debida-del-agente-2/",
+          "lastmod": "2026-09-22T19:21:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-3-como-convertirte-en-una-autoridad-como-escribir-tus-guias-practicas-2/",
+          "lastmod": "2026-09-22T19:21:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/4-2-que-es-un-fideicomiso-fideicomiso-bancario-2/",
+          "lastmod": "2026-09-22T19:21:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-2-como-crear-una-comunidad-con-una-presencia-constante-en-las-redes-sociales-2/",
+          "lastmod": "2026-09-22T19:21:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/4-1-el-papel-fundamental-del-notario-y-el-proceso-de-formalizacion-2/",
+          "lastmod": "2026-09-22T19:21:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-1-vende-el-chisporroteo-no-el-filete-el-estilo-de-vida-2/",
+          "lastmod": "2026-09-22T19:21:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-6-deja-boquiabiertos-a-tus-clientes-excelencia-en-las-transacciones-2/",
+          "lastmod": "2026-09-22T19:21:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/4-4-financiacion-de-no-residentes-y-fuentes-de-financiacion-alternativas-2/",
+          "lastmod": "2026-09-22T19:21:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-5-crea-tu-oferta-la-propuesta-de-una-sola-pagina-2/",
+          "lastmod": "2026-09-22T19:21:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/construye-la-vida-de-tus-suenos/",
+          "lastmod": "2026-09-22T19:21:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-4-fijacion-estrategica-de-precios-y-la-ciencia-de-la-negociacion-2/",
+          "lastmod": "2026-09-22T19:21:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/6-4-indicadores-clave-de-rendimiento-kpi-que-realmente-importan/",
+          "lastmod": "2026-09-22T19:21:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-3-comunicacion-con-el-cliente-tras-la-aceptacion-2/",
+          "lastmod": "2026-09-22T19:21:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/6-3-estructuracion-del-recorrido-del-cliente-2/",
+          "lastmod": "2026-09-22T19:21:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-2-dedicarle-tiempo-el-esfuerzo-fisico-2/",
+          "lastmod": "2026-09-22T19:21:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/6-2-la-transicion-del-agente-al-director-general-2/",
+          "lastmod": "2026-09-22T19:21:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/3-1-la-regla-de-los-5-minutos-crear-un-vinculo-con-el-cliente-2/",
+          "lastmod": "2026-09-22T19:21:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/6-1-como-formar-tu-equipo-de-apoyo-imprescindible-2/",
+          "lastmod": "2026-09-22T19:21:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/6-4-indicadores-clave-de-rendimiento-kpi-que-realmente-importan-2/",
+          "lastmod": "2026-09-22T19:21:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-7-la-regla-de-los-7-anos-estrategia-empresarial-a-largo-plazo-2/",
+          "lastmod": "2026-09-22T19:21:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-6-el-truco-de-las-tarjetas-de-visita-2/",
+          "lastmod": "2026-09-22T19:21:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/lessons/5-5-hacer-contactos-con-elegancia-como-ser-el-mejor-agente-con-el-que-trabajar-2/",
+          "lastmod": "2026-09-22T19:21:45+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://mexhome.com/es/area/lago-de-chapala/san-antonio-tlayacapan/",
+          "lastmod": "2025-08-15T18:17:42+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/blog/",
+          "lastmod": "2026-09-22T22:17:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/",
+          "lastmod": "2026-09-22T18:14:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-una-segunda-casa-en-mexico/",
+          "lastmod": "2026-09-22T19:21:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/consejos-para-que-construyas-tu-casa-en-mexico/",
+          "lastmod": "2026-09-22T19:21:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/aguachile-comida-tradicional-mexicana/",
+          "lastmod": "2026-09-22T19:21:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mercados-agricolas-en-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:21:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vender-su-casa/",
+          "lastmod": "2026-09-22T19:21:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/fideicomisos-bancarios-en-mexico/",
+          "lastmod": "2026-09-22T19:21:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-una-renta-vacacional-en-mexico/",
+          "lastmod": "2026-09-22T19:21:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mudarse-a-mexico/",
+          "lastmod": "2026-09-22T19:21:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-bloomberg-considera-a-riviera-nayarit-el-proximo-destino-it/",
+          "lastmod": "2026-09-22T19:21:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/errores-que-hacen-que-una-propiedad-sea-dificil-de-vender/",
+          "lastmod": "2026-09-22T19:22:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/un-pequeno-rincon-de-mexico-experimenta-un-auge-de-la-inversion-inmobiliaria/",
+          "lastmod": "2026-09-22T19:22:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/palabras-clave-para-comprar-una-casa-en-mexico/",
+          "lastmod": "2026-09-22T19:22:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-riviera-nayarit-de-mexico-recibira-nuevos-hoteles/",
+          "lastmod": "2026-09-22T19:22:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-nueva-carretera-de-nayarit-une-jala-y-compostela/",
+          "lastmod": "2026-09-22T19:22:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-comprar-una-casa-en-mexico/",
+          "lastmod": "2026-09-22T19:22:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vidanta-y-el-cirque-du-soleil-anuncian-un-espectacular-espectaculo-acuatico/",
+          "lastmod": "2026-09-22T19:22:06+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/restaurantes-sayulita/",
+          "lastmod": "2026-09-22T19:22:06+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/restaurantes-san-pancho/",
+          "lastmod": "2026-09-22T19:22:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vida-nocturna-en-sayulita/",
+          "lastmod": "2026-09-22T19:22:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/pier-57-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/zona-romantica-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/punto-novo-condos-nuevo-vallarta/",
+          "lastmod": "2026-09-22T19:22:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprando-una-casa-en-mexico/",
+          "lastmod": "2026-09-22T19:22:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-vida-nocturna-de-san-pancho/",
+          "lastmod": "2026-09-22T19:22:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desayuno-san-pancho/",
+          "lastmod": "2026-09-22T19:22:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/restaurantes-punta-de-mita/",
+          "lastmod": "2026-09-22T19:22:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/proceso-de-cierre-de-casas-en-mexico/",
+          "lastmod": "2026-09-22T19:22:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/believe-flamingos-nuevo-vallarta/",
+          "lastmod": "2026-09-22T19:22:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/agente-inmobiliario-mexico/",
+          "lastmod": "2026-09-22T19:22:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/duva-condos-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/oasis-at-river-cuale-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/quadrant-bucerias/",
+          "lastmod": "2026-09-22T19:22:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/maralma-condos-en-bucerias/",
+          "lastmod": "2026-09-22T19:22:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/arekas-condos-en-nuevo-vallarta/",
+          "lastmod": "2026-09-22T19:22:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/koralion-living-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/condominios-valarte-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/harbor-171-ocean-front-residences/",
+          "lastmod": "2026-09-22T19:22:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/condominios-en-venta-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/varia-living-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-abc-de-la-elaboracion-de-presupuestos/",
+          "lastmod": "2026-09-22T19:22:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/lanzamiento-del-logotipo-de-new-mexhome/",
+          "lastmod": "2026-09-22T19:22:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/lo-que-los-monjes-pueden-ensenarnos-sobre-como-lavar-los-platos/",
+          "lastmod": "2026-09-22T19:22:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/bucerias/",
+          "lastmod": "2026-09-22T19:22:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/riviera-nayarit-2/",
+          "lastmod": "2026-09-22T19:22:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/nomadas-digitales/",
+          "lastmod": "2026-09-22T19:22:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-las-propiedades-en-nuevo-vallarta-son-una-gran-inversion/",
+          "lastmod": "2026-09-22T19:22:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/trabajar-desde-casa/",
+          "lastmod": "2026-09-22T19:22:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/diseno-desde-casa/",
+          "lastmod": "2026-09-22T19:22:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/noticias-de-la-oficina-de-mexhome-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:22:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mexhome-lanza-nuevas-preguntas-frecuentes-y-guia-para-vendedores/",
+          "lastmod": "2026-09-22T19:22:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/generador-de-descripciones-de-propiedades-de-inteligencia-artificial/",
+          "lastmod": "2026-09-22T19:22:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/una-guia-completa-para-comprar-bienes-raices-en-san-pancho-mexico/",
+          "lastmod": "2026-09-22T19:22:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/razones-por-las-que-es-conveniente-invertir-en-un-condominio-en-mexico-parte-2/",
+          "lastmod": "2026-09-22T19:22:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/razones-por-las-que-es-conveniente-invertir-en-un-condominio-en-mexico-parte-1/",
+          "lastmod": "2026-09-22T19:22:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-bienes-inmuebles-en-mexico/",
+          "lastmod": "2026-09-22T19:22:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/cuando-es-el-mejor-momento-para-comprar-casas-en-venta-en-mexico/",
+          "lastmod": "2026-09-22T19:22:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-una-propiedad-en-sayulita/",
+          "lastmod": "2026-09-22T19:22:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/consejos-para-encontrar-un-agente-inmobiliario-de-confianza-en-mexico/",
+          "lastmod": "2026-09-22T19:22:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/6-ventajas-de-comprar-una-propiedad-en-renta-en-mexico-en-2023/",
+          "lastmod": "2026-09-22T19:22:52+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/puedes-vender-bienes-raices-en-mexico-mas-rapido-con-open-ai/",
+          "lastmod": "2026-09-22T19:22:52+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/compra-y-venta-de-bienes-raices-en-la-riviera-nayarit-guia-de-preguntas-frecuentes/",
+          "lastmod": "2026-09-22T19:22:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/riviera-nayarit-bienes-raices/",
+          "lastmod": "2026-09-22T19:22:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/6-mejores-ciudades-y-pueblos-de-mexico-para-invertir-en-bienes-raices-asequibles/",
+          "lastmod": "2026-09-22T19:22:54+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-una-propiedad-frente-al-mar-en-nuevo-vallarta-una-guia/",
+          "lastmod": "2026-09-22T19:22:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mexhome-servicios-de-diseno/",
+          "lastmod": "2026-09-22T19:22:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-puedes-hacer-en-riviera-nayarit-para-entretenerte/",
+          "lastmod": "2026-09-22T19:22:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/sayulita-mexico-que-saber-sobre-sus-bienes-raices/",
+          "lastmod": "2026-09-22T19:22:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mexhome-anuncia-mejoras-significativas-en-las-paginas-de-desarrollo/",
+          "lastmod": "2026-09-22T19:22:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-vendedores-y-compradores-necesitan-tasar-la-propiedad/",
+          "lastmod": "2026-09-22T19:22:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-invertir-en-bienes-raices-en-mexico-durante-una-recesion-es-una-buena-idea/",
+          "lastmod": "2026-09-22T19:22:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-comprar-un-condominio-en-mexico-guia-rapida-paso-a-paso/",
+          "lastmod": "2026-09-22T19:22:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-proceso-de-comprar-una-casa-en-puerto-vallarta-parte-2/",
+          "lastmod": "2026-09-22T19:22:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/encanto-y-compromiso-de-vivir-en-el-campo-mexicano/",
+          "lastmod": "2026-09-22T19:23:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/5-consejos-utiles-para-propietarios-de-bienes-raices-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:23:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/6-ventajas-de-poseer-una-casa-de-vacaciones-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:23:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubriendo-riviera-nayarit-los-7-pueblos-que-no-debes-perderte/",
+          "lastmod": "2026-09-22T19:23:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/5-cosas-que-debe-saber-antes-de-comprar-una-propiedad-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:23:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mudarse-a-mexico-por-que-mudarse-a-sayulita/",
+          "lastmod": "2026-09-22T19:23:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vivir-en-puerto-vallarta-guia-del-paraiso-junto-a-la-playa/",
+          "lastmod": "2026-09-22T19:23:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/contratos-de-compraventa-previa-a-la-construccion-en-mexico-lo-que-debe-entender/",
+          "lastmod": "2026-09-22T19:23:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-para-elegir-propiedades-de-inversion-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:23:06+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-para-la-compra-de-propiedades-e-inmuebles-en-mexico/",
+          "lastmod": "2026-09-22T19:23:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/las-principales-razones-para-trasladarse-a-mexico/",
+          "lastmod": "2026-09-22T19:23:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-guia-definitiva-para-comprar-el-local-comercial-adecuado/",
+          "lastmod": "2026-09-22T19:23:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/compra-de-inmuebles-en-mexico-el-peso-frente-al-dolar/",
+          "lastmod": "2026-09-22T19:23:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-y-donde-invertir-en-inmuebles-en-ciudad-de-mexico/",
+          "lastmod": "2026-09-22T19:23:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-paraiso-te-espera-encuentre-la-casa-de-sus-suenos-en-riviera-nayarit-mexico-2/",
+          "lastmod": "2026-09-22T19:23:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/consejos-y-trucos-para-hacer-la-compra-sin-complicaciones-en-mexico/",
+          "lastmod": "2026-09-22T19:23:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-calcular-y-maximizar-el-roi-de-las-casas-en-mexico-una-guia/",
+          "lastmod": "2026-09-22T19:23:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/propiedades-mexicanas-fideicomisos-vs-sociedades-para-extranjeros/",
+          "lastmod": "2026-09-22T19:23:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/5-ciudades-mexicanas-calificadas-como-los-mejores-lugares-para-vivir/",
+          "lastmod": "2026-09-22T19:23:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/3-consideraciones-antes-de-tener-la-casa-perfecta-en-mexico/",
+          "lastmod": "2026-09-22T19:23:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/lo-que-debe-saber-sobre-la-planificacion-patrimonial-en-mexico/",
+          "lastmod": "2026-09-22T19:23:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/las-8-razones-principales-por-las-que-vale-la-pena-arriesgarse-con-bienes-raices-en-mexico/",
+          "lastmod": "2026-09-22T19:23:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-ciudad-de-mexico-es-mas-segura-de-lo-que-te-han-hecho-creer/",
+          "lastmod": "2026-09-22T19:23:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/riesgos-y-beneficios-de-la-preconstruccion-inmobiliaria-en-mexico/",
+          "lastmod": "2026-09-22T19:23:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-completa-para-anunciar-su-propiedad-en-mexico/",
+          "lastmod": "2026-09-22T19:23:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/elegir-entre-piso-y-casa-guia-completa/",
+          "lastmod": "2026-09-22T19:23:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/precio-de-casas-ideales-en-mexico-una-guia-completa/",
+          "lastmod": "2026-09-22T19:23:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/5-factores-a-considerar-en-la-compra-de-propiedades-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:23:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mudarse-a-mexico-esta-es-su-guia-definitiva-para-la-reubicacion/",
+          "lastmod": "2026-09-22T19:23:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/casas-en-puerto-vallarta-vs-condominios-que-considerar/",
+          "lastmod": "2026-09-22T19:23:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/opciones-de-seguro-medico-para-expatriados/",
+          "lastmod": "2026-09-22T19:23:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/rentar-vs-comprar-una-propiedad-en-mexico-que-es-mejor/",
+          "lastmod": "2026-09-22T19:23:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-verdad-sobre-mexico-5-datos-menos-conocidos-que-debes-conocer/",
+          "lastmod": "2026-09-22T19:23:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/seguro-de-enfermedad-101/",
+          "lastmod": "2026-09-22T19:23:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/10-consejos-para-conducir-con-seguridad-en-mexico/",
+          "lastmod": "2026-09-22T19:23:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/una-nueva-vida-le-espera-en-mexico/",
+          "lastmod": "2026-09-22T19:23:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-los-extranjeros-contratan-seguros-de-hogar/",
+          "lastmod": "2026-09-22T19:23:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/preguntas-frecuentes-sobre-compra-y-venta-de-bienes-raices-en-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/seguro-para-su-alquiler-de-vacaciones-en-mexico/",
+          "lastmod": "2026-09-22T19:23:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-de-la-sanidad-en-mexico/",
+          "lastmod": "2026-09-22T19:23:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/seguros-ayudar-a-proteger-sus-inversiones-financieras/",
+          "lastmod": "2026-09-22T19:23:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vender-una-propiedad-en-mexico-una-inmersion-profunda-en-impuestos-y-costos/",
+          "lastmod": "2026-09-22T19:23:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-una-propiedad-en-mexico-costos-e-impuestos-explicados/",
+          "lastmod": "2026-09-22T19:23:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-esencial-para-los-tramites-de-compra-de-una-propiedad-en-mexico/",
+          "lastmod": "2026-09-22T19:23:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/cuanto-se-tarda-en-comprar-vender-y-transferir-en-mexico/",
+          "lastmod": "2026-09-22T19:23:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/valuacion-de-propiedades-en-mexico-una-guia-completa/",
+          "lastmod": "2026-09-22T19:23:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/contactos-clave-esenciales-para-la-compra-de-propiedades-en-mexico/",
+          "lastmod": "2026-09-22T19:23:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explorando-la-propiedad-mexicana-titulo-vs-posesion/",
+          "lastmod": "2026-09-22T19:23:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/financiar-una-propiedad-en-mexico-una-guia-completa/",
+          "lastmod": "2026-09-22T19:23:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/necesidades-de-seguro-de-los-nomadas-digitales/",
+          "lastmod": "2026-09-22T19:23:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/opciones-inmobiliarias-ecologicas-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-es-el-seguro-de-vivienda/",
+          "lastmod": "2026-09-22T19:23:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/consejos-para-encontrar-alojamiento-en-mexico/",
+          "lastmod": "2026-09-22T19:23:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-una-propiedad-en-mexico-guia-completa-para-extranjeros/",
+          "lastmod": "2026-09-22T19:23:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/oportunidades-de-inversion-inmobiliaria-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-paso-a-paso-para-compradores-de-bienes-raices-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/puerto-vallarta-y-riviera-nayarit-la-aventura-te-espera-con-la-vibrante-vida-frente-al-mar-de-mexico/",
+          "lastmod": "2026-09-22T19:23:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/entendiendo-el-financiamiento-inmobiliario-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/consejos-esenciales-para-comprar-un-condominio-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/dominando-el-mercado-de-rentas-en-puerto-vallarta-y-riviera-nayarit-consejos-para-invertir/",
+          "lastmod": "2026-09-22T19:23:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-inspeccion-de-su-propiedad-una-guia-completa-para-compradores-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubra-el-vibrante-estilo-de-vida-y-la-comunidad-de-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-para-una-vida-ecologica-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/revelan-la-verdad-sobre-la-compra-de-propiedades-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/las-5-mejores-colonias-para-invertir-en-propiedades-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/tendencias-de-inversion-inmobiliaria-sostenible-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-de-inversiones-inmobiliarias-ecologicas-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/su-guia-para-explorar-las-opciones-inmobiliarias-de-gama-alta-para-compradores-exigentes/",
+          "lastmod": "2026-09-22T19:23:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-paso-a-paso-para-comprar-inmuebles-de-lujo-en-mexico/",
+          "lastmod": "2026-09-22T19:23:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/capitalizando-las-inversiones-en-rentas-vacacionales-en-puerto-vallarta-y-riviera-nayarit-guia-del-inversionista-para-bienes-raices-de-alto-rendimiento/",
+          "lastmod": "2026-09-22T19:23:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/regresando-a-casa-guia-completa-para-la-compra-de-inmuebles-en-puerto-vallarta-y-riviera-nayarit-para-repatriados/",
+          "lastmod": "2026-09-22T19:23:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/los-beneficios-de-un-estilo-de-vida-activo-y-saludable-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desentranando-los-costos-de-cierre-e-impuestos-en-puerto-vallarta-y-riviera-nayarit-guia-de-lectura-obligada-para-compradores-de-propiedades/",
+          "lastmod": "2026-09-22T19:23:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/navegando-en-el-mercado-inmobiliario-de-puerto-vallarta-y-riviera-nayarit-guia-para-compradores-por-primera-vez/",
+          "lastmod": "2026-09-22T19:23:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/encuentre-la-casa-vacacional-de-sus-suenos-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/oportunidades-de-inversion-en-puerto-vallarta-y-riviera-nayarit-una-guia-para-lucrativos-emprendimientos-inmobiliarios/",
+          "lastmod": "2026-09-22T19:23:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/una-guia-completa-de-bienes-raices-y-estilo-de-vida-en-puerto-vallarta-y-riviera-nayarit-para-jubilados/",
+          "lastmod": "2026-09-22T19:23:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/jubilate-e-invierte-en-el-paraiso-descubre-las-oportunidades-inmobiliarias-de-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/equilibrio-entre-lujo-y-sostenibilidad-el-auge-de-las-propiedades-ecologicas-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/ampliando-tu-espacio-exterior-creando-hermosos-espacios-exteriores-en-casas-de-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/consejos-para-mudarse-a-puerto-vallarta-y-riviera-nayarit-consejos-invaluables-para-una-exitosa-reubicacion-en-las-regiones-costeras-de-mexico/",
+          "lastmod": "2026-09-22T19:23:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/maximizando-el-roi-en-puerto-vallarta-y-riviera-nayarit-consejos-para-seleccionar-propiedades-de-inversion/",
+          "lastmod": "2026-09-22T19:23:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/adopte-la-vida-sostenible-con-bienes-raices-ecologicos-en-puerto-vallarta-y-riviera-nayarit-una-guia-completa/",
+          "lastmod": "2026-09-22T19:23:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-para-vivir-una-jubilacion-asequible-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/entendiendo-el-mercado-de-rentas-en-puerto-vallarta-y-riviera-nayarit-oportunidades-de-inversion/",
+          "lastmod": "2026-09-22T19:23:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-intrincado-proceso-de-construir-la-casa-de-sus-suenos-en-puerto-vallarta-o-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubrir-y-apoyar-la-escena-artistica-local-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/jubilarse-con-lujo-guia-de-bienes-raices-para-la-jubilacion-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:54+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/propiedades-de-alquiler-vacacional-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-del-proceso-de-cierre-de-una-operacion-inmobiliaria-para-compradores-extranjeros/",
+          "lastmod": "2026-09-22T19:23:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vida-ecologica-en-puerto-vallarta-sostenibilidad-e-inversion-inmobiliaria-responsable/",
+          "lastmod": "2026-09-22T19:23:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vida-ecologica-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:23:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/financiamiento-para-bienes-raices-en-puerto-vallarta-y-riviera-nayarit-estrategias-para-compradores-extranjeros/",
+          "lastmod": "2026-09-22T19:24:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/casas-ecologicas-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/las-mejores-playas-mexicanas-para-invertir-en-bienes-raices-guia-mexhome/",
+          "lastmod": "2026-09-22T19:24:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/crea-tu-refugio-ecologico-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-encanto-de-la-vida-ecologica-en-mexico-guia-para-compradores-de-mexhome/",
+          "lastmod": "2026-09-22T19:24:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/asegure-el-exito-academico-de-su-hijo-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/entendiendo-el-fideicomiso-guia-para-la-propiedad-extranjera-de-bienes-inmuebles-en-mexico/",
+          "lastmod": "2026-09-22T19:24:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/su-guia-para-invertir-en-rentas-vacacionales-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/invierta-en-una-vida-de-lujo-explorando-comunidades-cerradas-de-lujo-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:17+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/servicios-de-administracion-de-propiedades-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explorar-la-bulliciosa-escena-artistica-de-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-encanto-del-ecoturismo-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-estilo-de-vida-de-los-expatriados-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/alcanzar-el-equilibrio-perfecto-entre-trabajo-y-vida-privada-en-los-paraisos-costeros-de-mexico/",
+          "lastmod": "2026-09-22T19:24:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/su-guia-para-comprar-bienes-raices-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-y-vive-los-bienes-raices-de-riviera-nayarit-con-mexhome/",
+          "lastmod": "2026-09-22T19:24:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/una-vida-sostenible-y-respetuosa-con-el-medio-ambiente-en-los-paraisos-costeros-de-mexico-2/",
+          "lastmod": "2026-09-22T19:24:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubriendo-los-diversos-barrios-de-puerto-vallarta-una-guia-completa-para-encontrar-su-casa-perfecta/",
+          "lastmod": "2026-09-22T19:24:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-definitiva-de-financiamiento-hipotecario-para-bienes-raices-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/oportunidades-de-eco-inversion-en-puerto-vallarta-explorando-opciones-inmobiliarias-sostenibles/",
+          "lastmod": "2026-09-22T19:24:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/navegando-el-mercado-inmobiliario-de-lujo-en-riviera-nayarit-una-guia-completa-para-compradores-exigentes/",
+          "lastmod": "2026-09-22T19:24:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vida-sostenible-en-puerto-vallarta-casas-ecologicas-e-iniciativas-verdes/",
+          "lastmod": "2026-09-22T19:24:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/como-dominar-el-mercado-inmobiliario-mexicano-para-compradores-de-vivienda/",
+          "lastmod": "2026-09-22T19:24:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/las-alegrias-del-retiro-en-riviera-nayarit-explorando-las-amenidades-y-ofertas-de-estilo-de-vida-para-jubilados/",
+          "lastmod": "2026-09-22T19:24:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/isla-de-mexico-en-venta/",
+          "lastmod": "2026-09-22T19:24:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mexhome-anuncia-su-asociacion-con-vivo-resorts-ampliando-horizontes-en-puerto-escondido/",
+          "lastmod": "2026-09-22T19:24:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubra-las-increibles-actividades-y-atracciones-de-todos-santos/",
+          "lastmod": "2026-09-22T19:24:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/increibles-actividades-y-experiencias-en-tierra-en-todos-santos/",
+          "lastmod": "2026-09-22T19:24:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/navegando-por-el-mercado-de-condominios-en-puerto-vallarta-guia-completa-para-compradores-y-vendedores/",
+          "lastmod": "2026-09-22T19:24:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubra-boutiques-galerias-y-tiendas-unicas-en-todos-santos/",
+          "lastmod": "2026-09-22T19:24:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/dominando-el-mercado-de-rentas-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/dominar-la-inversion-inmobiliaria-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vida-familiar-en-riviera-nayarit-como-elegir-la-casa-y-el-barrio-ideales-para-tu-familia-en-crecimiento/",
+          "lastmod": "2026-09-22T19:24:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/boutiques-galerias-y-compras-en-puerto-escondido/",
+          "lastmod": "2026-09-22T19:24:52+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/adopta-el-estilo-de-vida-expat-en-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-los-barrios-aptos-para-familias-y-mascotas-de-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:24:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vive-con-tu-mascota-en-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:24:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-de-los-mejores-barrios-de-puerto-vallarta-para-compradores-de-vivienda-e-inversores/",
+          "lastmod": "2026-09-22T19:25:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explora-los-diversos-barrios-de-puerto-escondido/",
+          "lastmod": "2026-09-22T19:25:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/delicias-de-retirarse-en-la-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:25:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-inmobiliaria-de-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T19:25:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explora-la-inmobiliaria-de-la-paz-del-centro-a-las-joyas-frente-al-mar/",
+          "lastmod": "2026-09-22T19:25:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-hacer-en-puerto-escondido/",
+          "lastmod": "2026-09-22T19:25:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/excursiones-divertidas-de-un-dia-por-la-zona-de-puerto-escondido/",
+          "lastmod": "2026-09-22T19:25:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-el-paraiso-invierte-hoy-en-bienes-raices-en-los-cerritos-baja/",
+          "lastmod": "2026-09-22T19:25:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/fiestas-mayores-y-eventos-anuales-en-puerto-escondido/",
+          "lastmod": "2026-09-22T19:25:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desbloquea-el-pescadero-oportunidades-inmobiliarias-frente-al-mar/",
+          "lastmod": "2026-09-22T19:25:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/condominios-el-arco-una-joya-en-el-corredor-de-cabo/",
+          "lastmod": "2026-09-22T19:25:17+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/tee-off-en-el-paraiso-guia-completa-de-los-campos-de-golf-de-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:25:17+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/estilo-de-vida-y-bienes-inmuebles-en-los-cabos/",
+          "lastmod": "2026-09-22T19:25:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-hacer-en-la-paz/",
+          "lastmod": "2026-09-22T19:25:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vivir-y-bienes-inmuebles-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T19:25:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vivir-en-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T19:25:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/todo-lo-que-debes-saber-sobre-las-hipotecas-en-mexico-para-expatriados/",
+          "lastmod": "2026-09-22T19:25:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/las-20-mejores-cosas-que-hacer-en-cabo-san-lucas-pt-2/",
+          "lastmod": "2026-09-22T19:25:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/experimenta-la-magia-guia-para-vivir-en-todos-santos/",
+          "lastmod": "2026-09-22T19:25:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desvelando-la-magia-de-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T19:25:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/estilo-de-vida-y-oportunidades-inmobiliarias-en-todos-santos/",
+          "lastmod": "2026-09-22T19:25:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubriendo-la-cruz-de-huanacaxtle-escapada-tropical-y-paraiso-inmobiliario/",
+          "lastmod": "2026-09-22T19:25:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mudarse-y-vivir-en-los-cabos/",
+          "lastmod": "2026-09-22T19:25:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/abrazar-la-vida-de-lujo-en-cabo-san-lucas/",
+          "lastmod": "2026-09-22T19:25:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-paz-el-vibrante-paraiso-marino-de-la-peninsula-de-baja-california-en-mexico/",
+          "lastmod": "2026-09-22T19:25:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explorando-todos-santos/",
+          "lastmod": "2026-09-22T19:25:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/los-mejores-lugares-para-comprar-inmuebles-en-la-zona-de-los-cabos/",
+          "lastmod": "2026-09-22T19:25:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-vida-cotidiana-en-los-cabos/",
+          "lastmod": "2026-09-22T19:25:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/experimenta-la-vida-cotidiana-en-bucerias/",
+          "lastmod": "2026-09-22T19:25:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/tu-guia-para-comprar-inmuebles-en-todos-santos/",
+          "lastmod": "2026-09-22T19:25:52+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explora-el-rico-panorama-culinario-de-todos-santos/",
+          "lastmod": "2026-09-22T19:25:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/condominios-en-venta-en-la-cruz-de-huanacaxtle-una-inversion-inmobiliaria-rentable/",
+          "lastmod": "2026-09-22T19:25:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/la-riviera-nayarit-es-el-nuevo-paraiso-familiar/",
+          "lastmod": "2026-09-22T19:25:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/los-mejores-nuevos-desarrollos-de-condominios-en-puerto-vallarta-y-la-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:25:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desbloqueando-la-riqueza-inversion-inteligente-en-condominios-en-venta-en-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:25:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/vida-de-expatriado-descubriendo-las-maravillas-de-la-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:26:00+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/fiestas-de-otono-una-vibrante-guia-de-los-eventos-imprescindibles-de-cabo/",
+          "lastmod": "2026-09-22T19:26:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mexhome-apoya-a-casa-esperanza-con-una-donacion-para-su-proxima-recaudacion-de-fondos/",
+          "lastmod": "2026-09-22T19:26:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mudanza-a-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T19:26:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/cabo-real-estate-oportunidades-y-tendencias/",
+          "lastmod": "2026-09-22T19:26:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desvelando-por-que-el-corredor-de-cabo-encabeza-las-opciones-inmobiliarias-de-los-cabos/",
+          "lastmod": "2026-09-22T19:26:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/el-vibrante-mercado-inmobiliario-de-todos-santos/",
+          "lastmod": "2026-09-22T19:26:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-un-apartamento-en-cabo/",
+          "lastmod": "2026-09-22T19:26:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/otono-en-puerto-escondido-cultura-historia-y-actividades-divertidas/",
+          "lastmod": "2026-09-22T19:26:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-inmobiliaria-de-cabo-baja-oriental/",
+          "lastmod": "2026-09-22T19:26:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-invertir-en-el-floreciente-mercado-de-la-paz/",
+          "lastmod": "2026-09-22T19:26:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explorando-la-evolucion-del-mercado-inmobiliario-en-todos-santos/",
+          "lastmod": "2026-09-22T19:26:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explorando-el-estilo-de-vida-lujoso-desvelado-el-corredor-de-san-jose-del-cabo/",
+          "lastmod": "2026-09-22T19:26:17+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/razones-principales-para-mudarte-a-cabo-san-lucas/",
+          "lastmod": "2026-09-22T19:26:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desembalando-la-vida-en-el-paraiso-guia-completa-para-mudarse-a-cabo/",
+          "lastmod": "2026-09-22T19:26:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desvelando-cabo-una-mezcla-unica-de-celebraciones-de-navidad-y-ano-nuevo/",
+          "lastmod": "2026-09-22T19:26:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/encuentra-la-casa-de-tus-suenos-en-venta-en-mexico-tu-alternativa-a-zillow/",
+          "lastmod": "2026-09-22T19:26:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/comprar-inmuebles-en-cabo/",
+          "lastmod": "2026-09-22T19:26:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-hoy-los-mejores-condominios-en-venta-de-todos-santos-baja/",
+          "lastmod": "2026-09-22T19:26:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/puerto-vallarta-tiene-los-mejores-condominios-frente-al-mar-para-el-estilo-de-vida-costero-de-tus-suenos/",
+          "lastmod": "2026-09-22T19:26:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/mexico-frente-al-mar-descubre-la-vida-costera-en-el-paraiso/",
+          "lastmod": "2026-09-22T19:26:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-impresionantes-condominios-de-playa-en-venta-en-mexico-tu-sueno-costero-te-espera/",
+          "lastmod": "2026-09-22T19:26:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-hace-que-san-jose-del-cabo-sea-un-lugar-tan-asombroso/",
+          "lastmod": "2026-09-22T19:26:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/experimenta-la-vida-de-lujo-en-los-condominios-de-punta-mita/",
+          "lastmod": "2026-09-22T19:26:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/encuentra-la-casa-de-tus-suenos-con-un-agente-inmobiliario-de-los-cabos-el-equipo-de-expertos-de-mexhome/",
+          "lastmod": "2026-09-22T19:26:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-las-mejores-propiedades-frente-al-mar-en-mexico-los-cabos-puerto-vallarta-y-riviera-nayarit/",
+          "lastmod": "2026-09-22T19:26:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/casas-en-venta-en-puerto-vallarta-y-la-alternativa-mexicana-a-zillow/",
+          "lastmod": "2026-09-22T19:26:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explora-casas-en-venta-en-mexico-tu-guia-definitiva-para-encontrar-listados-mas-alla-de-zillow/",
+          "lastmod": "2026-09-22T19:26:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/existe-un-zillow-para-mexico-descubre-la-mejor-alternativa-para-buscar-casa/",
+          "lastmod": "2026-09-22T19:26:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/los-mejores-restaurantes-de-los-cabos-mexico-guia-de-delicias-culinarias-para-gourmets/",
+          "lastmod": "2026-09-22T19:26:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/funciona-zillow-en-mexico/",
+          "lastmod": "2026-09-22T19:26:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/cuanto-cuestan-las-casas-en-mexico-la-mejor-alternativa-a-zillow/",
+          "lastmod": "2026-09-22T19:26:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/desbloqueando-oportunidades-inversiones-inmobiliarias-en-los-cabos/",
+          "lastmod": "2026-09-22T19:26:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/restaurantes-imprescindibles-en-los-cabos/",
+          "lastmod": "2026-09-22T19:26:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/esta-zillow-en-mexico-explorando-opciones-inmobiliarias/",
+          "lastmod": "2026-09-22T19:26:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/nuestra-guia-sobre-donde-comer-en-el-lago-de-chapala/",
+          "lastmod": "2026-09-22T22:17:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-los-mejores-restaurantes-de-los-cabos/",
+          "lastmod": "2026-09-22T22:17:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-hacer-en-el-lago-de-chapala-para-vivir-aventuras-y-relajarte/",
+          "lastmod": "2026-09-22T22:17:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/maximiza-tu-beneficio-inversiones-inmobiliarias-en-los-cabos-para-2025/",
+          "lastmod": "2026-09-22T22:17:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-es-el-zillow-de-mexico/",
+          "lastmod": "2026-09-22T22:17:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/guia-definitiva-para-elegir-un-agente-inmobiliario-en-los-cabos/",
+          "lastmod": "2026-09-22T22:17:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/los-mejores-restaurantes-en-la-playa-de-los-cabos/",
+          "lastmod": "2026-09-22T22:17:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/por-que-jubilarse-en-el-lago-de-chapala/",
+          "lastmod": "2026-09-22T22:17:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/agentes-inmobiliarios-de-los-cabos/",
+          "lastmod": "2026-09-22T22:17:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explora-la-inmobiliaria-de-cabo-san-lucas/",
+          "lastmod": "2026-09-22T22:17:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/explora-los-inmuebles-del-lago-de-chapala/",
+          "lastmod": "2026-09-22T22:17:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/agentes-inmobiliarios-en-los-cabos/",
+          "lastmod": "2026-09-22T22:17:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-los-mejores-desarrollos-en-los-cabos/",
+          "lastmod": "2026-09-22T22:17:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-san-pancho-una-gema-oculta-en-la-costa-de-la-riviera-nayarit-de-mexico/",
+          "lastmod": "2026-09-22T22:17:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/descubre-la-costa-norte-nayarit/",
+          "lastmod": "2026-09-22T22:17:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/developments/",
+          "lastmod": "2026-09-24T23:48:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/areas/",
+          "lastmod": "2026-09-22T19:19:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/acerca-de/",
+          "lastmod": "2026-09-22T18:14:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/contactanos/",
+          "lastmod": "2026-09-22T18:14:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/vender/",
+          "lastmod": "2026-09-22T18:14:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/guia-de-compradores-mexhome/",
+          "lastmod": "2026-09-22T18:14:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/hipotecas-en-mexico/",
+          "lastmod": "2026-09-22T18:14:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/contact-agent-confirmation/",
+          "lastmod": "2026-09-22T18:14:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/gracias-por-tu-solicitud/",
+          "lastmod": "2026-09-22T18:14:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/te-has-inscrito-exitosamente/",
+          "lastmod": "2026-09-22T18:14:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/iniciar-sesion/",
+          "lastmod": "2026-09-22T18:14:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/thank-you/",
+          "lastmod": "2026-09-22T18:14:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/propiedades-guardadas/",
+          "lastmod": "2026-09-22T18:14:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/unete-al-equipo-mexhome/",
+          "lastmod": "2026-09-22T18:14:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/politicas-de-cookies/",
+          "lastmod": "2026-09-22T18:14:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/deja-un-testimonio/",
+          "lastmod": "2026-09-22T18:14:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/generador-ai-descripcion-propiedades/",
+          "lastmod": "2026-09-22T18:14:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/soluciones-de-seguros/",
+          "lastmod": "2026-09-22T18:14:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/mexhome-care/",
+          "lastmod": "2026-09-22T18:14:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/inscripcion-de-empleados/",
+          "lastmod": "2026-09-22T18:14:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/desarrollos-en-pre-venta/",
+          "lastmod": "2026-09-22T18:14:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/solicitud-de-seguro/",
+          "lastmod": "2026-09-22T18:14:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/real-estate-wishlist/",
+          "lastmod": "2026-09-22T18:14:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/adelantate-al-mercado/",
+          "lastmod": "2026-09-22T18:14:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/mapa-del-sitio/",
+          "lastmod": "2026-09-22T18:14:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-09-28T15:29:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/areas/",
+          "lastmod": "2026-09-22T19:19:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/riviera-nayarit-real-estate-es/sayulita/",
+          "lastmod": "2026-09-22T18:14:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/riviera-nayarit-real-estate-es/san-francisco-san-pancho-real-estate/",
+          "lastmod": "2026-09-22T18:14:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/riviera-nayarit-real-estate-es/la-cruz-de-huanacaxtle/",
+          "lastmod": "2026-09-22T18:15:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-vallarta/",
+          "lastmod": "2026-09-22T18:15:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/riviera-nayarit-real-estate-es/bucerias-real-estate-for-sale/",
+          "lastmod": "2026-09-22T18:15:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/riviera-nayarit-real-estate-es/",
+          "lastmod": "2026-09-22T18:15:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/riviera-nayarit-real-estate-es/nuevo-vallarta/",
+          "lastmod": "2026-09-22T18:15:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/riviera-nayarit-real-estate-es/punta-mita-nayarit/",
+          "lastmod": "2026-09-22T18:15:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-vallarta/amapas/",
+          "lastmod": "2026-09-22T18:15:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-vallarta/versalles-puerto-vallarta/",
+          "lastmod": "2026-09-22T18:15:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-vallarta/south-shore/conchas-chinas-inmobiliaria-en-venta/",
+          "lastmod": "2026-09-22T18:15:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/cabo-san-lucas/cabo-san-lucas-centro/",
+          "lastmod": "2026-09-22T18:16:00+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/loreto/",
+          "lastmod": "2026-09-22T18:16:00+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/todos-santos/",
+          "lastmod": "2026-09-22T18:16:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/loreto/nopolo/",
+          "lastmod": "2026-09-22T18:16:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-escondido/",
+          "lastmod": "2026-09-22T18:16:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/la-paz/bahia-de-los-suenos/",
+          "lastmod": "2026-09-22T18:16:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/cabo-oriental/la-ribera/",
+          "lastmod": "2026-09-22T18:16:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/cabo-san-lucas/",
+          "lastmod": "2026-09-22T18:16:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/san-jose-del-cabo/",
+          "lastmod": "2026-09-22T18:16:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/cabo-oriental/cabo-pulmo/",
+          "lastmod": "2026-09-22T18:16:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/",
+          "lastmod": "2026-09-22T18:16:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/ojo-de-agua/",
+          "lastmod": "2026-09-22T18:16:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/la-paz/",
+          "lastmod": "2026-09-22T18:16:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/guadalupe/",
+          "lastmod": "2026-09-22T18:16:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/san-antonio/",
+          "lastmod": "2026-09-22T18:16:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/los-cabos-es/los-cerritos/",
+          "lastmod": "2026-09-22T18:16:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/montes-de-loreto/",
+          "lastmod": "2026-09-22T18:16:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/la-lejona/",
+          "lastmod": "2026-09-22T18:16:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/",
+          "lastmod": "2026-09-22T18:16:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/san-rafael/",
+          "lastmod": "2026-09-22T18:16:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/atascadero/",
+          "lastmod": "2026-09-22T18:16:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/balcones/",
+          "lastmod": "2026-09-22T18:16:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/guadiana/",
+          "lastmod": "2026-09-22T18:16:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/independencia/",
+          "lastmod": "2026-09-22T18:16:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/centro-historico/",
+          "lastmod": "2026-09-22T18:16:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/san-miguel-de-allende/los-frailes/",
+          "lastmod": "2026-09-22T18:16:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/sierra-madre/costa-alegre-mexico/",
+          "lastmod": "2026-09-22T19:18:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/puerto-vallarta/marina-vallarta/",
+          "lastmod": "2026-09-22T19:18:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/area/sierra-madre/cabo-corrientes/melaque/",
+          "lastmod": "2026-09-22T19:18:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/developments/",
+          "lastmod": "2026-09-24T23:48:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/tesoro-escondido-sayulita/",
+          "lastmod": "2026-09-22T19:19:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/v-golf-marina-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:19:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/casa-ipomea-sayulita/",
+          "lastmod": "2026-09-22T19:19:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/soho-fv/",
+          "lastmod": "2026-09-22T19:19:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/coto-san-xoaquin/",
+          "lastmod": "2026-09-22T19:19:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/valarte-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:19:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/dtoscana/",
+          "lastmod": "2026-09-22T19:19:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/desarrollo-life-bucerias/",
+          "lastmod": "2026-09-22T19:19:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/dei-mare/",
+          "lastmod": "2026-09-22T19:19:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/alamar/",
+          "lastmod": "2026-09-22T19:19:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/residencias-de-mio/",
+          "lastmod": "2026-09-22T19:19:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/avalon-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:19:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/harbor-171-condominios-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:19:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/via-milan-puerto-vallarta/",
+          "lastmod": "2026-09-22T19:19:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/7-ocho-residencias-bahia-golf/",
+          "lastmod": "2026-09-22T19:19:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/oasis-rio-cuale/",
+          "lastmod": "2026-09-22T19:19:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/vaya-vaya/",
+          "lastmod": "2026-09-22T19:19:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/mar-de-plata/",
+          "lastmod": "2026-09-22T19:19:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/querencia-los-cabos/",
+          "lastmod": "2026-09-22T19:19:46+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/cabo-del-sol/",
+          "lastmod": "2026-09-22T19:19:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/palmilla/",
+          "lastmod": "2026-09-22T19:19:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/pedregal/",
+          "lastmod": "2026-09-22T19:19:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/canto-del-mar/",
+          "lastmod": "2026-09-22T19:19:51+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/kinau-marina-residences/",
+          "lastmod": "2026-09-24T23:48:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agents/",
+          "lastmod": "2026-09-22T19:20:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agents/",
+          "lastmod": "2026-09-22T19:20:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/curtis-brownlee/",
+          "lastmod": "2026-09-21T19:46:42+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/curtis-brownlee/",
+          "lastmod": "2026-09-22T19:19:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/mark-vavra/",
+          "lastmod": "2026-09-22T19:19:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/gabriel-jones/",
+          "lastmod": "2026-09-22T19:19:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/tormenta-en-sayulita/",
+          "lastmod": "2026-09-22T19:19:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/rodrigo-trejo/",
+          "lastmod": "2026-09-22T19:19:57+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/kerry-moeller/",
+          "lastmod": "2026-09-22T19:19:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/leyla-morris/",
+          "lastmod": "2026-09-22T19:19:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/matt-ouellette/",
+          "lastmod": "2026-09-22T19:19:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/fernando-martinez/",
+          "lastmod": "2026-09-22T19:19:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/aaron-fisher/",
+          "lastmod": "2026-09-22T19:19:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/tessa-stobbe/",
+          "lastmod": "2026-09-22T19:19:58+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/juan-jose-martinez/",
+          "lastmod": "2026-09-22T19:19:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/peter-stringfellow/",
+          "lastmod": "2026-09-22T19:20:01+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/david-seaton/",
+          "lastmod": "2026-09-22T19:20:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/edgar-paez/",
+          "lastmod": "2026-09-22T19:20:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/esperanza-mares/",
+          "lastmod": "2026-09-22T19:20:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/ana-karen-ramirez/",
+          "lastmod": "2026-09-22T19:20:03+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/tania-valverde/",
+          "lastmod": "2026-09-22T19:20:04+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-09-28T14:30:56+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-09-28T14:01:30+00:00"
+        }
+      ]
+    }
+  ]
+}
