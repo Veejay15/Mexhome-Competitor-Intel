@@ -1,0 +1,1136 @@
+{
+  "date": "2026-10-05",
+  "previousDate": "2026-09-28",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "fetchError": "Failed to fetch https://diamanterealtors.com/sitemap_index.xml: 404"
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [
+        {
+          "url": "https://www.caborealestate.com/blog/peso-loans-dollar-deals-in-cabo-real-estate-currency-risk-at-closing",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/winning-listings-in-los-cabos-why-expertise-matters-more-than-the-sales-pitch",
+          "lastmod": "2026-10-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/why-people-keep-moving-to-los-cabos-fletcher-wheaton",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/when-a-mexican-national-buys-real-estate-from-a-u-s-seller-what-happens-to-the-fideicomiso",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/buying-land-in-baja-california-sur",
+          "lastmod": "2026-09-30"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.caborealestate.com/",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabo-san-lucas",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabocorridor",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/clubcampestre",
+          "lastmod": "2026-10-01"
+        },
+        {
+          "url": "https://www.caborealestate.com/exclusive-remexico-listings",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/homes-for-sale",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/lapaz",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/listing",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/loreto-danzantebay",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/new-to-market",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/our-listings",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/pescadero-cerritos",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/quivira",
+          "lastmod": "2026-10-01"
+        },
+        {
+          "url": "https://www.caborealestate.com/reviews",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/san-jose-del-cabo",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/sanjosecorridor",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/the-east-cape",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/todos-santos",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/developments",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/ME/Mexico",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/el-tezal-one-neighborhood-149-sales-12-of-the-entire-los-cabos-market",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/san-jose-corridor-real-estate-houses-vs-condos",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/los-cabos-list-price-vs-sale-price",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/los-cabos-real-estate-market-more-listings-expired-than-sold",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/why-querencia-is-one-of-los-cabos-most-family-oriented-luxury-communities",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/buying-in-puerto-los-cabos-marina-living-value-and-lifestyle-explained",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/David-Horan/8529613",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ariel-Samara-David/8533555",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8527585",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fletcher-Wheaton/8529198",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrea-Delgado/8537351",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Owen-Perry/8529213",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8529618",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Pedro-Bulnes/8553787",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alil-Flores/8566938",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rosella-Teruggi/8573059",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Storm-Snyman/8584569",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Anthony-Comerford/8624421",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Chris-Ellis/8624422",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Luis-Tucker/8624812",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Francesco-Lee/8671489",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Shannon-Ploeger/8682485",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Larissa-Guti-rrez/8693017",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hyatsi-Valverde/8695264",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Karina-Ya-ez/8757536",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Christian-Diaz/8783382",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fernando-Jara/8811241",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alejandro-Donnadieu/8816941",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ricardo-Barron/8820380",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Xochilt-Leon/8840632",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Antonio-Kalifa/8840644",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jahdai-Rojo/8841802",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivanna-Bross/8841906",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jossio-Agundez/8853778",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Mitch-McDonald/8850297",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrew-Hutson/8858873",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Carlos-Jimenez/8874126",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Nellie-Hutchison/8884557",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Flora-Chavez/8884555",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hilda-Corona-Aceves/8884556",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivana-Rendon/8886198",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rodrigo-Avila-Nava/8886197",
+          "lastmod": "2026-10-05"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/David-Coppel/8887041",
+          "lastmod": "2026-10-05"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/grand-venetian-2104-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/grand-venetian-2104-puerto-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/grand-venetian-penthouse-ph1-03-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/grand-venetian-penthouse-ph1-03-puerto-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/mejor-epoca-visitar-y-comprar-puerto-vallarta/",
+          "lastmod": "2026-10-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/best-time-visit-and-buy-puerto-vallarta/",
+          "lastmod": "2026-10-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/amueblar-decorar-renta-vacacional-puerto-vallarta/",
+          "lastmod": "2026-10-01"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/furnishing-staging-vacation-rental-puerto-vallarta/",
+          "lastmod": "2026-10-01"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/terrenos-ejidales-mexico-lo-que-compradores-deben-evitar/",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/ejido-land-mexico-what-buyers-must-avoid/",
+          "lastmod": "2026-09-30"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/guia-litibu-lujo-emergente-riviera-nayarit/",
+          "lastmod": "2026-09-29"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/litibu-guide-emerging-luxury-riviera-nayarit/",
+          "lastmod": "2026-09-29"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/tendencias-bienes-raices-lujo-punta-de-mita-riviera-nayarit/",
+          "lastmod": "2026-09-28"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/luxury-real-estate-trends-punta-de-mita-riviera-nayarit/",
+          "lastmod": "2026-10-03"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-big-waves-why-banderas-bay-safe/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/exploring-sayulita-a-weekend-of-open-houses-and-community-vibes/",
+          "lastmod": "2026-09-15"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/seizing-the-opportunity-mdys-preconstruction-condos-with-coldwell-banker-la-costa/",
+          "lastmod": "2026-09-15"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/unveiling-the-essence-of-gen-blue-coldwell-bankers-2023-conference/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/real-estate-top-7-coldwell-banker-la-costa-downtown-puerto-vallarta-2bd-condos-under-400000-usd/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/coldwell-banker-la-costa-market-update-first-half-2018/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/annual-puerto-vallarta-riviera-nayarit-real-estate-market-review/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/property-showings-in-covid19-times/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/villa-armonia-boca-de-tomatlan-virtual-tour/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/at-a-glance-romantic-zone/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/ready-to-make-the-move-but-not-sure-how-weve-got-you-covered/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/calling-all-canadians-puerto-vallarta-is-looking-for-you/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-sell-with-coldwell-banker-la-costa-the-full-service-promise-media/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/calling-all-canadians-why-you-need-paradise-now/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-sell-with-coldwell-banker-la-costa-a-word-from-our-agents/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/thinking-of-retiring-why-puerto-vallarta-should-be-on-the-top-of-your-relocation-list/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/refuge-of-hope-from-canada-to-bucerias/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/full-service-promise-see-it-in-action/",
+          "lastmod": "2026-09-15"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/buyer-full-service-promise-reasons-to-choose-coldwell-banker-la-costa-to-represent-you-in-your-next-real-estate-investment/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/buyer-full-service-promise-real-estate-professionals/",
+          "lastmod": "2026-09-15"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/seminario-inmobiliario-coldwell-banker-mexico-2021/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/at-a-glance-versalles/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/calling-all-canadians-have-you-heard-of-bucerias-or-la-cruz-its-about-time-you-do/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/at-a-glance-bucerias/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/at-a-glance-5-de-diciembre/",
+          "lastmod": "2026-09-15"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/a-look-at-2021-sales-and-what-they-mean-for-puerto-vallarta-real-estate/",
+          "lastmod": "2026-09-15"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/mid-year-market-update-puerto-vallarta-real-estate/",
+          "lastmod": "2026-07-02"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/now-serving-nuevo-vallarta-and-riviera-nayarit/",
+          "lastmod": "2026-09-15"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/virtual-viewings-property-tours-in-puerto-vallarta/",
+          "lastmod": "2026-09-15"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/us-housing-market-tanking-the-market-remains-strong-in-puerto-vallarta/",
+          "lastmod": "2026-07-02"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/why-international-buyers-choose-coldwell-banker-la-costa/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/rental-income-taxes-foreign-owners-mexico/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/property-management-puerto-vallarta-what-to-expect/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/can-foreigners-buy-property-in-mexico-restricted-zone/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/reporte-mercado-inmobiliario-puerto-vallarta-agosto-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-real-estate-market-pulse-august-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/bucerias-neighborhood-guide-riviera-nayarit/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/closing-costs-mexico-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/is-puerto-vallarta-real-estate-a-good-investment-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/central-colonias-puerto-vallarta-neighborhood-guide/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/old-vallarta-south-shore-puerto-vallarta-neighborhood-guide-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/vivir-en-amapas-puerto-vallarta-guia-de-la-colonia-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/life-in-amapas-puerto-vallarta-neighborhood-guide-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/centro-y-ciudad-interior-puerto-vallarta-guia-de-barrios-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/centro-inner-city-puerto-vallarta-neighborhood-guide-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/san-pancho-nayarit-lifestyle-real-estate-guide-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-riviera-nayarit-market-intelligence-report-june-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/what-often-kills-deals-puerto-vallarta-why-buyers-miss-opportunities/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/secretos-mejor-guardados-riviera-nayarit-sayulita-serie-descubrimiento-costero/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/riviera-nayarit-best-kept-secrets-sayulita-coastal-discovery-series/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/reporte-del-mercado-puerto-vallarta-mayo-2026-coldwell-banker-la-costa/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-market-report-may-2026-coldwell-banker-la-costa/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/mexico-relocation-guide-2026-key-residency-pathways-investors-retirees-families/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/mejores-agentes-inmobiliarios-en-puerto-vallarta-como-elegir-el-adecuado/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/top-realtors-puerto-vallarta-how-choose-right-one-your-goals/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-riviera-nayarit-real-estate-market-analysis-april-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-hard-assets-mexico-deserve-serious-look-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/where-luxury-lives-best-puerto-vallarta-riviera-nayarit/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-2026-may-be-one-best-times-years-buy-puerto-vallarta-real-estate/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/reporte-de-mercado-sector-de-lujo-marzo-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/march-2026-luxury-market-report/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-returns-normal-following-brief-feb-22-incident/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-mexicos-city-romance-cblc/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-property-tax-vs-us-canada/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-riviera-nayarit-2br-condo-prices-2015-2024-investor-guide/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/february-2026-condo-market-update-january-data-puerto-vallarta-riviera-nayarit/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/bank-vs-real-estate-puerto-vallarta-investing/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/desarrollos-en-auge-por-que-invertir-en-la-preventa-en-puerto-vallarta-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/costo-real-de-esperar-para-comprar-bienes-raices-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/real-cost-of-waiting-to-buy-real-estate-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/developments-on-the-rise-why-invest-in-puerto-vallartas-booming-pre-construction-market/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/lifestyle-first-buying-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-riviera-nayarit-condo-market-update-january-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/nuevo-vallarta-vs-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/enough-intentional-living-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-2026-demand-real-estate-strategy/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-short-term-rental-rules-investor-checklist-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/healing-power-water-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-december-celebrations/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-market-outlook-306090-day-forecast-2026/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/servicio-integral-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/healing-journey-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-2025-travvy-awards/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/mexico-closing-costs-puerto-vallarta-restricted-zone/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/full-service-promise-real-estate-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/fideicomiso-vs-corporation-mexico-real-estate-ownership/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/relocating-to-puerto-vallarta-lifestyle-guide/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-riviera-nayarit-market-update-october-2025/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-puerto-vallarta-is-booming/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-best-beaches-local-guide/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/selling-in-todays-puerto-vallarta-market-2025/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/staging-and-prep-puerto-vallarta-property-team-ross/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/market-update-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/how-invest-puerto-vallarta-real-estate-foreign-buyer-2025/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-real-estate-2025-coldwell-banker-la-costa/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/fine-dining-the-puerto-vallarta-way/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/how-much-rental-income-can-you-really-expect-property-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/real-estate-market-report-september-2025/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/beachfront-oceanfront-homes-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/sayulita-real-estate-luxury-living-riviera-nayarit/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-real-estate-smart-investment-diversification-and-growth/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-international-schools-neighborhoods/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/navigating-the-path-to-paradise-a-comprehensive-guide-to-buying-a-home-in-mexico/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/discovering-sayulita-a-hidden-paradise-on-mexicos-pacific-coast/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/unlocking-paradise-fractional-real-estate-vs-timeshares/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/buying-a-house-in-puerto-vallarta-dont-make-a-move-without-considering-these-5-factors/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/the-perfect-time-to-invest-in-real-estate-in-puerto-vallarta-take-advantage-of-the-mexican-peso/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/real-estate-top-11-properties-over-1-million/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/who-is-the-most-visited-real-estate-brand-online/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/what-its-really-like-to-live-a-dream/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/5-reasons-why-fall-is-the-best-time-to-visit-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/finding-your-place-in-a-whole-new-place/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/taco-tales/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/tortugas-and-cafe/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/unplugging-from-the-world-while-staying-completely-plugged-in/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/the-blue-eyed-boys-theory-of-relativity/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/what-a-pelican-taught-me-today/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/domingo-a-special-day-in-mexico/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/being-thankful-for-being-thankful/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/a-day-on-the-bay/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/5-amazing-ways-to-spend-your-days/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/rays-in-the-sky-rays-in-the-sea/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/p-m-in-p-v/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/memories-of-my-first-ex-pat-christmas/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/will-the-new-year-be-the-old-year-all-over-again/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/vallarta-real-estate-fair-2019/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/just-released-from-coldwell-banker-la-costa-puerto-vallarta-mx/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/casa-carol-copa-de-oro/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/explora-marina-vallarta-con-xochitl-meyer/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/reasons-why-puerto-vallarta-is-so-unique/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/perfect-opportunity-to-make-some-decisions/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/a-message-from-our-coldwell-banker-la-costa-team/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/charlie-rondots-message/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/good-investment-news/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/thank-you/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/meet-elizabeth-kuznicki/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/now-is-the-perfect-time-to-invest/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/meet-donna-keith-vickers/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/marina-suites-condo-4-a-14-virtual-tour-by-david-johnson/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/learn-how-to-help-vallarta-abuelos-in-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/amazing-price-reduction/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/casa-botas-virtual-tour-by-marilyn-newman/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/covid-19-requires-real-estate-innovation/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/attention-sellers/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/attention-buyers/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/fact-or-fiction-busting-the-myths-of-buying-property-in-mexico/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/canadian-consulate/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/full-service-promise-website/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/full-service-promise-local-legacy/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/at-a-glance-marina-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/full-service-promise-national-and-international-legacy/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/full-service-promise-real-estate-professionals-and-resources/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/calling-all-canadians-a-convo-with-paco-shingadia-canadian-and-owner-of-bites-of-india/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/looking-for-a-good-hike-in-the-puerto-vallarta-area-try-this-one/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/can-you-buy-property-in-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/is-it-expensive-to-live-in-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/is-it-safe-to-buy-property-in-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/this-just-in-sayulitas-hotel-vogue-has-it-all/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/coldwell-banker-mexico-real-estate-seminar-2021/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/is-buying-property-in-puerto-vallarta-a-good-investment/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-vs-cancun/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/6-easy-ways-to-upgrade-your-home-whether-youre-selling-or-have-just-moved-in/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/how-much-do-you-need-to-buy-property-in-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/we-cant-forget-about-the-kids-kid-friendly-activities-in-puerto-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/12-best-activities-and-day-excursions-in-puerto-vallarta-riviera-nayarit/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/the-five-whys/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/affordable-penthouses-in-puerto-vallarta-you-bet/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-invest-in-commercial-property-in-puerto-vallarta-now/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/six-ideas-for-boosting-your-homes-curb-appeal/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/top-beaches-in-puerto-vallartas-south-shore/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/why-is-everyone-investing-in-puerto-vallarta-real-estate/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/local-real-estate/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-vacation-rentals/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/banderas-bay-golfing-heaven/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/carefree-lifestyles-in-marina-vallarta/",
+          "lastmod": "2026-10-03"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/fabulous-fishing-on-the-bay/",
+          "lastmod": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [],
+      "removedUrls": [
+        {
+          "url": "https://mexhome.com/welcome-to-the-team/",
+          "lastmod": "2026-08-25T15:36:30+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/developments/",
+          "lastmod": "2026-09-29T22:31:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/new-employee/",
+          "lastmod": "2026-09-29T23:23:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/inscripcion-de-empleados/",
+          "lastmod": "2026-09-29T23:23:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-10-05T17:01:50+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/developments/",
+          "lastmod": "2026-09-29T22:31:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/four-seasons-private-villas/",
+          "lastmod": "2026-09-29T22:31:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/dev/villas-privadas-four-seasons/",
+          "lastmod": "2026-09-29T22:31:56+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-10-05T16:29:20+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-10-05T17:01:50+00:00"
+        }
+      ]
+    }
+  ]
+}
