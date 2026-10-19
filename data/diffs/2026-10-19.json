@@ -1,0 +1,487 @@
+{
+  "date": "2026-10-19",
+  "previousDate": "2026-10-12",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "fetchError": "Failed to fetch https://diamanterealtors.com/sitemap_index.xml: 404"
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [
+        {
+          "url": "https://www.caborealestate.com/blog/east-cape-real-estate-options-in-cabo",
+          "lastmod": "2026-10-17"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/east-cape-cabo-pulmo-todos-santos-baja-most-visitors-miss",
+          "lastmod": "2026-10-14"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/why-an-american-buying-in-mexico-city-should-still-use-a-fideicomiso",
+          "lastmod": "2026-10-14"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.caborealestate.com/",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabo-san-lucas",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabocorridor",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/exclusive-remexico-listings",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/homes-for-sale",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/lapaz",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/listing",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/loreto-danzantebay",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/new-to-market",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/our-listings",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/pescadero-cerritos",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/reviews",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/san-jose-del-cabo",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/sanjosecorridor",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/the-east-cape",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/todos-santos",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/developments",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/ME/Mexico",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/David-Horan/8529613",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ariel-Samara-David/8533555",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8527585",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fletcher-Wheaton/8529198",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrea-Delgado/8537351",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Owen-Perry/8529213",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8529618",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Pedro-Bulnes/8553787",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alil-Flores/8566938",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rosella-Teruggi/8573059",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Storm-Snyman/8584569",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Anthony-Comerford/8624421",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Chris-Ellis/8624422",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Luis-Tucker/8624812",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Francesco-Lee/8671489",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Shannon-Ploeger/8682485",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Larissa-Guti-rrez/8693017",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hyatsi-Valverde/8695264",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Karina-Ya-ez/8757536",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Christian-Diaz/8783382",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fernando-Jara/8811241",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alejandro-Donnadieu/8816941",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ricardo-Barron/8820380",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Xochilt-Leon/8840632",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Antonio-Kalifa/8840644",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jahdai-Rojo/8841802",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivanna-Bross/8841906",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jossio-Agundez/8853778",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Mitch-McDonald/8850297",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrew-Hutson/8858873",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Carlos-Jimenez/8874126",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Nellie-Hutchison/8884557",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Flora-Chavez/8884555",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hilda-Corona-Aceves/8884556",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivana-Rendon/8886198",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rodrigo-Avila-Nava/8886197",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/David-Coppel/8887041",
+          "lastmod": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/living-well-puerto-vallarta-simplified-retirement-budget-for-less/",
+          "lastmod": "2026-10-17"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/vivir-bien-en-puerto-vallarta-presupuesto-de-jubilacion-con-menos/",
+          "lastmod": "2026-10-17"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/ventaja-coldwell-banker-global-luxury-puerto-vallarta/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/coldwell-banker-global-luxury-advantage-puerto-vallarta/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/estacionalidad-ocupacion-rentas-vacacionales-bahia-de-banderas/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/vacation-rental-seasonality-occupancy-banderas-bay/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/testamento-planificacion-patrimonial-propietarios-extranjeros-mexico/",
+          "lastmod": "2026-10-14"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/wills-estate-planning-foreign-owners-mexico/",
+          "lastmod": "2026-10-14"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/guia-zona-hotelera-puerto-vallarta-bienes-raices/",
+          "lastmod": "2026-10-13"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/hotel-zone-puerto-vallarta-real-estate-guide/",
+          "lastmod": "2026-10-13"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/mercado-condominios-puerto-vallarta-compradores-estados-unidos-canada/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-condo-market-us-canadian-buyers/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/internet-banca-vida-diaria-puerto-vallarta/",
+          "lastmod": "2026-10-12"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/internet-banking-everyday-life-puerto-vallarta/",
+          "lastmod": "2026-10-13"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.cblacosta.com/will-hutt/"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/condos-frente-playa-vs-centro-puerto-vallarta/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/beachfront-vs-intown-condos-puerto-vallarta/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/administracion-de-propiedades-en-puerto-vallarta-que-esperar/",
+          "lastmod": "2026-10-16"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/property-management-puerto-vallarta-what-to-expect/",
+          "lastmod": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/dev/iyari-villas/",
+          "lastmod": "2026-10-12T19:26:44+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/bellavista-residences/",
+          "lastmod": "2026-10-12T20:26:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/cuora/",
+          "lastmod": "2026-10-12T20:59:52+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/bay-side-enclave-at-montage-residences/",
+          "lastmod": "2026-10-12T22:16:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/tuka-estates-at-montage-residences/",
+          "lastmod": "2026-10-12T22:36:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/cove-edge-peak-cliff-estates-at-montage/",
+          "lastmod": "2026-10-12T22:55:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/reserva/",
+          "lastmod": "2026-10-17T17:21:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/selva/",
+          "lastmod": "2026-10-17T17:38:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/pendry-residences/",
+          "lastmod": "2026-10-17T18:23:26+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/developments/",
+          "lastmod": "2026-10-17T18:23:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-10-19T15:30:47+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/developments/",
+          "lastmod": "2026-10-17T18:23:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/bahia-signature-estates-punta-mita/",
+          "lastmod": "2026-10-13T20:39:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/7-eight-bahia-golf-residences/",
+          "lastmod": "2026-10-13T20:42:49+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/el-encanto/",
+          "lastmod": "2026-10-13T21:01:17+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/four-seasons-private-villas/",
+          "lastmod": "2026-10-13T21:22:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/hacienda-de-mita-2/",
+          "lastmod": "2026-10-13T21:40:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/iyari-estates-and-villas/",
+          "lastmod": "2026-10-14T02:47:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agents/",
+          "lastmod": "2026-10-17T22:04:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agents/",
+          "lastmod": "2026-10-17T22:04:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/gabriel-jones/",
+          "lastmod": "2026-10-13T19:47:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/gabriel-jones/",
+          "lastmod": "2026-10-14T00:19:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/kerry-moeller/",
+          "lastmod": "2026-10-14T03:32:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/kerry-moeller/",
+          "lastmod": "2026-10-14T17:30:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/zuri-tames/",
+          "lastmod": "2026-10-14T17:30:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/zuri-tames/",
+          "lastmod": "2026-10-17T22:04:16+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-10-19T15:30:47+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-10-19T15:01:54+00:00"
+        }
+      ]
+    }
+  ]
+}
