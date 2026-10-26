@@ -1,0 +1,793 @@
+{
+  "date": "2026-10-26",
+  "previousDate": "2026-10-19",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 469
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "isBaseline": true,
+      "totalCurrentUrls": 0
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [
+        {
+          "url": "https://www.caborealestate.com/blog/the-cabo-buyer-is-changing-personal-use-is-replacing-the-pure-investment-buyer",
+          "lastmod": "2026-10-24"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/paradero-homes-todos-santos-what-ownership-includes",
+          "lastmod": "2026-10-21"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/sell-your-cabo-property-quickly",
+          "lastmod": "2026-10-21"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.caborealestate.com/agents/David-Coppel/8887041",
+          "lastmod": "2026-10-19"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.caborealestate.com/",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabo-san-lucas",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabocorridor",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/exclusive-remexico-listings",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/homes-for-sale",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/lapaz",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/listing",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/loreto-danzantebay",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/new-to-market",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/our-listings",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/pescadero-cerritos",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/reviews",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/san-jose-del-cabo",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/sanjosecorridor",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/the-east-cape",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/todos-santos",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/developments",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/ME/Mexico",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/David-Horan/8529613",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ariel-Samara-David/8533555",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8527585",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fletcher-Wheaton/8529198",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrea-Delgado/8537351",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Owen-Perry/8529213",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8529618",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Pedro-Bulnes/8553787",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alil-Flores/8566938",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rosella-Teruggi/8573059",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Storm-Snyman/8584569",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Anthony-Comerford/8624421",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Chris-Ellis/8624422",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Luis-Tucker/8624812",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Francesco-Lee/8671489",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Shannon-Ploeger/8682485",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Larissa-Guti-rrez/8693017",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hyatsi-Valverde/8695264",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Karina-Ya-ez/8757536",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Christian-Diaz/8783382",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fernando-Jara/8811241",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alejandro-Donnadieu/8816941",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ricardo-Barron/8820380",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Xochilt-Leon/8840632",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Antonio-Kalifa/8840644",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jahdai-Rojo/8841802",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivanna-Bross/8841906",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jossio-Agundez/8853778",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Mitch-McDonald/8850297",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrew-Hutson/8858873",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Carlos-Jimenez/8874126",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Nellie-Hutchison/8884557",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Flora-Chavez/8884555",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hilda-Corona-Aceves/8884556",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivana-Rendon/8886198",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rodrigo-Avila-Nava/8886197",
+          "lastmod": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/one-beach-street-retired/"
+        },
+        {
+          "url": "https://www.cblacosta.com/arielle-karro/"
+        },
+        {
+          "url": "https://www.cblacosta.com/marina-las-palmas-313-marina-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/marina-las-palmas-313-marina-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/villa-serena-mar-boca-de-tomatlan/"
+        },
+        {
+          "url": "https://www.cblacosta.com/villa-serena-mar-boca-de-tomatlan-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/privacy-notice/"
+        },
+        {
+          "url": "https://www.cblacosta.com/aviso-de-privacidad/"
+        },
+        {
+          "url": "https://www.cblacosta.com/higuera-puerto-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/mayamar-puerto-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/veloa-residences-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/galeritas-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/palmare-puerto-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/remote-work-puerto-vallarta-visas-internet-where-to-live/",
+          "lastmod": "2026-10-24"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/trabajo-remoto-puerto-vallarta-visas-internet-donde-vivir/",
+          "lastmod": "2026-10-24"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/vacation-rental-management-fees-puerto-vallarta/",
+          "lastmod": "2026-10-22"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/comisiones-administracion-renta-vacacional-puerto-vallarta/",
+          "lastmod": "2026-10-22"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/can-you-get-a-mortgage-in-mexico-us-canadian-buyers/",
+          "lastmod": "2026-10-21"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/hipoteca-en-mexico-para-extranjeros-opciones-de-financiamiento/",
+          "lastmod": "2026-10-21"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/zona-romantica-guide-walkable-old-town-puerto-vallarta/",
+          "lastmod": "2026-10-20"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/guia-zona-romantica-puerto-vallarta-vida-caminable/",
+          "lastmod": "2026-10-20"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-airbnb-occupancy-rates-by-neighborhood/",
+          "lastmod": "2026-10-19"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/ocupacion-airbnb-puerto-vallarta-por-colonia/",
+          "lastmod": "2026-10-19"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.cblacosta.com/one-beach-street/"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-best-beaches-local-guide/",
+          "lastmod": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/puerto-vallarta-tours/",
+          "lastmod": "2026-10-22T19:32:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/excursiones-en-puerto-vallarta/",
+          "lastmod": "2026-10-22T19:32:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/area/punta-mita-resort/",
+          "lastmod": "2026-10-25T17:58:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tours/",
+          "lastmod": "2026-10-22T20:02:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tours/",
+          "lastmod": "2026-10-22T20:02:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/adren-adv/",
+          "lastmod": "2026-10-22T20:02:02+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/adren-adv/",
+          "lastmod": "2026-10-22T20:02:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/nyemaja/",
+          "lastmod": "2026-10-22T20:02:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/nyemaja/",
+          "lastmod": "2026-10-22T20:02:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/parasailing/",
+          "lastmod": "2026-10-22T20:02:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/parasailing/",
+          "lastmod": "2026-10-22T20:02:06+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/sayesc/",
+          "lastmod": "2026-10-22T20:02:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/sayesc/",
+          "lastmod": "2026-10-22T20:02:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/sayusanp/",
+          "lastmod": "2026-10-22T20:02:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/sayusanp/",
+          "lastmod": "2026-10-22T20:02:08+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/sealionen/",
+          "lastmod": "2026-10-22T20:02:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/sealionen/",
+          "lastmod": "2026-10-22T20:02:09+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/seasafari/",
+          "lastmod": "2026-10-22T20:02:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/seasafari/",
+          "lastmod": "2026-10-22T20:02:10+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/sebastian/",
+          "lastmod": "2026-10-22T20:02:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/sebastian/",
+          "lastmod": "2026-10-22T20:02:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/sunstsail/",
+          "lastmod": "2026-10-22T20:02:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/sunstsail/",
+          "lastmod": "2026-10-22T20:02:12+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/whalephot/",
+          "lastmod": "2026-10-22T20:02:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/whalephot/",
+          "lastmod": "2026-10-22T20:02:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/whalesandmajahuitas/",
+          "lastmod": "2026-10-22T20:02:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/whalesandmajahuitas/",
+          "lastmod": "2026-10-22T20:02:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/yelapamaj/",
+          "lastmod": "2026-10-22T20:02:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/yelapamaj/",
+          "lastmod": "2026-10-22T20:02:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/oceanmania/",
+          "lastmod": "2026-10-22T20:02:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/oceanmania/",
+          "lastmod": "2026-10-22T20:02:23+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/allterrain/",
+          "lastmod": "2026-10-22T20:02:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/allterrain/",
+          "lastmod": "2026-10-22T20:02:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/trainer/",
+          "lastmod": "2026-10-22T20:02:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/trainer/",
+          "lastmod": "2026-10-22T20:02:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/caletasandolp/",
+          "lastmod": "2026-10-22T20:02:25+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/caletasandolp/",
+          "lastmod": "2026-10-22T20:02:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/dolext/",
+          "lastmod": "2026-10-22T20:02:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/dolext/",
+          "lastmod": "2026-10-22T20:02:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/dolpenctr/",
+          "lastmod": "2026-10-22T20:02:27+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/dolpenctr/",
+          "lastmod": "2026-10-22T20:02:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/dolpkids/",
+          "lastmod": "2026-10-22T20:02:28+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/dolpkids/",
+          "lastmod": "2026-10-22T20:02:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/dolpsigsw/",
+          "lastmod": "2026-10-22T20:02:29+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/dolpsigsw/",
+          "lastmod": "2026-10-22T20:02:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/dolpswmex/",
+          "lastmod": "2026-10-22T20:02:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/dolpswmex/",
+          "lastmod": "2026-10-22T20:02:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/extremewithflight/",
+          "lastmod": "2026-10-22T20:02:31+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/extremewithflight/",
+          "lastmod": "2026-10-22T20:02:32+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/islanddis/",
+          "lastmod": "2026-10-22T20:02:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/islanddis/",
+          "lastmod": "2026-10-22T20:02:33+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/luxyachtsnorkel/",
+          "lastmod": "2026-10-22T20:02:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/luxyachtsnorkel/",
+          "lastmod": "2026-10-22T20:02:34+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/maja-gen/",
+          "lastmod": "2026-10-22T20:02:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/maja-gen/",
+          "lastmod": "2026-10-22T20:02:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/majabeachday/",
+          "lastmod": "2026-10-22T20:02:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/majabeachday/",
+          "lastmod": "2026-10-22T20:02:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/marietas/",
+          "lastmod": "2026-10-22T20:02:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/marietas/",
+          "lastmod": "2026-10-22T20:02:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/nyemajagen/",
+          "lastmod": "2026-10-22T20:02:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/nyemajagen/",
+          "lastmod": "2026-10-22T20:02:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/nyeyacht/",
+          "lastmod": "2026-10-22T20:02:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/nyeyacht/",
+          "lastmod": "2026-10-22T20:02:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/outdoradv/",
+          "lastmod": "2026-10-22T20:02:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/outdoradv/",
+          "lastmod": "2026-10-22T20:02:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/pueblos/",
+          "lastmod": "2026-10-22T20:02:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/pueblos/",
+          "lastmod": "2026-10-22T20:02:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/kristin-nason/",
+          "lastmod": "2026-10-23T18:37:59+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/kristin-nason/",
+          "lastmod": "2026-10-23T18:40:14+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://mexhome.com/dev/nayari-sayulita/",
+          "lastmod": "2025-07-17T17:32:04+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/developments/",
+          "lastmod": "2026-10-25T18:19:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/areas/",
+          "lastmod": "2026-10-25T17:58:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-10-26T15:01:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/areas/",
+          "lastmod": "2026-10-25T17:58:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/developments/",
+          "lastmod": "2026-10-25T18:19:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/kupuri-punta-mita/",
+          "lastmod": "2026-10-20T17:29:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/la-punta-estates/",
+          "lastmod": "2026-10-20T17:55:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/la-serenata/",
+          "lastmod": "2026-10-20T18:25:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/lagos-del-mar/",
+          "lastmod": "2026-10-20T18:43:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/las-marietas-punta-mita/",
+          "lastmod": "2026-10-20T23:26:45+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/las-palmas-punta-mita/",
+          "lastmod": "2026-10-20T23:45:41+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/las-terrazas-punta-mita/",
+          "lastmod": "2026-10-21T15:09:04+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/las-vistas-estates-punta-mita/",
+          "lastmod": "2026-10-21T15:26:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/bellavista-residences/",
+          "lastmod": "2026-10-21T21:45:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/cuora/",
+          "lastmod": "2026-10-21T21:51:07+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/bay-side-enclave-at-montage-residences/",
+          "lastmod": "2026-10-21T21:52:56+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/tuka-estates-at-montage-residences/",
+          "lastmod": "2026-10-21T21:53:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/cove-edge-peak-cliff-estates-at-montage/",
+          "lastmod": "2026-10-21T21:54:39+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/reserva/",
+          "lastmod": "2026-10-21T21:58:36+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/selva/",
+          "lastmod": "2026-10-21T22:03:30+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/pendry-residences/",
+          "lastmod": "2026-10-21T22:06:24+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/7-eight-bahia-golf-residences/",
+          "lastmod": "2026-10-22T23:50:38+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/iyari-villas/",
+          "lastmod": "2026-10-23T00:46:35+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/pacifico-estates/",
+          "lastmod": "2026-10-25T18:00:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/porta-fortuna/",
+          "lastmod": "2026-10-25T18:19:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agents/",
+          "lastmod": "2026-10-23T18:40:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agents/",
+          "lastmod": "2026-10-23T18:40:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/agent/david-seaton/",
+          "lastmod": "2026-10-19T16:01:40+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/agent/david-seaton/",
+          "lastmod": "2026-10-19T19:07:04+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-10-26T07:42:51+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-10-26T15:01:16+00:00"
+        }
+      ]
+    }
+  ]
+}
