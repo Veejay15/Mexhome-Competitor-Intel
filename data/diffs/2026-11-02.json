@@ -1,0 +1,876 @@
+{
+  "date": "2026-11-02",
+  "previousDate": "2026-10-26",
+  "diffs": [
+    {
+      "competitorId": "www-mexicolife-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.mexicolife.com/oqueano-bucerias-condos-for-sale.php",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.mexicolife.com/punta-de-mita-el-anclote.php",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-real-estate-q3-2026-market-update.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-real-estate-q2-2026-market-update.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/my-mexico-story.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mexico-real-estate-guide.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-real-estate-q1-2026-market-update.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/test.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/buying-property-in-mexicos-restricted-zone-complete-faq-for-foreign-buyers.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-vallarta-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/la-cruz-de-huanacaxtle-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/nuevo-vallarta-west-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/romantic-zone-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-mls-market-report-july-2025.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-houses-mls-market-report-july-2025.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condos-mls-market-report-july-2025.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-vallarta-condo-market-report-june-2025.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-june-2025.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-houses-market-report-june-2025.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-market-report-june-2025.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mismaloya-house-market-report-april-2025.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condo-market-report-april-2025.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-april-2025.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-house-market-report-april-2025.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-market-report-april-2025.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/nuevo-vallarta-west-condo-market-report-march-2025.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/zona-dorada-houses-march-2025-market-report-inventory-climb-sales-pause.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/la-cruz-condo-market-report-march-2025.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/bucerias-condo-market-report-march-2025.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/romantic-zone-condo-market-report-march-2025.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-land-market-report-march-2025-analysis.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-house-market-report-march-2025.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-house-market-report-feb-2025.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-area-mls-condo-market-report-feb-2025.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/mexico-real-estate-closing-costs.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/cfdi.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/beyond-the-numbers-puerto-vallartas-land-market-reveals-unprecedented-investment-landscape.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/2024-november-puerto-vallarta-real-estate-market-report-for-homes.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-condo-report-november-2024.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/august-2024-homes-report-puerto-vallarta.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/august-2024-puerto-vallarta-condo-market-report.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/home-market-trends-july-2024.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/july-2024-condo-market-report.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-home-market-report-june-2024.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/june-2024-puerto-vallarta-condo-market-report.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/luxury-waves-condos-discover-the-hidden-gem-of-bucerias.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/point2-homes-mexico-closing.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/marina-towers-puerto-vallarta.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/riviera-nayarit-golf-courses.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/best-real-estate-companies-in-puerto-vallarta.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/grand-venetian-puerto-vallarta.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/ultimate-guide-beachfront-living-puerto-vallarta.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/puerto-vallarta-global-real-estate-boom.html",
+          "lastmod": "2026-10-27"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/march-2024-real-estate-market-report-houses.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/march-2024-real-estate-market-report-condos.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/exploring-the-best-puerto-vallarta-real-estate-opportunities.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/exploring-the-puerto-vallarta-mls-on-mexicolifecom.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/2023-puerto-vallarta-real-estate-market-review.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/why-median-home-sales-price-is-confusing-right-now.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/people-want-less-expensive-homes-and-builders-are-responding.html",
+          "lastmod": "2026-11-01"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/low-housing-inventory-is-a-sweet-spot-for-sellers.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/live-and-work-abroad.html",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/june-2023-puerto-vallarta-and-area-real-estate-market-report.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/retire-in-paradise-puerto-vallarta-real-estate-for-retirement.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/decluttering-your-home-for-sale.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/the-pros-and-cons-of-pre-construction-in-mexico.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/losing-that-lovin-feeling-for-your-humble-abode-time-to-pack-your-bags.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/10-benefits-of-living-by-the-ocean-in-the-bay-of-banderas.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/the-humpback-whales-of-the-bay-of-banderas.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/how-to-avoid-mexico-vacation-rental-scams.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/top-10-puerto-vallarta-real-estate-questions.html",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/top-10-things-to-do-in-puerto-vallarta.html",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/interested-in-moving-to-puerto-vallarta-mexico.html",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.mexicolife.com/blog/risco-bucerias-ocean-view-condos-for-sale.html",
+          "lastmod": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "competitorId": "diamanterealtors-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [],
+      "fetchError": "Failed to fetch https://diamanterealtors.com/sitemap_index.xml: 404"
+    },
+    {
+      "competitorId": "www-bajaproperties-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-caborealestate-com",
+      "newUrls": [
+        {
+          "url": "https://www.caborealestate.com/blog/el-tezal-vs-pedregal-where-do-cabo-buyers-have-more-leverage",
+          "lastmod": "2026-10-31"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/from-italy-to-cabo-francesco-lee-pacific-side-living",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog/ocean-view-or-amenities-two-top-cabo-agents-pick-one",
+          "lastmod": "2026-10-28"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.caborealestate.com/agents/Xochilt-Leon/8840632",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Antonio-Kalifa/8840644",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivanna-Bross/8841906",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jossio-Agundez/8853778",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Carlos-Jimenez/8874126",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Nellie-Hutchison/8884557",
+          "lastmod": "2026-10-26"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.caborealestate.com/",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/blog",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabo-san-lucas",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/cabocorridor",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/exclusive-remexico-listings",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/homes-for-sale",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/lapaz",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/listing",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/loreto-danzantebay",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/new-to-market",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/our-listings",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/pescadero-cerritos",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/reviews",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/san-jose-del-cabo",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/sanjosecorridor",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/the-east-cape",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/todos-santos",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/developments",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/ME/Mexico",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/David-Horan/8529613",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ariel-Samara-David/8533555",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8527585",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fletcher-Wheaton/8529198",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrea-Delgado/8537351",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Owen-Perry/8529213",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/REmexico-Real-Estate/8529618",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Pedro-Bulnes/8553787",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alil-Flores/8566938",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rosella-Teruggi/8573059",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Storm-Snyman/8584569",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Anthony-Comerford/8624421",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Chris-Ellis/8624422",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Luis-Tucker/8624812",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Francesco-Lee/8671489",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Shannon-Ploeger/8682485",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Larissa-Guti-rrez/8693017",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hyatsi-Valverde/8695264",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Karina-Ya-ez/8757536",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Christian-Diaz/8783382",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Fernando-Jara/8811241",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Alejandro-Donnadieu/8816941",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ricardo-Barron/8820380",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Jahdai-Rojo/8841802",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Mitch-McDonald/8850297",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Andrew-Hutson/8858873",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Flora-Chavez/8884555",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Hilda-Corona-Aceves/8884556",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Ivana-Rendon/8886198",
+          "lastmod": "2026-11-02"
+        },
+        {
+          "url": "https://www.caborealestate.com/agents/Rodrigo-Avila-Nava/8886197",
+          "lastmod": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-topmexicorealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-cblacosta-com",
+      "newUrls": [
+        {
+          "url": "https://www.cblacosta.com/meetah-luxury-condos-punta-de-mita-retired/"
+        },
+        {
+          "url": "https://www.cblacosta.com/mee-tah-form-retired/"
+        },
+        {
+          "url": "https://www.cblacosta.com/mee-tah-condominios-de-lujo-en-punta-de-mita-coldwell-banker-retired/"
+        },
+        {
+          "url": "https://www.cblacosta.com/bay-view-grand-a-601-marina-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/bay-view-grand-a-601-marina-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/agentes-inmobiliarios/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-alegria-fluvial-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-alegria-fluvial-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-palmera-nuevo-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-palmera-nuevo-vallarta-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-rinconada-55-jarretaderas/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-rinconada-55-jarretaderas-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/dos-vistas-bay-residence-amapas/"
+        },
+        {
+          "url": "https://www.cblacosta.com/dos-vistas-bay-residence-amapas-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/zoho-skies-1201-hotel-zone/"
+        },
+        {
+          "url": "https://www.cblacosta.com/zoho-skies-1201-hotel-zone-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-bella-rosa-la-cruz-de-huanacaxtle/"
+        },
+        {
+          "url": "https://www.cblacosta.com/casa-bella-rosa-la-cruz-de-huanacaxtle-en-venta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/dia-de-muertos-puerto-vallarta-tradiciones-eventos/",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/day-of-the-dead-puerto-vallarta-traditions-events/",
+          "lastmod": "2026-10-30"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/precios-renta-puerto-vallarta-temporada-alta/",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/pricing-puerto-vallarta-rental-high-season/",
+          "lastmod": "2026-10-29"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/lista-verificacion-due-diligence-comprar-propiedad-puerto-vallarta/",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/due-diligence-checklist-buying-property-puerto-vallarta/",
+          "lastmod": "2026-10-28"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/guia-san-pancho-bienes-raices-riviera-nayarit/",
+          "lastmod": "2026-10-27"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/san-pancho-real-estate-guide-riviera-nayarit/",
+          "lastmod": "2026-10-27"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/precios-propiedades-puerto-vallarta-por-colonia/",
+          "lastmod": "2026-10-26"
+        },
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-property-prices-by-neighborhood/",
+          "lastmod": "2026-10-26"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.cblacosta.com/meetah-luxury-condos-punta-de-mita/"
+        },
+        {
+          "url": "https://www.cblacosta.com/gino-gonzalez/"
+        },
+        {
+          "url": "https://www.cblacosta.com/mee-tah-form/"
+        },
+        {
+          "url": "https://www.cblacosta.com/selea-residencial-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.cblacosta.com/selea-residencial-puerto-vallarta-form-page/"
+        },
+        {
+          "url": "https://www.cblacosta.com/mee-tah-condominios-de-lujo-en-punta-de-mita-coldwell-banker/"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.cblacosta.com/blog/puerto-vallarta-short-term-rental-rules-investor-checklist-2026/",
+          "lastmod": "2026-10-29"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-remaxcaborealestate-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "mexhome-com",
+      "newUrls": [
+        {
+          "url": "https://mexhome.com/mexico-vacation-rentals/",
+          "lastmod": "2026-10-27T04:52:55+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/rentas-vacacionales-en-mexico/",
+          "lastmod": "2026-10-31T19:50:53+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/",
+          "lastmod": "2026-11-01T19:21:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/42838/",
+          "lastmod": "2026-10-27T19:17:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260511162714444208000000/",
+          "lastmod": "2026-10-27T19:17:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/44189/",
+          "lastmod": "2026-10-29T19:16:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20261013222311522151000000/",
+          "lastmod": "2026-10-29T19:16:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260824215454303839000000-2/",
+          "lastmod": "2026-10-29T19:16:22+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260210153318349845000000/",
+          "lastmod": "2026-11-01T19:21:18+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260210153318349845000000-2/",
+          "lastmod": "2026-11-01T19:21:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20240925155627153382000000/",
+          "lastmod": "2026-11-01T19:21:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20261006172732150361000000/",
+          "lastmod": "2026-11-01T19:21:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/44299/",
+          "lastmod": "2026-11-01T19:21:19+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/41840/",
+          "lastmod": "2026-11-01T19:21:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260824215454303839000000/",
+          "lastmod": "2026-11-01T19:21:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260210153318349845000000-3/",
+          "lastmod": "2026-11-01T19:21:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260507232544131367000000/",
+          "lastmod": "2026-11-01T19:21:20+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260612182053534846000000/",
+          "lastmod": "2026-11-01T19:21:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/20260510043322178356000000/",
+          "lastmod": "2026-11-01T19:21:21+00:00"
+        },
+        {
+          "url": "https://mexhome.com/open-houses/43555/",
+          "lastmod": "2026-11-01T19:21:21+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://mexhome.com/blog/",
+          "lastmod": "2026-10-31T05:25:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/blog/mexicos-real-estate-experts-now-offering-rentals-for-your-next-getaway/",
+          "lastmod": "2026-10-31T05:18:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/los-expertos-inmobiliarios-de-mexico-ahora-te-ofrecen-alojamientos-de-alquiler-para-tu-proxima-escapada/",
+          "lastmod": "2026-10-31T05:18:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/blog/whats-happening-in-pv-real-estate/",
+          "lastmod": "2026-10-31T05:24:48+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/blog/que-esta-pasando-en-el-mercado-inmobiliario-de-pv/",
+          "lastmod": "2026-10-31T05:25:14+00:00"
+        },
+        {
+          "url": "https://mexhome.com/",
+          "lastmod": "2026-10-29T19:49:43+00:00"
+        },
+        {
+          "url": "https://mexhome.com/developments/",
+          "lastmod": "2026-10-29T16:57:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/properties/",
+          "lastmod": "2026-11-02T18:47:05+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/developments/",
+          "lastmod": "2026-10-29T16:57:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/ranchos-estates-punta-mita/",
+          "lastmod": "2026-10-27T15:59:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/tau-residences/",
+          "lastmod": "2026-10-27T17:50:16+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/the-surf-residences-punta-mita/",
+          "lastmod": "2026-10-27T18:13:11+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/cuora/",
+          "lastmod": "2026-10-28T21:23:37+00:00"
+        },
+        {
+          "url": "https://mexhome.com/dev/marsala-bucerias/",
+          "lastmod": "2026-10-29T16:57:26+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tours/",
+          "lastmod": "2026-10-29T17:22:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tours/",
+          "lastmod": "2026-10-29T17:22:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/nyemaja/",
+          "lastmod": "2026-10-29T17:22:13+00:00"
+        },
+        {
+          "url": "https://mexhome.com/tour/sebastian/",
+          "lastmod": "2026-10-29T17:22:15+00:00"
+        },
+        {
+          "url": "https://mexhome.com/es/tour/sebastian/",
+          "lastmod": "2026-10-29T17:22:15+00:00"
+        },
+        {
+          "url": "/listing-type/for-rent/",
+          "lastmod": "2026-11-02T18:47:05+00:00"
+        },
+        {
+          "url": "/listing-type/for-sale/",
+          "lastmod": "2026-11-02T18:30:52+00:00"
+        }
+      ]
+    }
+  ]
+}
